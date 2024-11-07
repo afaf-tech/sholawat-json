@@ -14,6 +14,10 @@ The sholawat data in this project has been collected from various trusted source
 
 We warmly welcome contributions from anyone who has ideas or suggestions for the development of this project. If you would like to contribute, please submit a Pull Request (PR) through GitHub.
 
+## License
+
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file included in the repository.
+
 ## Author
 
 This project was developed by Fatih Al Fikri. If you have questions or find any errors, please contact us via email at fatihalfikri5@gmail.com.
