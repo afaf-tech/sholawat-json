@@ -2,7 +2,7 @@
 
 All praise is due to Allah SWT for His countless blessings. May blessings and peace always be upon our beloved Prophet Muhammad SAW.
 
-**sholawat-json** is a collection of sholawat in a simple JSON format, aimed at developers who wish to integrate them into websites or applications. Each JSON file represents a different sholawat and follows a predefined schema, ensuring ease of access and consistent structure. To maintain accuracy and structure, we implement `JSON schema` validation, making it easier to integrate the data confidently. This project is designed for lightweight applications, with a focus on speed and efficiency, and includes Go files for testing schema compliance.
+**sholawat-json** is a collection of sholawat in a simple JSON format, aimed at developers who wish to integrate them into websites or applications. Each JSON file represents a different sholawat and follows a predefined schema, ensuring ease of access and consistent structure. To maintain accuracy and structure, we implement `JSON schema` validation, making it easier to integrate the data confidently. This project is designed for lightweight applications, with a focus on speed and efficiency.
 
 We strive for accuracy, but if you encounter any errors, please reach out. Your feedback is invaluable for improvement.
 
