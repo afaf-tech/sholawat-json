@@ -1,0 +1,25 @@
+[
+    {
+        "name": "burdah",
+        "sources": [
+            {
+                "source_name": "nu online",
+                "description": "burdah-fasl",
+                "path_files": "burdah/sources/nu_online/fasl/",
+                "files": [
+                    "1.json",
+                    "2.json",
+                    "3.json",
+                    "4.json",
+                    "5.json",
+                    "6.json",
+                    "7.json",
+                    "8.json",
+                    "9.json",
+                    "10.json"
+                ],
+                "schema": "burdah_fasl_v1.0.schema.json"
+            }
+        ]
+    }
+]
