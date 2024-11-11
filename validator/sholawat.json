@@ -5,7 +5,7 @@
             {
                 "source_name": "nu online",
                 "description": "burdah-fasl",
-                "path_files": "burdah/sources/nu_online/fasl/",
+                "path_files": "sholawat/burdah/nu_online/fasl/",
                 "files": [
                     "1.json",
                     "2.json",
