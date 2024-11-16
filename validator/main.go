@@ -51,7 +51,6 @@ func main() {
 				defer wg.Done()
 
 				schemaPath := filepath.Join(baseDir, "schemas", source.Schema)
-
 				schemaData, err := os.ReadFile(schemaPath)
 				if err != nil {
 					log.Printf("Error reading schema for source %s: %v", source.SourceName, err)
@@ -61,7 +60,7 @@ func main() {
 				compiler := jsonschema.NewCompiler()
 				schema, err := compiler.Compile(schemaData)
 				if err != nil {
-					log.Printf("Error compiling schema for source %s: %v", source.SourceName, err)
+					log.Printf("Error compiling schema for  %s-%s: %v", sholawat.Name, source.SourceName, err)
 					return
 				}
 
@@ -72,6 +71,7 @@ func main() {
 
 	wg.Wait()
 }
+
 func validateSourceFile(schema *jsonschema.Schema, baseDir string, source Source) {
 	for _, file := range source.Files {
 		filePath := filepath.Join(baseDir, source.PathFiles, file)
