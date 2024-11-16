@@ -35,7 +35,8 @@
                             "type": "string",
                             "enum": [
                                 "rawi",
-                                "bari"
+                                "bari",
+                                "closing"
                             ]
                         },
                         "text": {
@@ -45,17 +46,19 @@
                                     "type": "object",
                                     "properties": {
                                         "arabic": {
-                                            "type": "string"
+                                            "type": "string",
+                                            "description": "The Arabic text of the verse."
                                         },
-                                        "type": [
-                                            "string",
-                                            "null"
-                                        ],
-                                        "description": "The transliteration of the Arabic text."
+                                        "latin": {
+                                            "type": [
+                                                "string",
+                                                "null"
+                                            ],
+                                            "description": "The transliteration of the Arabic text."
+                                        }
                                     },
                                     "required": [
-                                        "arabic",
-                                        "latin"
+                                        "arabic"
                                     ]
                                 }
                             },
