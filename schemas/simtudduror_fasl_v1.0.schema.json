@@ -1,0 +1,143 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+        "number": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "The chapter number."
+        },
+        "source": {
+            "type": "string",
+            "description": "The source of the text."
+        },
+        "name": {
+            "type": "string",
+            "description": "The Arabic name of the fasl (chapter)."
+        },
+        "latin": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "description": "The transliteration of the chapter name."
+        },
+        "sections": {
+            "type": "object",
+            "patternProperties": {
+                "^[0-9]+$": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "type": {
+                            "type": "string",
+                            "enum": [
+                                "rawi",
+                                "bari"
+                            ]
+                        },
+                        "text": {
+                            "type": "object",
+                            "patternProperties": {
+                                "^[0-9]+$": {
+                                    "type": "object",
+                                    "properties": {
+                                        "arabic": {
+                                            "type": "string"
+                                        },
+                                        "type": [
+                                            "string",
+                                            "null"
+                                        ],
+                                        "description": "The transliteration of the Arabic text."
+                                    },
+                                    "required": [
+                                        "arabic",
+                                        "latin"
+                                    ]
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+                    },
+                    "required": [
+                        "type",
+                        "text"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "additionalProperties": false
+        },
+        "translations": {
+            "type": "object",
+            "description": "Translations in various languages.",
+            "patternProperties": {
+                "^[a-z]{2}$": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "sections": {
+                            "type": "object",
+                            "patternProperties": {
+                                "^[0-9]+$": {
+                                    "type": "object",
+                                    "properties": {
+                                        "text": {
+                                            "type": "object",
+                                            "patternProperties": {
+                                                "^[0-9]+$": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "additionalProperties": false
+                                        }
+                                    },
+                                    "required": [
+                                        "text"
+                                    ],
+                                    "additionalProperties": false
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+                    },
+                    "required": [
+                        "sections"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "additionalProperties": false
+        },
+        "last_updated": {
+            "type": "string",
+            "format": "date",
+            "pattern": "^(\\d{4})-(\\d{2})-(\\d{2})$",
+            "description": "The date when the data was last updated, in ISO 8601 date format (e.g., '2024-11-09')."
+        }
+    },
+    "required": [
+        "number",
+        "source",
+        "name",
+        "last_updated"
+    ],
+    "anyOf": [
+        {
+            "required": [
+                "sections"
+            ]
+        },
+        {
+            "required": [
+                "translations"
+            ]
+        }
+    ],
+    "additionalProperties": false
+}
