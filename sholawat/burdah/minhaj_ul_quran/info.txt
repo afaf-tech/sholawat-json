@@ -1,0 +1,7 @@
+source=https://www.minhaj.org/english//tid/348/Qaseedah-Burdah-Shareef-with-English-translation.html
+
+
+schema=burdah_fasl_v1.0.schema.json
+
+
+english_translation_by=Shahid Hamid Gill
