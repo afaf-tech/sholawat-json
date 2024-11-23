@@ -1,0 +1,68 @@
+{
+    "number": 4,
+    "source": "minhaj-ul-quran",
+    "name": "",
+    "latin": "",
+    "text": {
+        "1": {
+            "arabic": "أَبـَـانَ مَوْلِدُهُ عَنْ طِيْــبِ عُنْصُرِهِ۞يَـــا طِيْبَ مُبْتَـدَإٍ مِّنْهُ وَمُخْتَتَـمِ"
+        },
+        "2": {
+            "arabic": "يَــوْمٌ تَفَرَّسَ فِيْــهِ الْفُرْسُ أَنَّهُـمُ۞قَــدْ أُنْـذِرُوْا بِِحُلُوْلِ الْبُؤْسِ وَالنِّقَمِ"
+        },
+        "3": {
+            "arabic": "وَبـَاتَ إِِيْوَانُ كِسْـرٰى وَهْوَ مُنْصَدِعٌ۞كَشَـمْلِ أَصْحَابِ كِسْـرٰى غَيْرَ مُلْتَئِمِ"
+        },
+        "4": {
+            "arabic": "وَالنَّارُ خَـامِدَةُ اْلأَنْفَـاسِ مِنْ أَسَـفٍ۞عَلَيْهِ وَالنَّهْرُ سَـاهِي الْعَيْنِ مِنْ سَـدَمِ"
+        },
+        "5": {
+            "arabic": "وَسَـاءَ سَـاوَةَ أَنْ غَاضَتْ بُحَيْرَتُهَـا۞وَرُدَّ وَارِدُهَـا بِــالْغَيْظِ حِيْنَ ظَـمِيْ"
+        },
+        "6": {
+            "arabic": "كَــأَنَّ بِالنَّـارِ مَا بِالْمَـاءِ مِنْ بَلَـلٍ۞حُزْنـاً وَّبِـالْمَاءِ مَا بِـالنَّارِ مِنْ ضَـرَمِ"
+        },
+        "7": {
+            "arabic": "وَالْجِنُّ تَهْتِفُ وَاْلأَنْــوَارُ سَــاطِعَةٌ۞وَالْحَـقُّ يُظْهَـرُ مِنْ مَّعْنىً وَّمِنْ كَـلِمِ"
+        },
+        "8": {
+            "arabic": "عَمُوْا وَصَمُّوْا فَــإِِعْلاَنُ الْبَشَـائِرِ لَمْ۞تُسْمَعْ وَبـَــارِقَةُ اْلإِِنْذَارِ لَمْ تُشَـمِ"
+        },
+        "9": {
+            "arabic": "مِنْم بَعْـدِ مَا أَخْبَرَ الأَقْوَامَ كَــاهِنُهُمْ۞بِــأَنَّ دِينَـهُـمُ الْمُعْـوَجَّ لَمْ يَقُـمِ"
+        },
+        "10": {
+            "arabic": "وَبَعْـدَ مَا عَايَنُوْا فِي الأُفُقِِ مِنْ شُـهُبٍ۞مُنْقَضَّةٍ وَّفْـقَ مَـا فِي الأرْضِ مِنْ صَنَمِ"
+        },
+        "11": {
+            "arabic": "حَتّٰى غَـدَا عَنْ طَـرِيْقِ الْوَحْيِ مُنْهَزِمٌ۞مِنَ الشَّـيَاطِيْنِ يَقْفُُوْا إِِثْـرَ مُنْهَـزِمِ"
+        },
+        "12": {
+            "arabic": "كَـأَنَّهُمْ هَرَبـَـا أَبْطَــالُ أبْرَهَـةٍ۞أَوْ عَسْكَرٌ بِـالْحَصٰى مِنْ رَّاحَتَيْـهِ رُمِيْ"
+        },
+        "13": {
+            "arabic": "نَبْذًام بِهِ بَعْـدَ تَسْـبِيْحٍم بِبَـطْنِهِمَــا۞نَبْـذَ الْمُسَبِّحِ مِنْ أَحْشَــاءِ مُلْتَقِـمِ"
+        }
+    },
+    "translations": {
+        "en": {
+            "name": "Section Four",
+            "text": {
+                "1": "His place (and time) of birth showed the scent of his pure origin; The Excellence! His birth (and apparently happening) death (both) are scented (and sacred).",
+                "2": "On that day, the Persians perceived due to (their) perception that they were going to face a misfortune (and) warned misfortune and punishment (which) approached.",
+                "3": "And at night, the walls of the palace of Kisra crumbled (after trembling) as the army of Kisra scattered (and) could not be united again.",
+                "4": "And the fire (of the Persians) was extinguished out of regret; and the rivers (of Persia) dried up with wonder (and excessive sorrow).",
+                "5": "And (when) the water of river dried up, Saawah (a village in Persia) became grief-stricken; and (thirsty) goer (water bearer) returned in anger with disappointment.",
+                "6": "It is as though, due to grief, the fire became (cold) like water, while water (of Buhairah) was (turned into) the blazing fire (of Persia).",
+                "7": "And the jinni was announcing (at the appearance of the ProphetA) and the Light (of the Holy ProphetA) was shiny; and the truth (the Prophethood of Muhammad A) appeared with outward and inward qualities (of the Holy Prophet A).",
+                "8": "(They, the polytheists) became blind and deaf. Neither did they hear the announcements of glad tidings nor was the lightening of warning seen (by them).",
+                "9": "(Inspite of) after their fortune tellers had informed the people (infidels) that their false religion would never stand (but they yet were blind and deaf).",
+                "10": "And even after they had seen the stars on the horizon falling, just as (their) idols were (falling) on the earth.",
+                "11": "Even the devils kept running from the path of revelation one after the other (at the time of birth of the Holy Prophet A).",
+                "12": "As though in running away they (Satans) were the brave army of Abraha (the man who wanted to demolish the house of Allah Almighty with the help of his army of Elephants) or (like that) army on which the pebbles were thrown by his palms.",
+                "13": "Which (the pebbles) he (A) threw after their making tasbeeh (praise of Allah Almighty) in his hands, like how (Hadhrat Younus D) who made tasbeeh (of Almighty Allah) was thrown out from the stomach of the (big) swallowing (fish)."
+            }
+        }
+    },
+    "last_updated": "2024-11-22"
+}
