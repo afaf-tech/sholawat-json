@@ -37,6 +37,24 @@
                     "10.json"
                 ],
                 "schema": "burdah_fasl_v1.0.schema.json"
+            },
+            {
+                "source_name": "dalail al khairat",
+                "description": "burdah-fasl",
+                "path_files": "sholawat/burdah/dalail_khairat/fasl/",
+                "files": [
+                    "1.json",
+                    "2.json",
+                    "3.json",
+                    "4.json",
+                    "5.json",
+                    "6.json",
+                    "7.json",
+                    "8.json",
+                    "9.json",
+                    "10.json"
+                ],
+                "schema": "burdah_fasl_v1.0.schema.json"
             }
         ]
     },
