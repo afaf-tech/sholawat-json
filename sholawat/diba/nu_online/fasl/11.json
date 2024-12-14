@@ -1,0 +1,46 @@
+{
+    "number": 11,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Awwalu mâ nastaftiḫu…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "أَوَّلُ مَا نَسْتَفْتِحُ بِـإِيْرَادِ حَدِيْثَيْنِ وَرَدَا عَنْ نَبِيٍّ كَانَ قَدْرُهٗ عَظِيْمًا. وَنَسَبُهٗ كَرِيْمًا. وَصِرَاطُهٗ مُسْتَقِيْمًا. قَالَ فِيْ حَقِّهٖ مَنْ لَّمْ يَزَلْ سَمِيْعًا عَلِيْمًا. إِنَّ اللهَ وَمَلَآئِكَتَهٗ يُصَلُّوْنَ عَلَى النَّبِيِّ. يَآأَيُّهَا الَّذِيْنَ اٰمَنُوْا صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا",
+                    "latin": "Awwalu mâ nastaftiḫu bi îrâdi ḫadîtsaini wa radâ ‘an nabiyyin kâna qadruhu ‘adhîman, wa nasabuhu karîman, wa shirâtûhu mustaqîman, qâla fî ḫaqqihî man lam yazal samî’an ‘alîman, innallâha wa malâ’ikatahu yushallûna ‘alan-nabiyyi, yâ ayyuhal-ladzîna âmanû shallû ‘alaihi wa sallimû taslîman."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Pertama kali kami awali hal ini dengan mengemukakan dua buah hadits yang datang dari Nabi yang berkedudukan agung. Dan bernasab mulia serta lurus perjalanan hidupnya. Allah berfirman: Demi hak Muhammad. Dzat yang tiada terIepas dari sifat Maha Mendengar dan Maha Melihat, Bahwasanya Allah dan para malaikat-Nya selalu bershalawat untuk Nabi, wahai orang-orang yang beriman, bersholawatlah untuk beliau dan ucapkanlah salam kepadanya dengan bersungguh-sungguh."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

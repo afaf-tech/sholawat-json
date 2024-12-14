@@ -1,0 +1,46 @@
+{
+    "number": 18,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Wawulida shallallâhu …",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "وَوُلِدَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَخْتُوْنًا بِيَدِ الْعِنَايَةِ. مَكْحُوْلاً بِكُحْلِ الْهِدَايَةِ. فَأَشْرَقَ بِبَهَآئِهِ الْفَضَا. وَتَلَأْلَأَ الْكَوْنُ مِنْ نُوْرِهٖ وَأَضَا. وَدَخَلَ فِيْ عَقْدِ بَيْعَتِهٖ مَنْ بَقِيَ مِنَ الْخَلَآئِقِ كَمَا دَخَلَ فِيْهَا مَنْ مَّضٰى أَوَّلُ فَضِيْلَةِ الْمُعْجِزَاتِ. بِخُمُوْدِ نَارِ فَارِسَ وَسُقُوْطِ الشُّــرُفَاتِ. وَرُمِيَتِ الشَّيَاطِيْنُ مِنَ السَّمَآءِ بِالشُّهُبِ الْمُحْرِقَاتِ. وَرَجَعَ كُلُّ جَبَّارٍ مِنَ الْجِنِّ وَهُوَ بِصَوْلَةِ سُلْطَنَتِهٖ ذَلِيْلٌ خَاضِعٌ. لَمَّا تَأَلَّقَ مِنْ سَنَاهُ النُّوْرُ السَّاطِعُ. وَأَشْرَقَ مِنْ بَهَآئِهِ الضِّيَاءُ اللَّامِعُ. حَتَّى عُرِضَ عَلَى الْمَرَاضِعِ.",
+                    "latin": "Wa wulida shallallâhu ‘alaihi wa sallam makhtûnan biyadil-‘inâyati, makḫûlan bikuḫlil-hidâyati, fa asyraqa bibahâ’ihil-fadlâ, wa tala’la’al-kaunu min nûrihî wa adlâ, wa dakhala fî ‘aqdi bai‘atihî man baqiya minal-khalâ’iqi kamâ dakhala fîhâ man madlâ. Awwalu fadlîlatil-mu‘jizatâti. Bikhumûdi nâri fârisa wa suqûthisy-syurufâti, wa rumiyatisy-syayâthînu minas-samâ’i bisy-syuhubil-muḫriqâti, wa raja‘a kullu jabbâri minal-jinni wa huwa bishaulati sulthanatihi dzalîlun khâdi‘un, lamma ta’allaqa min sanâhun-nûrus-sâthi‘u. wa asyraqa min bahâ’ihidl-dliyâ’ul-lâmi. ḫatta ‘urida ‘alal-marâdli’i"
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Nabi Muhammad ﷺ dilahirkan dalam keadaan telah berkhitan dengan pertolongan Allah. Dengan mata bercelak petunjuk Allah. Dengan keindahannya, padang gurun yang luas pun tersinarkan. Dari sebab cahayanya keadaan alam semesta menjadi terang-benderang. Dan makhluk-makhluk setelahnya pun segera masuk dalam ikatan baiatnya, sebagaimana makhluk-makhluk terdahulu pernah memasukinya. Mukjizat agung pertamanya adalah padamnya api sesembahan di negeri Persia, bersamaan dengan runtuhnya gedung-gedung kehormatan di sana, dan dilemparkannya setan-setan dari langit dengan bintang-bintang yang membakar. Seketika, semua raja jin yang dengan angkuh menguasai kerajaannya menjadi hina dan tunduk. Semua itu terjadi ketika cahaya (Nabi Muhammad ﷺ) yang cemerlang memancar. Dan menjadi teranglah semesta raya dengan keindahan cahaya yang gemerlap. Sampai tiba waktunya Nabi diserahkan kepada wanita yang menyusui."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

@@ -1,0 +1,46 @@
+{
+    "number": 27,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Wa mâ ‘asâ an yuqâla…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "وَمَا عَسٰى أَنْ يُقَالَ فِيْمَنْ وَصَفَهُ الْقُرْاٰنُ. وَأَعْرَبَ عَنْ فَضَائِلِهِ التَّوْرَاةُ وَالْإِنْجِيْلُ وَالزَّبُوْرُ وَالْفُرْقَانُ. وَجَمَعَ اللهُ لَهٗ بَيْنَ رُؤْيَتِهٖ وَكَلَامِهِ. وَقَرَنَ اسْمُهٗ مَعَ اسْمِهٖ تَنْبِيْهًا عَلَى عُلُوِّ مَقَامَهِ. وَجَعَلَهٗ رَحْمَةً لِلْعَالَمِيْنَ وَنُوْرًا. وَمَلَأَ بِمَوْلِدِهِ الْقُلُوْبَ سُرُوْرًا",
+                    "latin": "Wa mâ ‘asâ an yuqâla fî man washafahul-qur’ânu, wa a‘raba ‘an fadlâ’ilihit-taurâtu wal-injîlu waz-zabûru wal-furqânu, wa jama‘allâhu lahu baina ru’yatihî wa kalâmihi, wa qaranas-muhu ma‘as-mihi tanbîḫan ‘alâ ‘uluwwi maqâmihi, wa ja‘alahu raḫmatan lil-‘âlamîna wa nûran, wa mala’a bimaulidihil-qulûba surûran."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Tidak ada keraguan kata memuji yang di tujukan kepada Nabi dimana sifat-sifatnya sudah disebut dalam Al-Qur’an. Telah di uraikan pula keutamaanya dalam kitab taurat, injil, zabur dan quran. Dan Allah telah mengumpulkan kepada Nabi antara melihat Dzatnya dan menerima firman-NyaDan Ia menggabungkan nama-Nya dan nama Nabi untuk mengingatkan akan tingginya derajat Nabi. Dan Ia menjadikan rahmat dan cahaya untuk alam semesta. Sebab kelahiran Nabi, Allah penuhi hati manusia dengan rasa gembira."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

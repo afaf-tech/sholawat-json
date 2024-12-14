@@ -1,0 +1,46 @@
+{
+    "number": 4,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Innâ fataḫnâ…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِيْنًا. لِيَغْفِرَ لَكَ اللهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهٗ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيْمًا. وَيَنْصُـرَكَ اللهُ نَـصْرًا عَزِيْزًا. لَقَدْ جَآءَكُمْ رَسُوْلٌ مِنْ أَنْفُسِكُمْ عَزِيْزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيْصٌ عَلَيْكُمْ بِالْمُؤْمِنِيْنَ رَؤٗفٌ رَّحِيْمٌ. فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اللهُ لَآ إِلٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِ. إِنَّ اللهَ وَمَلَآئِكَتَهٗ يُصَلُّوْنَ عَلَى النَّبِيِّ. يَآأَيُّهَــــا الَّذِيْنَ آمَنُوْا صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًـــا",
+                    "latin": "Innâ fataḫna laka fatḫan mubîna. liyaghfira lakallâhu mâ taqaddama min dzanbika wa mâ ta’akhkhara wa yutimma ni‘matahu ‘alaika wa yahdîyaka shirâthan mustaqîmâ, wa yanshurukallâhu nashran ‘azîzan. Laqad jâ’akum rasûlun min anfusikum ‘azîzun ‘alaihi mâ ‘atittum ḫarîshun ‘alaikum bil-mu’minîna ra’ûfun raḫîm. fa 'in tawallau faqul ḫasbiyyallâhu lâ ilâha illâ huwa ‘alaihi tawakkaltu wa huwa rabbul-‘arsyil ‘adhîm, innalllâha wa malâ’ikatahu yushallûna ‘alan-nabî, yâ ayyuhal-ladzîna âmanû shallû ‘alaihi wa sallimû taslîmâ."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Sungguh, Kami telah memberikan kepadamu kemenangan yang nyata. Agar Allah memberikan ampunan kepadamu (Muhammad) atas dosamu yang lalu dan yang akan datang serta menyempurnakan nikmat-Nya atasmu dan menunjukimu ke jalan yang lurus, dan agar Allah menolongmu dengan pertolongan yang kuat (banyak). Sungguh, telah datang kepadamu seorang rasul dari kaummu sendiri, berat terasa olehnya penderitaan yang kamu alami, (dia) sangat menginginkan (keimanan dan keselamatan) bagimu, penyantun dan penyayang terhadap orang-orang yang beriman. Maka jika mereka berpaling (dari keimanan), maka katakanlah (Muhammad), “Cukuplah Allah bagiku; tidak ada Tuhan selain Dia. Hanya kepada-Nya aku bertawakal, dan Dia adalah Tuhan yang memiliki ‘Arsy (singgasana) yang agung.” Sesungguhnya Allah dan para malaikat-Nya bersalawat untuk Nabi. Wahai orang-orang yang beriman! Bersalawatlah kamu untuk Nabi dan ucapkanlah salam dengan penuh penghormatan kepadanya."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-12"
+}

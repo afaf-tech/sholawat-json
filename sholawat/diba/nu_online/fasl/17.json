@@ -1,0 +1,236 @@
+{
+    "number": 17,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Mahallul Qiyâm: Yâ nabî salam …",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "bari",
+            "text": {
+                "1": {
+                    "arabic": "يَــــا نَبِيْ سَـــــلَامٌ عَلَيْكَ ۞ يَا رَسُوْل سَــلَامٌ عَلَيْكَ",
+                    "latin": "Yâ nabî salâmun ‘alaika ۞ yâ rasûl salâmun ‘alaik"
+                },
+                "2": {
+                    "arabic": "يَا حَبِيْب سَلَامٌ عَلَيْكَ ۞ صَـــلَوَاتُ اللهِ عَلَيْــــكَ",
+                    "latin": "Yâ ḫabîb salâmun ‘alaik ۞ shalawâtullâhi ‘alaik"
+                },
+                "3": {
+                    "arabic": "أَشْرَقَ الْبَــــدْرُ عَـلَيْنَـــا ۞ فَاخْتَــــفَــــتْ مِنْــــهُ الْبُدُوْرُ",
+                    "latin": "Asyraqal-badru ‘alainâ ۞ fakhtafat minhul-budûru"
+                },
+                "4": {
+                    "arabic": "مِثْلَ حُسْنِكْ مَا رَأَيْنَا ۞ قَــــطُّ يَا وَجْــــهَ السُّــــرُوْرِ",
+                    "latin": "Mitsla ḫusnik mâ ra'ainâ ۞ qaththu yâ wajhas-surûri"
+                },
+                "5": {
+                    "arabic": "أَنْتَ شَمْـسٌ أَنْتَ بَدْرٌ ۞ أَنْتَ نُورٌ فَوقَ نُورٍ",
+                    "latin": "Anta syamsun anta badrun ۞ anta nûrun fauqa nûrin"
+                },
+                "6": {
+                    "arabic": "أَنْتَ إِكْسِــــيْرٌ وَغَــالِي ۞ أَنْتَ مِصْبَاحُ الصُّـدُوْرِ",
+                    "latin": "Anta iksîrun wa ghâlî ۞ anta mishbâḫush-shudûri"
+                },
+                "7": {
+                    "arabic": "يَــــا حَبِيْبِيْ يَـــــا مُحَمَّــدُ ۞ يَا عَرُوْسَ الْخَـــافِقَـــيْنِ",
+                    "latin": "Yâ ḫabîbî yâ muḫammadu ۞ yâ ‘arûsal-khâfiqaini"
+                },
+                "8": {
+                    "arabic": "يَـــــا مُؤَيَّــدْ يَــــا مُمَجَّـــدُ ۞ يَا إِمَامَ الْقِبْلَتَــــيْنِ",
+                    "latin": "Yâ mu'ayyad yâ mumajjad ۞ yâ imâmal-qiblataini"
+                },
+                "9": {
+                    "arabic": "مَنْ رَاٰى وَجْهَـــكَ يَسْعَدُ ۞ يَا كَــــرِيْمَ الْوالِدَيْنِ",
+                    "latin": "Man râ'a wajhaka yas‘adu ۞ yâ karîmal-wâlidaini"
+                },
+                "10": {
+                    "arabic": "حَوْضُكَ الصَّافِي الْمُبَرَّدُ ۞ وِرْدُنَا يَوْمَ النُّشُورِ",
+                    "latin": "ḫaudlukash-shâfil-mubarradu ۞ wirdunâ yauman-nusyûri"
+                },
+                "11": {
+                    "arabic": "مَا رَأَيْـنَـــا الْعِيْسَ حَنَّتْ ۞ بِالسُّـــرٰى إِلَّا اِلَيْـــكَ",
+                    "latin": "Mâ ra ainal-‘îsa ḫannat ۞ bis-surâ illâ ilaika"
+                },
+                "12": {
+                    "arabic": "وَالْغَمَــامَــــةْ قَـــدْ أَظَلَّتْ ۞ وَالْمَــلَا صَـلَّى عَلَيْكَ",
+                    "latin": "Wal-ghamâmat qad adhallat ۞ wal-malâ shallâ ‘alaika"
+                },
+                "13": {
+                    "arabic": "وَأَتَــــــاكَ الْعُـودُ يَبْـــــكِى ۞ وَتَـــذَلَّلْ بَيْنَ يَدَيْكَ",
+                    "latin": "Wa atâkal-‘ûdu yabkî ۞ wa tadzallal baina yadaika"
+                },
+                "14": {
+                    "arabic": "وَاسْتَجَـــارَتْ يَا حَبِيْــبِي ۞ عِنْدَكَ الظَّــــبْيُ النُّـــفُوْرُ",
+                    "latin": "Wastajârat yâ ḫabîbî ۞ ‘indakadh-dhabyun-nufûru"
+                },
+                "15": {
+                    "arabic": "عِنْدَ مَا شَدُّوْا الْمَحَامِلْ ۞ وَتَنَــــادَوْا لِلرَّحِيْــــلِ",
+                    "latin": "‘inda mâ syaddul-maḫâmil ۞ watanâdau lir-raḫîli"
+                },
+                "16": {
+                    "arabic": "جِئْتُهُمْ وَالدَّمْـــعُ سَائِـــلْ ۞ قُلْتُ قِفْ لِي يَا دَلِيْــــلُ",
+                    "latin": "Ji'tuhum wad-dam‘u sâ'il ۞ qultu qif lî yâ dalîlu"
+                },
+                "17": {
+                    "arabic": "وَتَحَمَّلْ لِيْ رَسَـــائِــــلْ ۞ أَيُّهَا الشَّوقُ الْجَـــزِيْلُ",
+                    "latin": "Wa taḫammal lî rasâ'il ۞ ayyuhasy-syauqul-jazîlu"
+                },
+                "18": {
+                    "arabic": "نَحْوَ هَاتِيْـــكَ الْمَنَازِلْ ۞ بِالْعَشِيِّ وَالْبُكُورِ",
+                    "latin": "Naḫwa hâtîkal-manâzil ۞ bil-‘asyiyyi wal-bukûri"
+                },
+                "19": {
+                    "arabic": "كُلُّ مَنْ فِي الْكَوْنِ هَامُوْا ۞ فِيْــــكَ يَا بَاهِي الْجَبِـــيْنِ",
+                    "latin": "Kullu man fil-kauni hâmû ۞ fîka yâ bâhil-jabîni"
+                },
+                "20": {
+                    "arabic": "وَلَهُـــــــمْ فِيْـــكَ غَـــــرَامُ ۞ وَاشْتِيَـــــاقٌ وَحَنِـــيْنُ",
+                    "latin": "Wa lahum fîka gharâmu ۞ wasy-tiyâqun wa ḫanînu"
+                },
+                "21": {
+                    "arabic": "فِي مَعَـــانِيْــــكَ الْأَنَـــامُ ۞ قَدْ تَبَدَّتْ حَــآئِــــرِيْنَ",
+                    "latin": "Fî ma‘ânîkal-anâmu ۞ qad tabaddat ḫâ'irîna"
+                },
+                "22": {
+                    "arabic": "أَنْتَ لِلرُّسْـــلِ خِتَـــــامُ ۞ أَنْتَ لِلْمَولىٰ شَكُورُ",
+                    "latin": "Anta lir-rusli khitâmu ۞ anta lilmaulâ syakûru"
+                },
+                "23": {
+                    "arabic": "عَبْدُكَ الْمِسْكِيْنُ يَرْجُوْ ۞ فَضْلَكَ الْجَـــمَّ الْغَفِــــيْرَ",
+                    "latin": "‘abdukal-miskînu yarju ۞ fadllakal-jammal-ghafîru"
+                },
+                "24": {
+                    "arabic": "فِيْكَ قَدْ أَحْسَنْتُ ظَنِّي ۞ يَـــــا بَشِـــيْرُ يَــــا نَـــذِيْرُ",
+                    "latin": "Fîka qad aḫsantu dhannî ۞ yâ basyîru yâ nadzîru"
+                },
+                "25": {
+                    "arabic": "فَــــــأَغِثْنِيْ وَأَجِـــــــرْنِي ۞ يَا مُجِيْرُ مِنَ السَّعِــــيْرِ",
+                    "latin": "Fa aghitsnî wa ajirnî ۞ yâ mujîru minas-sa’îri"
+                },
+                "26": {
+                    "arabic": "يَـــاغِيَـــاثِي يَا مَـــلَاذِيْ ۞ فِيْ مُهِمَّاتِ الْأُمُورِ",
+                    "latin": "Yâ ghiyâtsi yâ malâdzî ۞ fî muhimmâtil-umûri"
+                },
+                "27": {
+                    "arabic": "سَعْدَ عَبْــــدٌ قَدْ تَمَـــلَّى ۞ وَانْجَــــلىٰ عَنْـــهُ الْحَزِيْنُ",
+                    "latin": "Sa‘da ‘abdun qad tamalla ۞ wanjalâ ‘anhul-ḫazînu"
+                },
+                "28": {
+                    "arabic": "فِيْـــكَ يَـــــا بَدْرٌ تَجَـــــلَّى ۞ فَلَكَ الْوَصْـــفُ الْحَسِينُ",
+                    "latin": "Fîka yâ badrun tajallâ ۞ falakal-washful-ḫasînu"
+                },
+                "29": {
+                    "arabic": "لَيْسَ أَزْكىٰ مِنْكَ أَصْلاً ۞ قَــطُّ يَا جَدَّ الْحُـسَــــيْنِ",
+                    "latin": "Laisa azkâ minka ashlâ ۞ qaththu yâ jaddal-ḫusaini"
+                },
+                "30": {
+                    "arabic": "فَعَلَيْـــكَ اللهُ صَـــــلَّى ۞ دَآئِمًــــــا طُولَ الدُّهُورِ",
+                    "latin": "Fa’alaikallâhu shallâ ۞ dâ'iman thûlad-duhûri"
+                },
+                "31": {
+                    "arabic": "يَــــا وَلِيَّ الْحَسَنَــــاتِ ۞ يَا رَفِيْـــعَ الدَّرَجَــــاتِ",
+                    "latin": "Yâ waliyyal-ḫasanâti ۞ yâ rafî‘ad-darajâti"
+                },
+                "32": {
+                    "arabic": "كَفِّــــرْ عَنِّيَ الذُّنُوبَ ۞ وَاغْفِرْ عَنِّي السَّيئَــــاتِ",
+                    "latin": "Kaffir ‘annîyadz-dzunûba ۞ waghfir ‘anni sayyi`âti"
+                },
+                "33": {
+                    "arabic": "أَنْتَ غَـــفَّارُ الْخَطَايَا ۞ وَالذُّنُوْبِ الْمُوبِقَـــاتِ",
+                    "latin": "Anta ghaffârul-khathâyâ ۞ wadz-dzunûbil-mûbiqâti"
+                },
+                "34": {
+                    "arabic": "أَنْتَ سَـتَّارُ الْمَسَاوِيْ ۞ وَمُقِيْــــلُ الْعَـــثَرَاتِ",
+                    "latin": "Anta sattârul-masâwî ۞ wa muqîlul-‘atsarâti"
+                },
+                "35": {
+                    "arabic": "عَالِـــمُ السِّــــرِّ وَأَخْفىٰ ۞ مُسْتَجِيْبُ الدَّعَوَاتِ",
+                    "latin": "‘âlimus-sirri wa akhfâ ۞ mustajîbud-da’âwâti"
+                },
+                "36": {
+                    "arabic": "رَبِّ فَارْحَمْـنَا جَمِيْـعًا ۞ وَامْحُ عَنَّا السَّيِّئَاتِ",
+                    "latin": "Rabbi farḫamnâ jamî‘an ۞ wamḫu ‘annâs-sayyi'âti"
+                },
+                "37": {
+                    "arabic": "وَصَــــلَاةُ اللهِ تَغْشَــــا ۞ عَدَّ تَحْـــــرِيْرِ السُّطُورِ",
+                    "latin": "Wa shalâtullâhi taghsyâ ۞ ‘adda taḫrîris-suthûri"
+                },
+                "38": {
+                    "arabic": "أَحْمَــدَ الْهَادِيْ مُحَمَّـدْ ۞ صَاحِبَ الْوَجْهِ الْمُنِيرِ",
+                    "latin": "Aḫmadal-hâdî muḫammad ۞ shâḫibal-wajhal-munîri"
+                },
+                "39": {
+                    "arabic": "رَبِّ فَارْحَمْنَاجَمِيْـعًــــا ۞ بِجَمِيْعِ الصَّالِحَــــاتِ",
+                    "latin": "Rabbi farḫamnâ jamî‘an ۞ bijamî‘ish-shâliḫâti"
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Wahai Nabi ﷺ, semoga salam tercurahkan untukmu. Wahai Rasul, semoga salam tercurahkan untukmu",
+                        "2": "Wahai kekasih, semoga keselamatan tetap untukmu. Juga rahmat Allah semoga tercurah untukmu",
+                        "3": "Bulan purnama telah terbit menyinari kami. Pudarlah purnama-purnama lainnya.",
+                        "4": "Belum pernah aku lihat keelokan sepertimu, wahai orang yang berwajah riang.",
+                        "5": "Engkau bagaikan matahari, engkau bagaikan bulan purnama, engkau cahaya di atas cahaya",
+                        "6": "Engkau bagaikan emas murni yang mahal harganya, engkaulah lentera hati.",
+                        "7": "Wahai kekasihku, wahai Muhammad, wahai pengantin tanah timur dan barat (sedunia)",
+                        "8": "Wahai Nabi yang dikuatkan (dengan wahyu), wahai Nabi yang diagungkan, wahai imam dua arah kiblat (Baitul Maqdis dan Masjidil Haram).",
+                        "9": "Siapa pun yang melihat wajahmu pasti beruntung, wahai orang yang mulia kedua orang tuanya.",
+                        "10": "Telagamu jernih dan segar, yang akan kami datangi kelak di hari kebangkitan.",
+                        "11": "Belum pernah unta putih bercorak kekuning-kekuningan (jenis unta terbaik) berjalan malam hari kecuali unta yang datang kepadamu.",
+                        "12": "Awan tebal memayungimu, seluruh golongan makhluk mengucapkan shalawat kepadamu.",
+                        "13": "Pohon-pohon datang kepadamu menangis bersimpuh merasa hina di hadapanmu.",
+                        "14": "Kijang gesit datang memohon keselamatan kepadamu, wahai sang kekasih.",
+                        "15": "Ketika serombongan berkemas dan menyerukan untuk berangkat",
+                        "16": "Kudatangi mereka dengan berlinang air mata seraya kuucapkan tunggulah, wahai pemimpin rombongan",
+                        "17": "Bawakan aku surat yang berisikan kerinduan yang mendalam",
+                        "18": "Membawakan ke tempat yang jauh ketika petang dan paginya.",
+                        "19": "Setiap orang di jagad raya ini bingung (karena sangat rindu) kepadamu, wahai orang yang bersinar kedua keningnya.",
+                        "20": "Mereka terpikat, tergila-gila, dan meronta-ronta denganmu tentang sifatmu.",
+                        "21": "Para makhluk berbeda pendapat dan bingung (tidak mampu menyifati dengan sempurna)",
+                        "22": "Engkau adalah penutup para utusan, engkau adalah orang yang paling banyak bersyukur kepada Allah.",
+                        "23": "Hambamu (umatmu) yang miskin mengharap anugerahmu yang melimpah ruah.",
+                        "24": "Aku berbaik sangka kepadamu, wahai pemberi kabar gembira dan pemberi peringatan.",
+                        "25": "Maka tolonglah aku dan selamatkan aku, wahai sang penyelamat, dari neraka Sa‘ir.",
+                        "26": "Wahai penolongku, wahai tempat berlindungku dalam perkara-perkara yang menyulitkan.",
+                        "27": "Berbahagialah dan hilanglah kesusahan hamba yang senang kepadamu.",
+                        "28": "Wahai bulan purnama yang tampak terang, engkaulah pemilik sifat yang indah",
+                        "29": "Tiada orang yang leluhur nasabnya lebih suci darimu sama sekali, wahai kakek Hasan dan Husain.",
+                        "30": "Bagimu shalawat Allah selamanya sepanjang masa.",
+                        "31": "Wahai Dzat Penguasa kebaikan, wahai Dzat Yang berpangkat Tinggi",
+                        "32": "Hapuslah dosa-dosa dariku dan ampunilah kesalahan kesalahanku.",
+                        "33": "Engkau adalah Maha Pengampun kesalahan kesalahan dan dosa yang merusakkan.",
+                        "34": "Engkau adalah Yang Menutupi kejelekan dan menyelamatkan dari kesalahan.",
+                        "35": "Engkau Maha Mengetahui rahasia dan kesamaran, Engkau adalah Pengabul doa.",
+                        "36": "Ya Rabb, belas kasihanilah kami semua dan hapuslah keburukan-keburukan dari diri kami.",
+                        "37": "Rahmat Allah semoga senantiasa tercurah, selama masih terbuka catatan amal hamba",
+                        "38": "Ahmad sang petunjuk yaitu Nabi Muhammad pemilik wajah yang bersinar..",
+                        "39": "Ya Allah, rahmatilah kami semuanya dengan segala untaian kebaikan!"
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

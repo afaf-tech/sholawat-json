@@ -1,0 +1,46 @@
+{
+    "number": 10,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Fasubḫânaman khashshahû…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "فَسُبْحَانَ مَنْ خَصَّهٗ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِأَشْرَفِ الْمَنَاصِبِ وَالْمَرَاتِبِ. أَحْمَدُهٗ عَلَى مَا مَنَحَ مِنَ الْمَوَاهِبِ. وَأَشْهَدُ أَنْ لَآ إِلٰهَ إِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ رَبُّ الْمَشَارِقِ وَالْمَغَارِبِ. وَأَشْهَدُ أَنَّ سَيِّدَنَا مُحَمَّدًا عَبْدُهٗ وَرَسُوْلُهُ الْمَبْعُوْثُ إِلَى سَآئِرِ الْأَعَاجِمِ وَالْأَعَارِبِ. صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَعَلَى اٰلِهٖ وَأَصْحَابِهٖ أُولِي الْمَاٰثِرِ وَالْمَنَاقِبِ. صَلَاةً وَسَلَامًا دَآئِمَيْنِ مُتَلَازِمَيْنِ يَاتِيْ قَآئِلُهُمَا يَوْمَ الْقِيَامَةِ غَيْرَ خَآئِبِ",
+                    "latin": "Fasubḫâna man khashshahu shallallâhu ‘alaihi wa sallama bi asyrafil-manâshibi wal-marâtibi, aḫmaduhu ‘alâ mâ manaḫa minal-mawâhibi, wa asyhadu an lâ ilâha illallâhu waḫdahu lâ syarîka lahu rabbul-masyâriqi wal-maghâribi, wa asyhadu anna sayyidanâ Muḫammadan ‘abduhu wa rasûluhul-mab’ûtsu ilâ sâ’iril-a‘âjimi wal-a‘âribi, shallallâhu ‘alaihi wa sallama wa ‘alâ âlihî wa ashḫâbihi ûlil-ma’âtsiri wal-manâqibi, shalâtan wa salâman dâ’imaini ya’tî qâ’iluhumâ yaumal-qiyâmati ghaira khâ’ibi."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Maka Mahasuci Allah yang mengkhususkan Nabi Muhammad ﷺ dengan kemuliaan pangkat dan martabat. Aku menyanjungkan pujian kepada-Nya, atas segala nikmat anugerah dan pemberian-Nya. Dan aku bersaksi bahwa tidak ada Tuhan selain Allah yang Maha Esa lagi tiada sekutu bagi-Nya, pemilik arah timur dan barat. Dan aku bersaksi bahwa sesungguhnya Junjungan kami Nabi Muhammad itu adalah seorang hamba Allah dan utusan-Nya yang diutus kepada semua bangsa ‘Ajam dan Arab. Semoga rahmat Allah dan salam-Nya tetap dilimpahkan kepada Nabi dan keluarga serta sahabatnya yang mempunyai sejarah hidup dan perilaku yang baik. Dengan sholawat dan salam yang kekal, orang yang membaca keduanya akan datang kelak di hari kiamat tanpa merugi."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

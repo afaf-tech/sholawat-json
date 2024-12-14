@@ -1,0 +1,46 @@
+{
+    "number": 20,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Tsumma a‘radla…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "ثُمَّ أَعْرَضَ عَنْهُ مَرَاضِعُ الْإِنْسِ لِمَا سَبَقَ فِيْ طَيِّ الْغَيْبِ. مِنَ السَّعَادَةِ لِحَلِيْمَةَ بِنْتِ أَبِيْ ذُؤَيْبٍ. فَلَمَّا وَقَعَ نَظَرُهَا عَلَيْهِ. بَادَرَتْ مُسْــرِعَةً إِلَيْهِ. وَوَضَعَتْهُ فِيْ حِجْرِهَا. وَضَمَّتْهُ إِلَى صَدْرِهَا. فَهَشَّ لَهَا مُتَبَسِّمًا. فَخَرَجَ مِنْ ثَغْرِهٖ نُوْرٌ لَّحِقَ بِالسَّمَآ. فَحَمَلَتْهُ إِلَى رَحْلِهَا. وَارْتَحَلَتْ بِهٖ إِلَى أَهْلِهَا. فَلَمَّا وَصَلَتْ بِهِ إِلَى مُقَامِهَا. عَايَنَتْ بَرَكَتُهٗ عَلَى أَغْنَامِهَا. وَكَانَتْ كُلَّ يَوْمٍ تَرٰى مِنْهُ بُرْهَانًا. وَتَرْفَعُ لَهٗ قَدْرًا وَّشَانًا. حَتَّى انْدَرَجَ فِيْ حُلَّةِ اللُّطْفِ وَالْأَمَانِ. وَدَخَلَ بَيْنَ إِخْوَتِهٖ مَعَ الصِّبْيَانِ",
+                    "latin": "Tsumma a‘radla ‘anhu marâdli‘ul-insi limâ sabaqa fî thayyil-ghaibi, minas-sa‘âdati liḫalîmata binti abî dzu’aibin, falammâ waqa’a nadharuhâ ‘alaihi, bâdarat musri’atan ilaihi, wa wadla’athu fî ḫijrihâ, wa dlammathu ilâ shadrihâ, fahasysya lahâ mutabassiman, fakharaja min tsaghrihi nûrun laḫiq bis-samâ, faḫamalathu ilâ raḫlihâ, wartahâlat biḫî ilâ ahlihâ, falammâ washalat bihi ilâ muqâmihâ, ‘âyanat barakatuhu ‘alâ aghnamihâ, wa kânat kulla yaumin tarâ minhu burhânan, wa tartafa’u lahu qadran wa syânan, ḫattân-daraja fî ḫullatil-luthfi wal-amâni, wa dakhala baina ikhwâtihî ma’ash-shibyâni."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Kemudian berpalinglah para wanita yang biasa menyusui bayi-bayi karena suratan takdir memang telah menentukan. Kebahagiaan bagi Halimah binti Abi Dzuaib. Tatkala pandangan Halimah tertuju kepada Nabi, segera saja ia meraih bayi itu, meletakkan ke pangkuannya, dan mendekapkan ke dadanya. Sang jabang bayi menampakkan kegembiraan dan senyuman kepadanya. Lalu dari gigi depannya cahaya memancar hingga menembus langit. Kemudian Nabi pun dibawa Halimah menuju tunggangannya, lalu mereka berangkat menuju kampung halamannya. Ketika Halimah dan Nabi tiba di tempat, tampaklah keberkahan sang Nabi atas kambing-kambing ternaknya. Dan setiap hari Halimah melihat tanda-tanda yang luar biasa dari diri Nabi, meningkatnya taraf kehidupan dan kedudukan Halimah, sehingga Nabi pun semakin mendapat kasih sayang dan perlindungannya. serta dapat bergaul bebas dengan anak-anak asuhnya."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

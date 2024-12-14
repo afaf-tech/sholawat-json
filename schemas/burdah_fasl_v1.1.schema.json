@@ -69,6 +69,10 @@
                             "type": "string",
                             "description": "(introduction) of the chapter."
                         },
+                        "translator": {
+                            "type": "string",
+                            "description": "translator of the chapter."
+                        },
                         "text": {
                             "type": "object",
                             "description": "Translated text for each verse in the specified language.",
