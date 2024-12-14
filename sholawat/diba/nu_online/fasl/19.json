@@ -1,0 +1,46 @@
+{
+    "number": 19,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Qîla man yakfulu…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "قِيْلَ مَنْ يَّكْفُلُ هٰذِهِ الدُّرَّةَ الْيَتِيْمَةَ. اَلَّتِيْ لَا تُوْجَدُ لَهَا قِيْمَةٌ. قَالَتِ الطُّيُوْرُ نَحْنُ نَكْفُلُهٗ وَنَغْتَنِمُ هِمَّتَهُ الْعَظِيْمَةَ. قَالَتِ الْوُحُوْشُ نَحْنُ أَوْلٰى بِذٰلِكَ لِكَيْ نَنَالَ شَرَفَهٗ وَتَعْظِيْمَهُ. قِيْلَ يَا مَعْشَرَ الْأُمَمِ اسْكُنُوْا فَإِنَّ اللهَ قَدْ حَكَمَ فِيْ سَابِقِ حِكْمَتِهِ الْقَدِيْمَةِ. بِأَنَّ نَبِيَّهٗ مُحَمَّدًا صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَكُوْنُ رَضِيْعًا لِحَلِيْمَةَ الْحَلِيْمَةِ",
+                    "latin": "Qîla man yakfulu hâdzihid-durratal-yatîmata, allatî lâ tûjadu lahâ qîmatun, qâlatith-thûyûru naḫnu nakfuluhu wa naghtatimu himmatahul-‘adhîmata, qâlatil-wuḫûsyu naḫnu aula bidzâlika likai nanâla syarafahu wa ta’dhîmahu, qîla yâ ma‘syaral-umamis-kunû fa innallâha qad ḫakama fî sâbiqi ḫikmatihil-qadîmati, bianna nabiyyahu muḫammadan shallallâhu ‘alaihi wa sallama yakûnu radlî’an liḫalîmatal-ḫalîmah."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Diserukan oleh malaikat: siapakah yang suka mengasuh anak yatim yang bagaikan permata yang tiada bandingnya kemahalan harganya..? Berkatalah sekelompok burung: kamilah yang sanggup mengasuh dan mengambil keuntungan cita-citanya yang agung. Betkatalah binatang-binatang liar: kamilah yamg lebih berhak mengasuhnya agar memperoleh kemuliaan dan keagunganya. Diserukan oleh Malaikat: hai golongan umat... Tenanglah kalian, karena sesungguhnya Allah benar-benar telah mutuskan sejak zaman dahulu kala, bahwasanya Nabi Muhammad ﷺ adalah hendak menyusu kepada seorang wanita bersama Siti Halimah yang penuh rasa kasih sayang"
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

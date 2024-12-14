@@ -1,0 +1,46 @@
+{
+    "number": 14,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Fayaqûlul haqqu…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "فَيَقُوْلُ الْحَقُّ وَعِزَّتِيْ وَجَلَالِيْ. لَا جَعَلْتُ مَنْ أَخْلَصَ لِيْ بِالشَّهَادَةِ كَمَنْ كَذَّبَ بِيْ. أَدْخِلُوْهُمُ الْجَنَّةَ بِرَحْمَتِيْ. يَا أَعَزَّ جَوَاهِرِ الْعُقُوْدِ. وَخُلَاصَةَ إِكْسِيْرِ سِرِّ الْوُجُوْدِ. مَادِحُكَ قَاصِرٌ وَّلَوْ جَآءَ بِبَذْلِ الْمَجْهُوْدِ. وَوَاصِفُكَ عَاجِزٌ عَنْ حَصْرِ مَا حَوَيْتَ مِنْ خِصَالِ الْكَرَمِ وَالْجُوْدِ. اَلْكَوْنُ إِشَارَةٌ وَأَنْتَ الْمَقْصُوْدُ. يَا أَشْرَفَ مَنْ نَالَ الْمَقَامَ الْمَحْمُوْدَ. وَجَآءَتْ رُسُلٌ مِنْ قَبْلِكَ لٰكِنَّهُمْ بِالرِّفْعَةِ وَالْعُلَا لَكَ شُهُوْدٌ",
+                    "latin": "Fayaqûlul-ḫaqqu wa ‘izzitî wa jalâlî, lâ ja’altu man akhlasha lî bisy-syahâdati kaman kadzdzaba bî, adkhilûhumul-jannata biraḫmatî, yâ a‘azza jawâhiril-‘uqûdi, wa khulâshata iksîri sirril-wujûdi, mâ diḫuka qâshirun wa lâ jâ'a bibadzlil-majhûdi, wa wâshifuka ‘âjizun ‘an ḫashri mâ ḫawaita min khishâlil-karami wal-jûdi, al-kaunu isyâratun wa antal-maqshûdu, yâ asyrafa man nâlal-maqâmal-maḫmûda, wa jâ'at rusulun min qablika lâkinnahum bir-rif‘ati wal-‘ulâ laka syuhûdun."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Maka Allah berfirman: Demi keagungan dan keagungan-Ku, tidaklah Aku jadikan orang yang tulus ikhlas bersaksi kepada-Ku itu seperti orang yang mendustakan Aku. Mereka Aku masukkan surga dengan rahmat-Ku. Wahai orang yang termulia laksana untaian mutiara dan intisari permata rahasia keberadaan . Orang yang memujimu merasa kekurangan walaupun dengan mengerahkan seluruh kekuatannya. Dan orang yang mensifatimu merasa tak berdaya melukiskan apa yang meliputi engkau dari tingkah laku yang mulia dan pemurah. Alam semesta memberi isyarat dan engkaulah yang dimaksud. Wahai orang termulia yang telah memperoleh kedudukan yang terpuji. Dan telah datang para rasul sebelum engkau, tetapi mereka bersaksi atas kemuliaan dan keluhuran serta ketinggian derajatmu. "
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

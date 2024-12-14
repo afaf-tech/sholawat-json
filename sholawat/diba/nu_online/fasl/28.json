@@ -1,0 +1,66 @@
+{
+    "number": 28,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Ya badratimmin…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "bari",
+            "text": {
+                "1": {
+                    "arabic": "يَا بَــــدْرَتِمٍّ حَــــازَ کُلَّ كَمَالِ ۞ مَــــاذَا يُعَبِّرُعَنْ عُلَاكَ مَقَــــالِي",
+                    "latin": "Ya badratimin hâza kulla kamâli ۞ mâ dzâ yu‘abbiru ‘an ‘ulâka maqâlî"
+                },
+                "2": {
+                    "arabic": "أَنْتَ الَّذِی أَشْرَقْتَ فِي أُفُقِ الْعُلَا ۞ فَمَــحَوْتَ بِالْأَنْوارِکُلَّ ضَــــلَالِ",
+                    "latin": "Antal-ladzî asyraqta fî ufuqil-‘ulâ ۞ famaḫauta bil-anwâri kulla dlalâli"
+                },
+                "3": {
+                    "arabic": "وَبِكَ اسْتَنَارَ الْكَوْنُ يَا عَلَمَ الْهُدٰى ۞ بِالنُّورِ وَالْإِنْعَــــامِ وَالْإِفْضَالِ",
+                    "latin": "Wa bikas-tanâral-kaunu yâ ‘alamal-hudâ ۞ bin-nûri wal-in‘âmi wal-ifdlâli"
+                },
+                "4": {
+                    "arabic": "صَــــــلَّى عَلَيْــــكَ اللهُ رَبِّي دَاِئمًــــــا ۞ أَبَدًا مَــــعَ الْإِبْكاَرِ وَالْاٰصَــــالِ",
+                    "latin": "Shalla ‘alaikallâhu rabbi dâ'imân ۞ abadan ma‘al-ibkâri wal-âshâli"
+                },
+                "5": {
+                    "arabic": "وَعَلَى جَمِيْعِ الْآلِ وَالْأَصْحَابِ مَنْ ۞ قَدْ خَصَّهُمْ رَبُّ العُلَى بِكَمَالِ",
+                    "latin": "Wa ‘alâ jamî‘il-âli wal-ashḫâbi man ۞ qad khashshahum rabbul-‘ulâ bikamâli"
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Wahai purnama kesempurnaan yang telah mencapai puncak kesempurnaan. Ungkapan apa yang dapat aku katakan untuk menguraikan keluhuranmu.",
+                        "2": "Engkaulah yang terbit di ufuk ketinggian, dengan cahayamu engkau lenyapkan kesesatan",
+                        "3": "Dengan kehadiranmu semesta raya menjadi terang benderang wahai Sumber petunjuk, dengan cahaya, kenikmatan, serta keutamaanmu.",
+                        "4": "Semoga rahmat Allah, Tuhanku, senantiasa dilimpahkan kepadamu, kekal sepanjang masa, setiap pagi dan sore hari.",
+                        "5": "Juga kepada segenap keluarga dan para sahabat, yaitu orang-orang yang benar-benar telah diistimewakan Tuhan, Yang Mahatinggi, dengan kesempurnaan"
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-12"
+}

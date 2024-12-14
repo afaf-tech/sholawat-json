@@ -1,0 +1,101 @@
+{
+    "number": 2,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Ya Rabbi Shalli",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "bari",
+            "text": {
+                "1": {
+                    "arabic": "يَارَبِّ صَـــلِّ عَلَى مُحَمَّــــدْ ۞ يَارَبِّ صَلِّ عَلَيْـــهِ وَسَــــلِّمْ",
+                    "latin": "Yâ rabbi shalli ‘alâ muḫammad ۞ yâ rabbi shalli ‘alaihi wa sallim"
+                },
+                "2": {
+                    "arabic": "يَا رَبِّ بَلِّغْـــــــهُ الْوَسِيْـــلَةْ ۞ يَا رَبِّ خُصَّـــهٗ بِالْفَضِيْـــلَةْ",
+                    "latin": "Yâ rabbi ballighhul-wasîlah ۞ ya rabbi khushshahu bil-fadlîlah"
+                },
+                "3": {
+                    "arabic": "يَا رَبِّ وَارْضَ عَنِ الصَّحَـابَةْ ۞ يَا رَبِّ وَارْضَ عَنِ السُّــــلَالَةْ",
+                    "latin": "Yâ rabbi wardla ‘anish-shaḫâbah ۞ ya rabbi wardla ‘anis-sulâlah"
+                },
+                "4": {
+                    "arabic": "يَا رَبِّ وَارْضَ عَنِ الْمَشَــايِخْ ۞ يَا رَبِّ فَارْحَــــمْ وَالِدِيْنَـــــا",
+                    "latin": "Yâ rabbi wardla ‘anil-masyâyikh ۞ ya rabbi farḫam wâlidînâ"
+                },
+                "5": {
+                    "arabic": "يَا رَبِّ وَارْحَمْنَـــــا جَمِيْـعًــــــا ۞ يَا رَبِّ وَارْحَــــمْ كُلَّ مُسْــــلِمْ",
+                    "latin": "Yâ rabbi warḫamnâ jamî’a ۞ ya rabbi warḫam kulla muslim"
+                },
+                "6": {
+                    "arabic": "يَا رَبِّ وَاغْفِــرْ لِكُلِّ مُذْنِبْ ۞ يَا رَبِّ لَا تَقْطَـــعْ رَجَــــانَا",
+                    "latin": "Yâ rabbi waghfir likulli mudznib ۞ yâ rabbi lâ taqtha’ rajânâ"
+                },
+                "7": {
+                    "arabic": "يَا رَبِّ يَا سَـــــامِــعْ دُعَانَـــــا ۞ يَا رَبِّ بَلِّغْنَـــــا نَزُوْرُهْ",
+                    "latin": "Yâ rabbi yâ sâmi’ du’ânâ ۞ ya rabbâ ballighnâ nazûruh"
+                },
+                "8": {
+                    "arabic": "يَا رَبِّ تَغْشَــانَــــــا بِنُوْرِهْ ۞ يَا رَبِّ حِفْــــظَانَكْ وَأَمَانَكْ",
+                    "latin": "Yâ rabbi taghsyânâ binûrih ۞ yâ rabbi ḫifdhânak wa amânak"
+                },
+                "9": {
+                    "arabic": "يَا رَبِّ وَاسْـــكِنَّا جِـنانَكْ ۞ يَا رَبِّ أَجِــرْنَا مِنْ عَذَابِكْ",
+                    "latin": "Yâ rabbi waskinnâ jinânak ۞ yâ rabbi ajirnâ min ‘adzâbik"
+                },
+                "10": {
+                    "arabic": "يَا رَبِّ وَارْزُقْنَـــا الشَّـهَـــادَةْ ۞ يَا رَبِّ حِطْـنَا بِالسَّعَـــادَةْ",
+                    "latin": "Yâ rabbi warzuqnâsy-syahâdah ۞ ya rabbi ḫithnâ bis-sa’âdah"
+                },
+                "11": {
+                    "arabic": "يَا رَبِّ وَاصْلِحْ كُلَّ مُصْلِحْ ۞ يَا رَبِّ وَاكْـفِ كُلَّ مُؤْذِيْ",
+                    "latin": "Yâ rabbi washliḫ kulla mushliḫ ۞ ya rabbi wakfi kulla mu’dzî"
+                },
+                "12": {
+                    "arabic": "يَا رَبِّ نَخْــــــتِمْ بِالْمُشَــــفَّعْ ۞ يَا رَبِّ صَلِّ عَلَيْـــهِ وَسَــــلِّمْ",
+                    "latin": "Yâ rabbi nakhtim bil-musyaffa’ ۞ yâ rabbi shalli ‘alaihi wa sallim"
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Ya Allah, berikan limpahan shalawat kepada Nabi Muhammad. Ya Allah, berikah limpahan shalawat dan salam kepadanya.",
+                        "2": "Ya Allah, sampaikanlah kepadanya sebagai perantara. Ya Allah, khususkanlah kepadanya dengan keutamaan.",
+                        "3": "Ya Allah, anugerahkanlah keridhaan kepada sahabatnya. Ya Allah, anugerahkanlah keridhaan kepada keturunannya.",
+                        "4": "Ya Allah, anugerahkanlah keridhaan kepada para guru. Ya Allah, rahmatilah orang-orang tua kami.",
+                        "5": "Ya Allah, rahmatilah kami semua. Ya Allah, rahmatilah semua orang Islam.",
+                        "6": "Ya Allah, ampunilah semua orang yang berbuat dosa. Ya Allah, janganlah Engkau putuskan harapan kami.",
+                        "7": "Ya Allah, wahai Zat Yang Maha Mendengar doa kami. Ya Allah, berilah kami kesempatan ziarah ke makamnya.",
+                        "8": "Ya Allah, sinarilah kami dengan nurnya. Ya Allah, aku selalu mengharap pemeliharaan dan keamanan-Mu.",
+                        "9": "Ya Allah, tempatkanlah kami dalam surga-Mu. Ya Allah, selamatkanlah kami dari siksa-Mu.",
+                        "10": "Ya Allah, anugerahilah kematian kami dengan syahid. Ya Allah, liputilah kehidupan kami dengan penuh kebahagiaan.",
+                        "11": "Ya Allah, balaslah kebaikan orang yang berbuat baik. Ya Allah, hindarkanlah dari semua orang yang menyakiti.",
+                        "12": "Ya Allah, akhirilah kami dengan mendapat syafaat Nabi Muhammad. Ya Allah, anugerahkan limpahan shalawat dan salam kepada Nabi Muhammad."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-12"
+}

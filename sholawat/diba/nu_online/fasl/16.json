@@ -1,0 +1,46 @@
+{
+    "number": 16,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Fahtazzal arsyu…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "فَاهْتَزَّ الْعَرْشُ طَرَبًا وَاسْتِبْشَارًا. وَازْدَادَ الْكُرْسِيُّ هَيْبَةً وَوَقَارًا. وَامْتَلَأَتِ السَّمٰوَاتُ أَنْوَارًا. وَضَجَّتِ الْمَلَآئِكَةُ تَهْلِيْلًا وَتَمْجِيْدًا وَاسْتِغْفَارًا. ﴿سُبْحَانَ الله وَالْحَمْدُ ِللّٰهِ وَلَآإِلٰهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ ×٣﴾. وَلَمْ تَزَلْ أمُّهٗ تَرٰى أَنْوَاعًا مِنْ فَخْرِهِ وَفَضْلِهِ. إِلَى نِهَايَةِ تَمَامِ حَمْلِهِ. فَلَمَّا اشْتَدَّ بِهَا الطَّلْقُ. بِـإِذْنِ رَبِّ الْخَلْقِ. وَضَعَتِ الْحَبِيْبَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ. سَاجِدًا شَاكِـرًا حَامِدًا كَأَنَّهُ الْبَدْرُ فِيْ تَمَامِهِ.",
+                    "latin": "Fahtazzal-‘arsyu tharaban wastibsyâran, wazdâdal-kursiyyu haibatan wa waqâran, wamtala'atis-samâwâtu anwâran, wadlajjatil-malâ'ikatu tahlîlan wa tamjîdan was-tighfâran. ﴾subḫânallâh wal-ḫamdu lillâhi wa lâ ilâha illallâhu wallâhu akbar 3x﴿ wa lam tazal ummuhu tarâ anwâ‘an min fakhrihi wa fadllihi, ilâ nihâyati tamâmi ḫamlihi, falammasy-tada bihath-thalqu, bi idzni rabbil-khalqi, wa dla‘atil-ḫabîba shallallâhu ‘alaihi wa sallama, sâjidan syâkiran ḫâmidan ka annahul-badru fî tamâmihi."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Maka berguncanglah ‘Arsy penuh suka cita dan riang gembira. Dan Kursi Allah bertambah wibawa dan tenang karena memuliakannya. Dan langit penuh dengan cahaya, serta bergemuruh suara malaikat membaca tahlil, tamjid dan istighfar. (Mahasuci Allah, limpahan puji bagi Allah, tiada Tuhan selain Allah, dialah Allah yang Mahabesar (3x). Dan ibunya tiada henti-hentinya melihat bermacam-macam keajaiban dari keistimewaan dan keutamaan janin hingga sempurna masa kandungannya, Maka ketika ibunya telah merasakan sakit karena kandungannya akan lahir, dengan izin Tuhannya, Tuhan Pencipta makhluk, Lahirlah kekasih Allah Muhammad ﷺ dalam keadaan sujud, bersyukur dan memuji, sedangkan wajahnya bagaikan sempurnanya bulan purnama. "
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

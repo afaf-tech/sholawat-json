@@ -1,0 +1,46 @@
+{
+    "number": 24,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Falammâ ra’athu ḫalîmah…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "فَلَمَّا رَأَتْهُ حَلِيْمَةُ سَالِمًا مِنَ الْأَهْوَالِ. رَجَعَتْ بِهٖ مَسْــرُوْرَةً إِلَى الْأَطْلَالِ. ثُمَّ قَصَّتْ خَبَرَهُ عَلَى بَعْضِ الْكُهَّانِ. وَأَعَادَتْ عَلَيْهِ مَا تَمَّ مِنْ أَمْرِهٖ وَمَا كَانَ. فَقَالَ لَهُ الْكَاهِنُ: يَا ابْنَ زَمْزَمَ وَالْمَقَامِ. وَالرُّكْنِ وَالْبَيْتِ الْحَرَامِ. أَفِي الْيَقَظَةِ رَأَيْتَ هٰذَا أَمْ فِي الْمَنَامِ. فَقَالَ وَحُرْمَةِ الْمَلِكِ الْعَلَّامِ. شَاهَدْتُهُمْ كِفَاحًا لَا أَشُكُّ فِيْ ذٰلِكَ وَلَا أُضَامُ. فَقَالَ لَهُ الْكَاهِنُ أَبْشِـرْ أَيُّهَا الْغُلَامُ. فَأَنْتَ صَاحِبُ الْأَعْلَامِ. وَنُبُوَّتُكَ لِلْأَنْبِيَآءِ قُفْلٌ وَخِتَامٌ. عَلَيْكَ يَنْزِلُ جِبْرِيْلُ. وَعَلَى بِسَاطِ الْقُدْسِ يُخَاطِبُكَ الْجَلِيْلُ. وَمَنْ ذَا الَّذِيْ يَحْصُرُ مَا حَوَيْتَ مِنَ التَّفْضِيْلِ. وَعَنْ بَعْضِ وَصْفِ مَعْنَاكَ يَقْصُـرُ لِـسَانُ الْمَادِحِ الْمُطِيْلِ",
+                    "latin": "Falammâ ra’athu Ḫalîmatu sâliman minal-ahwâli, raja‘at bihî masrûratan ilal-athlâli, tsumma qashshat khabarahu ‘alâ ba‘dlil-kuhhâni, wa a‘âdat ‘alaihi mâ tamma min amrihî wa mâ kâna, faqâla lahul-kâhin: yab-na zamzama wal-maqâmi, war-rukni wal-baitil-ḫarâmi, afil-yaqadhati raita hâdzâ am fil-manâmi, faqâla wa ḫurmatil-malikil-‘allâmi, syâhadtuhum kifâḫan lâ asyukku fî dzâlika wa lâ udlâmu, faqâla lahul-kâhinu absyir ayyuhal-ghulâmu, fa anta shâḫibul-a‘lâmi, wa nubuwwatuka lil-anbiyâ’i quflun wa khitâmun, ‘alaika yanzilu jibrîlu, wa ‘alâ bisâthil-qudsi yukhâtibukal-jalîlu, wa man dzal-ladzî yaḫshuru mâ ḫawaita minat-tafdlîli, wa ‘an ba‘dli washfi ma‘nâka yaqshuru lisânul-mâdiḫil-muthîli."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Ketika Halimah melihat beliau selamat dari mara bahaya, ia kembali bersama beliau dengan bahagia menuju “al-Athlal”, lalu menceritakan apa yang menimpa anak asuhnya ke beberapa peramal, sembari mengulang kisah yang terjadi itu sebagaimana adanya. Salah seorang peramal ada yang menanyakan: “Wahai Putra Zamzam dan Maqam, serta rukun dan Baitul Haram, apakah kamu melihat apa yang diceritakan ini saat bangun atau saat tidur?” Lalu beliau menjawab: “Demi Sifat Mulia-Nya Dzat yang Maha Menguasai Seluruh Alam, aku menyaksikannya dalam keadaan terjaga. Tiada aku ragu akan hal itu dan tiada aku dipaksa.” Kemudian peramal itu mengatakan: “Berbahagialah Wahai Anakku! Engkau adalah pemilik seluruh ilmu. Kenabianmu untuk para nabi adalah kunci dan penutupnya. Yang dating kepadamu adalah Jibril. Atas perintah Dzat Yang Mahasuci, telah mengajakmu seorang yang agung. Siapa lagi yang kan memiliki tanda keutamaan sebagaimana yang engkau sandang. Karena sebagian dari sifat maknawimu, lisan pemuja yang memanjangkan lisannya kan terpendekkan.”"
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

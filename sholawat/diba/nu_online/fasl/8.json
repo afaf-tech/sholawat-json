@@ -1,0 +1,46 @@
+{
+    "number": 8,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Tsumma ardudduhu…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "ثُمَّ أَرُدُّهٗ مِنَ الْعَرْشِ. قَبْلَ أَنْ يَّبْرُدَ الْفَرْشُ. وَقَدْ نَالَ جَمِيْعَ الْمَاٰرِبِ. فَإِذَا شُرِّفَتْ تُرْبَةُ طَيْبَةَ مِنْهُ بِأَشْرَفِ قَالِبٍ. سَعَتْ إِلَيْهِ أَرْوَاحُ الْمُحِبِّيْنَ عَلَى الْأَقْدَامِ وَالنَّجَآئِبِ",
+                    "latin": "Tsumma arudduhu minal-‘arsyi, qabla an yabrudal-farsyu, wa qad nâla jamî‘al-ma’ârib, fa idzâ syurrifat turbata thaibata minhu bi asyrafi qâlibin, sa‘at ilaihi arwâḫul-muḫibbîna ‘alal-aqdâmi wan-najâ’ibi."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Kemudian Aku kembalikan dia dari ‘Arsy, dingin alas tidurnya benar-benar telah memperoleh menjadi tujuannya. Ketika tanah suci Makkah telah dimuliakan sebab kemuliaan Beliau, Sang pembaharu. Maka, jiwa-jiwa yang mencintainya berbondong-bondong dengan berjalan kaki maupun berkendara menuju kepada Beliau."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

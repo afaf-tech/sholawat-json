@@ -1,0 +1,56 @@
+{
+    "number": 1,
+    "source": "nu-online",
+    "name": "Niat dan Hadiah Fatihah",
+    "latin": "",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "نَوَيْنَا قِرَاءَةَ الْمَوْلِدِ الدِّيْبَعِيْ مِثْلَ مَا نَوَى صَاحِبُ الْمَوْلِدِ الشَّيْخُ عَبْدُ الرَّحْمٰنِ الدِّيْبَعِيُّ وَمِثْلَ مَا نَوَى مَشَايِخُنَا",
+                    "latin": "Nawainâ qirâ’atal-maulidid-diba‘î mitsla mâ nawâ shâḫibil-maulid as-Syaikh 'Abdirraḫmân ad-Dibîba'î wa mitsla mâ nawâ masyâyikhinâ"
+                },
+                "2": {
+                    "arabic": "اللهُ يُدْخِلُ نِيَّاتِنَا فِيْ نِيَّاتِهِمْ وَأَعْمَالَنَا فِيْ أَعْمَالِهِمْ وَ أَخْلَاقَنَا فِيْ أَخْلَاقِهِمْ بِنِيَّةِ أَنَّ اللهَ يَشْفِ مَرْضَانَا وَيُعَافِيْ مُبْتَلَانَا وَيُكَثِّرْ مِنَ الْحَلَالِ أَرْزَاقَنَا وَيَخْتِمْ أَعْمَارَنَا بِحُسْنِ الْخَاتِمَةِ",
+                    "latin": "Allâhu yudkhilu niyyâtinâ fî niyyâtihim wa a'mâlana fî a'mâlihim wa akhlâqanâ fî akhlâqihim biniyyati annallâha yasyfi mardlânâ wayu'â fî mubtalânâ wa yukatstsir minal-ḫalâli arzâqanâ wa yakhtim a'mâranâ biḫusnil-khâtimati."
+                },
+                "3": {
+                    "arabic": "وَإِلَى حَضَرَةِ النَّبِيِّ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الْفَاتِحَة",
+                    "latin": "Wa ilâ ḫadlratin-nabiyyi Muḫammadin shallallâhu 'alaihi wa sallama al-Fâtiḫah"
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلٰى اٰلِهِ",
+                    "latin": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Saya berniat membaca maulid ad-Diba’i sebagaimana niat pengarang bacaan maulid ini, yaitu Syaikh Abdur Rohman Ad-Diba’i dan sebagaimana niatnya guru-guru saya.",
+                        "2": "Semoga Allah memasukkan niat saya ke dalam niat mereka semua, amal-amal saya kedalam amal-amal mereka semua, dan akhlak-akhlak saya kedalam akhlak-akhlak mereka semua. Dengan niat sesungguhnya Allahlah yang mengobati penyakit saya, dan Allah yang menyembuhkan dari beberapa bala’ saya, dan Allah yang memperbanyak beberapa rezeki saya yang halal, dan Allah yang mengakhiri beberapa perbuatan saya dengan husnul khatimah.",
+                        "3": "Kepada hadirat Nabi Muhammad ﷺ, pahala bacaan al-Fatihah kami hadiahkan"
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-12"
+}

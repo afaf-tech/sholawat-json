@@ -1,11 +1,10 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "title": "Burdah Fasl Schema",
-    "version": "1.1",
     "type": "object",
     "properties": {
         "number": {
             "type": "integer",
+            "minimum": 1,
             "description": "The chapter number."
         },
         "source": {
@@ -23,27 +22,52 @@
             ],
             "description": "The transliteration of the chapter name."
         },
-        "text": {
+        "sections": {
             "type": "object",
-            "description": "Contains the Arabic text and its transliteration.",
             "patternProperties": {
                 "^[0-9]+$": {
                     "type": "object",
                     "properties": {
-                        "arabic": {
-                            "type": "string",
-                            "description": "The Arabic text of the verse."
+                        "name": {
+                            "type": "string"
                         },
-                        "latin": {
-                            "type": [
-                                "string",
-                                "null"
-                            ],
-                            "description": "The transliteration of the Arabic text."
+                        "type": {
+                            "type": "string",
+                            "enum": [
+                                "rawi",
+                                "bari",
+                                "closing"
+                            ]
+                        },
+                        "text": {
+                            "type": "object",
+                            "patternProperties": {
+                                "^[0-9]+$": {
+                                    "type": "object",
+                                    "properties": {
+                                        "arabic": {
+                                            "type": "string",
+                                            "description": "The Arabic text of the verse."
+                                        },
+                                        "latin": {
+                                            "type": [
+                                                "string",
+                                                "null"
+                                            ],
+                                            "description": "The transliteration of the Arabic text."
+                                        }
+                                    },
+                                    "required": [
+                                        "arabic"
+                                    ]
+                                }
+                            },
+                            "additionalProperties": false
                         }
                     },
                     "required": [
-                        "arabic"
+                        "type",
+                        "text"
                     ],
                     "additionalProperties": false
                 }
@@ -51,19 +75,14 @@
             "additionalProperties": false
         },
         "translations": {
-            "type": [
-                "object",
-                "null"
-            ],
+            "type": "object",
             "description": "Translations in various languages.",
             "patternProperties": {
                 "^[a-z]{2}$": {
                     "type": "object",
-                    "description": "The key representing the language code using a two-letter ISO 639-1 code (e.g., 'en' for English, 'ar' for Arabic).",
                     "properties": {
                         "name": {
-                            "type": "string",
-                            "description": "The translated name of the chapter in the specified language."
+                            "type": "string"
                         },
                         "muqaddimah": {
                             "type": "string",
@@ -73,21 +92,33 @@
                             "type": "string",
                             "description": "translator of the chapter."
                         },
-                        "text": {
+                        "sections": {
                             "type": "object",
-                            "description": "Translated text for each verse in the specified language.",
                             "patternProperties": {
                                 "^[0-9]+$": {
-                                    "type": "string",
-                                    "description": "Translated text of the verse in the specified language."
+                                    "type": "object",
+                                    "properties": {
+                                        "text": {
+                                            "type": "object",
+                                            "patternProperties": {
+                                                "^[0-9]+$": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "additionalProperties": false
+                                        }
+                                    },
+                                    "required": [
+                                        "text"
+                                    ],
+                                    "additionalProperties": false
                                 }
                             },
                             "additionalProperties": false
                         }
                     },
                     "required": [
-                        "name",
-                        "text"
+                        "sections"
                     ],
                     "additionalProperties": false
                 }
@@ -110,7 +141,7 @@
     "anyOf": [
         {
             "required": [
-                "text"
+                "sections"
             ]
         },
         {

@@ -1,0 +1,46 @@
+{
+    "number": 23,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Fabainamal habîbu shallallâhu…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "فَبَيْنَمَا الْحَبِيْبُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مُنْصِتٌ لِسَمَاعِ تِلْكَ الْأَشْبَاحِ. وَوَجْهُهٗ مُتَهَلِّلٌ كَنُوْرِ الصَّبَاحِ. إِذْ أَقْبَلَتْ حَلِيْمَةُ مُعْلِنَةً بِالصِّيَاحِ. تَقُوْلُ وَاغَرِيْبَاهُ. فَقَالَتِ الْمَلَآئِكَةُ يَا مُحَمَّدُ مَا أَنْتَ بِغَرِيْبٍ. بَلْ أَنْتَ مِنَ اللهِ قَرِيْبٌ. وَأَنْتَ لَهُ صَفِيٌّ وَحَبِيْبٌ. قَالَتْ حَلِيْمَةُ وَوَاحِدَاهُ. فَقَالَتِ الْمَلَآئِكَةُ يَا مُحَمَّدُ، مَا أَنْتَ بِوَحِيْدٍ. بَلْ أَنْتَ صَاحِبُ التَّأْيِيْدِ. وَأَنِيْسُكَ الْحَمِيْدُ الْمَجِيْدُ. وَإِخْوَانُكَ إِخْوَانُكَ مِنَ الْمَلَآئِكَةِ وَأَهْلِ التَّوْحِيْدِ. قَالَتْ حَلِيْمَةُ وَايَتِيْمَاهُ. فَقَالَتِ الْمَلَآئِكَةُ لِلّٰهِ دَرُّكَ مِنْ يَتِيْمٍ. فَإِنَّ قَدْرَكَ عِنْدَ اللهِ عَظِيْمٌ",
+                    "latin": "Fabainamal-ḫabîbu shallallâhu ‘alaihi wa sallama munshitun lisamâ‘i tilkal-asybâḫ, wa wajhuhu mutahallilun kanûrish-shibâḫi, idz aqbalat ḫalîmatu mu‘linatan bish-shiyâḫ, taqûlu wâgharîbâhu, faqâlatil-malâ’ikatu yâ Muḫammadu mâ anta bigharîbin, bal anta minallâhi qarîbun, wa anta lahu shafiyyun wa ḫabîbun, qâlat Ḫalîmatu wa wâḫidâhu, faqâlatil-malâ’ikatu yâ Muḫammadu, mâ anta biwaḫîdin, bal anta shâḫibut-ta’yîd, wa anîsukal-ḫamîdul-majîdu, wa ikhwânuka minal-malâ’ikati wa ahlit-tauḫîdi, qâlat Ḫalîmatu wâyatîmâhu, faqâlatil-malâ’ikatu lillâhi darruka min yatîmin, fainna qadraka ‘indallâhi ‘adhîmun."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Saat Sang Kekasih shallahu ‘alaihi wasallam terdiam mendengarkan suara tanpa rupa itu, wajah beliau bersinar bagai rembulan, bagaikan cahaya sinar pagi hari. Saat itu, Halimah yang menghadapnya, menjerit, sambil berkata: “Alangkah anehnya!” Maka Malaikat berkata: “Wahai Muhammad, kamu bukan orang yang aneh, melainkan kamu adalah makhluk yang senantiasa paling dekat dengan Allah. Kamu engkau bagi-Nya adalah seorang yang terpilih dan sang kekasih.” Saat Halimah mengucapkan: “Aduh baru kali ini aku menemui sesuatu yang asing!” Maka Malaikat berkata: “Wahai Muhammad, tiada dirimu seorang yang asing. Tapi, engkau adalah pemilik pertolongan. Yang senantiasa menemanimu adalah Dzat Yang Maha Terpuji lagi Mahaagung. Saudara-saudarimu adalah para malaikat dan para ahli tauhid.” Dan saat Halimah berkata: “Aduh kasihan, anak yatim ini!” Para malaikat lalu berkata: “Karena kehendak Allah, engkau dilahirkan yatim, karena derajatmu di sisi-Nya adalah yang agung.”"
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

@@ -1,0 +1,46 @@
+{
+    "number": 8,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Wa qîla liba‘dlihim…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "وَقِيْلَ لِبَعْضِهِمْ كَأَنَّ وَجْهَهُ الْقَمَرُ. فَقَالَ بَلْ أَضْوَأُ مِنَ الْقَمَرِ إِذَا لَمْ يَحُلْ دُوْنَهُ الْغَمَامُ. قَدْ غَشِيَهُ الْجَلَالُ. وَانْتَهٰى إِلَيْهِ الْكَمَالُ. قَالَ بَعْضُ وَاصِفِيْهِ مَا رَأَيْتُ قَبْلَهُ وَلَا بَعْدَهٗ مِثْلَهُ. فَيَعْجِزُ لِسَانُ الْبَلِيْغِ إِذَا اَرَادَ أَنْ يُحْصِيَ فَضْلَهُ. فَسُبْحَانَ مَنْ خَصَّهُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِالْمَحَلِّ الْأَسْنٰى. وَأَسْرٰى بِهٖ إِلَى قَابِ قَوْسَيْنِ أَوْ أَدْنٰى. وَأَيَّدَهٗ بِالْمُعْجِزَاتِ الَّتِيْ لَا تُحْصٰى. وَأَوفَاهُ مِنْ خِصَالِ الْكَمَالِ بِمَا يَجِلُّ أَنْ يُسْتَقْصٰى. وَأَعْطَاهُ خَمْسًا لَمْ يُعْطِهِنَّ أَحَدًا قَبْلَهُ. وَاٰتَاهُ جَوَامِعَ الْكَلِمِ فَلَمْ يُدْرِكْ أَحَدٌ فَضْلَهُ. وَكَانَ لَهٗ فِيْ كُلِّ مَقَامٍ عِنْدَهٗ مَقَالٌ. وَلِكُلِّ كَمَالٍ مِنْهُ كَمَالٌ. لَا يَحُوْلُ فِيْ سُؤَالٍ وَلَا جَوَابٍ. وَلَا يَجُوْلُ لِسَانُهٗ إِلَّا فِيْ صَوَابٍ.",
+                    "latin": "Wa qîla liba‘dlihim ka’anna wajhahul-qamaru, faqâla bal adlwa’u minal-qamari idza lam yaḫul dûnahul-ghamâmu, qad ghasyiyahul-jalâlu, wantahâ ilaihil-kamâlu, qâla ba’dlu wâshifîhi mâ raitu qablahu wa lâ ba’dahu mitslahu, fa ya‘jizu lisânul-balîghi idzâ arâda an yuḫshiya fadllahu, fasubḫâna man khashshahu shallallâhu ‘alaihi wa sallama bil-maḫallil-asnâ, wa asrâ bihi ilâ qâbi qausaini au adnâ, wa ayyadahu bil-mu‘jizâtil-latî lâ tuḫshâ, wa aufâhu min khishâlil-kamâli bimâ yajillu an yustaqshâ, wa a‘thâhu khamsan lam yu’thihinna aḫadan qablahu, wa âtâhu jawâmi‘al-kalimi falam yudrik aḫadun fadllahu, wa kâna lahu fî kulli maqâmin ‘indahu maqâlun, wa likulli kamâlin minhu kamâlun, lâ yâḫulu fî su’âlin wa lâ jawâbin, wa lâ yajûlu lisânahu illâ fî shawâbin."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Dikatakan kepada sabagian ulama: benarkah wajah beliau bagaikan rembulan. Maka ia menjawab: bahkan lebih terang dari pada rembulan, jika awan tidak meneduhkannya. Sungguh sifat keagungan senantiasa menyelimutinya. Dan kesempurnaan senantiasa ada pada dirinya. Sebagian orang yang mensifati beliau mengatakan: aku tidak pernah melihat orang seperti beliau baik sebelum beliau maupun sesudah beliau Maka lisan yang bersastra tidak mampu jika ingin menghitung keutamaan beliau. Mahasuci dzat yang senantiasa mengkhususkan beliau ﷺ dengan tempat yang luhur, dan telah meng-isra’-kan beliau ke Qaba Qausain atau lebih dekat, dan menguatkan beliau dengan mu’jizat yang tidak terhitung, memberi beliau dengan sifat sempurna yang sulit untuk di hitung, memberi beliau lima perkara yang tidak diberikan kepada siapapun sebelumnya. Dianugrahkan kepadanya kepandaian menyusun kata-kata yang tidak ada seorangpun dapat melebihinya, dan bagi beliau, di setiap keaadan terdapat ucapan yang sesuai, dan di setiap kesempurnaan Nabi SAW ada kesempurnaan yang lain, beliau tidak pernah bingung dari pertanyaan dan jawaban. Lisan beliau tiada pernah mengucapkan kecuali tentang kebenaran."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

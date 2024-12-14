@@ -1,0 +1,46 @@
+{
+    "number": 15,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Aḫdlirû qulûbakum…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "أَحْضِرُوْا قُلُوْبَكُمْ يَا مَعْشَرَ ذَوِي الْأَلْبَابِ. حَتَّى أَجْلُوَ لَكُمْ عَرَآئِسَ مَعَانِي أَجَلِّ الْأَحْبَابِ. اَلْمَخْصُوْصِ بِأَشْرَفِ الْأَلْقَابِ. اَلرَّاقِيْ إِلَى حَضْــرَةِ الْمَلَكِ الْوَهَّابِ. حَتَّى نَظَرَ إِلَى جَمَالِهٖ بِلَا سِتْرٍ وَّلَا حِجَابٍ. فَلَمَّا اٰنَ أَوَانُ ظُهُوْرِ شَمْسِ الرِّسَالَةِ. فِيْ سَمَآءِ الْجَلَالَةِ. خَرَجَ بِهِ مَرْسُوْمُ الْجَلِيْلِ. لِنَقِيْبِ الْمَمْلَكَةِ جِبْرِيْلَ. يَا جِبْرِيْلُ نَادِ فِيْ سَآئِرِ الْمَخْلُوْقَاتِ. مِنْ أَهْلِ الْأَرْضِ وَالسَّمٰوَاتِ. بِالتَّهَانِيْ وَالْبِشَارَاتِ. فَإِنَّ النُّوْرَ الْمَصُوْنَ. وَالسِّـرَّ الْمَكْنُوْنَ. اَلَّذِيْ أَوْجَدْتُهٗ قَبْلَ وُجُوْدِ الْأَشْيَآءِ. وَإِبْدَاعِ الْأَرْضِ وَالسَّمَآءِ. أَنْقُلُهٗ فِي هٰذِهِ اللَّيْلَةِ إِلَى بَطْنِ أُمِّهٖ مَسْــرُوْرًا. أَمْلَاءُ بِهِ الْكَوْنَ نُوْرًا. وَأَكْفُلُهٗ يَتِيْمًا وَأُطَهِّرُهٗ وَأَهْلَ بَيْتِهٖ تَطْهِيْرًا.",
+                    "latin": "Aḫdlirû qulûbakum yâ ma‘syara dzawil-albâbi, ḫattâ ajluwa lakum ‘arâ’isa ma‘ânî ajallil-aḫbâbi, al-makhshûsi bi asyrafil-alqâbi, ar-râqî ilâ ḫadlratil-malakil-wahhâbi, ḫattâ nadhara ilâ jamâlihî bilâ sitrin wa lâ ḫijâbin, falammâ âna awânu dhuhûri syamsir-risâlati, fî samâ’il-jalâlati, kharaja bihi marsûmul-jalîl, linaqîbil-mamlakati jibrîla, yâ jibrîlu nâdi fî sâ’iril-makhlûqâti, min ahlil-ardli was-samâwâti, bit-tahânî wal-bisyârâti, fainnan-nûral-mashûna, was-sirral-maknûna, alladzî aujadtuhu qabla wujûdil-asyyâ’i, wa ibdâ’il-ardli was-samâ’i, anqaluhu fî hâdzihil-lailati ilâ bathni ummihî masrûran, amlâ’u bihil-kauna nûran, wa akfuluhu yatîman wa uthahhiruhu wa ahla baitihi tathhîran."
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Hadirkanlah hati kalian, wahai golongan orang yang berakal. sehingga dapat kujelaskan kepadamu makna keagungan seorang kekasih yang paling di cintai Allah yang telah dikhususkan dengan julukan termulia. Yang pernah naik menghadap Raja Yang Maha Pemberi. Sehingga dapat melihat keindahan-Nya tanpa tutup dan tanpa tirai. Tatkala tiba saat lahirnya sinar kerasulan di langit yang agung, Keluarlah perintah Allah yang Maha Agung Kepada sang juru warta yakni malaikat Jibril. Wahai jibril, serukan kepada seluruh makhluk penghuni bumi dan langit, agar menyambutnya dengan riang dan gembira. Karena sesungguhnya nur yang terpelihara dan rahasia yang tersimpan yang Aku ciptakan sebelum wujudnya sesuatu. Dan sebelum terciptanya bumi dan langit-langit. Pada malam ini Aku pindahkan nur itu ke dalam perut ibunya dengan penuh kegembiraan. Aku penuhi seluruh alam dengan cahayanya. Aku pelihara dalam keadaan yatim-piatu dan Aku sucikan dia beserta para keluarganya dengan sesuci-sucinya."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}

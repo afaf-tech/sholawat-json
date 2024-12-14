@@ -1,0 +1,46 @@
+{
+    "number": 21,
+    "source": "nu-online",
+    "name": "",
+    "latin": "Fabainamal habîbu…",
+    "sections": {
+        "1": {
+            "name": "",
+            "type": "rawi",
+            "text": {
+                "1": {
+                    "arabic": "فَبَيْنَمَا الْحَبِيْبُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ نَاءٍ عَنِ الْأَوْطَانِ. إِذْ أَقْبَلَ عَلَيْهِ ثَلَاثَةُ نَفَرٍ. كَأَنَّ وُجُوْهَهُمُ الشَّمْسُ وَالْقَمَرُ. فَانْطَلَقَ الصِّبْيَانُ هَرَبًا. وَوَقَفَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مُتَعَجِّبًا. فَأَضْجَعُوْهُ عَلَى الْأَرْضِ إِضْجَاعًا خَفِيْفًا. وَشَقُّوْا بَطْنَهُ شَقًّا لَطِيْفًا. ثُمَّ أَخْرَجُوا قَلْبَ سَيِّدِ وَلَدِ عَدْنَانَ. وَشَرَّحُوْهُ بِسِكِّيْنِ الْإِحْسَانِ. وَنَزَّعُوْا مِنْهُ حَظَّ الشَّيْطَانِ، وَمَلَؤُهُ بِالْحِلْمِ وَالْعِلْمِ وَالْيَقِيْنِ وَالرِّضْوَانِ. وَأَعَادُوْهُ إِلَى مَكَانِهِ فَقَامَ الْحَبِيْبُ صَلَّى اللهُ عَلَيْهَ وَسَلَّمَ سَوِيًّا كَمَا كَانَ.",
+                    "latin": "Fabainamal-ḫabîbu shallallâhu ‘alaihi wa sallama dzâta yaumin nâ’in ‘anil-authâni, idz aqbala ‘alaihi tsalâtsatu nafarin, ka anna wujûhahumusy-syamsu wal-qamaru, fanthalaqash-shibyânu haraban, wa waqafan-nabiyyu shallallâhu ‘alaihi wa sallama muta‘ajjiban, fa adlja‘ûhu ‘alal-ardli idljâ‘an khafîfan, wa syaqqû bathnahu syaqqan lathîfan, tsumma akhrajû qalba sayyidi waladi ‘adnâna, wa syarraḫûhu bisikkînil-iḫsâni, wa nazza‘û minhu ḫadhdhasy-syaithâni, wa mala’uhu bil-ḫilmi wal-‘ilmi wal-yaqîni war-ridlwâni, wa a‘âdûhu ilâ makânihi faqâmal-ḫabîbu shallallâhu ‘alaihi wa sallama sawiyyan kamâ kâna"
+                }
+            }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ",
+                    "latin": "Allâhumma shalli wa sallim wa bârik 'alaihi wa 'alâ âlihi"
+                }
+            }
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "",
+            "sections": {
+                "1": {
+                    "text": {
+                        "1": "Ketika beliau di suatu hari menjauh dari desa, ternyada ada tiga orang mengadap kepada beliau, seakan-akan wajah mereka itu matahari dan rembulan. Maka anak-anak pergi lari dan Nabi ﷺ diam seraya terheran. Lalu mereka membaringkan Nabi di bumi dengan pelan, dan mereka merobek perut beliau dengan lembut, lalu mereka mengeluarkan hati tuan anak Adnan, dan mereka membedah beliau dengan pisau kebagusan, dan mereka menghilangkan dari perut beliau bagian setan, lalu memenuhinya dengan sifat lembut, ilmu, yaqin dan ridlwan, kemudian mereka mengembalikanya ke tempatnya, lalu sang kekasih ﷺ berdiri tegak seperti semula."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Ya Allah, limpahkan rahmat, kesalamatan, serta keberkahan kepada Nabi Muhammad beserta keluarga beliau"
+                    }
+                }
+            }
+        }
+    },
+    "last_updated": "2024-12-14"
+}
