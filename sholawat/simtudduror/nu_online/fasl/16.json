@@ -45,6 +45,15 @@
                     "latin": "Wa bidzâlika yaḫsunul-khatmu kamâ yaḫsunut-taqdîm, fa‘alaihi afdlalush-shalâti wat-taslîm."
                 }
             }
+        },
+        "4": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "﴿اَللّٰهُمَّ صَلِّ وَسَلِّمْ أَشْرَفَ الصَّلَاةِ وَالتَّسْلِيْمِ عَلَى سَيِّدِنَا وَنَبِيِّنَا مُحَمَّدٍ ࣙالرَّؤُوْفِ الرَّحِيْمِ﴾"
+                }
+            }
         }
     },
     "translations": {
@@ -67,6 +76,11 @@
                         "1": "Kiranya pena telah cukup berkelana, dengan perasaan riang ceria, mencatat yang diketahui tentang Maulid Nabi mulia ini. Dan mengisahkan sebagian kehormatan dan penghormatan, serta budi pekertinya yang amat luhur, yang dikaruniakan Allah baginya. Kini tiba saat menarik kembali kendalinya. Dan sepatutnya kubacakan salam atas nabi ini, pemimpin penghuni alam.",
                         "2": "AssaIamu ‘alayka ayyuhan-nabiyyu wa rahmatullahi wa barakatuh (Semoga keselamatan, kasih sayang, dan keberkahan dari Allah tercurah kepada Nabi Muhammad). (3x)",
                         "3": "Dan dengan itu sempurnalah penutup kata ini, sebagaimana telah sempurna di awal pembukanya. Bagi Rasulullah, shalawat dan salam setinggi-tingginya."
+                    }
+                },
+                "4": {
+                    "text": {
+                        "1": "Limpahkan, ya Allah, semulia-mulia shalawat dan salam atas junjungan dan nabi kami, Muhammad SAW yang amat penyantun dan penyayang"
                     }
                 }
             }

@@ -49,6 +49,15 @@
                     "latin": "Fasubḫânal-ladzî abraza min ḫadlratil-imtinân, mâ ya‘jizu ‘an washfihil-lisân, wa yaḫâru fî ta‘qquli ma‘ânîhil-janân, intasyara minhu fî ‘âlimil-buthûni wadh-dhuhûr, mâ malâ’al-wujûdal-khalqiyyi nûr, fatabârakallâhu min ilâhin karîmin, basyaratnâ âyâtuhu fidz-dzikril-ḫakîm, bibisyârati: ﴾Laqad jâ’akum rasûlun min anfusikum ‘azîzun ‘alaihi mâ ‘anittum ḫarîshun ‘alaikum bil-mu’minîna ra’ûfur-raḫîm﴿. Faman fâja’at hu hâdzihil-bisyâratu wa talaqqâhâ biqalbin salîm, faqad hudiya ilâ shirâthin mustaqîm."
                 }
             }
+        },
+        "4": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "﴿اَللّٰهُمَّ صَلِّ وَسَلِّمْ أَشْرَفَ الصَّلَاةِ وَالتَّسْلِيْمِ عَلَى سَيِّدِنَا وَنَبِيِّنَا مُحَمَّدٍ ࣙالرَّؤُوْفِ الرَّحِيْمِ﴾"
+                }
+            }
         }
     },
     "translations": {
@@ -72,6 +81,11 @@
                 "3": {
                     "text": {
                         "1": "Mahasuci Allah, Tuhan Maha Pemurah. Yang dalam kitab suci Al-Qur’an Al-Hakim. Mengungkap berita gembira dengan firman-Nya, ‘Telah datang kepadamu. Seorang rasul dari kalangan sendiri. la selalu prihatin atas apa yang menimpamu. Sangat ia inginkan kamu beriman. la singat penyantun, sangat penyayang. Maka siapa saja yang sampai kepadanya, berita gembira ini. Serta menerimanya dengan hati dan pikiran sehat. Niscaya ia beroleh petunjuk ke arah jalan yang lurus."
+                    }
+                },
+                "4": {
+                    "text": {
+                        "1": "Limpahkan, ya Allah, semulia-mulia shalawat dan salam atas junjungan dan nabi kami, Muhammad SAW yang amat penyantun dan penyayang"
                     }
                 }
             }
