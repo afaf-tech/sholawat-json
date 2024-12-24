@@ -73,6 +73,15 @@
                     "latin": "Wasalâm mustamirrun ۞ kulla ḥînīn yatijaddad"
                 }
             }
+        },
+        "2": {
+            "name": "",
+            "type": "closing",
+            "text": {
+                "1": {
+                    "arabic": "﴿اَللّٰهُمَّ صَلِّ وَسَلِّمْ أَشْرَفَ الصَّلَاةِ وَالتَّسْلِيْمِ عَلَى سَيِّدِنَا وَنَبِيِّنَا مُحَمَّدٍ ࣙالرَّؤُوْفِ الرَّحِيْمِ﴾"
+                }
+            }
         }
     },
     "translations": {
@@ -97,6 +106,11 @@
                         "14": "Rabbi, demi mulia kedudukannya di sisi-Mu, tempatkanlah kami di sebaik tempat di sisinya.",
                         "15": "Semoga shalawat Allah meliputi selalu rasul termulia, Muhammad.",
                         "16": "serta salam terus-menerus, silih berganti setiap saat."
+                    }
+                },
+                "2": {
+                    "text": {
+                        "1": "Limpahkan, ya Allah, semulia-mulia shalawat dan salam atas junjungan dan nabi kami, Muhammad SAW yang amat penyantun dan penyayang"
                     }
                 }
             }
