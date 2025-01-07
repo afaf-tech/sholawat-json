@@ -28,7 +28,7 @@ type Sources struct {
 }
 
 func main() {
-	data, err := os.ReadFile("sholawat.json")
+	data, err := os.ReadFile("./../sholawat/sholawat.json")
 	if err != nil {
 		log.Fatalf("Error reading the file: %v", err)
 	}

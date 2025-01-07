@@ -1,6 +1,6 @@
 {
   "name": "sholawat-json",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "All praise is due to Allah SWT for His countless blessings. May blessings and peace always be upon our beloved Prophet Muhammad SAW.",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/afaf-tech/sholawat-json.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "translations",
+    "various-sources",
+    "sholawat",
+    "sholawat-json",
+    "diba", "burdah", "simtudduror"
+  ],
+  "author": "afaf-tech",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afaf-tech/sholawat-json/issues"

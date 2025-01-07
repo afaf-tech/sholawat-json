@@ -6,6 +6,26 @@ All praise is due to Allah SWT for His countless blessings. May blessings and pe
 
 We strive for accuracy, but if you encounter any errors, please reach out. Your feedback is invaluable for improvement.
 
+## CDN
+Check out the [`/sholawat`](https://github.com/afaf-tech/sholawat-json/tree/master/sholawat) to see all available sholawat and source files. The JSON files are also available through [JSDELIVER](https://www.jsdelivr.com/package/npm/sholawat-json) CDN
+
+### List Sholawat and Sources 
+get the information with : 
+```
+https://cdn.jsdelivr.net/npm/sholawat-json@latest/sholawat/sholawat.json
+```
+### Get a Fasl
+
+You can get a single chapter (fasl) by providing its faslNumber for each sholawat. Text, transliteration and translation are provided on each fasl. To get it you can provide: 
+```
+https://cdn.jsdelivr.net/npm/sholawat-json@latest/sholawat/{sholawatName}/{source}/fasl/{faslNumber}.json
+
+```
+For Example:
+
+- Sholawat Diba from nu online fasl 1: `https://cdn.jsdelivr.net/npm/sholawat-json@latest/sholawat/diba/nu_online/fasl/10.json`
+
+
 ## Data Sources
 
 The sholawat data in this project has been collected from various trusted sources, including reputable Islamic literature and applications. Each data entry has gone through a multi-stage validation process to ensure accuracy and authenticity.
@@ -19,5 +39,4 @@ We warmly welcome contributions from anyone who has ideas or suggestions for the
 This project is licensed under the MIT License. For more details, please refer to the LICENSE file included in the repository.
 
 ## Author
-
-This project was developed by Fatih Al Fikri. If you have questions or find any errors, please contact us via email at fatihalfikri5@gmail.com.
+This project was developed by afaf-tech. If you encounter any issues, please report them by creating a GitHub issue in the repository.
