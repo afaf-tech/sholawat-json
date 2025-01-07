@@ -1,0 +1,20 @@
+{
+  "name": "sholawat-json",
+  "version": "0.1.0",
+  "description": "All praise is due to Allah SWT for His countless blessings. May blessings and peace always be upon our beloved Prophet Muhammad SAW.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afaf-tech/sholawat-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afaf-tech/sholawat-json/issues"
+  },
+  "homepage": "https://github.com/afaf-tech/sholawat-json#readme"
+}
