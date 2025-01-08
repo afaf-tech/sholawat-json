@@ -1,5 +1,5 @@
 *.go
-validator/validator
+validator
 
 go.mod
 go.sum
