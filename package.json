@@ -1,6 +1,6 @@
 {
   "name": "sholawat-json",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "All praise is due to Allah SWT for His countless blessings. May blessings and peace always be upon our beloved Prophet Muhammad SAW.",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "various-sources",
     "sholawat",
     "sholawat-json",
+    "majlis",
     "diba", "burdah", "simtudduror"
   ],
   "author": "afaf-tech",

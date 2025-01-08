@@ -25,6 +25,16 @@ For Example:
 
 - Sholawat Diba from nu online fasl 1: `https://cdn.jsdelivr.net/npm/sholawat-json@latest/sholawat/diba/nu_online/fasl/10.json`
 
+Get a Schema
+You can access the JSON schema for each fasl in the schemas folder. These schemas ensure the data structure remains consistent and reliable. Use the following link to get the schema:
+
+```bash
+https://cdn.jsdelivr.net/npm/sholawat-json@latest/schemas/{schema_name}.schema.json
+```
+For example:
+
+Burdah Fasl Schema (v1.0):
+https://cdn.jsdelivr.net/npm/sholawat-json@latest/schemas/burdah_fasl_v1.0.schema.json
 
 ## Data Sources
 
