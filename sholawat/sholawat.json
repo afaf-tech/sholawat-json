@@ -122,5 +122,40 @@
                 "schema": "diba_fasl_v1.0.schema.json"
             }
         ]
+    },
+    {
+        "name": "suluk",
+        "sources": [
+            {
+                "source_name": "general",
+                "description": "A collection of various suluk.",
+                "path_files": "sholawat/suluk/",
+                "files": [
+                    "fa-yaa-ayyuhar-rojuna.json"
+                ],
+                "schema": "suluk_v1.0.schema.json"
+            }
+        ]
+    },
+    {
+        "name": "tunggal",
+        "sources": [
+            {
+                "source_name": "general",
+                "description": "Individual sholawat not part of a larger collection.",
+                "path_files": "sholawat/tunggal/",
+                "files": [
+                    "shollu-ala-nuriladzi.json",
+                    "robbi-kholaq-thoha.json",
+                    "qad-kafaani-ilmu-robbi.json",
+                    "billaahi-gorrid.json",
+                    "yaa-sayyidii-yaa-rosuulallooh.json",
+                    "wa-asroo.json",
+                    "tholaal-badru-alaina-daarul-ishlah.json",
+                    "ya-ahla-baitinabi-daarul-ishlah.json"
+                ],
+                "schema": "sholawat_tunggal_v1.0.schema.json"
+            }
+        ]
     }
 ]

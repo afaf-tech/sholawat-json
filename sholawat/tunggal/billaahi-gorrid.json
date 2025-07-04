@@ -1,0 +1,55 @@
+{
+    "name": "بِاللهِ غَرِّدْ",
+    "latin": "Billaahi Gorrid",
+    "source": "kitabkuning.id",
+    "text": {
+        "1": {
+            "arabic": "بِاللهِ غَرِّدْ يٰا حَمَامْ — بِمَوْلِدِ الْبَدْرِ التَّمَامْ",
+            "latin": "Bismillah gharrid ya hamam — Bi mawlidil-badrit-tamam"
+        },
+        "2": {
+            "arabic": "نُوْرُ الرَّبِيْع لَقَدْ بَدَا — فَمَحٰى عَنِ الْكَوْنِ الظَّلَامْ",
+            "latin": "Nurur rabi'i laqad bada — Fa mahaa 'anil-kaunizh-zhalam"
+        },
+        "3": {
+            "arabic": "الْكَوْنُ صَاحَ مُكَبِّرًا — وَبَدَا الْهُدَى مُسْتَبْشِرًا",
+            "latin": "Al-kaunu shaaha mukabbiran — Wa badal-hudaa mustabsyiran"
+        },
+        "4": {
+            "arabic": "وَالْكُفْرُ وَلَّى مُدْيِرًا — لَمَّا اَتَى هَادِ الْأَنَامْ",
+            "latin": "Wal-kufru walla mudiyiran — Lammā atā hādil-anām"
+        },
+        "5": {
+            "arabic": "مِيْلَادُ طٰهَ نِعْمَةٌ — وَظُهُوْرُ أَحْمَدَ مِنَّةٌ",
+            "latin": "Mīlādu Ṭhāhā ni'mah — Wa ẓhuhūru Aḥmada minnah"
+        },
+        "6": {
+            "arabic": "هُوَ رَحْمَةٌ وَهِدَايَةٌ — مِنْ عِنْدِ مَوْلَانَا السَّلَامْ",
+            "latin": "Huwa rahmah wa hidāyah — Min 'indi mawlānās-salām"
+        },
+        "7": {
+            "arabic": "اَرْسَلَ اللهُ اَحْمَدَ — بِكِتَابٍ فُرقَانٍ هَدَا",
+            "latin": "Arsalallāhu Aḥmada — Bi kitābin furqānin hadā"
+        },
+        "8": {
+            "arabic": "وَدَعَا طَرِيْقَ السُّعَدَاءْ — وَمَحَى عَنْ سَائِرِ الظَّلَامْ",
+            "latin": "Wa da'ā ṭharīqas-su'adā' — Wa maḥā 'an sā'irizh-zhalam"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Billaahi Gorrid (Dengan Nama Allah, Berkicaulah)",
+            "text": {
+                "1": "Dengan nama Allah, berkicaulah wahai merpati — Karena kelahiran sang rembulan yang sempurna",
+                "2": "Cahaya musim semi telah muncul — Dan menghapus kegelapan dari alam semesta",
+                "3": "Alam semesta berseru dengan takbir — Dan petunjuk muncul dengan gembira",
+                "4": "Dan kekafiran berpaling dengan membelakanginya — Ketika pembimbing manusia datang",
+                "5": "Kelahiran Thaha adalah nikmat — Dan kemunculan Ahmad adalah karunia",
+                "6": "Dia adalah rahmat dan petunjuk — Dari Allah, Pemberi Kesejahteraan",
+                "7": "Allah telah mengutus Ahmad — Dengan kitab pembeda yang memberi petunjuk",
+                "8": "Dan dia menyeru kepada jalan kebahagiaan — Dan menghapus semua kegelapan"
+            }
+        }
+    },
+    "last_updated": "2025-07-04"
+}
