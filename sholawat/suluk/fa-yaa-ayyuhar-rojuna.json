@@ -1,0 +1,45 @@
+{
+    "name": "Fa Yaa Ayyuhar Rojuna Minhu Syafatan",
+    "latin": "Fa Yaa Ayyuhar Rojuna Minhu Syafatan",
+    "source": "Unknown",
+    "text": {
+        "1": {
+            "arabic": "فَيَا أَيُّهَا الرَّجُوْنَ مِنْهُ شَفَاعَةً",
+            "latin": "Fayā ayyuharrajūna minhu syafa’atan"
+        },
+        "2": {
+            "arabic": "صَلُّوْا عَلَيْهِ وَسَلِّمُوا تَسْلِيْمًا",
+            "latin": "Shallu ‘alaihi wa sallimū taslīmā"
+        },
+        "3": {
+            "arabic": "وَيَا أَيُّهَا الْمُشْتَا قُوْنَ إِلَى رُؤْيَا جَمَا لِهِ",
+            "latin": "Wa yā ayyuhal-musytaqūn ilā ru’yā jamālihi"
+        },
+        "4": {
+            "arabic": "صَلُّوْا عَلَيْهِ وَسَلِّمُوا تَسْلِيْمًا",
+            "latin": "Shallu ‘alaihi wa sallimū taslīmā"
+        },
+        "5": {
+            "arabic": "وَيَا مَنْ يَخْطُبُ وِصَا لَهُ يَقْظَةً وَمَنَمَا",
+            "latin": "Wa yā man yakhṭhubu wiṣhalahu yaqzhatan wa manamā"
+        },
+        "6": {
+            "arabic": "صَلُّوْا عَلَيْهِ وَسَلِّمُوا تَسْلِيْمًا",
+            "latin": "Shallu ‘alaihi wa sallimū taslīmā"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Wahai Orang-Orang yang Mengharapkan Syafaatnya",
+            "text": {
+                "1": "Wahai orang-orang yang mengharapkan syafaatnya",
+                "2": "Shalawatlah dan salamkanlah dia dengan penuh ketundukan",
+                "3": "Wahai orang-orang yang merindukan untuk melihat wajahnya yang indah",
+                "4": "Shalawatlah dan salamkanlah dia dengan penuh ketundukan",
+                "5": "Wahai orang yang menginginkan hubungan dengannya dalam keadaan sadar dan tidur",
+                "6": "Shalawatlah dan salamkanlah dia dengan penuh ketundukan"
+            }
+        }
+    },
+    "last_updated": "2025-07-04"
+}

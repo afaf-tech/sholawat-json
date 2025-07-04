@@ -1,0 +1,101 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Sholawat Tunggal Schema",
+    "version": "1.0",
+    "type": "object",
+    "properties": {
+        "source": {
+            "type": "string",
+            "description": "The source of the text."
+        },
+        "name": {
+            "type": "string",
+            "description": "The Arabic name of the sholawat."
+        },
+        "latin": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "description": "The transliteration of the sholawat name."
+        },
+        "text": {
+            "type": "object",
+            "description": "Contains the Arabic text and its transliteration.",
+            "patternProperties": {
+                "^[0-9]+$": {
+                    "type": "object",
+                    "properties": {
+                        "arabic": {
+                            "type": "string",
+                            "description": "The Arabic text of the verse."
+                        },
+                        "latin": {
+                            "type": [
+                                "string",
+                                "null"
+                            ],
+                            "description": "The transliteration of the Arabic text."
+                        }
+                    },
+                    "required": [
+                        "arabic"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "additionalProperties": false
+        },
+        "translations": {
+            "type": [
+                "object",
+                "null"
+            ],
+            "description": "Translations in various languages.",
+            "patternProperties": {
+                "^[a-z]{2}$": {
+                    "type": "object",
+                    "description": "The key representing the language code using a two-letter ISO 639-1 code (e.g., 'en' for English, 'id' for Indonesian).",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "description": "The translated name of the sholawat in the specified language."
+                        },
+                        "translator": {
+                            "type": "string",
+                            "description": "Translator of the sholawat."
+                        },
+                        "text": {
+                            "type": "object",
+                            "description": "Translated text for each verse in the specified language.",
+                            "patternProperties": {
+                                "^[0-9]+$": {
+                                    "type": "string",
+                                    "description": "Translated text of the verse in the specified language."
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+                    },
+                    "required": [
+                        "name",
+                        "text"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "additionalProperties": false
+        },
+        "last_updated": {
+            "type": "string",
+            "format": "date",
+            "pattern": "^(\\d{4})-(\\d{2})-(\\d{2})$",
+            "description": "The date when the content was last updated, in YYYY-MM-DD format."
+        }
+    },
+    "required": [
+        "name",
+        "text"
+    ],
+    "additionalProperties": false
+}

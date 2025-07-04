@@ -1,0 +1,55 @@
+{
+    "name": "رَبِّ خَلَقْ طَهَ",
+    "latin": "Robbi Kholaq Thoha",
+    "source": "kitabkuning.id",
+    "text": {
+        "1": {
+            "arabic": "رَبِّ خَلَقْ طَهَ مِنْ نُورٍ — فِيْهِ احْتِرَامْ",
+            "latin": "Robbi kholaqa Thoha min nuurin — fihii ikh-tiroom"
+        },
+        "2": {
+            "arabic": "نَادَاهُ أَقْبِلْ يَا مُخْتَارْ — أَنْتَ الْأَمِينْ",
+            "latin": "Naadaahu aqbil yaa mukhtaar — antal amiin"
+        },
+        "3": {
+            "arabic": "لَمَّا ارْتَقَى بَيْتَ الْمَعْمُورْ — صَلَّى إِمَامْ",
+            "latin": "Lammar-taqoo baitol ma'muur — sholla imaam"
+        },
+        "4": {
+            "arabic": "وَقَدْ دَنَا مِنْ رَبِّهِ — الْبَارِي الْجَلِيلْ",
+            "latin": "Wa qod danaa min robbihii — al-baaril jaliil"
+        },
+        "5": {
+            "arabic": "نَادَاهُ أَقْبِلْ يَا مُخْتَارْ — أَنْتَ الْأَمِينْ",
+            "latin": "Naadaahu aqbil yaa mukhtaar — antal amiin"
+        },
+        "6": {
+            "arabic": "إِنْ رُمْتَ أَنْ تَحظَى بِحُورْ — يَوْمَ الزِّحَامْ",
+            "latin": "In romta an tah-dhoo bihuurin — yaumaz zihaam"
+        },
+        "7": {
+            "arabic": "صَلِّ عَلَى بَاهِي الْأَنْوَارْ — عَيْنَ الْيَقِينْ",
+            "latin": "Sholli 'alaa baahil anwaar — 'ainal yaqin"
+        },
+        "8": {
+            "arabic": "نَادَاهُ أَقْبِلْ يَا مُخْتَارْ — أَنْتَ الْأَمِينْ",
+            "latin": "Naadaahu aqbil yaa mukhtaar — antal amiin"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Ya Tuhanku, Engkau telah menciptakan Thaha (Nabi Muhammad SAW)",
+            "text": {
+                "1": "Ya Tuhanku, Engkau telah menciptakan Thaha (Nabi Muhammad SAW) dari cahaya — yang penuh kemuliaan",
+                "2": "Allah memanggilnya, 'Datanglah wahai Nabi pilihan — Engkaulah (Al-Amin) yang terpercaya'",
+                "3": "Ketika Nabi Muhammad SAW naik ke Baitul Ma'mur — Beliau menjadi imam salat",
+                "4": "Dan Nabi Muhammad SAW telah mendekati Rabbnya — Allah Yang Maha Pencipta dan Maha Agung",
+                "5": "Allah memanggilnya, 'Datanglah wahai Nabi pilihan — Engkaulah (Al-Amin) yang terpercaya'",
+                "6": "Jika kamu ingin mendapatkan bidadari — pada hari kiamat yang panas",
+                "7": "Shalawatlah kepada Nabi yang bersinar terang — (Sang 'Ainal Yaqiin) sumber keyakinan",
+                "8": "Allah memanggilnya, 'Datanglah wahai Nabi pilihan — Engkaulah yang terpercaya'"
+            }
+        }
+    },
+    "last_updated": "2025-07-04"
+}

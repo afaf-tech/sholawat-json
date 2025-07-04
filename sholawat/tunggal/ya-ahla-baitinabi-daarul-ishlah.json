@@ -1,0 +1,85 @@
+{
+    "name": "يَا أَهْلَ بَيْتِ النَّبِيْ",
+    "latin": "Ya Ahla Baitinabi",
+    "source": "Daarul Ishlah via kitabkuning.id",
+    "text": {
+        "1": {
+            "arabic": "يَا أَهْلَ بَيْتِ النَّبِيْ يَا اَهْلَ الصَّفَا وَالْمُنَاجَاةْ",
+            "latin": "Yaa ahla baitin-nabiy yaa ahlash-shofaa wal-munaajaah"
+        },
+        "2": {
+            "arabic": "جَفِتْ مَنْ حَبَّكُمْ يَظْفَرُ بِمَا قَدْ تَمَنَّاهْ",
+            "latin": "Jafit man habbakum yazhfaro bimaa qod tamannaa"
+        },
+        "3": {
+            "arabic": "فِي رِضَا الرَّبِّ يَمْشِيْ فِي صَبَاحَهْ وَمَمْسَاهْ",
+            "latin": "Fii ridhoo ar-robbi yamsyii fii shobaahatah wa mamsaah"
+        },
+        "4": {
+            "arabic": "يَا يُحَمِّلْ مَطَالِبُهْ وَمَا كَانَ يُرْجَاهْ",
+            "latin": "Yaa yuhammil mathoolibuh wa maa kaana yurjaah"
+        },
+        "5": {
+            "arabic": "كُلُّ مَنْ حَبَّكُمْ يَهْنَاهْ",
+            "latin": "Kullu man habbakum yahnaah"
+        },
+        "6": {
+            "arabic": "بِالشَّفَاعَةْ مِنَ الْمُخْتَارْ فِي يَوْم لُقِيَاهْ",
+            "latin": "Bisy-syafaa'ati minal-mukhtaari fii yaumi liqoo yaah"
+        },
+        "7": {
+            "arabic": "يُوْرِدِ الْحَوضْ بَا يَسْقِىْ بِالْكَاْسِ مِمَّاهْ",
+            "latin": "Yuuriidhil haudho baa yasqii bil kaasi mimmah"
+        },
+        "8": {
+            "arabic": "حَوضْ صَا فِي مُصَفَّى دَائِمِ الْوَاقِفْ مَحْلَاهْ",
+            "latin": "Haudho shoo fii mushoffaa daa imil waaqifi mahlaah"
+        },
+        "9": {
+            "arabic": "حَوضْ طٰهٰ حَبِيْبِ الْقَلْبِ وَاللهْ مَنْسَاهْ",
+            "latin": "Haudho thoo haa habiibil qolbi walloohu mansaah"
+        },
+        "10": {
+            "arabic": "سَيِّدِ الرُّسُلْ مَقْبُوْلِ الدُّعَاء عِنْدَ مَوْلَاهْ",
+            "latin": "Sayyidir rusuli maqbuulid du'aa'i 'inda mawlaah"
+        },
+        "11": {
+            "arabic": "مَا خَلَقْ رَبُّنَا ذَا الْكَوْن لَوْلَاهْ",
+            "latin": "Maa kholaqo robbunaa dzaal kaunu lau laah"
+        },
+        "12": {
+            "arabic": "رِيتْ حَدْ فِي الْمَدِيْنَةْ يَعْتَكِفْ فِي مُصَلَّاهْ",
+            "latin": "Riitu had fil madiinati ya'takif fii mushollaa"
+        },
+        "13": {
+            "arabic": "وَالْفِ صَلُّوْا عَلٰى مَنْ حَبَّهُ اللهْ وَسَمَّاهْ",
+            "latin": "Wal fii sholluu 'alaa man habbahulloohu wa sammaah"
+        },
+        "14": {
+            "arabic": "خَاتِمِ الرُّسُلْ مَنْ عَلَّمُوهْ عِلْمَهْ وَأَسْمَاهْ",
+            "latin": "Khotimir rusuli man 'allamuuhu 'ilmahu wa asmaah"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Ya Ahla Baitinabi (Daarul Ishlah)",
+            "text": {
+                "1": "Wahai Keluarga Nabi, wahai Orang-orang yang Suci dan Penuh Doa",
+                "2": "Siapapun yang mencintai kalian, dia akan mendapatkan apa yang dia cita-citakan",
+                "3": "Dia berjalan dalam keridhaan Allah di pagi dan sore harinya",
+                "4": "Dia memikul permintaannya dan apa yang dia harapkan",
+                "5": "Siapapun yang mencintai kalian, berbahagialah dia",
+                "6": "Dengan syafaat dari Nabi Muhammad SAW pada hari bertemu dengannya",
+                "7": "Dia akan memasukkan ke dalam telaga dan memberinya minum dengan gelas dari airnya",
+                "8": "Telaga yang jernih, tersaring, dan airnya selalu mengalir",
+                "9": "Telaga Thaha, kekasih hati, dan Allah yang menjaganya",
+                "10": "Penghulu para nabi, yang terkabul doanya di sisi Allah",
+                "11": "Allah tidak menciptakan alam semesta ini kalau bukan karena dia",
+                "12": "Aku melihat suatu hari di Madinah, dia beriktikaf di tempat shalatnya",
+                "13": "Dan seribu shalawat atas orang yang dicintai Allah dan Dia namai",
+                "14": "Penutup para nabi, yang Allah ajarkan ilmunya dan Dia namai"
+            }
+        }
+    },
+    "last_updated": "2025-07-04"
+}
