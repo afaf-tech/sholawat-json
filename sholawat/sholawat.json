@@ -135,7 +135,7 @@
                     "fahamdan-lirobbi.json",
                     "hubbun-nabi.json"
                 ],
-                "schema": "suluk_v1.0.schema.json"
+                "schema": "suluk_v1.1.schema.json"
             }
         ]
     },
