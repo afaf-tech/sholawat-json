@@ -1,0 +1,44 @@
+{
+  "source": "A qasidah (suluk) authored by Imam Abdullah bin Alawi al-Haddad, famously recited in the modern gatherings of Habib Umar bin Hafidz and Majelis Rasulullah.",
+  "name": "فَحَمْدًا لِرَبٍّ",
+  "latin": "Fa Ḥamdan li-Rabbin",
+  "text": {
+    "1": {
+      "arabic": "فَحَمْدًا لِرَبٍّ خَصَّنَا بِمُحَمَّدٍ ۞ وَأَخْرَجَنَا مِنْ ظُلْمَةٍ وَدَيَاجِرِي",
+      "latin": "Fa ḥamdan li-Rabbin khaṣṣanā bi-Muḥammadin ۞ wa akhrajanā min ẓulmatin wa dayājirī"
+    },
+    "2": {
+      "arabic": "إِلَى نُوْرِ إِسْلَامٍ وَعِلْمٍ وَحِكْمَةٍ ۞ وَيُمْNٍ وَإِيْمَانٍ وَخَيْرِ الْأَوَAMRِ",
+      "latin": "Ilā nūri Islāmin wa ‘ilmin wa ḥikmatin ۞ wa yumnin wa īmānin wa khairil-awāmiri"
+    },
+    "3": {
+      "arabic": "وَطَهَّرَنَا مِنْ رِجْسٍ كُفْرٍ وَخُبْثِهِ ۞ وَشِرْكٍ وَظُلْمٍ وَاقْتِحَامِ الْكَبَائِرِ",
+      "latin": "Wa ṭahharanā min rijsin kufrin wa khubthihi ۞ wa syirkin wa ẓulmin wa-qtiḥāmil-kabā'iri"
+    },
+    "4": {
+      "arabic": "أَتَى بِكِTābillāhi yatlūhu dā‘iyan ۞ ilallāhi bil-ḥusnā wa khairil-basyā'iri",
+      "latin": "Atā bi-kitābillāhi yatlūhu dā‘iyan ۞ ilallāhi bil-ḥusnā wa khairil-basyā'iri"
+    }
+  },
+  "translations": {
+    "en": {
+      "name": "Praise to the Lord",
+      "text": {
+        "1": "All praise is due to the Lord who specified us with Muhammad ۞ And brought us out from darkness and gloom.",
+        "2": "To the light of Islam, knowledge, and wisdom ۞ And blessing, faith, and the best of commands.",
+        "3": "And He purified us from the filth of disbelief and its wickedness ۞ And from polytheism, oppression, and the commission of major sins.",
+        "4": "He (the Prophet) came with the Book of Allah, reciting it, calling ۞ to Allah in the best (manner) and with the best of glad tidings."
+      }
+    },
+    "id": {
+      "name": "Pujian bagi Tuhan",
+      "text": {
+        "1": "Segala puji bagi Tuhan yang mengkhususkan kita dengan Muhammad ۞ Dan mengeluarkan kita dari kegelapan dan kekelaman.",
+        "2": "Menuju cahaya Islam, ilmu, dan hikmah ۞ Serta keberkahan, iman, dan sebaik-baik perintah.",
+        "3": "Dan Dia menyucikan kita dari kotoran kekafiran dan kebusukannya ۞ Serta dari syirik, kezaliman, dan perbuatan dosa-dosa besar.",
+        "4" : "Dia (Nabi) datang dengan Kitab Allah, membacanya, menyeru ۞ kepada Allah dengan (cara) yang terbaik dan sebaik-baik kabar gembira."
+      }
+    }
+  },
+  "last_updated": "2025-11-12"
+}

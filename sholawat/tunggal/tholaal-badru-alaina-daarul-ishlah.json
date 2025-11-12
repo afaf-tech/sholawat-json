@@ -4,190 +4,100 @@
     "source": "Daarul Ishlah via kitabkuning.id",
     "text": {
         "1": {
-            "arabic": "طَلَعَ الْبَدْرُ عَلَيْنَا",
-            "latin": "Thala'al-badru 'alaina"
+            "arabic": "طَلَعَ الْبَدْرُ عَلَيْنَا ○ مِنْ ثَنِيَّةِ الْوَدَاعِ",
+            "latin": "Thala'al-badru 'alaina, Min tsaniyyatil-wadaa'i"
         },
         "2": {
-            "arabic": "مِنْ ثَنِيَّةِ الْوَدَاعِ",
-            "latin": "Min tsaniyyatil-wadaa'i"
+            "arabic": "وَجَبَ الشُّكْرُ عَلَيْنَا ○ مَا دَعَا لِلّٰهِ دَاعِ",
+            "latin": "Wa jabasy-syukru 'alaina, Maa da'a lillahi daa'i"
         },
         "3": {
-            "arabic": "وَجَبَ الشُّكْرُ عَلَيْنَا",
-            "latin": "Wa jabasy-syukru 'alaina"
+            "arabic": "أَيُّهَا الْمَبْعُوْثُ فِيْنَا ○ جِئْتَ بِالْأَمْرِ الْمُطَاعِ",
+            "latin": "Ayyuhal-mab'uuthu fiinaa, Ji'ta bil-amril-muthaa'i"
         },
         "4": {
-            "arabic": "مَا دَعَا لِلّٰهِ دَاعِ",
-            "latin": "Maa da'a lillahi daa'i"
+            "arabic": "كُنْ شَفِيْعًا يَا حَبِيْبِي ○ يَوْمَ حَشْرٍ وَاجْتِمَاعِ",
+            "latin": "Kun syafii'an yaa habiibii, Yauma hasyrin wajtimaa'i"
         },
         "5": {
-            "arabic": "أَيُّهَا الْمَبْعُوْثُ فِيْنَا",
-            "latin": "Ayyuhal-mab'uuthu fiinaa"
+            "arabic": "رَبَّنَا صَلِّ عَلٰى مَنْ ○ حَلَّ فِي خَيْرِ الْبِقَاعِ",
+            "latin": "Rabbanaa shalli 'alaa man, Hallaa fii khairil-biqaa'i"
         },
         "6": {
-            "arabic": "جِئْتَ بِالْأَمْرِ الْمُطَاعِ",
-            "latin": "Ji'ta bil-amril-muthaa'i"
+            "arabic": "وَاسْبِلِ السِّتْرَ عَلَيْنَا ○ يَا مُجِيْبًا كُلَّ دَاعِ",
+            "latin": "Wasbilis-sitra 'alainaa, Yaa mujiiban kulla daa'i"
         },
         "7": {
-            "arabic": "كُنْ شَفِيْعًا يَا حَبِيْبِي",
-            "latin": "Kun syafii'an yaa habiibii"
+            "arabic": "أَنْتَ فِي كُلِّ جَمِيْلٌ ○ وَجَمَالٌ يَا مُطَاعِ",
+            "latin": "Anta fii kulli jamiilun, Wa jamaalun yaa muthaa'i"
         },
         "8": {
-            "arabic": "يَوْمَ حَشْرٍ وَاجْتِمَاعِ",
-            "latin": "Yauma hasyrin wajtimaa'i"
+            "arabic": "قَدْ تَجَلَّيْتَ لِقَلْبِي ○ مُسْفِرًا دُوْنَ قِنَاعِ",
+            "latin": "Qad tajallaita liqalbii, Musfiran duuna qinaa'i"
         },
         "9": {
-            "arabic": "رَبَّنَا صَلِّ عَلٰى مَنْ",
-            "latin": "Rabbanaa shalli 'alaa man"
+            "arabic": "وَعَلٰى عِشْقِ الْجَمَالِ ○ طَبَعَ اللهُ الطِّبَاعِ",
+            "latin": "Wa 'alaa 'isyqil-jamaali, Thaba'allahu th-thibaa'i"
         },
         "10": {
-            "arabic": "حَلَّ فِي خَيْرِ الْبِقَاعِ",
-            "latin": "Hallaa fii khairil-biqaa'i"
+            "arabic": "وَلَبِسْنَا ثَوْبَ عِزٍّ ○ بَعْدَ تَلْفِيْقِ الرِّقَاعِ",
+            "latin": "Wa labisnaa tsauba 'izzin, Ba'da talfiiqir-riqaa'i"
         },
         "11": {
-            "arabic": "وَاسْبِلِ السِّتْرَ عَلَيْنَا",
-            "latin": "Wasbilis-sitra 'alainaa"
+            "arabic": "مَرْحَبًا يَا نُوْرَ عَيْنِي ○ مَرْحَبًا جَدَّ الْحُسَيْنِ",
+            "latin": "Marhaban yaa nuura 'ainii, Marhaban jaddal-Husaini"
         },
         "12": {
-            "arabic": "يَا مُجِيْبًا كُلَّ دَاعِ",
-            "latin": "Yaa mujiiban kulla daa'i"
+            "arabic": "مَبْرَكَ الْيَومْ ذَا جِيْنَا لِقَصْدِ الزِّيَارَةْ ○ لِلْإِمَامِ الْمُعَظَّمْ كَنْزَنَا وَالتِّجَارَةْ",
+            "latin": "Mabrakal-yaum dzaa jiinaa liqashdiz-ziyaarah, Lil-imaamil-mu'azzhomi kanzaanaa wat-tijaarah"
         },
         "13": {
-            "arabic": "أَنْتَ فِي كُلِّ جَمِيْلٌ",
-            "latin": "Anta fii kulli jamiilun"
+            "arabic": "بِنْ مُحَمَّدْ حَبِيْبَ الْكُلِّ حَامِي ذِي مَارَةْ ○ يَا طَبِيْبَ الْقُلُوْبِ الْقَاسِيَةْ كَالْحِجَارَةْ",
+            "latin": "Bin Muhammadin habiibal-kulli haamii dzii maarah, Yaa thabiibal-quluubil-qaasiyati kal-hijaarah"
         },
         "14": {
-            "arabic": "وَجَمَالٌ يَا مُطَاعِ",
-            "latin": "Wa jamaalun yaa muthaa'i"
+            "arabic": "قَدْ قَصَدْنَا حَمَاكُمْ هَيَّا هَيَّا بِغَارَةْ ○ حِلَّهَا حِلَّهَا فَكُّوْا جَمِيْعَ الزِّيَارَةْ",
+            "latin": "Qad qashadnaa hamaakum hayyaa hayyaa bighaarah, Hillahaa hillahaa fakkuu jami'az-ziyaarah"
         },
         "15": {
-            "arabic": "قَدْ تَجَلَّيْتَ لِقَلْبِي",
-            "latin": "Qad tajallaita liqalbii"
+            "arabic": "سِرَّكُمْ قَدْ سَرٰى فِي الْكَوْنِ كُلَّهْ جِهَارَةْ ○ وَأَنْتُمْ أَهْلُ الْمَوَدَّةْ ذُخْرُنَا وَالسِّيَارَةْ",
+            "latin": "Sirrakum qad saraa fil-kauni kullahi jihaarah, Wa antum ahlul-mawaddati dzukh-runaa was-siyaarah"
         },
         "16": {
-            "arabic": "مُسْفِرًا دُوْنَ قِنَاعِ",
-            "latin": "Musfiran duuna qinaa'i"
+            "arabic": "فَانْظُرُوْا حَالَ مَنْ حَلَّتْ عَلَيْهِ الْخَسَارَةْ ○ وَارْفَعُوا الطَّرْفَ لِلْمَوْلٰى وَقُوْلُوْا بِشَارَةْ",
+            "latin": "Fanzhuruu haala man hallat 'alaihil-khasaarah, Warfa'uth-tharfa lil-mawlaa wa quuluu bisaarah"
         },
         "17": {
-            "arabic": "وَعَلٰى عِشْقِ الْجَمَالِ",
-            "latin": "Wa 'alaa 'isyqil-jamaali"
+            "arabic": "مُقْبِلِ الْخَيْرِ تَهْلِهْ يَا يَحِنُّوْنَ طَارَةْ ○ يَهْنَئْنَا وَيَهْنَئْكُمْ بِحُسْنِ الْعِمَارَةْ",
+            "latin": "Muqbiliil-khairi tahlih yaa yahinuuna thaarah, Yahna'naa wa yahna'kum bihusnil-'imaarah"
         },
         "18": {
-            "arabic": "طَبَعَ اللهُ الطِّبَاعِ",
-            "latin": "Thaba'allahu th-thibaa'i"
-        },
-        "19": {
-            "arabic": "وَلَبِسْنَا ثَوْبَ عِزٍّ",
-            "latin": "Wa labisnaa tsauba 'izzin"
-        },
-        "20": {
-            "arabic": "بَعْدَ تَلْفِيْقِ الرِّقَاعِ",
-            "latin": "Ba'da talfiiqir-riqaa'i"
-        },
-        "21": {
-            "arabic": "مَرْحَبًا يَا نُوْرَ عَيْنِي",
-            "latin": "Marhaban yaa nuura 'ainii"
-        },
-        "22": {
-            "arabic": "مَرْحَبًا جَدَّ الْحُسَيْنِ",
-            "latin": "Marhaban jaddal-Husaini"
-        },
-        "23": {
-            "arabic": "مَبْرَكَ الْيَومْ ذَا جِيْنَا لِقَصْدِ الزِّيَارَةْ",
-            "latin": "Mabrakal-yaum dzaa jiinaa liqashdiz-ziyaarah"
-        },
-        "24": {
-            "arabic": "لِلْإِمَامِ الْمُعَظَّمْ كَنْزَنَا وَالتِّجَارَةْ",
-            "latin": "Lil-imaamil-mu'azzhomi kanzaanaa wat-tijaarah"
-        },
-        "25": {
-            "arabic": "بِنْ مُحَمَّدْ حَبِيْبَ الْكُلِّ حَامِي ذِي مَارَةْ",
-            "latin": "Bin Muhammadin habiibal-kulli haamii dzii maarah"
-        },
-        "26": {
-            "arabic": "يَا طَبِيْبَ الْقُلُوْبِ الْقَاسِيَةْ كَالْحِجَارَةْ",
-            "latin": "Yaa thabiibal-quluubil-qaasiyati kal-hijaarah"
-        },
-        "27": {
-            "arabic": "قَدْ قَصَدْنَا حَمَاكُمْ هَيَّا هَيَّا بِغَارَةْ",
-            "latin": "Qad qashadnaa hamaakum hayyaa hayyaa bighaarah"
-        },
-        "28": {
-            "arabic": "حِلَّهَا حِلَّهَا فَكُّوْا جَمِيْعَ الزِّيَارَةْ",
-            "latin": "Hillahaa hillahaa fakkuu jami'az-ziyaarah"
-        },
-        "29": {
-            "arabic": "سِرَّكُمْ قَدْ سَرٰى فِي الْكَوْنِ كُلَّهْ جِهَارَةْ",
-            "latin": "Sirrakum qad saraa fil-kauni kullahi jihaarah"
-        },
-        "30": {
-            "arabic": "وَأَنْتُمْ أَهْلُ الْمَوَدَّةْ ذُخْرُنَا وَالسِّيَارَةْ",
-            "latin": "Wa antum ahlul-mawaddati dzukh-runaa was-siyaarah"
-        },
-        "31": {
-            "arabic": "فَانْظُرُوْا حَالَ مَنْ حَلَّتْ عَلَيْهِ الْخَسَارَةْ",
-            "latin": "Fanzhuruu haala man hallat 'alaihil-khasaarah"
-        },
-        "32": {
-            "arabic": "وَارْفَعُوا الطَّرْفَ لِلْمَوْلٰى وَقُوْلُوْا بِشَارَةْ",
-            "latin": "Warfa'uth-tharfa lil-mawlaa wa quuluu bisaarah"
-        },
-        "33": {
-            "arabic": "مُقْبِلِ الْخَيْرِ تَهْلِهْ يَا يَحِنُّوْنَ طَارَةْ",
-            "latin": "Muqbiliil-khairi tahlih yaa yahinuuna thaarah"
-        },
-        "34": {
-            "arabic": "يَهْنَئْنَا وَيَهْنَئْكُمْ بِحُسْنِ الْعِمَارَةْ",
-            "latin": "Yahna'naa wa yahna'kum bihusnil-'imaarah"
-        },
-        "35": {
-            "arabic": "وَالصَّلَاةُ عَلٰى مَنْ بِهِ قَبُولِ الزِّيَارَةْ",
-            "latin": "Was-sholaatu 'alaa man bihii qubuuluz-ziyaarah"
-        },
-        "36": {
-            "arabic": "وَآلِهِ وَالصَّحَابَةِ وَأَهْلِ بَيْتِهٖ وَجَارَةْ",
-            "latin": "Wa aalihii wash-shohaabati wa ahlii baitihii wa jaarah"
+            "arabic": "وَالصَّلَاةُ عَلٰى مَنْ بِهِ قَبُولِ الزِّيَارَةْ ○ وَآلِهِ وَالصَّحَابَةِ وَأَهْلِ بَيْتِهٖ وَجَارَةْ",
+            "latin": "Was-sholaatu 'alaa man bihii qubuuluz-ziyaarah, Wa aalihii wash-shohaabati wa ahlii baitihii wa jaarah"
         }
     },
     "translations": {
         "id": {
             "name": "Thola'al Badru 'Alaina (Daarul Ishlah)",
             "text": {
-                "1": "Bulan purnama telah terbit untuk kita",
-                "2": "Dari celah gunung Wada'",
-                "3": "Dan wajiblah rasa syukur atas kita",
-                "4": "Selama ada yang berdoa kepada Allah",
-                "5": "Wahai Nabi yang diutus di antara kami",
-                "6": "Engkau datang dengan perintah yang ditaati",
-                "7": "Jadilah pemberi syafaat wahai kekasihku",
-                "8": "Pada hari kebangkitan dan berkumpul",
-                "9": "Ya Tuhan kami, limpahkanlah rahmat kepada orang yang",
-                "10": "Berada di tempat terbaik",
-                "11": "Dan turunkanlah tirai penutup dosa kami",
-                "12": "Wahai Yang Maha Mengabulkan doa",
-                "13": "Engkau dalam segala hal adalah keindahan",
-                "14": "Dan kecantikan wahai Yang Ditaati",
-                "15": "Engkau telah menampakkan diri kepada hatiku",
-                "16": "Dengan terang benderang tanpa hijab",
-                "17": "Dan atas cinta kepada keindahan",
-                "18": "Allah telah menciptakan manusia",
-                "19": "Dan kami telah mengenakan jubah kemuliaan",
-                "20": "Setelah menambal sulam kain yang robek",
-                "21": "Selamat datang wahai cahaya mataku",
-                "22": "Selamat datang kakek Husain",
-                "23": "Berkahlah hari ini kami datang dengan tujuan berziarah",
-                "24": "Kepada Imam yang mulia, harta karun dan perdagangan kami",
-                "25": "Putra Muhammad, kekasih semua orang, pelindung orang yang bepergian",
-                "26": "Wahai tabib hati yang keras seperti batu",
-                "27": "Kami telah bermaksud mengunjungi tempatmu, marilah marilah dengan semangat",
-                "28": "Bukalah, bukalah, bebaskan semua pengunjung",
-                "29": "Rahasiamu telah tersebar di seluruh alam dengan terang-terangan",
-                "30": "Dan kalianlah orang-orang yang penuh kasih sayang, harta karun dan kendaraan kami",
-                "31": "Maka perhatikanlah keadaan orang yang telah mengalami kerugian",
-                "32": "Dan angkatlah pandanganmu kepada Tuhan dan katakanlah kabar gembira",
-                "33": "Kedatangan kebaikan, wahai orang-orang yang rindu",
-                "34": "Selamat untuk kami dan selamat untuk kalian dengan kebaikan bangunan",
-                "35": "Dan shalawat kepada orang yang dengan-Nya diterima ziarah",
-                "36": "Dan kepada keluarganya, para sahabat, dan ahli baitnya serta tetangganya"
+                "1": "Bulan purnama telah terbit untuk kita, Dari celah gunung Wada'",
+                "2": "Dan wajiblah rasa syukur atas kita, Selama ada yang berdoa kepada Allah",
+                "3": "Wahai Nabi yang diutus di antara kami, Engkau datang dengan perintah yang ditaati",
+                "4": "Jadilah pemberi syafaat wahai kekasihku, Pada hari kebangkitan dan berkumpul",
+                "5": "Ya Tuhan kami, limpahkanlah rahmat kepada orang yang, Berada di tempat terbaik",
+                "6": "Dan turunkanlah tirai penutup dosa kami, Wahai Yang Maha Mengabulkan doa",
+                "7": "Engkau dalam segala hal adalah keindahan, Dan kecantikan wahai Yang Ditaati",
+                "8": "Engkau telah menampakkan diri kepada hatiku, Dengan terang benderang tanpa hijab",
+                "9": "Dan atas cinta kepada keindahan, Allah telah menciptakan manusia",
+                "10": "Dan kami telah mengenakan jubah kemuliaan, Setelah menambal sulam kain yang robek",
+                "11": "Selamat datang wahai cahaya mataku, Selamat datang kakek Husain",
+                "12": "Berkahlah hari ini kami datang dengan tujuan berziarah, Kepada Imam yang mulia, harta karun dan perdagangan kami",
+                "13": "Putra Muhammad, kekasih semua orang, pelindung orang yang bepergian, Wahai tabib hati yang keras seperti batu",
+                "14": "Kami telah bermaksud mengunjungi tempatmu, marilah marilah dengan semangat, Bukalah, bukalah, bebaskan semua pengunjung",
+                "15": "Rahasiamu telah tersebar di seluruh alam dengan terang-terangan, Dan kalianlah orang-orang yang penuh kasih sayang, harta karun dan kendaraan kami",
+                "16": "Maka perhatikanlah keadaan orang yang telah mengalami kerugian, Dan angkatlah pandanganmu kepada Tuhan dan katakanlah kabar gembira",
+                "17": "Kedatangan kebaikan, wahai orang-orang yang rindu, Selamat untuk kami dan selamat untuk kalian dengan kebaikan bangunan",
+                "18": "Dan shalawat kepada orang yang dengan-Nya diterima ziarah, Dan kepada keluarganya, para sahabat, dan ahli baitnya serta tetangganya"
             }
         }
     },

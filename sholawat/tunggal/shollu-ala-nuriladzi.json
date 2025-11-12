@@ -4,170 +4,90 @@
     "source": "kitabkuning.id",
     "text": {
         "1": {
-            "arabic": "صَلُّوا عَلَى النُّوْرِ الَّذِي عَرَجَ السَّمَا",
-            "latin": "Ṣhallū ‘alān-nūril-ladzī ‘arajas-samā"
+            "arabic": "صَلُّوا عَلَى النُّوْرِ الَّذِي عَرَجَ السَّمَا ○ يَافَوْزَ مَنْ صَلَّى عَلَيْهِ وَسَلَّمَا",
+            "latin": "Ṣhallū ‘alān-nūril-ladzī ‘arajas-samā, Yā fauza man ṣhallā ‘alaihi wa sallamā"
         },
         "2": {
-            "arabic": "يَافَوْزَ مَنْ صَلَّى عَلَيْهِ وَسَلَّمَا",
-            "latin": "Yā fauza man ṣhallā ‘alaihi wa sallamā"
+            "arabic": "جَادَتْ سُلَيْمَا بِالْوِصَالِ تَكَرُّمَا ○ فَسَرَى السُّرُوْرُ إِلَى الْفُؤَادِ وَخَيَّمَا",
+            "latin": "Jādat Sulaimā bi l-wiṣhāli takarraumā, Fa sarās-surūru ilāl-fu’ādi wa khayyama"
         },
         "3": {
-            "arabic": "جَادَتْ سُلَيْمَا بِالْوِصَالِ تَكَرُّمَا",
-            "latin": "Jādat Sulaimā bi l-wiṣhāli takarraumā"
+            "arabic": "يَاحُسْنَ مَا جَادَتْ بِهِ فِي وَصْلهَا ○ أَهْلًا بِوَصْلٍ فِيْهِ نِلْتُ الْمَغْنَمَا",
+            "latin": "Yā ḥusna mā jādat bihi fī waṣhlihā, Ahlan bi waṣhlin fīhi niltul-maghnamā"
         },
         "4": {
-            "arabic": "فَسَرَى السُّرُوْرُ إِلَى الْفُؤَادِ وَخَيَّمَا",
-            "latin": "Fa sarās-surūru ilāl-fu’ādi wa khayyama"
+            "arabic": "مِنَنٌ تَسَارَعَتْ الْعُقُوْلُ لِنَيْلِهَا ○ وَهِبَاتُ فَضْلٍ أَوْرَثَتْنَا أَنْعُمَا",
+            "latin": "Minanun tasāra’at al-‘uqūlu li nailihā, Wa hibātu faḍhlin auratsatnā an’umā"
         },
         "5": {
-            "arabic": "يَاحُسْنَ مَا جَادَتْ بِهِ فِي وَصْلهَا",
-            "latin": "Yā ḥusna mā jādat bihi fī waṣhlihā"
+            "arabic": "يَا حَادِيَ الْعِيْسِ الرَّوَاسِمِ عُجْ بِهَا ○ سَفْحَ الْعَقِيْقِ وَحُطَّ رَحْلَكَ فِي الْحِمٰى",
+            "latin": "Yā hādiyal-‘īsir-rawāsimi ‘uj bihā, Safḥal-‘aqīqi wa ḥuṭṭha raḥlaka fīl-ḥimā"
         },
         "6": {
-            "arabic": "أَهْلًا بِوَصْلٍ فِيْهِ نِلْتُ الْمَغْنَمَا",
-            "latin": "Ahlan bi waṣhlin fīhi niltul-maghnamā"
+            "arabic": "فِى مَنْزِلِ الْجُوْدِ الْغَزِيْرِ وَمَنْبَعِ ○ فَضْلِ الْكَثِيْرِ وَخَيْرِ مَجْدٍ قَدْ نَمَا",
+            "latin": "Fī manzilil-jūdi al-ghazīri wa manba’i, Faḍhlil-katsīri wa khairi majdin qad namā"
         },
         "7": {
-            "arabic": "مِنَنٌ تَسَارَعَتْ الْعُقُوْلُ لِنَيْلِهَا",
-            "latin": "Minanun tasāra’at al-‘uqūlu li nailihā"
+            "arabic": "فِي جَنَّةِ مَا شَاقَنِي مِنْ وَصْفِهَا ○ إِلَّا لِكَوْنِ الْحِبِّ فِيْهَا خَيَّمَا",
+            "latin": "Fī jannati mā syāqanī min waṣhfihā, Illā li kaunil-ḥibbi fīhā khayyama"
         },
         "8": {
-            "arabic": "وَهِبَاتُ فَضْلٍ أَوْرَثَتْنَا أَنْعُمَا",
-            "latin": "Wa hibātu faḍhlin auratsatnā an’umā"
+            "arabic": "مَازْمْزَمَ الْحَادِى بِذِكْرِ نَزِيْلَهَا ○ إِلَّا وَأَنْشَنِي إِذَا مَا زَمْزَمَا",
+            "latin": "Mā zamzamal-ḥādī bi dzikri nazīlahā, Illā wa ansyanī idzā mā zamzamā"
         },
         "9": {
-            "arabic": "يَا حَادِيَ الْعِيْسِ الرَّوَاسِمِ عُجْ بِهَا",
-            "latin": "Yā hādiyal-‘īsir-rawāsimi ‘uj bihā"
+            "arabic": "فَمَتٰى أَرَاهَا لَاثِمًا لِتُرَابِهَا ○ يَا لَيْتَنِي لِلتُّرْبِ ذٰلِكَ اَلْثَمَا",
+            "latin": "Fa matā arāhā lātsiman li turābihā, Yā laitanī lit-turbi dzālika al-tsama"
         },
         "10": {
-            "arabic": "سَفْحَ الْعَقِيْقِ وَحُطَّ رَحْلَكَ فِي الْحِمٰى",
-            "latin": "Safḥal-‘aqīqi wa ḥuṭṭha raḥlaka fīl-ḥimā"
+            "arabic": "رِفْقًا بِقَلْبٍ فِي الْهَوٰى مُتَعَلَّقٍ ○ بِمَطَامَعٍ يَرْجُوْبِهَا أَنْ يُكْرَمَا",
+            "latin": "Rifqan bi qalbin fīl-hawā muta’alliqin, Bi maṭhāmi’in yarjūbihā an yukrama"
         },
         "11": {
-            "arabic": "فِى مَنْزِلِ الْجُوْدِ الْغَزِيْرِ وَمَنْبَعِ",
-            "latin": "Fī manzilil-jūdi al-ghazīri wa manba’i"
+            "arabic": "إِنِّي إِذَا ذُكِرَتْ مَنَازِلُ سَادَتِي ○ كَادَتْ دُمُوْعُ الْعَيْنِ أَنْ تَجْرِي دَمَا",
+            "latin": "Innī idzā dhukirat manāzilu sādatī, Kādat dumū’ul-‘aini an tajrī damā"
         },
         "12": {
-            "arabic": "فَضْلِ الْكَثِيْرِ وَخَيْرِ مَجْدٍ قَدْ نَمَا",
-            "latin": "Faḍhlil-katsīri wa khairi majdin qad namā"
+            "arabic": "أَوْ شَاهَدَتْ عَيْنَايَ مَوْطِنَ قُرْبِهِمْ ○ الْفَيْتَنِي أَحْرَمْتُ فِيْمَنْ أَحْرَمَا",
+            "latin": "Au syāhadat ‘aināya mauthina qurbihim, Al-faitanī aḥramtu fīmān aḥramā"
         },
         "13": {
-            "arabic": "فِي جَنَّةِ مَا شَاقَنِي مِنْ وَصْفِهَا",
-            "latin": "Fī jannati mā syāqanī min waṣhfihā"
+            "arabic": "قَسَمًا بِرَبِّ الْبَيْتِ مَا ذُكِرَ النَّقَا ○ وَالْمُنْحَنٰى إِلَّا وَكُنْتَ مَتَيَّمَا",
+            "latin": "Qasamān bi rabbil-baiti mā dzukiran-naqā, Wal-munḥanā illā wa kunta matayyamaa"
         },
         "14": {
-            "arabic": "إِلَّا لِكَوْنِ الْحِبِّ فِيْهَا خَيَّمَا",
-            "latin": "Illā li kaunil-ḥibbi fīhā khayyama"
+            "arabic": "يَا لَيْلَةَ بَاتَ الْحَبِيْبُ يُدِيْرُ مِنْ ○ كَأْسِ الْوِصَالِ مُدَامَةً مَا أَنْعَمَا",
+            "latin": "Yā lailata bāta al-ḥabību yudīru min, Ka’sil-wiṣhāli mudāmatan mā an’amā"
         },
         "15": {
-            "arabic": "مَازْمْزَمَ الْحَادِى بِذِكْرِ نَزِيْلَهَا",
-            "latin": "Mā zamzamal-ḥādī bi dzikri nazīlahā"
+            "arabic": "شَوْقِي إِلٰى دَارِ الْحَبِيْبِ مُحَمَّدٍ ○ شَوْقٌ تَمَكَّنَ فِي الْحَشَا وَتَكَتَّمَا",
+            "latin": "Syawqī ilā dāril-ḥabību Muḥammadin, Syawqun tamakkana fīl-ḥasyā wa takattama"
         },
         "16": {
-            "arabic": "إِلَّا وَأَنْشَنِي إِذَا مَا زَمْزَمَا",
-            "latin": "Illā wa ansyanī idzā mā zamzamā"
-        },
-        "17": {
-            "arabic": "فَمَتٰى أَرَاهَا لَاثِمًا لِتُرَابِهَا",
-            "latin": "Fa matā arāhā lātsiman li turābihā"
-        },
-        "18": {
-            "arabic": "يَا لَيْتَنِي لِلتُّرْبِ ذٰلِكَ اَلْثَمَا",
-            "latin": "Yā laitanī lit-turbi dzālika al-tsama"
-        },
-        "19": {
-            "arabic": "رِفْقًا بِقَلْبٍ فِي الْهَوٰى مُتَعَلَّقٍ",
-            "latin": "Rifqan bi qalbin fīl-hawā muta’alliqin"
-        },
-        "20": {
-            "arabic": "بِمَطَامَعٍ يَرْجُوْبِهَا أَنْ يُكْرَمَا",
-            "latin": "Bi maṭhāmi’in yarjūbihā an yukrama"
-        },
-        "21": {
-            "arabic": "إِنِّي إِذَا ذُكِرَتْ مَنَازِلُ سَادَتِي",
-            "latin": "Innī idzā dhukirat manāzilu sādatī"
-        },
-        "22": {
-            "arabic": "كَادَتْ دُمُوْعُ الْعَيْنِ أَنْ تَجْرِي دَمَا",
-            "latin": "Kādat dumū’ul-‘aini an tajrī damā"
-        },
-        "23": {
-            "arabic": "أَوْ شَاهَدَتْ عَيْنَايَ مَوْطِنَ قُرْبِهِمْ",
-            "latin": "Au syāhadat ‘aināya mauthina qurbihim"
-        },
-        "24": {
-            "arabic": "الْفَيْتَنِي أَحْرَمْتُ فِيْمَنْ أَحْرَمَا",
-            "latin": "Al-faitanī aḥramtu fīmān aḥramā"
-        },
-        "25": {
-            "arabic": "قَسَمًا بِرَبِّ الْبَيْتِ مَا ذُكِرَ النَّقَا",
-            "latin": "Qasamān bi rabbil-baiti mā dzukiran-naqā"
-        },
-        "26": {
-            "arabic": "وَالْمُنْحَنٰى إِلَّا وَكُنْتَ مَتَيَّمَا",
-            "latin": "Wal-munḥanā illā wa kunta matayyamaa"
-        },
-        "27": {
-            "arabic": "يَا لَيْلَةَ بَاتَ الْحَبِيْبُ يُدِيْرُ مِنْ",
-            "latin": "Yā lailata bāta al-ḥabību yudīru min"
-        },
-        "28": {
-            "arabic": "كَأْسِ الْوِصَالِ مُدَامَةً مَا أَنْعَمَا",
-            "latin": "Ka’sil-wiṣhāli mudāmatan mā an’amā"
-        },
-        "29": {
-            "arabic": "شَوْقِي إِلٰى دَارِ الْحَبِيْبِ مُحَمَّدٍ",
-            "latin": "Syawqī ilā dāril-ḥabību Muḥammadin"
-        },
-        "30": {
-            "arabic": "شَوْقٌ تَمَكَّنَ فِي الْحَشَا وَتَكَتَّمَا",
-            "latin": "Syawqun tamakkana fīl-ḥasyā wa takattama"
-        },
-        "31": {
-            "arabic": "دَارٍ حَوَتْ نِعْمَ الْإِلٰهِ جَمِيعَهَا",
-            "latin": "Dārin ḥawat ni’mal-ilāhi jamī’ahā"
-        },
-        "32": {
-            "arabic": "مُنْحَلَّ فِيهَا خَيْرُ عَبْدٍ قَدْ سَمَا",
-            "latin": "Munḥallā fīhā khairu ‘abdin qad samā"
+            "arabic": "دَارٍ حَوَتْ نِعْمَ الْإِلٰهِ جَمِيعَهَا ○ مُنْحَلَّ فِيهَا خَيْرُ عَبْدٍ قَدْ سَمَا",
+            "latin": "Dārin ḥawat ni’mal-ilāhi jamī’ahā, Munḥallā fīhā khairu ‘abdin qad samā"
         }
     },
     "translations": {
         "id": {
             "name": "Shalawatlah Atas Cahaya",
             "text": {
-                "1": "Shalawatlah atas cahaya yang telah naik ke langit",
-                "2": "Beruntunglah orang yang bershalawat dan mengucapkan salam kepadanya",
-                "3": "Sulaima telah bermurah hati dengan kedekatan sebagai bentuk penghormatan",
-                "4": "Maka kebahagiaan mengalir ke hati dan berkemah di sana",
-                "5": "Alangkah indahnya apa yang dia berikan dalam kedekatannya",
-                "6": "Selamat datang kedekatan, di dalamnya aku mendapatkan keuntungan",
-                "7": "Karunia yang akal berlomba-lomba untuk mendapatkannya",
-                "8": "Dan pemberian karunia yang mewariskan kepada kita kenikmatan",
-                "9": "Wahai penggembala unta yang berjejak, pergilah dengannya",
-                "10": "Ke lereng Aqiq dan turunkanlah bekalmu di kawasan suci",
-                "11": "Di tempat kedermawanan yang berlimpah dan sumber",
-                "12": "Karunia yang banyak dan kemuliaan yang telah berkembang",
-                "13": "Di surga yang tidak membuatku bosan dengan deskripsinya",
-                "14": "Kecuali karena cinta di dalamnya berkemah",
-                "15": "Penggembala unta itu terus menerus menyebut nama penghuninya",
-                "16": "Kecuali membuatku menangis ketika dia terus menyebutnya",
-                "17": "Kapan aku akan melihatnya agar aku dapat mencium tanahnya",
-                "18": "Ya seandainya aku dapat mencium tanah itu",
-                "19": "Berkasih sayanglah dengan hati yang terikat cinta",
-                "20": "Dengan ambisi yang dia harapkan agar dihormati",
-                "21": "Sesungguhnya ketika tempat tinggal tuanku disebutkan",
-                "22": "Hampir saja air mata mengalir seperti darah",
-                "23": "Ataupun mataku melihat tempat tinggal mereka",
-                "24": "Kau dapati aku berihram bersama orang-orang yang berihram",
-                "25": "Demi Allah Rabb Ka’bah, tidak pernah disebut lembah",
-                "26": "Dan lembah kecil kecuali kau menjadi mabuk cinta",
-                "27": "Wahai malam, kekasihku menghabiskan malam dengan menuangkan",
-                "28": "Cawan kedekatan minuman keras yang tidak pernah berhenti",
-                "29": "Kerinduanku pada rumah kekasihku Muhammad",
-                "30": "Kerinduan yang telah menguasai hati dan tersembunyi",
-                "31": "Rumah yang memuat semua nikmat Allah",
-                "32": "Di sanalah tempat terpenuhinya kebaikan hamba yang telah dimuliakan"
+                "1": "Shalawatlah atas cahaya yang telah naik ke langit, Beruntunglah orang yang bershalawat dan mengucapkan salam kepadanya",
+                "2": "Sulaima telah bermurah hati dengan kedekatan sebagai bentuk penghormatan, Maka kebahagiaan mengalir ke hati dan berkemah di sana",
+                "3": "Alangkah indahnya apa yang dia berikan dalam kedekatannya, Selamat datang kedekatan, di dalamnya aku mendapatkan keuntungan",
+                "4": "Karunia yang akal berlomba-lomba untuk mendapatkannya, Dan pemberian karunia yang mewariskan kepada kita kenikmatan",
+                "5": "Wahai penggembala unta yang berjejak, pergilah dengannya, Ke lereng Aqiq dan turunkanlah bekalmu di kawasan suci",
+                "6": "Di tempat kedermawanan yang berlimpah dan sumber, Karunia yang banyak dan kemuliaan yang telah berkembang",
+                "7": "Di surga yang tidak membuatku bosan dengan deskripsinya, Kecuali karena cinta di dalamnya berkemah",
+                "8": "Penggembala unta itu terus menerus menyebut nama penghuninya, Kecuali membuatku menangis ketika dia terus menyebutnya",
+                "9": "Kapan aku akan melihatnya agar aku dapat mencium tanahnya, Ya seandainya aku dapat mencium tanah itu",
+                "10": "Berkasih sayanglah dengan hati yang terikat cinta, Dengan ambisi yang dia harapkan agar dihormati",
+                "11": "Sesungguhnya ketika tempat tinggal tuanku disebutkan, Hampir saja air mata mengalir seperti darah",
+                "12": "Ataupun mataku melihat tempat tinggal mereka, Kau dapati aku berihram bersama orang-orang yang berihram",
+                "13": "Demi Allah Rabb Ka’bah, tidak pernah disebut lembah, Dan lembah kecil kecuali kau menjadi mabuk cinta",
+                "14": "Wahai malam, kekasihku menghabiskan malam dengan menuangkan, Cawan kedekatan minuman keras yang tidak pernah berhenti",
+                "15": "Kerinduanku pada rumah kekasihku Muhammad, Kerinduan yang telah menguasai hati dan tersembunyi",
+                "16": "Rumah yang memuat semua nikmat Allah, Di sanalah tempat terpenuhinya kebaikan hamba yang telah dimuliakan"
             }
         }
     },

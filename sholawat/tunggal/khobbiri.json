@@ -1,0 +1,50 @@
+{
+    "name": "خَبِّرِي يَا نُسَيْمَى",
+    "latin": "Khabbiri Yaa Nusaima",
+    "source": "kitabkuning.id",
+    "text": {
+        "1": {
+            "arabic": "خَبِّرِي يَا نُسَيْمَى عَنْ مُغْرَمْ شَذِى وَالْهَانْ",
+            "latin": "Khabbirī yā nusaimā ‘an mughram syadzī wal-hān"
+        },
+        "2": {
+            "arabic": "عَاشِقْ آهْ عَاشِقَ آهْ عَاشِقِ الْأَنْوَارْ",
+            "latin": "‘Asyiq aah ‘āsyiqa aah ‘āsyiqil-anwār"
+        },
+        "3": {
+            "arabic": "اَنْتِ عَنِّى تَشْتَكِي وَحَالِي كُلَّ اللَّيَالِي سَهْرَانْ",
+            "latin": "Anti ‘anni tasytakī wa ḥālī kullal-layāli sahrān"
+        },
+        "4": {
+            "arabic": "كَىْ أَرَى الْمُخْتَارْ ×۲",
+            "latin": "Kay arāl-mukhtār 2x"
+        },
+        "5": {
+            "arabic": "مَنْ يَلُمْنِي فِي غَرَامِي طَالَمَا عَاشِقْ جَمَالَكْ",
+            "latin": "Man yalumnī fī gharāmī ṭhālamā ‘āsyiq jamālak"
+        },
+        "6": {
+            "arabic": "يَا مُكَرَّمْ يَا مُمَجَّدْ يَا مَؤَيَّدْ بِالشَّفَاعَةْ",
+            "latin": "Yā mukarram yā mumajjad yā mu’ayyad bisy-syāfa’ah"
+        },
+        "7": {
+            "arabic": "هَا أَنَا أَنَا لَهَا",
+            "latin": "Hā anā anā lahā"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Khabbiri (Beri Tahu)",
+            "text": {
+                "1": "Beri tahu wahai angin sepoi-sepoi tentang kekasih yang mabuk dengan aroma dan rindu",
+                "2": "Kekasih, ah kekasih, ah kekasih cahaya",
+                "3": "Kau mengeluh tentangku dan keadaanku setiap malam terjaga",
+                "4": "Agar aku bisa melihat yang terpilih 2x",
+                "5": "Siapa yang akan menyalahkan aku dalam kekasihanku selama aku mencintai keindahanmu",
+                "6": "Wahai yang dimuliakan, wahai yang diagungkan, wahai yang dibantu dengan syafa’at",
+                "7": "Ini aku, ini aku untuknya"
+            }
+        }
+    },
+    "last_updated": "2025-11-11"
+}
