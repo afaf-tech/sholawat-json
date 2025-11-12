@@ -75,7 +75,14 @@
                     "7.json",
                     "8.json",
                     "9.json",
-                    "10.json"
+                    "10.json",
+                    "11.json",
+                    "12.json",
+                    "13.json",
+                    "14.json",
+                    "15.json",
+                    "16.json",
+                    "17.json"
                 ],
                 "schema": "simtudduror_fasl_v1.0.schema.json"
             }
