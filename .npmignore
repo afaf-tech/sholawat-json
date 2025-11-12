@@ -1,5 +1,16 @@
+# Exclude development and CI/CD files from npm package
 *.go
-validator
-
 go.mod
 go.sum
+validator/
+.github/
+.git/
+.gitignore
+.DS_Store
+
+# Keep only essential files for distribution:
+# - sholawat/ (data files)
+# - schemas/ (validation schemas)
+# - README.md
+# - LICENSE
+# - package.json

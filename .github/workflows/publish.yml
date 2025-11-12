@@ -1,0 +1,52 @@
+name: Publish to npm
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        registry-url: 'https://registry.npmjs.org'
+        
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+        
+    - name: Validate all JSON files
+      run: |
+        cd validator
+        go run main.go
+        
+    - name: Update package version
+      run: |
+        # Extract version from release tag (removes 'v' prefix if present)
+        VERSION=${GITHUB_REF#refs/tags/v}
+        echo "Publishing version: $VERSION"
+        npm version $VERSION --no-git-tag-version
+        
+    - name: Publish to npm
+      run: npm publish --provenance --access public
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        
+    - name: Success notification
+      if: success()
+      run: |
+        echo "✅ Successfully published sholawat-json@$VERSION to npm"
+        echo "📦 jsDelivr will automatically serve it at:"
+        echo "    https://cdn.jsdelivr.net/npm/sholawat-json@$VERSION/"
+        echo "    https://cdn.jsdelivr.net/npm/sholawat-json@latest/"

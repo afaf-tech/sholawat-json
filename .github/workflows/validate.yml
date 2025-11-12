@@ -1,0 +1,41 @@
+name: Validate JSON Schemas
+
+on:
+  pull_request:
+    branches: [ master ]
+    paths:
+      - 'sholawat/**/*.json'
+      - 'schemas/**/*.json'
+  push:
+    branches: [ master ]
+    paths:
+      - 'sholawat/**/*.json'
+      - 'schemas/**/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+        
+    - name: Run validator
+      run: |
+        cd validator
+        go run main.go
+        
+    - name: Validation success
+      if: success()
+      run: echo "✅ All JSON files passed schema validation"
+      
+    - name: Validation failed
+      if: failure()
+      run: |
+        echo "❌ Schema validation failed. Please fix the errors above."
+        exit 1
