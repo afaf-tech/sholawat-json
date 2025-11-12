@@ -1,0 +1,58 @@
+{
+  "source": "Unknown",
+  "name": "حُبُّ النَّبِيِّ",
+  "latin": "Hubbun-Nabiyyi",
+  "text": {
+    "1": {
+      "arabic": "حُبُّ النَّبِيِّ عَلَى الْإِنْسَانِ مُفْتَرَضُ ۞ وَحُبُّ أَصْحَابِهِ نُوْرٌ وَبُرْهَانُ",
+      "latin": "Ḥubbun-nabiyyi 'alāl insāni muftaraḍu ۞ Wa ḥubbu aṣ-ḥābihī nūrun wa burhānu"
+    },
+    "2": {
+      "arabic": "مَنْ كَانَ يَعْلَمُ أَنَّ اللَّهَ خَالِقَهُ ۞ لَا يَرْمَيَنَّ أَبَا بَكْرٍ بِبُهْتَانِ",
+      "latin": "Man kāna ya'lamu annallāha khāliquhu ۞ Lā yarmiyanna Abā Bakrin bibuhtāni"
+    },
+    "3": {
+      "arabic": "وَلَا أَبَا حَفْصٍ الْفَارُوْقَ صَاحِبَهُ ۞ وَلَا الْخَلِيْفَةَ عُثْمَانَ ابْنَ عَفَّانِ",
+      "latin": "Wa lā Abā Ḥafṣinil Fārūqa ṣāḥibahu ۞ Wa lal khalīfata 'Utsmānabna 'Affāni"
+    },
+    "4": {
+      "arabic": "وَلَا عَلِيًّا أَبَا السّبْطَيْنِ نِعْمَ فَتَى ۞ أَوْصَى بِهِ اللَّهُ فِي سِرٍ وَإِعْلَانِ",
+      "latin": "Wa lā 'Aliyyan Abas-Sibṭaini ni'ma fatā ۞ Awṣā bihillāhu fī sirrin wa i'lāni"
+    },
+    "5": {
+      "arabic": "فَهُمْ صَحَابَةُ خَيْرِ الْخَلْقِ خَصَّهُمُ ۞ رَبُّ الْعِبَادِ بِجَنَّاتٍ وَرِضْوَانِ",
+      "latin": "Fahum ṣaḥābatu khairil khalqi khaṣṣahumu ۞ Rabbul 'ibādi bijannātin wa riḍwāni"
+    },
+    "6": {
+      "arabic": "فَمَنْ أَحَبَّهُمْ قَدْ نَالَ مَنْزِلَةً ۞ عِنْدَ الْإِلَهِ وَجَازَاهُ بِإِحْسَانِ",
+      "latin": "Faman aḥabbahum qad nāla manzilah ۞ 'Indal ilāhi wa jāzāhu bi-iḥsāni"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Cinta Nabi",
+      "translator": "Unknown",
+      "text": {
+        "1": "Mencintai Nabi adalah kewajiban bagi manusia ۞ Dan mencintai para sahabatnya adalah cahaya dan bukti",
+        "2": "Barangsiapa yang tahu bahwa Allah adalah Penciptanya ۞ Janganlah ia menuduh Abu Bakar dengan kebohongan",
+        "3": "Dan jangan (pula) Abu Hafs Al-Faruq (Umar), sahabatnya ۞ Dan jangan (pula) Khalifah Utsman bin Affan",
+        "4": "Dan jangan (pula) Ali, ayah dari dua cucu (Hasan & Husain), sebaik-baik pemuda ۞ Allah telah mewasiatkannya secara rahasia dan terang-terangan",
+        "5": "Mereka adalah sahabat-sahabat sebaik-baik makhluk (Nabi) yang telah diistimewakan ۞ oleh Tuhan semesta alam dengan surga dan keridhaan",
+        "6": "Barangsiapa mencintai mereka, sungguh ia telah mendapat kedudukan ۞ di sisi Allah dan Dia akan membalasnya dengan kebaikan"
+      }
+    },
+    "en": {
+      "name": "Love for the Prophet",
+      "translator": "Unknown",
+      "text": {
+        "1": "Love for the Prophet is obligatory upon mankind ۞ And love for his companions is a light and a proof",
+        "2": "Whoever knows that Allah is his Creator ۞ Let him not accuse Abu Bakr with slander",
+        "3": "Nor Abu Hafs Al-Faruq (Umar), his companion ۞ Nor the Caliph Uthman ibn Affan",
+        "4": "Nor Ali, the father of the two grandsons, the best of youths ۞ Allah has enjoined (love for) him in secret and in public",
+        "5": "They are the companions of the best of creation, whom ۞ The Lord of the servants has specialized with gardens and pleasure",
+        "6": "Whoever loves them has indeed attained a high station ۞ With God, and He will reward him with goodness"
+      }
+    }
+  },
+  "last_updated": "2025-11-12"
+}

@@ -131,7 +131,9 @@
                 "description": "A collection of various suluk.",
                 "path_files": "sholawat/suluk/",
                 "files": [
-                    "fa-yaa-ayyuhar-rojuna.json"
+                    "fa-yaa-ayyuhar-rojuna.json",
+                    "fahamdan-lirobbi.json",
+                    "hubbun-nabi.json"
                 ],
                 "schema": "suluk_v1.0.schema.json"
             }
@@ -145,14 +147,16 @@
                 "description": "Individual sholawat not part of a larger collection.",
                 "path_files": "sholawat/tunggal/",
                 "files": [
-                    "shollu-ala-nuriladzi.json",
-                    "robbi-kholaq-thoha.json",
-                    "qad-kafaani-ilmu-robbi.json",
+                    "assalamu-alaika-zainal-anbiya.json",
                     "billaahi-gorrid.json",
-                    "yaa-sayyidii-yaa-rosuulallooh.json",
-                    "wa-asroo.json",
+                    "khobbiri.json",
+                    "qad-kafaani-ilmu-robbi.json",
+                    "robbi-kholaq-thoha.json",
+                    "shollu-ala-nuriladzi.json",
                     "tholaal-badru-alaina-daarul-ishlah.json",
-                    "ya-ahla-baitinabi-daarul-ishlah.json"
+                    "wa-asroo.json",
+                    "ya-ahla-baitinabi-daarul-ishlah.json",
+                    "yaa-sayyidii-yaa-rosuulallooh.json"
                 ],
                 "schema": "sholawat_tunggal_v1.0.schema.json"
             }

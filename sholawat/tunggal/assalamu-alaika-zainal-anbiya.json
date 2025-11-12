@@ -1,0 +1,86 @@
+{
+    "source": "Kitab Maulid Syaroful Anam",
+    "name": "اَلسَّلَامُ عَلَيْكَ زَيْنَ الْأَنْبِيَاء",
+    "latin": "Assalamu 'Alaik Zainal Anbiya'",
+    "text": {
+        "1": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ زَيْنَ الْأَنْبِيَاء",
+            "latin": "Assalamu 'alaika Zainal Anbiyâ'"
+        },
+        "2": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ أَتْقَى الْأَتْقِيَاء",
+            "latin": "Assalamu 'alaika Atqol Atqiyâ'"
+        },
+        "3": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ أَصْفَى الْأَصْفِيَاء",
+            "latin": "Assalamu 'alaika Ashfal Ashfiyâ'"
+        },
+        "4": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ أَزْكَى الْأَزْكِيَاء",
+            "latin": "Assalamu 'alaika Azkal Azkiyâ'"
+        },
+        "5": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ مِنْ رَبِّ السَّمَاء",
+            "latin": "Assalamu 'alaika Min Robbis-Samâ'"
+        },
+        "6": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ دَائِمًا بِلَا انْقِضَاء",
+            "latin": "Assalamu 'alaika Dâ-imam bilâ-nqidlô'"
+        },
+        "7": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ أَحْمَدُ يَا حَبِيْبِيْ",
+            "latin": "Assalamu 'alaika Ahmad Yâ Habîbî"
+        },
+        "8": {
+            "arabic": "اَلسَّلَامُ عَلَيْكَ طهَ يَا طَبِيْبِيْ",
+            "latin": "Assalamu 'alaika Thôhâ Yâ Thôbîbî"
+        },
+        "9": {
+            "arabic": "اَلسَّلَامُ عَلَى الْمُشَفَّعِ فِى الْقِيَامَة",
+            "latin": "Assalâmu 'alâl musyaffa' fil qiyâmah"
+        },
+        "10": {
+            "arabic": "اَلسَّلَامُ عَلَى الْمُظَلَّلِ بِالْغَمَامَة",
+            "latin": "Assalâmu 'alal mudhollali bil ghomâmah"
+        },
+        "11": {
+            "arabic": "اَلسَّلَامُ عَلَى الْمُتَوَّجِ بِالْكَرَامَة",
+            "latin": "Assalâmu 'alal mutawwaji bil karômah"
+        }
+    },
+    "translations": {
+        "en": {
+            "name": "Peace be upon you, O Ornament of the Prophets",
+            "text": {
+                "1": "Peace be upon you, O Ornament of the Prophets.",
+                "2": "Peace be upon you, O most pious of the pious.",
+                "3": "Peace be upon you, O purest of the chosen ones.",
+                "4": "Peace be upon you, O purest of the pure.",
+                "5": "Peace be upon you, from the Lord of the heavens.",
+                "6": "Peace be upon you, eternally and without end.",
+                "7": "Peace be upon you, O Ahmad, O my beloved.",
+                "8": "Peace be upon you, O Thoha, O my healer (physician of the heart).",
+                "9": "Peace be upon the one given intercession on the Day of Judgment.",
+                "10": "Peace be upon the one who was shaded by the cloud.",
+                "11": "Peace be upon the one who is crowned with nobility."
+            }
+        },
+        "id": {
+            "name": "Salam sejahtera bagimu, wahai hiasan para Nabi",
+            "text": {
+                "1": "Salam sejahtera bagimu, wahai hiasan para Nabi.",
+                "2": "Salam sejahtera bagimu, wahai yang paling takwa di antara orang-orang yang takwa.",
+                "3": "Salam sejahtera bagimu, wahai yang paling murni di antara orang-orang pilihan.",
+                "4": "Salam sejahtera bagimu, wahai yang paling suci di antara orang-orang yang suci.",
+                "5": "Salam sejahtera bagimu, (yang diutus) dari Tuhan penguasa langit.",
+                "6": "Salam sejahtera bagimu, selamanya tanpa ada habisnya.",
+                "7": "Salam sejahtera bagimu, wahai Ahmad, wahai kekasihku.",
+                "8": "Salam sejahtera bagimu, wahai Thoha, wahai penyembuhku (tabib hatiku).",
+                "9": "Salam sejahtera bagi sang pemberi syafa'at di hari kiamat.",
+                "10": "Salam sejahtera bagi dia yang dinaungi oleh awan mendung.",
+                "11": "Salam sejahtera bagi dia yang dimahkotai dengan kemuliaan."
+            }
+        }
+    },
+    "last_updated": "2025-11-10"
+}
