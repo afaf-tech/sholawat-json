@@ -35,6 +35,9 @@ build/
 *.sw?
 .DS_Store
 
+# GitHub Copilot instructions (internal use only)
+.github/instructions/
+
 # Logs
 logs
 *.log
