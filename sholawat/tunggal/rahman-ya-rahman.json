@@ -1,0 +1,130 @@
+{
+  "source": "Majelis Rasulullah",
+  "name": "رحمن يا رحمن",
+  "latin": "Rahman Ya Rahman",
+  "text": {
+    "1": {
+      "arabic": "رﺣﻤﻦ ﯾﺎ رﺣﻤﻦ",
+      "latin": "Raḥmān Yā Raḥmān"
+    },
+    "2": {
+      "arabic": "ﺳﺎﻋﺪﻧﻲ ﯾﺎ رﺣﻤﻦ",
+      "latin": "Sā’idnī Yā Raḥmān"
+    },
+    "3": {
+      "arabic": "اﺷﺮح ﺻﺪري ﻗﺮآن",
+      "latin": "Isyroḥ ṣodrī Qur-ān"
+    },
+    "4": {
+      "arabic": "أﻣﻸ ﻗﻠﺒﻲ ﻗﺮآن",
+      "latin": "Imla’ qolbī Qur-ān"
+    },
+    "5": {
+      "arabic": "واﺳﻘﻲ ﺣﯿﺎﺗﻲ ﻗﺮآن",
+      "latin": "Wasqī ḥayātī Qur-ān"
+    },
+    "6": {
+      "arabic": "ﷲ ﷲ ﯾﻬﻔﻮ أﻣﻠﻲ ﷲ",
+      "latin": "Lillāh lillāh yahfū amalī lillāh"
+    },
+    "7": {
+      "arabic": "وﻟﺤﻔﻆ ِ ﻛﺘﺎب ِ اﷲ",
+      "latin": "Wa liḥifdhi kitābillāh"
+    },
+    "8": {
+      "arabic": "ﻣﻦ أول ِ ﺑﺎﺳﻢ ِاﷲ",
+      "latin": "Min awwali bismillāh"
+    },
+    "9": {
+      "arabic": "ﻟﻠﺨﺘﻢ وﻟﻠﺮﺿﻮان",
+      "latin": "Lil khotmi wa lir-riḍwān"
+    },
+    "10": {
+      "arabic": "ﯾﺎ ﻧﻮر ﯾﺎ ﻧﻮر",
+      "latin": "Yā Nūr Yā Nūr"
+    },
+    "11": {
+      "arabic": "ﯾﺎ ﻣــُـﺤﻜﻢ ﯾﺎ ﺗﻨﺰﯾﻞ",
+      "latin": "Yā muḥkamu yā tanzīl"
+    },
+    "12": {
+      "arabic": "ﻟﻤﺤﻤﺪ ﻋﻦ ﺟﺒﺮﯾﻞ",
+      "latin": "Li Muḥammadin ‘an Jibrīl"
+    },
+    "13": {
+      "arabic": "ﻣﻦ رب اﻟﻌﺮش دﻟﯿﻞ",
+      "latin": "Min Rabbil ‘arsyi dalīl"
+    },
+    "14": {
+      "arabic": "ﻟﻠﻌﺎﻟﻢ واﻷﻧﺴﺎن",
+      "latin": "Lil ‘ālami wal insān"
+    },
+    "15": {
+      "arabic": "ﺗﻜﺒﯿﺮ ﺗﻜﺒﯿﺮ",
+      "latin": "Takbīr takbīr"
+    },
+    "16": {
+      "arabic": "ﻟﻠﺤﺎﻓﻆ ِ وﻫﻮ ﺻﻐﯿﺮ",
+      "latin": "Lil ḥāfidzi wa huwa ṣoghīr"
+    },
+    "17": {
+      "arabic": "وﺿـّﺎء اﻟﻌﯿﻦ ﻗﺮﯾﺮ",
+      "latin": "Waḍḍā-ul ‘aini qarīr"
+    },
+    "18": {
+      "arabic": "ﯾﺤﻤﻞ ُ ﻓﺠﺮا ً ﻟﯿــُـﻨﯿﺮ",
+      "latin": "Yaḥmilu fajron liyunīr"
+    },
+    "19": {
+      "arabic": "ﺑﺘﻼوﺗﻪ اﻷﻛﻮان",
+      "latin": "Bitilāwatihil akwān"
+    },
+    "20": {
+      "arabic": "اﷲ اﷲ اﻟﻠﻬﻢ اﺟﻤﻌﻨﺎ",
+      "latin": "Allāh Allāh Allāhummajma’nā"
+    },
+    "21": {
+      "arabic": "ﺑﻜﺘﺎﺑﻚ و اﻧﻔﻌﻨﺎ",
+      "latin": "Bikitābika wanfa’nā"
+    },
+    "22": {
+      "arabic": "واﺟﻌﻠﻪ ﻟﻨﺎ ﺣﺼﻨﺎ",
+      "latin": "Waj’alhu lanā ḥiṣnā"
+    },
+    "23": {
+      "arabic": "وﻫﺪى أﺑﺪا وأﻣﺎن",
+      "latin": "Wa hudan abadan wa amān"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Yang Maha Pengasih",
+      "text": {
+        "1": "(Wahai Yang Maha Pengasih)",
+        "2": "Bantulah aku.. Wahai Yang Maha Pengasih",
+        "3": "Lapangkan dadaku untuk (memahami) Al-Qur’an,",
+        "4": "Penuhi hati ini (dengan cinta) kepada Al-Qur’an,",
+        "5": "Sirami hidupku dengan Al-Qur’an",
+        "6": "Hanya untuk Allah, begitu mendalam keinginanku karena Allah…",
+        "7": "Bisakah aku menjaga (mempelajari) Al-Qur’an",
+        "8": "Dimulai dengan “Bismillah…”,",
+        "9": "Hingga penutupan (Al-Qur’an) dan mendapat keridho’an",
+        "10": "Wahai Penerang.. Wahai Penerang..",
+        "11": "Wahai yang menetapkan juga menurunkan (Al-Qur’an)",
+        "12": "Untuk Muhammad (SAW), melalui Jibril,",
+        "13": "Petunjuk dari Tuhan yang menguasai arsy",
+        "14": "Bagi semesta alam dan manusia",
+        "15": "Bertakbirlah… bertakbirlah…",
+        "16": "Bagi yang memepelajari (Al-Qur’an) sejak kecil",
+        "17": "Menerangi mata dengan ketenangan dan kedamaian,",
+        "18": "Bersinar laksana cahaya subuh",
+        "19": "Alam semesta yang diperkaya dengan ayat-ayat Nya",
+        "20": "Wahai Allah.. kumpulkanlah kami bersama-sama,",
+        "21": "Dengan barokah dari kitab (Al-Qur’an)-Mu dan berilah manfaat pada kami",
+        "22": "Menjadi benteng/pertahanan kita,",
+        "23": "Petunjuk yang kekal abadi dan keamanan"
+      }
+    }
+  },
+  "last_updated": "2025-11-17"
+}

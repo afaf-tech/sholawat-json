@@ -154,19 +154,30 @@
                 "description": "Individual sholawat not part of a larger collection.",
                 "path_files": "sholawat/tunggal/",
                 "files": [
+                    "allahu-allah-lamma-nadanihuwa.json",
                     "assalamu-alaika-zainal-anbiya.json",
                     "billaahi-gorrid.json",
                     "fihubbi-sayyidina-muhammad.json",
                     "khobbiri.json",
+                    "nurul-mustofa.json",
                     "qad-kafaani-ilmu-robbi.json",
+                    "qod-kafani.json",
+                    "qomarun.json",
+                    "rahman-ya-rahman.json",
                     "robbi-kholaq-thoha.json",
+                    "sholawatullahi-taghsya.json",
                     "shollu-ala-nuriladzi.json",
                     "tholaal-badru-alaina-daarul-ishlah.json",
                     "wa-asroo.json",
+                    "waqtu-sahar.json",
                     "ya-ahla-baitinabi-daarul-ishlah.json",
+                    "ya-asyiqol-mustofa.json",
+                    "ya-man-taala.json",
+                    "ya-rabba-makkah-was-shofa.json",
+                    "yaa-khoiro-hadi.json",
                     "yaa-sayyidii-yaa-rosuulallooh.json"
                 ],
-                "schema": "sholawat_tunggal_v1.0.schema.json"
+                "schema": "sholawat_tunggal_v1.1.schema.json"
             }
         ]
     }
