@@ -1,0 +1,45 @@
+{
+  "source": "Majelis Rasulullah",
+  "name": "يَاعَاشِقَ الْمُصْطَفَى",
+  "latin": "Yā ‘Āsyiqal-Muṣṭofā",
+  "text": {
+    "1": {
+      "arabic": "يَاعَاشِقَ الْمُصْطَفَى اَبْشِرْ بِنَيْلِ الْمُنَى",
+      "latin": "Yā ‘āsyiqal-Muṣṭofā, absyir binailil-munā"
+    },
+    "2": {
+      "arabic": "قَدْ رَاقَ كَأْسُ الصَّفَا وَطَابَ وَفْدُ الْهَنَا",
+      "latin": "Qad rāqo ka-sus-shofā, wa ṭāba wafdul-hanā"
+    },
+    "3": {
+      "arabic": "نُورُ الْجَمَالِ بَدَا مِنْ وَجْهِ شَمْسِ الْهُدَى",
+      "latin": "Nūrul-jamāli badā, min wajhi syamsil-hudā"
+    },
+    "4": {
+      "arabic": "مَنْ فَضْلُهُ عَمَّنَا",
+      "latin": "Man faḍluhu ‘ammanā"
+    },
+    "5": {
+      "arabic": "طَهَ الَّذِيْ بِاللِّقَا قَدْ فَازَ لَمَّا ارْتَقَى",
+      "latin": "Ṭhā-lladzī billiqā, qad fāza lammā-rtaqā"
+    },
+    "6": {
+      "arabic": "دُوْنَ الْوَرَى رَبَّنَا نَادَى",
+      "latin": "Dūnal-warā Rabbunā nādā"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Perindu Nabi Pilihan",
+      "text": {
+        "1": "Wahai Perindu Nabi Pilihan, bergembiralah dengan memperoleh harapan",
+        "2": "Telah bersinar piala bukit Shofa, dan bahagia golongan yang mempunyai nasab rendah",
+        "3": "Cahaya keindahan muncul, dari wajah matahari petunjuk",
+        "4": "Yaitu orang yang keutamaannya meliputi kita",
+        "5": "Nabi yang dengan pertemuan, ia mendapat keberuntungan saat naik ('isra')",
+        "6": "Tiada lain melihat Tuhan kita"
+      }
+    }
+  },
+  "last_updated": "2025-11-17"
+}

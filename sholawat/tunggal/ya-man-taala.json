@@ -1,0 +1,60 @@
+{
+    "source": "unknown",
+    "name": "يَا مَنْ تـَعـَالى",
+    "latin": "Yā Man Ta'ālā",
+    "text": {
+        "1": {
+            "arabic": "يَا مَنْ تـَعـَالى عُلـُوُّهْ فِي ارْتِفـَاعْ ۞  اغـْـفِرْ ذنـُوْبيْ وَجَنـِّبْنـَا ْالهَـــلاكْ",
+            "latin": "Yā man ta‘ālā ‘uluwwuh fī-rtifā‘ ۞  Ighfir dhunūbī wa jannibnā-l halāk"
+        },
+        "2": {
+            "arabic": "وَخـُـذ ْبنـَا فِيْ طِريْق ْالاِتـِّبــَاعْ ۞  طِريْقـَةِ المُجْـتبَى احْمَدْ مُصْطفـَاْك",
+            "latin": "Wa khudh binā fī ṭarīqi-l ittibā‘ ۞  Ṭarīqati-l mujtabā Aḥmad Muṣṭafāk"
+        },
+        "3": {
+            "arabic": "نـَسِيْر فِيْ ضَوْءِ هَذاكَ الشُّــعَاعْ ۞  فِي الدَّارْ هَذِهْ وَفِي ْالاخْرَى هُنـَاكْ",
+            "latin": "Nasīr fī ḍaw’i hādhāka-sh shu‘ā‘ ۞  Fī-d dāri hādhih wa fī-l ukhrā hunāk"
+        },
+        "4": {
+            "arabic": "يـَـاليْلة النـُّـوْر طـَابَ الاِجْـتِمَاعْ ۞  يَا وَقتـَنـَا عَــوَّدَ المَوْلـَى صَفــَـاكْ",
+            "latin": "Yā laylata-n nūr ṭāba-l ijtimā‘ ۞  Yā waqtanā ‘awwada-l mawlā ṣafāk"
+        },
+        "5": {
+            "arabic": "لـَيْلة صَفـَا مَا دَخَلـْهَا شِيْ نِزَاعْ ۞  نِبْغَى نـُسَـــامِرَكْ يَا نجْمَ السِّمـَـاكْ",
+            "latin": "Laylatu ṣafā mā dakhalhā shī nizā‘ ۞  Nibghā nusāmirak yā najma-s simāk"
+        },
+        "6": {
+            "arabic": "هيااشعِلـُوْا يَاجَمَاعَة فِي الشِّمَاعْ ۞  يَاسَاري اللـْيل يَامَااحْـسَنْ سُــرَاكْ",
+            "latin": "Hayyā-sh‘ilū yā jamā‘ah fī-sh shimā‘ ۞  Yā sāri-l layl yā mā aḥsan surāk"
+        },
+        "7": {
+            "arabic": "يَا مَنْ بسَـــْيِرهْ تِشَرَّفْنَ البقــَـاعْ ۞  يَانـُوْر مُهْـجَتِيْ حَيَّـااللهْ مَسَـــــاكْ",
+            "latin": "Yā man bisayrih tisharrafna-l biqā‘ ۞  Yā nūra muhjatī ḥayyā-Allāh masāk"
+        },
+        "8": {
+            "arabic": "يـَا خَيْر مَحْـبُوْب لِلمَـوْلىَ وَدَاعْ ۞  اللهْ قـَـــــرَّبَكْ مِنـُّـْه وَاصْطفـَــاكْ",
+            "latin": "Yā khayra maḥbūb lil-mawlā wa dā‘ ۞  Allāh qarrabak minhu wa-ṣṭafāk"
+        },
+        "9": {
+            "arabic": "لكْ سِرْ مَا كانْ حَقـُّهْ انْ يـُّـذاعْ ۞  لـَيْلة سَرَى بكْ اِلـَى مَوْطِنْ عَطاكْ",
+            "latin": "Lak sirru mā kān ḥaqquhu an yudhā‘ ۞  Laylata sarā bik ilā mawṭin ‘aṭāk"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Wahai Dzat yang Maha Tinggi",
+            "text": {
+                "1": "Wahai Dzat yang Maha tinggi, ketinggian-Nya berada di tempat tinggi Ampunilah dosa dosa kami, jauhkan kami dari kehancuran.",
+                "2": "Jadikanlah kami, berada di jalan Ittibaa' (mengikuti) jalannya Nabi pilihan bernama Ahmad pilihan-Mu.",
+                "3": "Kami berjalan di cahyanya sinar itu, di dunia ini dan di akhirat kelak.",
+                "4": "Duhai malam yang bercahaya, sungguh indah pertemuan ini, Duhai waktu yang bersih, semoga Allah mengulangmu kembali",
+                "5": "Malam yang bersih, tidak masuk di dalamnya perselisihan, kami ingin sekali begadang denganmu, duhai bintang bintang yang tinggi.",
+                "6": "Marilah Wahai para jama'ah! nyalakan lilin kalian Wahai yang berjalan /isro' di tengah malam, betapa indahnya perjalananmu.",
+                "7": "Wahai Nabi, dengan perjalanan/isro'mu, semua tempat menjadi mulia Wahai cahaya hatiku, semoga Allah mendekatkan perjalananmu.",
+                "8": "Wahai Nabi tercinta bagi Allah, sebaik baik Da'i, Semoga Allah mendekatkan kamu pada-Nya, dan memilihmu.",
+                "9": "Hanya bagimu rahasia (khusus) haknya memang tidak bisa di sebar luaskan Pada malam perjalananmu menuju ke pusat pemberian (hanya) untukmu."
+            }
+        }
+    },
+    "last_updated": "2025-11-17"
+}

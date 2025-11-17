@@ -1,0 +1,31 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا خَيْرَ هَادِی لِلْأَنَامِ",
+  "latin": "Yaa Khoiro Haadii Lil Anaami",
+  "text": {
+    "1": {
+      "arabic": "يَا خَيْرَ هَادِی لِلْأَنَامِ تَسَاما * عَطْفاً عَلَی مَنْ ذَابَ فِيكَ غَرَاماً",
+      "latin": "Yaa Khoiro Haadii Lil Anaami Tasaamaa ‘Athfan ‘Alaa Man Dzaaba Fiika Ghoroomaa"
+    },
+    "2": {
+      "arabic": "أَنْتَ الَّذِي شَرَّفْتَ کُلَّ مُشَرَّفٍ * وَمَنَحْتَنَا يَا ذَی النَّدَی يَا إمَاماً",
+      "latin": "Antalladzii Syarrofta Kulla Musyarrofin Wa Manahtanaa Yaa Dzan-Nadaa Yaa Imaamaa"
+    },
+    "3": {
+      "arabic": "يَا سَيِّدَ الكَوْنَيْنِ يَا عَلَمَ الهُدَی * يَا مَنْ أَتَی لِلْمُرْسَلِينَ خِتَاماً",
+      "latin": "Yaa Sayyidal Kaunaini Yaa ‘Alamal Hudaa Yaa Man Ataa Lilmursaliina Khitaamaa"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Sebaik-Baik Penunjuk Bagi Manusia",
+      "translator": "terjemahkitab.com",
+      "text": {
+        "1": "Wahai sebaik petunjuk bagi manusia. Engkau yang tinggi derajatnya. kasihanilah orang yang hancur karena mencintaimu",
+        "2": "Engkau adalah yang memuliakan setiap yang dimuliakan, dan engkau memberi anugerah kami, wahai pemilik gerimis, wahai imam",
+        "3": "Wahai junjungan alam semesta, wahai pertanda hidayah, Wahai orang yang datang sebagai akhir para rasul"
+      }
+    }
+  },
+  "last_updated": "2025-11-17"
+}

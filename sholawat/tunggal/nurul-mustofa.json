@@ -1,0 +1,69 @@
+{
+  "source": "unknown",
+  "name": "نور المصطفی",
+  "latin": "Nûrul Mushthofâ",
+  "text": {
+    "1": {
+      "arabic": "نور المصطفی نور المصطفی",
+      "latin": "Nûrul Mushthofâ Nûrul Mushthofâ"
+    },
+    "2": {
+      "arabic": "ملأ الأکوان ملأ الأکوان",
+      "latin": "Mala-al akwân Mala-al akwân"
+    },
+    "3": {
+      "arabic": "حبيبی محمد محمد محمد خير المرسلين",
+      "latin": "Habîbî Muhammad Muhammad Muhammad Khoiril mursalîn"
+    },
+    "4": {
+      "arabic": "الله الجلال أعطاك الجمال",
+      "latin": "Allâhul jalâl a'thôkal jamâl"
+    },
+    "5": {
+      "arabic": "الله الجلال أعطاك الجمال",
+      "latin": "Allâhul jalâl a'thôkal jamâl"
+    },
+    "6": {
+      "arabic": "ياشمس الگمال يانور العين",
+      "latin": "Yâ syamsal kamâl Yâ nûrol 'ain"
+    },
+    "7": {
+      "arabic": "حبيبی محمد محمد محمد خير المرسلين",
+      "latin": "Habîbî Muhammad Muhammad Muhammad Khoiril mursalîn"
+    },
+    "8": {
+      "arabic": "گفاك فضلا بالعلا الأعلی",
+      "latin": "Kafâka fadl-lân bil 'ulaa'lâ"
+    },
+    "9": {
+      "arabic": "گفاك فضلا بالعلا الأعلی",
+      "latin": "Kafâka fadl-lân bil 'ulaa'lâ"
+    },
+    "10": {
+      "arabic": "دانا فتدلی قاب قو سين",
+      "latin": "Dânâ fatadallâ qôba qousain"
+    },
+    "11": {
+      "arabic": "حبيبی محمد محمد محمد خير المرسلين",
+      "latin": "Habîbî Muhammad Muhammad Muhammad Khoiril mursalîn"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Cahaya Nabi Pilihan",
+      "text": {
+        "1": "Cahaya nabi pilihan, cahaya nabi pilihan",
+        "2": "Memenuhi jagat, memenuhi jagat",
+        "3": "Kekasihku adalah Muhammad, sebaik-baik utusan",
+        "4": "Allah yang Maha agung, yang memberimu keindahan",
+        "5": "Allah yang Maha agung, yang memberimu kesempurnaan",
+        "6": "Wahai matahari kesempurnaan, wahai cahaya mata",
+        "7": "Kekasihku adalah Muhammad, sebaik-baik utusan",
+        "8": "Cukuplah bagimu anugerah derajat yang luhur nan tinggi",
+        "9": "Cukuplah bagimu anugerah derajat yang luhur nan tinggi",
+        "10": "Yang mendekat, sehingga sangat dekat sejarak dua tombak",
+        "11": "Kekasihku adalah Muhammad, sebaik-baik utusan"
+      }
+    }
+  }
+}

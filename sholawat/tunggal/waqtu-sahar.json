@@ -1,0 +1,60 @@
+{
+  "source": "majelis rosulullah",
+  "name": "وَقْتِ السَّحَرْ",
+  "latin": "Waktu Sahar",
+  "text": {
+    "1": {
+      "arabic": "وَقْتِ السَّحَرْ بِهْ يَطِيْب الْحَالْ لاَهْلِ الصَّفَا وَبِهْ يَجُوْدُ الْعَلِي بِالْفَضْلِ لأَهْلِ الْوَفَا",
+      "latin": "Waqtis-sahar bih yathībul ḥāl li-ahlish-shafā, wa bih yajūdul ‘aliyyu bil-faḍhli li-ahlil-wafā"
+    },
+    "2": {
+      "arabic": "كَمْ مِنْ سَقِيْمٍ بِهَذَا الْوَقْتِ نَالَ الشِّفَا وَكَمْ بِهِ اِتَّصَلْ مِنْ عَبْدٍ بِالْمُصْطَفَى",
+      "latin": "Kam min saqīmin bihādzal-waqti nālasy-syifā, wa kam bihi-ttashal min ‘abdin bil-Mushthafā"
+    },
+    "3": {
+      "arabic": "وَقَابَلَتْهُ الْمَوِاهِبْ ظَاهِرًا وَالْخَفَا وَنَازَلَتْهُ لَطَائِفْ خَيْرِ مَنْ لَطَفَا",
+      "latin": "Wa qābalat-hul mawāhib dhāhiran wal-khafā, wa nāzalat-hu lathā’if khairi man lathafā"
+    },
+    "4": {
+      "arabic": "عَنِ الْمَسَاوِي وَكُلِّ الذَّنْبِ فَضْلاً عَفَى وَبَارِقِ الْفَضْلِ وَاْلإِ حْسَانِ لُهْ رَفْرَفَا",
+      "latin": "‘Anil-masāwī wa kullidz-dzanbi faḍhlan ‘afā, wa bāriqil faḍhli wal-iḥsāni lahu rafrafā"
+    },
+    "5": {
+      "arabic": "وَحَسْبُهُ جُوْدُ مَوْلاَنَا الْعَلِي وَكَفَى وَهَاهُنَا الْقَوْلَ يَا أهْلَ الْفَهُمْ قَدْ وَقَفَا",
+      "latin": "Wa hasbuhu jūdu maulānāl ‘aliyyu wa kafā, wa hāhunal-qaula yā ahlal-fahmi qad waqafā"
+    },
+    "6": {
+      "arabic": "مَنْ ذَايُعَبِّرْ عَنِ الْغَوْثِ إِذَا وَكَفَا ياَرَبِّ زِدْنَا عَطَايَا يَارَبِّ زِدْ تُحَفَا",
+      "latin": "Man dzā yu’abbir ‘anil-ghautsi idzā wakafā, Yā Rabbi zidnā ‘athāyā Yā Rabbi zid tuhafā"
+    },
+    "7": {
+      "arabic": "وَاعْطِفْ عَلَيْنَا فَإِنَّكَ خَيْرَ مَنْ عَطَفَا وَاعْلِي لَنَا فِي رِحَابِ الْعِزّ ِبِكْ غُرَفَا",
+      "latin": "Wa’thif ‘alainā fa-innaka khairu man ‘athafā, wa a’lī lanā fī rihābil ‘izzi bika ghurafā"
+    },
+    "8": {
+      "arabic": "وَصَلِّ دَأْبًا عَلَى أحْمَدُ وَالِهَ الشُّرَفَا وَالصَّحْبِ أَهْلِ الْهُدَى وَمَنْ بِهِمْ إِقْتَفَا",
+      "latin": "Wa shalli da-ban ‘alā Ahmadu wa ālihisy-syurafā, wash-shaḥbi ahlil-hudā wa man bihim iqtafā"
+    },
+    "9": {
+      "arabic": "وَالْحَمْدُ اللهِ رَبِّي حَسْبُنَا وَكَفَى",
+      "latin": "Wal-ḥamdulillāhi Rabbī hasbunā wa kafā"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Waktu Sahar",
+      "text": {
+        "1": "Waktu larut malam adalah saat termuliakannya keadaan orang orang suci, dan pada waktu itu pula semakin pemurah Sang Maha Mulia dengan anugerah untuk mereka yg menepati janji untuk mengunjungi Nya (shalat malam),",
+        "2": "Berapa banyak orang orang yg dimurkai dan ditimpa musibah yg diwaktu larut malam itu (mereka bermunajat pada Nya) maka mereka mendapatkan kesejukan dan pencabutan atas musibahnya, dan berapa banyak banyak pula para hamba yg termuliakan dengan terhubung hatinya dengan sang Nabi saw,",
+        "3": "Maka ia disambut dengan anugerah anugerah yg terlihat dan yg tersembunyi (permasalahan dunia dan akhiratnya), dan turunlah untuknya kasih sayang dan kelembutan kelembutan dari yg sangat Indah kelembutan Nya.",
+        "4": "dari kehinaan kehinaan dan setiap dosa, anugerah maaf Nya pun melimpah, dan pijaran cahaya kemuliaan dan keluhuran untuknya terus bercahaya indah,",
+        "5": "Maka cukuplah kedermawanan Tuhan kita Yang Maha Tinggi dan Maha Mencukupi segenap hamba Nya, dan sampai disinilah wahai yang memahami, terhenti ucapan dan kata kata..",
+        "6": "Siapakah pula yg mampu menggambarkan kemegahan curahan hujan rahmat Nya bila sedang melimpah.., wahai Tuhan tambahkan bagi kami pemberian pemberian, wahai Tuhan kami tambahkanlah sesuatu yg berharga,",
+        "7": "Maka berlemah lembutlah pada kami, sungguh engkau sebaik baik yg berlemah lembut, dan limpahkanlah kemuliaan bagi kami dengan sambutan kemegahan kamar kamar istana Mu,",
+        "8": "Dan limpahkanlah shalawat selalu atas Nabi Muhammad saw dan keluarganya yg mulia, beserta para sahabatnya dan para pembawa petunjuk dan semua yg mengikuti jejak mereka,",
+        "9": "Dan segala puji bagi Allah Tuhanku, Yang Maha Melindungi kami dengan kecukupan."
+      }
+    }
+  },
+  "last_updated": "2025-11-17"
+}
