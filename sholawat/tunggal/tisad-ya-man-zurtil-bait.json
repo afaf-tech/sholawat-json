@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "تِسْعَد يَا مَنْ زُرْتِ البَيت",
+  "latin": "Tisad Ya Man Zurtil Bait",
+  "text": {
+    "1": {
+      "arabic": "تِسْعَد يَا مَنْ زُرْتِ البَيت شَاهَدْتَ الكَعْبَة الحِلْوَة",
+      "latin": "Tis'ad ya man zurtil bait syahadat al-ka'bah al-hilwah"
+    },
+    "2": {
+      "arabic": "طُفْتِ سَعَيت وَلَبَّيت بَيْنَ الصَّفَا وَالمَرْوَة",
+      "latin": "Thufti sa'ait wa labbaita bainas shofa wal marwah"
+    },
+    "3": {
+      "arabic": "مُغْرَمْ يَا ظَمِي الرُّوح خُذ لَك جُرْعَة مِن زَمْزَم",
+      "latin": "Mughram ya dzamiyar ruh khudz laka jur'ah min zamzam"
+    },
+    "4": {
+      "arabic": "وَان كَانَ قَلْبُك مَجْرُوح عَيْنُ الزَّرْقَا لَكْ بَلْسَم",
+      "latin": "Wa in kana qalbuka majruh 'ainu azzarqa laka balsam"
+    },
+    "5": {
+      "arabic": "يَا مُسَافِر عَلَى عَرَفَات جَبَل الرَّحْمَة لَا تَنْسَاه",
+      "latin": "Ya musafir 'ala 'arafat jabal ar-rahmah la tansahu"
+    },
+    "6": {
+      "arabic": "فِي مِنَى اِرمِ الجَمَرَات وَاطْلُبْ مِنْ رَبَّك رِضَاه",
+      "latin": "Fi mina irmil jamarat wathlub min rabbika ridlahu"
+    },
+    "7": {
+      "arabic": "صَلِّ يَا رَبَّ الأَرْبَاب عَلَى النَّبِي المَاحِي",
+      "latin": "Sholli ya rabbal arbab 'alan nabiyyil mahi"
+    },
+    "8": {
+      "arabic": "وَالآل ثُمَّ الأصْحَابِ بِهِم أَرْجُو نَجَاحِي",
+      "latin": "Wal ali tsummal ashab bihim arju najahi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Beruntung Wahai Orang yang Mengunjungi Baitullah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Beruntung wahai orang yang mengunjungi Baitullah, engkau menyaksikan Ka'bah yang indah",
+        "2": "Engkau tawaf, sa'i dan bertalbiyah, antara Shafa dan Marwah",
+        "3": "Wahai yang tergila-gila, wahai yang kehausan jiwa, ambillah seteguk dari zamzam",
+        "4": "Dan jika hatimu terluka, mata biru untukmu adalah balsem",
+        "5": "Wahai musafir di Arafah, Jabal Rahmah jangan lupakan",
+        "6": "Di Mina lemparlah jamarat, dan mintalah dari Tuhanmu ridha-Nya",
+        "7": "Berselawatlah wahai Tuhan para tuhan, kepada nabi yang menghapus",
+        "8": "Dan keluarga kemudian para sahabat, dengan mereka aku berharap kesuksesanku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

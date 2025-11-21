@@ -1,0 +1,43 @@
+{
+  "source": "terjemahkitab.com",
+  "author": null,
+  "transmitter": null,
+  "name": "قَلْبِي لَكْ مَمْلُوء غَرَام",
+  "latin": "Qalbī Lak Mamlū' Gharām",
+  "text": {
+    "1": {
+      "arabic": "قَلْبِي لَكْ مَمْلُوء غَرَام يَا حَبِيبِي أَنْتَ وَالصَّحْبِ الكِرَام يَا طَبِيبِي",
+      "latin": "Qolbi lak mamluk ghorom ya habibi anta washohbil kirom ya tobibi"
+    },
+    "2": {
+      "arabic": "مُنَايَا مُنَايَا أُسَلِّم عَلَيْهِم وَأَقَبِّل يَدَيْهِم يَا حَبِيبِي",
+      "latin": "Munaya munaya usaallim 'alaihim wa qobbil yadaihim ya habibi"
+    },
+    "3": {
+      "arabic": "يَا مُجِيبَ الدَّعَوَات اقْبَل دُعَانَا وَزِدْنَا مِنَ الطَّاعَات وَارْزُقْنَا الجِنَانَ",
+      "latin": "Ya mujibad da'awat iqbal du'ana wazidna minatho'at warzuqnal jinana"
+    },
+    "4": {
+      "arabic": "مَدْحَكَ يَا مُحَمَّد مِنْ أَحْلَى الأَنْغَام حُبَّك فِي قَلْبِي مَجْرُوح يَا خَيْرَ الأَنَام",
+      "latin": "Mad'hak ya muhammad min akhlil anghom hubbak fi qolbi majrukh ya khoirol anam"
+    },
+    "5": {
+      "arabic": "يَا خَيْرَ الأَنَام يَا بَدْرَ التَّمَام يَا مَنْ جِئْتَ بِالإحْسَان يَا حَبِيبِي",
+      "latin": "Ya khoirol anam ya badruttamam ya man ji'ta bil ikhsani ya habibi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Hatiku Terpenuhi Dengan Rindu",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Hatiku terpenuhi dengan rindu wahai kekasihku, engkau dan para sahabat yang mulia wahai dokterku",
+        "2": "Harapanku harapanku mengucapkan salam kepada mereka, dan mencium tangan mereka wahai kekasihku",
+        "3": "Wahai yang mengabulkan doa, kabulkan doa kami, dan tambahi kami taat dan beri rizki kami sorga",
+        "4": "Memujimu wahai Muhammad termasuk lagu paling indah, cintamu melukai dalam hatiku wahai sebaik manusia",
+        "5": "Wahai sebaik manusia wahai purnama kesempurnaan wahai orang yang datang dengan membawa kebaikan wahai kekasihku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

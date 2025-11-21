@@ -1,0 +1,61 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَحْمَد يَا رِشِيقَ القَد",
+  "latin": "Ahmad Ya Rosyiqol Qod",
+  "text": {
+    "1": {
+      "arabic": "أَحْمَد يَا رِشِيقَ القَد حُسْنَك سَبَانِی",
+      "latin": "Ahmad yâ rosyîqol qod husnak sabânî"
+    },
+    "2": {
+      "arabic": "يَلِی حُسْنَكَ مَا لُهْ حَدْ فَرْدٌ وَحْدَانِی",
+      "latin": "Yallî husnak mâ luh had fardun wahdânî"
+    },
+    "3": {
+      "arabic": "وَاصِلْنِی لَاشِمَ الوَرْد رَوْحَ الرَّيْحَانِ * جُدْ بِالتَّدَانِی يَا احْلَی الأَمَانِی",
+      "latin": "Wâshilnî lâsyimil warod rûhir-roihâni jud bittadânî yâ ahlâl amânî"
+    },
+    "4": {
+      "arabic": "أَحْمَدْ يَا حَبِيبَ القَلْب قُرْبَك حَيَاتِى",
+      "latin": "Ahmad yâ habîbal qolb qurbak hayâtî"
+    },
+    "5": {
+      "arabic": "إرْحَمْ صَبًّا فِيكَ صَب دَمْعٌ الأَهَاتِ",
+      "latin": "Irham shobbân fîka shob dam'al ahâti"
+    },
+    "6": {
+      "arabic": "أَنْتَ النِّعْمَةُ وَالرَّبُ عَونُ الثَبَاتِ * أَنْتَ حَيَاتِی أَنْتَ فِی ذَاتِی",
+      "latin": "Antan-ni'matu warrobb 'aunusy-syabâti anta hayâtî anta fî dzâtî"
+    },
+    "7": {
+      "arabic": "ذَابَ القَلْبُ فِی هَوَاك جُدْ لِی بِنَظْرَه",
+      "latin": "Dzâbal qolbu fî hawâka jud lî binadhroh"
+    },
+    "8": {
+      "arabic": "وَامْنَحْنِی دَوْماً رُؤْيَاكَ بِعُمْرِی وَلَوْ مَرَّة",
+      "latin": "Wamnahnî daumân ru,yâka bi'umrî walau marroh"
+    },
+    "9": {
+      "arabic": "أَوْ أدِرْ لِی مِن نَدَاك وَصْلاً لِی ذُخْراً * يَا أَبَا الزَّهْرَا قَدْ فَنَی الصَّبْرا",
+      "latin": "Aw adirlî min nadâk washlân lî dzukhrôn yâ Abâz Zahrô qod fannîsh-shobrô"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ahmad Wahai yang Anggun Perawakannya",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Ahmad wahai yang anggun perawakannya, keindahanmu memikat hatiku",
+        "2": "Wahai yang keindahannya tiada batas, tunggal dan esa",
+        "3": "Sampaikan aku untuk mencium mawar, ruh keharuman, berilah dengan kedekatan wahai paling manis harapan",
+        "4": "Ahmad wahai kekasih hati, kedekatanmu adalah hidupku",
+        "5": "Kasihanilah orang yang mencurahkan cinta kepadamu, air mata ratapan",
+        "6": "Engkau nikmat dan Tuhan adalah penolong keteguhan, engkau hidupku engkau dalam dzatku",
+        "7": "Hancur hati dalam cintamu berilah aku dengan pandangan",
+        "8": "Dan berilah aku selalu melihatmu dalam umurku walau sekali",
+        "9": "Atau putar untukku dari panggilanmu pertemuan bagiku simpanan, wahai ayah Fatimah Az-Zahra telah habis kesabaran"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

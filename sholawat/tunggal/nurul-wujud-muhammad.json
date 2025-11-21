@@ -1,0 +1,48 @@
+{
+  "source": "terjemahkitab.com",
+  "author": null,
+  "transmitter": null,
+  "name": "نُورُ اْلوُجُودِ مُحَمَّدْ",
+  "latin": "Nūrul Wujūd Muḥammad",
+  "text": {
+    "1": {
+      "arabic": "نُورُ اْلوُجُودِ مُحَمَّدْ وَشَأْنُهُ لَيْسَ يُجْحَدْ",
+      "latin": "Nuurul wujud muhammad wasya'nuhu laisa yujhad"
+    },
+    "2": {
+      "arabic": "تَبَا رَكَ الله رَبِّيْ ولَيْسَ إِلَّاهُ يُعْبَدْ",
+      "latin": "Tabarokallohu robbi wa laisa illahu yu'bad"
+    },
+    "3": {
+      "arabic": "ياَ عَالِمَ السِّرِّ مِنِّيْ لَا تَكْشِفِ السِّتْرَ عَنِّى",
+      "latin": "Ya 'alimas sirri minni la taksyifi sitro anni"
+    },
+    "4": {
+      "arabic": "فَاغْفِرْ ذُنُوْ بِيْ إِلَهِيْ فَإِنِّيْ عَبْدٌ بِذَنْبِي مُقَيَّد",
+      "latin": "Faghfir dzunubii ilaahi faini abdul bidzanbi muqoyyad"
+    },
+    "5": {
+      "arabic": "طَرَ قْتُ بَابَ الْعَطَاءِ بِالذُّلِّ وَالْإِ نْحِنَاءِ",
+      "latin": "Toroqtu baabal'athoi biddzulli wal inhinaai"
+    },
+    "6": {
+      "arabic": "فَلَا تُخَيِّبْ رَجَائِيْ بِحَقِّ جَاهْ مُحَمَّدْ",
+      "latin": "Falaa tukhoyyab rojaai bihaqqi jah Muhammad"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Cahaya Alam Semesta Muhammad",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Cahaya alam semesta adalah Muhammad, dan beliau tidak diingkari",
+        "2": "Maha suci tuhanku, tiada yang disembah selainNya",
+        "3": "Wahai yang mengetahui rahasiaku, jangan buka satir dariku",
+        "4": "Maka ampunilah dosa-dosaku wahai tuhanku karena aku adalah hamba yang terikat dengan dosa-dosaku",
+        "5": "Aku ketuk pintu pemberian dengan hina dan merunduk",
+        "6": "Maka jangan sia-siakan harapanku dengan hak kedudukan Muhammad"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

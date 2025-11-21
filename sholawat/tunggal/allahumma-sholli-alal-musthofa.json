@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "اللهُمَّ صَلِّ عَلَى اْلـمُصْطَفى",
+  "latin": "Allahumma Sholli Alal Musthofa",
+  "text": {
+    "1": {
+      "arabic": "اللهُمَّ صَلِّ عَلَى اْلـمُصْطَفى * اِمَامِ اْلعُلُوْمِ وَبَحْرِ اْلوَفَا",
+      "latin": "Allahumma sholli alal musthofa imamil ulumi wa bahril wafa"
+    },
+    "2": {
+      "arabic": "نَبِيٌّ تَسِيْرُ اْلمَحَامِلْ اِلَيْه * رَسُوْلٌ تُشَدُّ الرِّحَالْ اِلَيْه",
+      "latin": "Nabiyyun tasirul mahamil ilaih rasulun tusyaddur rihal ilaih"
+    },
+    "3": {
+      "arabic": "وَحَتَّى الشَّفَاعَةْ اُهْدِيَتْ اِلَيْه * يَا حَضِيْرِنَا جَمِيْعًا صَلُّوْا عَلَيْه",
+      "latin": "Wa hattasy syafa'ah uhdiyat ilaih ya hadhirina jami'an shollu 'alaih"
+    },
+    "4": {
+      "arabic": "نَبِيٌّ مُؤَيَّدْ رَسُولٌ مُمَجَّد * يَا حَاضِرِينَ جَمِيعاً صَلُّوا عَلَيْه",
+      "latin": "Nabiyyun mu'ayyad rasulun mumajjad ya hadhirina jami'an shollu 'alaih"
+    },
+    "5": {
+      "arabic": "نَبِيٌّ كَرِيمٌ ذُو خُلُقٍ عَظِيمٌ * رَؤُوفٌ رَحِيمٌ وَالله عَلِيمٌ قَدْ صَلَّى عَلَيه",
+      "latin": "Nabiyyun karimun dzu khuluqin 'adhim ra'ufun rahimun wallahu 'alimun qod sholla 'alaih"
+    },
+    "6": {
+      "arabic": "نَبِيٌ مُعَظَّم رَسُولٌ مُكَرَّم ذُو قَدْرٍ مُفَخَّم صَلَّى الله وَسَلَّم وَبَارَك عَلَيْه",
+      "latin": "Nabiyyun mu'adhdhom rasulun mukarram dzu qodrin mufakhom shollallahu wasallam wabarok 'alaih"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ya Allah Berselawatlah kepada Nabi yang Terpilih",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Ya Allah berselawatlah kepada nabi yang terpilih, imam ilmu dan lautan menepati",
+        "2": "Nabi yang dijalankan muatan-muatan kepada beliau, nabi yang dikencangkan perjalanan kepada beliau",
+        "3": "Sampai syafaat dihadiahkan kepada beliau, wahai yang hadir semuanya berselawatlah kepada beliau",
+        "4": "Nabi yang dikuatkan, rasul yang diagungkan, wahai yang hadir semuanya berselawatlah kepada beliau",
+        "5": "Nabi yang mulia, memiliki akhlak yang agung, pengasih lagi penyayang, Allah yang maha mengetahui berselawat kepada beliau",
+        "6": "Nabi yang diagungkan, rasul yang dimuliakan, memiliki kedudukan yang besar, Allah berselawat kepada beliau dan memberkahi"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

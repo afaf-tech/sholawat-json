@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "سَلِّمُوا عَلَيهَا أَجْمَلَ السَّلآم",
+  "latin": "Sallimu Alaiha Ajmala Salam",
+  "text": {
+    "1": {
+      "arabic": "سَلِّمُوا عَلَيهَا أَجْمَلَ السَّلآم حَيَّوا السِّتِّ زَيْنَب إبْنَةَ الكِرَام",
+      "latin": "Sallimu alaiha ajmala salam hayyu sitt zainab ibnata kiram"
+    },
+    "2": {
+      "arabic": "زَيْنَبٌ تَقِيَّة طَاهِرَه نَقِيَّة بِالنَّسَب غَنِيّة بَاحْمَد وَالإمَام",
+      "latin": "Zainabun taqiyyah thahiroh naqiyyah binnasab ghaniyyah bi ahmad wal imam"
+    },
+    "3": {
+      "arabic": "يَا شَمْس فِي نَهَارنَا يَا حِمَاية ديارنا يَا نُورنَا وَقَمَرْنَا فِي لَيلِ الظَّلَام",
+      "latin": "Ya syams fi naharana ya himayah diyarana ya nurana wa qamarana fi laili dhalam"
+    },
+    "4": {
+      "arabic": "هَادِينَا الفَوَاتِح وَنَشَدْنَا المَدائِح بَأَسْمَى المَطَارِح وَأَغْلَى مَقَام",
+      "latin": "Hadina fawatih wa nasyadna mada'ih bi asma matharih wa aghla maqam"
+    },
+    "5": {
+      "arabic": "جِينَا حَتَى نْزُورِك نُوفِكِ لِنْذُورِك يَطْوَع عَلَينَا نُورِك وِنْزُورِ المَقَام",
+      "latin": "Jina hatta nzurik nufiki lindzurik yathwa' alaina nurik winzur maqam"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Sampaikan Kepadanya Salam Terindah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Sampaikan kepadanya salam terindah, berikan salam kepada Siti Zainab putri orang-orang mulia",
+        "2": "Zainab yang bertakwa, suci bersih, kaya dengan nasab bersama Ahmad dan Imam",
+        "3": "Wahai matahari di siang hari kita, wahai pelindung negeri kita, wahai cahaya kita dan bulan kita di malam yang gelap",
+        "4": "Membimbing kita dengan pembukaan dan melantunkan pujian, di tempat yang paling tinggi dan tempat yang paling berharga",
+        "5": "Kami datang untuk menziarahi engkau, memenuhi nazar kami, cahayamu menyinari kami dan kami ziarah ke makam"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

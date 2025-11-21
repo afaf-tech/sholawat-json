@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "تَرَحَّبْنَا بِقُدُومِ الشَّهْرِ اْلبَدِيْعْ",
+  "latin": "Tarohabna Biqudumis Syahril Badi'",
+  "text": {
+    "1": {
+      "arabic": "تَرَحَّبْنَا بِقُدُومِ الشَّهْرِ اْلبَدِيْعْ مَرْحَبًا فَمَرْحَبًا يَاشَهْرَالرَّبِيعْ",
+      "latin": "Tarohabna biqudumi syahril badi' marhaban famarhaban ya syahro robi'"
+    },
+    "2": {
+      "arabic": "هَيَابِنَا نَحْتَفِلْ لِلنَّبِى البَدِيعْ مَرْحَبًا فَمَرْحَبًا يَاشَهْرَالرَّبِيعْ",
+      "latin": "Hayabina nahtafil linnabi badi' marhaban famarhaban ya syahro robi'"
+    },
+    "3": {
+      "arabic": "حَمَّامٌ بَرِى غَرَّدَ التَّغْرِيْد وَكَذَا الْمُطْرِبْ اْنْشَدَ النَّشِيدْ",
+      "latin": "Hammamun bari ghorroda tagrid wakadal mudrib ansyada nasyid"
+    },
+    "4": {
+      "arabic": "مُظْهِرَ اْلفُرحَةْ بِاللَّيَالِى اْلعِيْد لَيَالِى المَوْلِدْ لَلنَّبِى الفَرِيْد",
+      "latin": "Mudhirol furhat billayalil 'id layalil maulid linnabi farid"
+    },
+    "5": {
+      "arabic": "وَاْلكَوْنُ اَضَاءْ وَاْلبُلُودْ نَفِيْد وَاكتَسَى الْاِنْسَانْ بِالخُلْقِ اْلحَمِيْدْ",
+      "latin": "Walkaunu adha' walbulud nafid waktasa insan bil khulqil hamid"
+    },
+    "6": {
+      "arabic": "نَقَذَ اْلْاُمَمْ بِشُرْبِ التَوْحِيْدْ بِظُهُورِ النُّورْ مِنْ سَطْعِ اْلوَلِيْد",
+      "latin": "Naqodal umam bisyurbi tauhid bidhuhuri nur min sath'il walid"
+    },
+    "7": {
+      "arabic": "وَصَلَاةُ اللهِ عَلَى القَائِدْ اَلْهَادِى اْلاِنْسَانِ اِلَى السَّدِيدْ",
+      "latin": "Wa sholatullahi alal qoid alhadil insani ila sadid"
+    },
+    "8": {
+      "arabic": "وَكَذَاالْاَلِ ذِى اْعَقْلِ الحَدِيدْ وَاْلمُحْتَفِلِيْنَ لِذِكْرِ اْلمَوْلِدْ",
+      "latin": "Wakada ali dil aqlil hadid wal muhtafilin lidikril maulid"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Kami Menyambut Kedatangan Bulan yang Indah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Kami menyambut kedatangan bulan yang indah, selamat datang, selamat datang wahai bulan Rabiul Awal",
+        "2": "Mari kita berpesta untuk nabi yang indah, selamat datang, selamat datang wahai bulan Rabiul Awal",
+        "3": "Merpati darat berkicau, juga penyanyi menyanyikan lagu",
+        "4": "Tampak kebahagiaan dengan malam-malam hari raya, malam-malam kelahiran nabi yang istimewa",
+        "5": "Alam semesta bersinar, orang bodoh menjadi pintar, dan manusia memakai akhlak yang terpuji",
+        "6": "Umat menjadi bersih karena minum tauhid, dengan kelahiran cahaya dari perut yang melahirkan",
+        "7": "Selawat Allah semoga untuk pemimpin sang petunjuk manusia pada kebenaran",
+        "8": "Begitu juga keluarga yang memiliki akal yang tajam, dan orang-orang yang merayakan peringatan maulid"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

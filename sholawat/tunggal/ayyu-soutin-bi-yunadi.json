@@ -1,0 +1,96 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَيُّ صَوْتٍ بِي يُنَادِي",
+  "latin": "Ayyu Soutin Bi Yunadi",
+  "text": {
+    "1": {
+      "arabic": "أَيُّ صَوْتٍ بِي يُنَادِي هَاتِفًا حُلْوَ البَيَانِ",
+      "latin": "Ayyu soutin bi yunadi hatifan hulwol bayan"
+    },
+    "2": {
+      "arabic": "قُمْ إِلَى أَسْمَى مُرَادٍ سَابِقُا خُطْوَ الزَّمَانِ",
+      "latin": "Qum ila asma muradin sabiqan khuthwaz zaman"
+    },
+    "3": {
+      "arabic": "قُمْ وَبَادِر يَا صَدِيقَي عُمْرُكَ الـمَحْدُودَ هَدْياً",
+      "latin": "Qum wa badir ya sodiqo 'umrukal mahduda hadyan"
+    },
+    "4": {
+      "arabic": "فِي سَبِيلٍ فِي طَرِيقٍ مُشْرِقٍ بِالنُّورِ هَيًّا",
+      "latin": "Fi sabilin fi thoriqin musyriqin binnuri hayya"
+    },
+    "5": {
+      "arabic": "وَامْلَئِ الأَيَّامَ حُبًّا وَامْلَئِ الدُّنْيَا عَبِيراً",
+      "latin": "Wamla'il ayyama hubban wamla'id dunya 'abiran"
+    },
+    "6": {
+      "arabic": "وَامْنَحِ الرَّحْمَانَ قَلْبًا عَاشَ صَبَّاراً شَكُوراً",
+      "latin": "Wamnihir rahmana qolban 'asya shobaron syakuran"
+    },
+    "7": {
+      "arabic": "كُنْ صَدِيقاً لِلْحَيَاةِ وَاجْعَلِ الإيمَانَ رَايَة",
+      "latin": "Kun sodiqon lil hayati waj'alil imana royah"
+    },
+    "8": {
+      "arabic": "وَامْضِ حُرًّا فِي ثَبَاتٍ إِنَّهَا كُلُّ الِحكَايَة",
+      "latin": "Wamdli hurron fi tsabatin innaha kullul hikayah"
+    },
+    "9": {
+      "arabic": "وَابْتَسِمْ لِلدَّهْرِ دَوْماً إِنْ يَكُن حُلْواً وَمُرًّا",
+      "latin": "Wabtasim liddahri dauman in yakun hulwan wa murron"
+    },
+    "10": {
+      "arabic": "وَلْتَقُل إِنْ ذُقْتَ هَمَّا إِنَّ بَعْدَ العُسْرِ يُسْراً",
+      "latin": "Waltaqul in dzuqta hamman inna ba'dal 'usri yusron"
+    },
+    "11": {
+      "arabic": "عُمْرُنَا فِي الأَرْضِ رِحْلَة مَا لَنَا فِيهَا اخْتِيَارٌ",
+      "latin": "Umruna fil ardli rihlah ma lana fiha ikhtiyar"
+    },
+    "12": {
+      "arabic": "جَوْلَةٌ مِنْ بَعْدِ جَوْلَة كُلُّ مَا فِيهَا اخْتِبَارُ",
+      "latin": "Jaulatun min ba'di jaulatin kullu ma fiha ikhtibaru"
+    },
+    "13": {
+      "arabic": "تَارَةً تَنْهَلُّ أُنْسًا تَارَةً تَشْتَدُّ كَرْباً",
+      "latin": "Tarotan tanhallu unsan tarotan tasytaddu korban"
+    },
+    "14": {
+      "arabic": "وَالفَتَى مَنْ لَيْسَ يَنْسَى أَنَّ لِلْإنسَانِ رَبَّا",
+      "latin": "Wal fata man laisa yansa anna lil insani robba"
+    },
+    "15": {
+      "arabic": "إنَّهُ صَوْتُ الفُؤَادِ إنَّهُ صَوْتُ الضَّمِير",
+      "latin": "Innahu shoutul fu'adi innahu shoutudh dhomir"
+    },
+    "16": {
+      "arabic": "بَاحِثًا عَنْ خَيْرِ زَادٍ قَبْلَ أَنْ أَلْقَى الـمَصِير",
+      "latin": "Bahitsan 'an khoiri zadin qobla an alqol mashir"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Suara Apa yang Memanggilku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Suara apa yang memanggilku, suara semanis penjelasan",
+        "2": "Beranjaklah pada harapan yang luhur, melangkah melampaui waktu",
+        "3": "Bergegaslah dan cepat-cepatlah wahai temanku, umurmu terbatas",
+        "4": "Dalam jalan yang disinari cahaya",
+        "5": "Penuhilah hari-hari dengan cinta, penuhilah dunia dengan bau harum",
+        "6": "Berilah hati kepada yang maha penyayang, hidup dengan sabar dan syukur",
+        "7": "Jadilah teman kehidupan, jadikan keimanan sebagai bendera",
+        "8": "Berlalulah dalam keadaan bebas, itu semua hanya cerita",
+        "9": "Senyumlah untuk selamanya, jika pahit dan manis",
+        "10": "Katakan jika engkau merasakan kesusahan, sesungguhnya setelah kesulitan ada kemudahan",
+        "11": "Umur kita di bumi adalah perjalanan, kita tidak ada pilihan",
+        "12": "Perjalanan demi perjalanan, semuanya adalah ujian",
+        "13": "Terkadang mendapat kemudahan, terkadang mendapat kesulitan",
+        "14": "Pemudah adalah orang yang tidak lupa bahwa manusia memiliki tuhan",
+        "15": "Itu adalah suara hati, itu adalah suara hati",
+        "16": "Mencari sebaik bekal, sebelum menemui tempat kembali"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

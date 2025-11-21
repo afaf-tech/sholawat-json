@@ -1,0 +1,76 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "زَائِرَ الرَّوْضَةِ لَا تَنْسَى",
+  "latin": "Zairor Roudloti La Tansa",
+  "text": {
+    "1": {
+      "arabic": "زَائِرَ الرَّوْضَةِ لَا تَنْسَى تَبْلِيغَ سَلَامِي",
+      "latin": "Zairor roudloti la tansa tabligha salami"
+    },
+    "2": {
+      "arabic": "لِلنَّبِيِّ العَرَبِيِّ القُرَشِي ِّالتِّهَامِي",
+      "latin": "Linnabiyyil 'arobiyyil qurasyiyyit tihami"
+    },
+    "3": {
+      "arabic": "وَابْكِ عَنْ قَلْبِي بِإنشَادٍ وَأَلْحَانِ",
+      "latin": "Wabki 'an qolbi bi'insyadin wa alhani"
+    },
+    "4": {
+      "arabic": "عِنْدَ بَيْتِ اللهِ الأَمْجَد فَاسْكُبِ العَبَرَات",
+      "latin": "'Inda baitillahil amjad faskubil 'iborot"
+    },
+    "5": {
+      "arabic": "طُفْ بِهِ سَبْعًا وَنَادِ يَا سَامِعَ الآهَات",
+      "latin": "Thuf bihi sab'an wa nadi ya sami'al ahat"
+    },
+    "6": {
+      "arabic": "وَابْكِ عَنْ قَلْبِي بِإنشَادٍ وَأَلْحَانِ",
+      "latin": "Wabki 'an qolbi bi'insyadin wa alhani"
+    },
+    "7": {
+      "arabic": "والنَّسَائِمُ ذَات الطِّيبِ فِي المَقَامِ تَفُوح",
+      "latin": "Wan nasaimu dzatith thibi fil maqomi tafuh"
+    },
+    "8": {
+      "arabic": "وَالشَّذَى فِيهَا وَفِيهَا رَاحَةٌ لِلرُّوح",
+      "latin": "Wasy syadzа fiha wa fiha rohatun liruh"
+    },
+    "9": {
+      "arabic": "هَلْ إِلَيْهَا مِنْ وُصُولٍ يُبْرِئُ المَجْرُوح",
+      "latin": "Hal ilaiha min wushulin yubri'ul majruh"
+    },
+    "10": {
+      "arabic": "سِرْ ﻷِطْهَرِ أَرْضٍ وَابْكِ سَاجِداً لله",
+      "latin": "Sir li'athari ardin wabki sajidan lillah"
+    },
+    "11": {
+      "arabic": "دَمْعُ عَيْنِكَ سِراً يَحْكِي تَوْبَةً لله",
+      "latin": "Dam'u 'ainika sirron yahki taubatan lillah"
+    },
+    "12": {
+      "arabic": "ثِقْ بِعَفْوٍ ثِقْ بِمَنٍّ ثِقْ بِعَطَاءِ الله",
+      "latin": "Tsiq bi'afwin tsiq bimannin tsiq bi'atha'illah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Peziarah Raudoh Jangan Lupa",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai peziarah raudoh jangan lupa sampaikan salamku",
+        "2": "Kepada nabi al-Arabi al-Qurasyi Al-Tihami",
+        "3": "Dan menangislah untuk hatiku dengan nyanyian dan lagu",
+        "4": "Di sisi baitullah yang agung tumpahkan kata-kata",
+        "5": "Tawaflah tujuh kali dan panggillah, wahai yang mendengar rintihan",
+        "6": "Dan menangislah untuk hatiku dengan nyanyian dan lagu",
+        "7": "Parfum yang harum di makam menyerbak",
+        "8": "Dan menyebar di situ, dan di situ terdapat ketenangan untuk ruh",
+        "9": "Adakah cara sampai ke sana, yang dapat menyembuhkan orang yang terluka",
+        "10": "Berjalanlah ke tempat yang paling suci, dan menangislah seraya sujud kepada Allah",
+        "11": "Air matamu menceritakan rahasia taubat kepada Allah",
+        "12": "Percayalah akan ampunan, percayalah akan anugrah, percayalah akan pemberian Allah"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا رَبِّ صَلِّ عَلَى حَبِيْبِكَ الْمُصْطَفَى",
+  "latin": "Ya Robbi Sholli Ala Habibikal Musthofa",
+  "text": {
+    "1": {
+      "arabic": "يَا رَبِّ صَلِّ عَلَى حَبِيْبِكَ الْمُصْطَفَى وَالْآلِ أَهْلِ الْوَفَا وَالْأَرْبَعِ الْخُلَفَا",
+      "latin": "Ya Robbi sholli 'alaa habiibikal musthofa Wal ali ahlil wafa wal arba'il khulafa"
+    },
+    "2": {
+      "arabic": "رَبِّ بِجَاهِ النَّبِيْ شَمْسِ الْهُدَى الْعَرَبِيْ وَكُلُّ مَنْ تَجْتَبِيْ أَنْعِمْ لَنَا بِالشِّفَا",
+      "latin": "Robbi bijaahin nabii syamsil hudal 'Arobiy Wa kullu man taj tabi an'im lanaa bis syifa"
+    },
+    "3": {
+      "arabic": "رَبِّ بِجَاهِ الْحَبِيْبْ صِدِّيْقِ طَهَا الشَّفِيْقْ مَنْ كَانَ نِعْمَ الرَّفِيْقْ فِي الْغَارِ حِيْنَ اخْتَفَا",
+      "latin": "Robbi bijaahil habiibi shiddiq tohas syafiiq Man kaana ni'mar rofiiq fil ghori hiinakhtafaa"
+    },
+    "4": {
+      "arabic": "رَبِّ بِجَاهِ عُمَرْ عَنْهُ الْعَدْلُ اِشْتَهَرْ اِصْرِفْ شُؤُوْنَ الْكَدَرْ وَجُدْ لَنَا بِالصَّفَا",
+      "latin": "Robbi bijahi umar anhu adlus tahar isrif syuunal kadar wa jud lana bis sofa"
+    },
+    "5": {
+      "arabic": "رَبِّ بِجَاهِ عُثْمَانْ كَنْزُ الْحَيَا وَالْإِيْمَانْ أُمْنُنْ لَنَا بِالْأَمَانْ يَا مُؤَالَ الضُّعَـفَا",
+      "latin": "Robbi bijahi usman kanzul haya wal iman umnun lana bil aman, umnun lana bil aman wa mu'aud dua'afa"
+    },
+    "6": {
+      "arabic": "رَبِّ بِجَاهِ عَلِيْ صِهْرِ النَّبِيِّ الوَلِيْ فَجْرِ الْجَمَالِ الْجَلِيْ وَسَيِّدِ الشُّرَفَا",
+      "latin": "Robbi bijahi ali sihri nabiwil wali fajril jamali jali wa sayyidi syirofa"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Tuhan Kami Berilah Rahmat Kepada Kekasihmu",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai Tuhan kami berilah rahmat kepada kekasihmu yang terpilih, dan keluarga yang menepati janji, dan empat khulafa",
+        "2": "Wahai Tuhan kami, demi kedudukan nabi, matahari petunjuk, bangsa arab, dan setiap orang yang engkau pilih, berilah kami nikmat kesehatan",
+        "3": "Wahai Tuhan kami, demi kedudukan sang kekasih, kepercayaan Toha yang memiliki kasih sayang, sebaik seorang yang menemani di gua ketika nabi bersembunyi",
+        "4": "Wahai Tuhan kami, demi kedudukan Umar, yang keadilan mashur dari beliau, jauhkan urusan-urusan keruh, dan berikan kami kejernihan",
+        "5": "Wahai Tuhan kami demi kedudukan Usman, harta malu dan iman, berilah keamanan kepada kita, wahai tempat kembali orang-orang yang lemah",
+        "6": "Wahai Tuhan kami, demi kedudukan Ali, menantu nabi sang kekasih, fajar keindahan yang jelas, dan junjungan orang-orang yang mulia"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

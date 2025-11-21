@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "وَدِّيلِي سَلَامِي يَا رَايِح لِلْحَرَم",
+  "latin": "Waddili Salami Ya Royih Lil Harom",
+  "text": {
+    "1": {
+      "arabic": "وَدِّيلِي سَلَامِي يَا رَايِح لِلْحَرَم وَادْعِيْ لِي سَلّمْ لِي عَلَى هَادِي الْأُمَم",
+      "latin": "Waddilii salaamii yaa raayah lilharaam wad'iilii sallim lii 'alaa haadil umam"
+    },
+    "2": {
+      "arabic": "اُنْظُرْ لِلْكَعْبَة يَا مَحْلَاهَا نُوْرٌ وَجَلَالٌ يَغْشَاهَا يَحْرُسْهَا رَبِّ وَيَرْعَاهَا وَاذْكُرْنِي أَمَامَهَا وَادعِيْلِـي",
+      "latin": "Undzur lilka'bah yaa mahlaahaa nuurun wa jalaalun yagsyaahaa yahrus-ha rabbi wa yar'aahaa wadzkurnii amaamahaa wad'i lii"
+    },
+    "3": {
+      "arabic": "يَا سَاعِي مِنْ بَابِ الصَّـفَا لِلمَرْوَة يَا شَارِب مِنْ زَمْزَمِ تَذْكُرْنِي الدَعْوَة",
+      "latin": "Yaa saa'ii min baabish shofaa lil marwah yaa syaarib min zamzami tadzkurni da'waa"
+    },
+    "4": {
+      "arabic": "يَا طَالَعَ عَلَى جَبَلِ الرَّحْمَة يَا مَاشِي فِي وَسَطِ الزَّحْمَة اُطْلُب مِنْ مَوْلَاكَ الرَّحْمَة وَاذْكُرْنِي أَمَامْهَا وَادْعِيْلِي",
+      "latin": "Yaa thola'a 'alaa jabalir rahmah yaa maa syii fii wasathiz zahmah uthlub min maulaakar rahmah wadzkurnii amamhaa wad'iilii"
+    },
+    "5": {
+      "arabic": "هَنِيْئًا يَا رَايَحْ لِلْهَادِي غَرَامُه شَغَّلْنِي مَلَأ كُلِّ فُؤَادِي",
+      "latin": "Hanii-an yaa raayah lilhaadii ghoromuh syaggolni malaa kulli fuaadii"
+    },
+    "6": {
+      "arabic": "اُدْخُلْ مِنْ بَابِ السَّلَامِ بِتَأَدُّبٍ وَاحْتِرَام سَلِّمْ عَلَی طَهَ التُّهَامِي وَاسْأَلْهُ شَفَاعَة وَادْعِي لِی",
+      "latin": "Udkhul min baabis salaami bita-addubin wah tiraam sallim 'alaa Thahat tuhaamii was alhu syafaa'ah wad'iilii"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Sampaikanlah Salamku Wahai Pengunjung Kota Haram",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Sampaikanlah salamku wahai pengunjung kota Haram, dan doakan aku dan Sampaikan Salamku untuk penuntun para ummat",
+        "2": "Lihatlah Ka'bah oh sungguh indah nya, cahaya dan kemuliaan menyelimutinya. Tuhanku melindungi dan memeliharanya, ingatlah aku saat di depannya dan doakanlah aku",
+        "3": "Wahai yang sa'i dari pintu Safa ke Marwah, wahai yang minum air zam zam, Ingat lah aku dengan Doamu",
+        "4": "Wahai dia yang memanjat Jabal Rahmah, wahai yang berjalan di kerumunan banyak orang. Mintalah kasih sayang dari Tuhanmu, ingatlah aku di depannya dan doakanlah aku",
+        "5": "Selamat wahai pengunjung sang penuntun, rindu beliau menyibukkanku dan memenuhi seluruh hatiku",
+        "6": "Masuklah lewat Pintu Babul Salam, dengan adab dan rasa hormat. Ucapkan samalam kepada Thoha al-Tihami, dan mintalah syafaat dan doakanlah aku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

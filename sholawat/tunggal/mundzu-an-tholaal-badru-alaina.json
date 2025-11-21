@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "مُنْذُ أَنْ طَلَعَ الْبَدْرُ عَلَيْنَا",
+  "latin": "Mundzu An Tholaal Badru Alaina",
+  "text": {
+    "1": {
+      "arabic": "مُنْذُ أَنْ طَلَعَ الْبَدْرُ عَلَيْنَا سَكَنَ الْأُنْسُ فِيْ لَيَالِيْنَا",
+      "latin": "Mundzu an thola'al badru 'alaina sakanal unsu fi layalina"
+    },
+    "2": {
+      "arabic": "وَالْخَيْرُ عَمَّ الْأَنَامْ بِنُوْرِ دَاعِيْ السَّلَامْ",
+      "latin": "Wal khairu 'ammal anama binuri da'is salami"
+    },
+    "3": {
+      "arabic": "مُحَمَّدْ رَسُوْلُ اللّهِ إِلَى الْحَقِيْقَةِ يَهْدِيْنَا",
+      "latin": "Muhammad rasulullahi ilal haqiqati yahdina"
+    },
+    "4": {
+      "arabic": "يَا مُلِيْمي إِذْ مَدَحْتُ الْمُصْطَفَى وَشَدَوْتُ بِالثَّنَاءِ وَباِلْوَفَي",
+      "latin": "Ya mulimi idz madahtul mustofa wa syadautu bits tsana'i wa bil wafai"
+    },
+    "5": {
+      "arabic": "لَوْ ذُقْتَ شَوْقَ قَلْبِيْ الْمُتَيَمْ",
+      "latin": "Lau dzuqta syauqa qalbiyal mutayam"
+    },
+    "6": {
+      "arabic": "بِحُبِّهِ لَهِنْتَ طَرَبً بِأَشْوَاقِ الْمُحِبِّينَ",
+      "latin": "Bihubihi lahinta tharaban bi asywaaqil muhibbin"
+    },
+    "7": {
+      "arabic": "وَصَلَى اللّهُ عَلَى نَبِينَا",
+      "latin": "Wa shollallahu 'ala nabina"
+    },
+    "8": {
+      "arabic": "أنَا لَمْ أُشْرِكْ أَحَداً بِاللهِ",
+      "latin": "Ana lam usyrik ahadan billah"
+    },
+    "9": {
+      "arabic": "أَنَا مَا قَصَدْتُ غَيْرَ رِضَاك",
+      "latin": "Ana ma qashadtu ghaira ridhak"
+    },
+    "10": {
+      "arabic": "لَوْ قُلْتَ عَنْ مَدْحٍ بِأَنِّي مُشْرِك فَمَاذَا تَقُولُ لِلأَنْصَارِ فِي الـمَدِينَةِ قَالُوا طَلَعَ البَدْرُ عَلَيْنَا",
+      "latin": "Lau qulta 'an madhin bi anni musyrikun fa madza taqulu lil anshari fil madinati qalu thala'al badru 'alaina"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Sejak Bulan Purnama Datang Pada Kami",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Sejak Bulan Purnama datang pada kami, singgahlah ketenangan di malam-malam kami",
+        "2": "Dan kebaikan menyeluruh umat manusia, melalui cahaya pengajak keselamatan",
+        "3": "Muhammad utusan Allah yang menunjukkan kita pada hakikat kehidupan",
+        "4": "Hai kau yang menghinaku ketika aku puji Sang terpilih, dan aku nyanyikan pujian dan kesempurnaan",
+        "5": "Andai saja kau rasakan rasa rindu yang bersemayam dalam hati yang tertawan oleh cintanya",
+        "6": "Maka kau akan merasa hina dengan kerinduan yang dirasakan para pecinta",
+        "7": "Semoga Allah limpahkan sholawat pada Nabi kita",
+        "8": "Aku tidak menyekutukan Allah dengan apapun",
+        "9": "Aku tidak mencari selain ridho-Mu",
+        "10": "Jika kau menghujat pujianku bahwa aku musyrik, lalu apa komentarmu pada Sahabat Anshar di Madinah? Mereka berkata: Telah datanglah Bulan Purnama pada kami"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

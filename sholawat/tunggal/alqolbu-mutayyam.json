@@ -1,0 +1,72 @@
+{
+  "source": "dutaislam.or.id",
+  "author": null,
+  "transmitter": null,
+  "name": "القلب متيم بطه النبي",
+  "latin": "Alqolbu mutayyam bithôhannabî",
+  "text": {
+    "1": {
+      "arabic": "القلب متيم بطه النبي\nوصلى وسلم على طه النبي",
+      "latin": "Alqolbu mutayyam bithôhannabî\nWa shollâ wasallam 'alâ Thôhân-nabî"
+    },
+    "2": {
+      "arabic": "نبينا المكرم نبينا المشرف\nطه العربي طه العربي",
+      "latin": "Nabînal mukarrom nabînal musyarrof\nThôhal 'arobî Thôhâl 'arobî"
+    },
+    "3": {
+      "arabic": "أحمد هدانا والمولى قد شاء\nبالخير اتانا وبالحق جاء",
+      "latin": "Ahmadun hadânâ walmaulâ qod syâ'\nBil khoiri atânâ wa bilhaqqi jâ'"
+    },
+    "4": {
+      "arabic": "للتقوى دعانا لدرب الرجاء\nوالمولى اغنانا بطه النبي",
+      "latin": "Littaqwâ da'ânâ lidarbirrojâ'\nWal maulâ aghnânâ biThôhan-nabî"
+    },
+    "5": {
+      "arabic": "يا رسول الله جئت بالقرآن\nمن وحي الله مولانا الرحمن",
+      "latin": "Yâ Rosûlallâh ji'ta bil-Qur'ãn\nMin wahyil ilâh maulânâr-rohmân"
+    },
+    "6": {
+      "arabic": "وبعون الله نشرت الإيمان\nيا حبيب الله يا طه النبي",
+      "latin": "Wa bi'aunillâh nasyartal imân\nYâ habîballâh Yâ Thôhân-nabî"
+    },
+    "7": {
+      "arabic": "كم يخطو فؤادي لتلك الديار\nوبشوق ينادي شافعي المختار",
+      "latin": "Kam yakhthû fu'âdî litilkad-diyâr\nWa bisyauqin yunâdî syâfi'il mukhtâr"
+    },
+    "8": {
+      "arabic": "قد طال ابتهادي عن أغلى مقام\nوالحج مرادي وديار النبي",
+      "latin": "Qod thôlabtihâdî 'an aghlâ maqôm\nWal hajju murôdî wa diyârun-nabî"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Hati Terpikat kepada Thaha Nabi",
+      "translator": "Draft AI Copilot",
+      "text": {
+        "1": "Hati terpikat kepada Thaha Nabi\nKita bershalawat dan salam kepada Thaha Nabi",
+        "2": "Nabi kami yang mulia, Nabi kami yang luhur\nThaha orang Arab, Thaha orang Arab",
+        "3": "Ahmad membimbing kami dan Tuhan telah berkehendak\nIa datang membawa kebaikan dan datang dengan kebenaran",
+        "4": "Ia mengajak kami kepada takwa, ke jalan harapan\nDan Tuhan memuliakan kami dengan Thaha Nabi",
+        "5": "Wahai Rasulullah engkau datang membawa Al-Qur'an\nDari wahyu Allah, Tuhan kami Yang Maha Pengasih",
+        "6": "Dengan pertolongan Allah engkau sebarkan iman\nWahai kekasih Allah wahai Thaha Nabi",
+        "7": "Betapa hati melangkah menuju negeri-negeri itu\nDengan rindu menyeru pemberi syafaat yang terpilih",
+        "8": "Telah lama usahaku jauh dari maqam yang paling mulia\nHaji adalah cita-citaku dan negeri Nabi"
+      }
+    },
+    "en": {
+      "name": "The Heart Enamored with Taha the Prophet",
+      "translator": "Draft AI Copilot",
+      "text": {
+        "1": "The heart is enamored with Taha the Prophet\nWe send prayers and peace upon Taha the Prophet",
+        "2": "Our honored Prophet, our exalted Prophet\nTaha the Arab, Taha the Arab",
+        "3": "Ahmad guided us and the Lord has willed\nHe came to us with goodness and with truth he arrived",
+        "4": "He called us to piety, to the path of hope\nAnd the Lord enriched us with Taha the Prophet",
+        "5": "O Messenger of Allah you came with the Qur'an\nFrom the revelation of Allah our Lord the Most Merciful",
+        "6": "With Allah's help you spread faith\nO beloved of Allah O Taha the Prophet",
+        "7": "How my heart steps toward those lands\nWith longing it calls my chosen intercessor",
+        "8": "My striving has long endured away from the most precious station\nPilgrimage is my desire and the lands of the Prophet"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

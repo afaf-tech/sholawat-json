@@ -1,0 +1,66 @@
+{
+  "source": "kitabkuning.id",
+  "name": "الْحَمْدُ لِلّٰهْ وَالشُّكْرُ لِلّٰهْ",
+  "latin": "Alḥamdu lillāhi wasy-syukru lillāh",
+  "text": {
+    "1": {
+      "arabic": "الْحَمْدُ لِلّٰهْ وَالشُّكْرُ لِلّٰهْ",
+      "latin": "Alḥamdu lillāhi wasy-syukru lillāh"
+    },
+    "2": {
+      "arabic": "أَزْكَى صَّلَا تِي وَسَلَامِ لِرَسُولِ الله",
+      "latin": "Azkā ṣhalāti wa salāmi li rasūlillāh"
+    },
+    "3": {
+      "arabic": "صَلِّ وَسَلِّمْ عَلَى الْمُعَلِّمْ",
+      "latin": "Ṣhalli wa sallim 'alāl-mu'allim"
+    },
+    "4": {
+      "arabic": "أَحْمَدْ مُحَمَّدْ يَا سِيْدِى خَيْرِ الْبَرِيَّةْ",
+      "latin": "Aḥmad Muḥammad yā sidi khairil-bariyyah"
+    },
+    "5": {
+      "arabic": "لُذْ بِالْمُمَجَّدْ إِنْ رُمْتَ تَسْعَدْ",
+      "latin": "Luḏz bil-mumajjad 'in rumta tas'ad"
+    },
+    "6": {
+      "arabic": "هَذَا مُحَمَّدْ يَا سِيْدِى خَيْرِ الْبَرِيَّةْ",
+      "latin": "Hāḏzā Muḥammad yā sidi khairil-bariyyah"
+    },
+    "7": {
+      "arabic": "قُبَّةُ الْخَضْرَا نِيْرَاسَ الْخَضْرَا",
+      "latin": "Qubbatul-kḫaḍrā nīrāsal-kḫaḍrā"
+    },
+    "8": {
+      "arabic": "فِيْهَا أَبُوْا الزَّهْرَاء يَا سِيْدِى الْهَا شِمِيَّةْ",
+      "latin": "Fīhā Abūz-Zahra' yā sidil-hā syimmiyyah"
+    },
+    "9": {
+      "arabic": "لُذْ بِالْمَدِيْنَةِ فِيْهَا نَبِيْنَا",
+      "latin": "Luḏz bil-madīnati fīhā nabīnā"
+    },
+    "10": {
+      "arabic": "نُوْرُهُ وَفَا نَا يَا سِيْدِي صُبْحٌ عَشِيَّةْ",
+      "latin": "Nūruhu wa fānā yā sidi ṣhubḥun 'asyīyyah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Alhamdulillah Wa Syukru Lillah",
+      "translator": "kitabkuning.id",
+      "text": {
+        "1": "Segala puji dan syukur bagi Allah",
+        "2": "Shalawat dan salam terbaik untuk Nabi Allah",
+        "3": "Shalawat dan salam kepada sang pembimbing",
+        "4": "Ahmad Muhammad wahai tuanku, sebaik-baik makhluk",
+        "5": "Berpegang teguhlah pada yang Maha Mulia jika engkau ingin bahagia",
+        "6": "Inilah Muhammad wahai tuanku, sebaik-baik makhluk",
+        "7": "Kubah hijau, pelita hijau",
+        "8": "Di dalamnya Abu az-Zahra' wahai tuanku, yang bercahaya bagai bintang",
+        "9": "Berpegang teguhlah pada Madinah, di sanalah Nabi kita",
+        "10": "Cahayanya dan naungannya wahai tuanku, pagi dan petang"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

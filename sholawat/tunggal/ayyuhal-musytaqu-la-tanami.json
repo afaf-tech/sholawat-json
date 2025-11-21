@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَيُّهَا الـمُشْتَاقُ لَا تَنَمِ",
+  "latin": "Ayyuhal Musytaqu La Tanami",
+  "text": {
+    "1": {
+      "arabic": "أَيُّهَا الـمُشْتَاقُ لَا تَنَمِ هَذِهِ أَنْوَارُ ذِى سَلَمِ",
+      "latin": "Ayyuhal musytaqu la tanami hadzihi anwaru dzi salami"
+    },
+    "2": {
+      "arabic": "عَنْ قَرِيبٍ أَنْتَ فِی الحَرَمِ عِنْدَ خَيْرِ العَرَبِ وَالعَجَمِ",
+      "latin": "'An qoribin anta fil haromi 'inda khoiril 'urbi wal 'ajami"
+    },
+    "3": {
+      "arabic": "قِفْ أَمَامَ القَبْرِ فِی أَدَبِ مَثِلاً فِی أَشْرَفِ الرُّتَبِ",
+      "latin": "Qif amamal qobri fi adabi matsilan fi asyrofir rutabi"
+    },
+    "4": {
+      "arabic": "فِی مَكَانِ القُرْبِ وَالقُرَبِ وَالرِّضَا وَالجُودِ وَالكَرَمِ",
+      "latin": "Fi makanil qurbi wal qurobi warridho wal judi wal karomi"
+    },
+    "5": {
+      "arabic": "لَيْسَ كَالـمُخْتَارُ فِی البَشَرِ فَهْوُ مِلْءُ السَّمْعِ وَالبَصَرِ",
+      "latin": "Laisa kal mukhtari fil basyari fahuwa mil-us sam'i wal bashori"
+    },
+    "6": {
+      "arabic": "وَاحِدُ التَّارِيخِ وَالسِّيَرِ وَإِمَامُ الرُّسْلِ وَالأُمَمِ",
+      "latin": "Wahidut tarikhi wassiyari wa imamur rusuli wal umami"
+    },
+    "7": {
+      "arabic": "ظَهَرَتْ أَيَاتُ مَوْلِدِهِ فَجَلَتْ عَنْ کُنْهِ سُؤْدَدِهِ",
+      "latin": "Dhoharot ayatu mawlidihi fajalat 'an kunhi su'dadihi"
+    },
+    "8": {
+      "arabic": "وَأَبَانَتْ فَضْلَ مَحْفَلِهِ مَلَأَتْ بِالفَخْرِ کُلَّ فَمِ",
+      "latin": "Wa abanat fadhl-lu mahfalihi mala-at bil fakhri kulla fami"
+    },
+    "9": {
+      "arabic": "لَيْلَةَ الإسْرَاءِ تَرْعَاهُ وَعَلَی الـمِعْرَاجِ مَرْقَاهُ",
+      "latin": "Laylatal isro-i tar'ahu wa 'alal mi'roji marqohu"
+    },
+    "10": {
+      "arabic": "حِيْنَ أَدْنَاهُ وَنَاجَاهُ بِكَلَامٍ لَيْسَ كالكَلِمِ",
+      "latin": "Hina adnahu wa najahu bikalaми laisa kal-kalimi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Orang yang Rindu Jangan Tidur",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai orang yang rindu jangan tidur, ini adalah cahaya-cahaya tanah pemilik keselamatan",
+        "2": "Sebentar lagi kamu di tanah haram, di samping sebaik arab dan ajam",
+        "3": "Berdirilah di depan kubur dengan adab, dengan membentuk derajat yang paling mulia",
+        "4": "Di tempat yang dekat dan rida dan dermawan dan mulia",
+        "5": "Tidak ada manusia seperti nabi yang terpilih, beliau memenuhi pendengaran dan pengeliahatan",
+        "6": "Tidak ada yang menyamai sejarah dan biografi, imam para utusan dan seluruh umat",
+        "7": "Tampak tanda-tanda kelahirannya, maka tampak hakikat kepemimpinannya",
+        "8": "Dan menjelaskan keutamaan pestanya, memenuhi setiap bibir dengan kemuliaan",
+        "9": "Malam isra menjaganya, dan mikraj adalah naiknya",
+        "10": "Ketika mendekatkannya dan membisikinya dengan kalam yang tidak seperti kalam"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "لُذْ فِيْ حِمَى طَهَ أَبِي الْقَاسِمِ",
+  "latin": "Ludz Fi Hima Toha Abil Qosimi",
+  "text": {
+    "1": {
+      "arabic": "لُذْ فِيْ حِمَى طَهَ أَبِي الْقَاسِمِ مُحَمَّدٍ نَبِيِّنَا الرَّاحِمِ",
+      "latin": "Ludz fi hima thoha abil qosimi muhammadin nabiyyinar rohimi"
+    },
+    "2": {
+      "arabic": "خَيْرِ الْوَرَى مَنْ جَاءَنَا هَادِيًا فَخْرَ الْوُجُوْدِ الْفَاتِحِ الْخَاتَمِ",
+      "latin": "Khoiril wara man ja'ana hadiyan fakhrol wujudil fatihil khotami"
+    },
+    "3": {
+      "arabic": "يَا أَكْرَمَ الْخَلْقِ عَلَى رَبِّهِ وَخَيْرَ مَبْعُوْثٍ إِلَى حِزْبِهِ",
+      "latin": "Ya akramal kholqi 'ala robbihi wa khoiro mab'utsin ila hizbihi"
+    },
+    "4": {
+      "arabic": "إِلَهُنَا اِصْطَفَاكْ فِيْ غَيْبِهِ وَلَيْسَ فِيْ كَوْنِهِ وَلَا آدَمِيْ",
+      "latin": "Ilahunasthofaka fi ghoibihi wa laisa fi kaunihi wa la adami"
+    },
+    "5": {
+      "arabic": "يَا مُرْسَلًا بِالْحَقِّ إِلَى خَلْقِهِ وَخَيْرَ مَبْعُوْثٍ وَأَكْرَمَ رُسْلِهِ",
+      "latin": "Ya mursalan bil haqqi ila kholqihi wa khoiro mab'utsin wa akrama ruslihi"
+    },
+    "6": {
+      "arabic": "أَنْتَ الَّذِيْ فُضِّلْتَ فِيْ أَسْمَائِهِ قُرْآنُهُ شَرَائِعُ الْعَالَمِ",
+      "latin": "Antal ladzi fudhdilta fi asma'ihi qur'anuhu syarai'ul 'alami"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Kembalilah di Lindungan Taha",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Kembalilah di lindungan Taha Abu Qasim, Muhammad nabi kita yang penyayang",
+        "2": "Sebaik manusia yang datang kita sebagai petunjuk, kebanggaan alam semesta, pembuka dan penutup",
+        "3": "Wahai sebaik makhluk menurut tuhannya, dan sebaik yang diutus kepada kelompoknya",
+        "4": "Tuhan kita memilihmu dalam ghaibnya, dan tidak ada dalam alamnya dan adamnya",
+        "5": "Wahai yang diutus dengan kebenaran pada makhluknya, dan sebaik yang diutus dan rasul yang paling mulia",
+        "6": "Engkau adalah yang diutamakan dalam nama-namanya, Qurannya adalah syariat alam semesta"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

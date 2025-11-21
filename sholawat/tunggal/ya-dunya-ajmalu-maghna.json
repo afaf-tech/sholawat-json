@@ -1,0 +1,51 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا دُنْيَا أَجْمَلُ مَغْنَى",
+  "latin": "Ya Dunya Ajmalu Maghna",
+  "text": {
+    "1": {
+      "arabic": "يَا دُنْيَا أَجْمَلُ مَغْنَى بَيْتٌ بِالنُّوْرِ ازْدَانْ * مِنْ أَوَّلِ يَوْمٍ يُبْنَى وَيَقُوْمُ عَلَى الْإِيْمَانْ",
+      "latin": "Ya dunya ajmalu maghna baitun binnuriz dan min awwali yaumi yubna wa yaqumu alal iman"
+    },
+    "2": {
+      "arabic": "بَيْتٌ يَمْلَؤُهُ الْوُدُّ وَالرَّحْمَةُ وَالْإِحْسَانْ * اَلْبَهْجَةُ فِيْهِ وَعْدٌ وَالْخَيْرُ لَهُ عُنْوَانْ",
+      "latin": "Baitun yamlauhul wuddu warrohmatu wal ihsan, al bahjatu fihi wa'dua wal khoiru lahu unwan"
+    },
+    "3": {
+      "arabic": "لِلرُّوْحِ يَشُعُّ ضِيَاءَ وَتَمُوْجُ بِهِ الْأَحْلَامْ * لِلْقَلْبِ يَفِيْضُ هَنَاءَ وَيَطِيْبُ مَعَ الْأَيَّامْ",
+      "latin": "Lirruhi yusya'u dliya'ya wa tamuju bihil ahlam, lil qolbi yafidlu hana'a wa yathibu ma'al ayyam"
+    },
+    "4": {
+      "arabic": "بَيْتٌ قَدْ كَانَ وَيَبْقَى بِاللهِ يَشُدُّ عُرَاهْ * يَسْمُوْ بِالرُّوْحِ وَيُسْقَى مِنْ هَدْيِ رَسُوْلِ اللهْ",
+      "latin": "Baitun qod kana wa yabqo billah yasyuddu uroh yasmu birruhi wa yusqo min hadyi rosulillah"
+    },
+    "5": {
+      "arabic": "وَلَهُ هَدَفٌ وَمَعَانِيْ وَلَهُ بِاللهِ رَجَاءْ * أَنْ يُكْرِمَهُ بِأَمَانِ وَيَجُوْدَ لَهُ بِعَطَاءْ",
+      "latin": "Wa lahu hadfu wa ma'ani wa lahu roja an yukrimahu bi amani wa yajudu lau bi ato"
+    },
+    "6": {
+      "arabic": "نِعْمَاءُ الدُّنْيَا شَتَّى وَمَسَرَّتُهَا أَلْوَانْ * أَبْدَعُهَا الْبَارِئُ حَتَّى يُنَعِّمَ فِيْهَا الْإِنْسَانْ",
+      "latin": "Na'mau dunya syatta wa masarrotuha alwan, abdauhal bari hatta yunaimu fihal insan"
+    },
+    "7": {
+      "arabic": "فَالشُّكْرُ لِمَنْ قَدْ أَعْطَى مَا أَعْطَى كَيْفَ يَشَاءْ * وَالْحَمْدُ لِمَنْ قَدْ غَطَّى دُنْيَانَا بِالنَّعْمَاءْ",
+      "latin": "Fa syukru liman qod a'to, ma a'to kaifa yasya, walhamdu liman qod ghotto dunyana binna'ma"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Dunia Seindah Tempat Tinggal",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai dunia seindah tempat tinggal, rumah yang dihiasi cahaya, dari hari pertama dibangun dan berdiri atas iman",
+        "2": "Rumah yang dipenuhi kasih sayang, rahmat dan kebaikan, kebahagiaan di dalamnya adalah janji dan kebaikan adalah judulnya",
+        "3": "Untuk roh memancarkan cahaya dan bergelombang dengannya mimpi-mimpi, untuk hati melimpah ketenangan dan enak dengan hari-hari",
+        "4": "Rumah yang telah ada dan tetap dengan Allah mengikat talinya, tinggi dengan roh dan diberi minum dari petunjuk Rasulullah",
+        "5": "Dan untuknya tujuan dan makna-makna dan untuknya dengan Allah harapan, bahwa Allah memuliakan dengan keamanan dan bermurah hati dengan pemberian",
+        "6": "Nikmat dunia bermacam-macam dan kegembiraannya berwarna-warni, Pencipta menciptakan hingga manusia menikmati di dalamnya",
+        "7": "Maka syukur untuk yang telah memberi, apa yang diberi bagaimana Dia kehendaki, dan puji untuk yang telah menutupi dunia kami dengan nikmat"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

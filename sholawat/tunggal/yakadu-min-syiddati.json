@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَكَادُ مِنْ شِدَّةِ أَشْوَاقِى",
+  "latin": "Yakadu Min Syiddati Asywaqi",
+  "text": {
+    "1": {
+      "arabic": "يَكَادُ مِنْ شِدَّةِ أَشْوَاقِى فُؤَادِی يَطِير * إِلَی الْحَبِيب الَّذِی حُبُّهُ سَكَنْ فِی الضَّمِير",
+      "latin": "Yakadu min syiddati asywaqi fuadi yathir ilal habibilladzi hubbuh sakan fidldlomir"
+    },
+    "2": {
+      "arabic": "مَتَی مَتَی يَأْذَنَ المَوْلَی لَنَا بِالمَسِير * نَزُورُ خَيْرَ الوَرَی المُخْتَار طَهَ البَشِير",
+      "latin": "Mata mata ya'dzanul maula lana bil masir nazur khoirol warol mukhtar Thohal basyir"
+    },
+    "3": {
+      "arabic": "نَزُورْ قَبْرَه وَنَتَعَطَّرْ بِذَاكَ العَبِير * وَيَفْتَحُ اللهُ لَنَا بَابَ العَطَايَا الكَبِير",
+      "latin": "Nazur qobroh wa nat'aththor bidzakal 'abir wa yaftahullah lana babal 'athoya kabir"
+    },
+    "4": {
+      "arabic": "نَزُور فِی عَافِيَه يَسْهُل عَلَينَا العَسِير * نَزُور بِأَولَادِنَا كَبِيرِهِم وَالصَّغِير",
+      "latin": "Nazur fi 'afiyah yas-hul 'alainal 'asir nazur bi auladina kabirihim washshoghir"
+    },
+    "5": {
+      "arabic": "تَقَع زِيَارَه مَدَدَهَا مِن حَبِيبِی كَثِير * نَنْظُر إِلَی ذَلِكَ الوَجْهِ الصَّبِيحِ النَّوِير",
+      "latin": "Taqo' ziyaroh madad-ha min habibi katsir nandhur ila dzalikal wajhish-shobihin-nawir"
+    },
+    "6": {
+      "arabic": "نَشْهَد جَمَالَه وَيمسی الطَّرْفَ مِنَّا قَرِير * يَا سَيِّدَ الرُّسُل تَحْتَ الْبَاب طَالِب فَقِير",
+      "latin": "Nasyhad jamaluh wa yumsith-thorf minna qarir ya sayyidar-rusul tahtal bab tholib faqir"
+    },
+    "7": {
+      "arabic": "يَبْغَی كَرَامَات يُمْحَی کُلُّ مَا فِی النَّظِير * وَيُدْرِكُ العَبْد مِنَّك کُلَّ مَا فِی الضَّمِير",
+      "latin": "Yabgho karomat yumha kullu ma fin-nadhir wa yudrikul 'abid minnak kulla ma fîdl-dlomîr"
+    },
+    "8": {
+      "arabic": "مَا لِی طَلَب غَيْر فِی لُقْيَا السِّرَاجِ المُنِير * دَايم خَيَالُه مَعِی فِی مَقْعَدِی وَالمَسِير",
+      "latin": "Mali tholab ghoir fi luqyas-sirojil munir dayim khoyaluh ma'i fi maq'adi wal masir"
+    },
+    "9": {
+      "arabic": "يَا الله بِجَاهِه تَقِينَا حَرَّ نَارِ السَّعِير * وَاغْفِر لَنَا کُلَّ زَلَّه وَامْحُ مَا فِی النَّظِير",
+      "latin": "Ya Allah bijahih taqina harro naris-sa'ir waghfir lana kulla zallah wamhu ma fin-nadhir"
+    },
+    "10": {
+      "arabic": "وَادْرِك بِرَحْمَتِك يُمْسِی الجَوِّ مِنْهَا مَطِير",
+      "latin": "Wadrik barohmatik yumsil jaww minha mathir"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Hampir Karena Kuat Kerinduanku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Hampir karena kuatnya kerinduanku hatiku terbang, kepada kekasih yang cintanya menetap di hati",
+        "2": "Kapankah Allah mengizinkan kami untuk berangkat, mengunjungi sebaik manusia yang terpilih Thoha sang pembawa kabar gembira",
+        "3": "Mengunjungi kuburnya dan harum dengan wangi itu, dan Allah membukakan bagi kami pintu pemberian yang besar",
+        "4": "Mengunjungi dalam kesehatan mudah bagi kami yang sulit, mengunjungi dengan anak-anak kami yang besar dan yang kecil",
+        "5": "Terjadi ziarah yang bantuan dari kekasihku banyak, kami melihat wajah yang cantik bercahaya",
+        "6": "Kami menyaksikan keindahannya dan menjadi sejuk pandangan dari kami, wahai pemimpin para rasul di bawah pintu peminta yang fakir",
+        "7": "Menginginkan kemuliaan dihapuskan semua yang ada di catatan, dan menyadari hamba dari engkau semua yang ada di hati",
+        "8": "Tidak ada permintaanku selain bertemu pelita yang bercahaya, selalu bayangannya bersamaku di tempat dudukku dan perjalanan",
+        "9": "Ya Allah dengan kemuliaan beliau lindungi kami panas api yang menyala, dan ampuni kami semua kesalahan dan hapus yang ada di catatan",
+        "10": "Dan sampaikanlah dengan rahmat-Mu menjadi udara darinya hujan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

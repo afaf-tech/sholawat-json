@@ -1,0 +1,36 @@
+{
+    "source": "terjemahkitab.com",
+    "name": "اللهَ أَرْجُو أَنْ أَرَى بِزَمَانِي",
+    "latin": "Allaha Arju An Aro Bi Zamani",
+    "text": {
+        "1": {
+            "arabic": "اللهَ أَرْجُو أَنْ أَرَى بِزَمَانِي * رَوْضاً لِطَهَ سَيِّدِ الأَكْوَانِ",
+            "latin": "Allaha arju an ara bi zamani raudlon li Thoha sayyidil akwani"
+        },
+        "2": {
+            "arabic": "مَاحِي ظَلَامِ الشِّرْكِ بَابِ الـمُرْتَجَى * لِلْأَنْبِيَاءِ وَالإِنْسِ ثُمَّ الجَانِ",
+            "latin": "Mahi dholamisyirki babil murtaja lil anbiya wal insi tsummal jani"
+        },
+        "3": {
+            "arabic": "رَبَّ الوُجُودِ أَتَيْتُ بَابَكَ ضَارِعاً * وَبَسَطْتُ كًفِّي رَاجِيَ الإحْسَانِ",
+            "latin": "Robbal wujudi ataitu babaka dhori'an wa basathtu kaffi rajil ihsani"
+        },
+        "4": {
+            "arabic": "أَرِنِي الـمَدِينَة يَا إِلَهِي وَاكْفِنِي * دُنْيَا وَأُخْرِى نَائِبَاتِ زَمَانِ",
+            "latin": "Arinil madinah ya ilahi wakfini dunya wa ukhra na'ibati zamani"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Kepada Allah Aku Berharap",
+            "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+            "text": {
+                "1": "Kepada Allah aku berharap agar aku dapat melihat di waktuku raudah Taha junjungan semesta alam",
+                "2": "Penghancur kegelapan syirik, pintu harapan para nabi, manusia lalu jin",
+                "3": "Tuhan alam, aku datang ke pintumu seraya berharap, dan aku lebarkan tanganku, seraya mengharap kebaikan",
+                "4": "Perlihatkan aku kota Madinah wahai tuhanku, dan jauhkan aku dari musibah-musibah dunia dan akhirat"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}

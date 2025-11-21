@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "تَجَلَّى مَوْلِدُ الهَادِي",
+  "latin": "Tajalla Maulidul Hadi",
+  "text": {
+    "1": {
+      "arabic": "تَجَلَّى مَوْلِدُ الهَادِي كَنُورِ الشَّمْسِ فِي الوَادِي",
+      "latin": "Tajalla maulidul hadi kanuri syamsi fil wadi"
+    },
+    "2": {
+      "arabic": "أضاء الكونَ مولدُهُ بأطهرِ يوم ميلادِ",
+      "latin": "Adha al-kauna mauliduhu bi athori yaumi miladi"
+    },
+    "3": {
+      "arabic": "بِشَهْرِ رَبِيعِهِ ازدَانَتْ أَزَاهِيرِي وَأَوْرَادِي",
+      "latin": "Bisyahri rabihi izdanat azahiri wa awradi"
+    },
+    "4": {
+      "arabic": "بِسِيرَتِهِ وَحَضْرَتِه شَدَتْ أَوْتَارُ أَعْوَادِي",
+      "latin": "Bisiratihi wa hadlratihi syadadat autaru a'wadi"
+    },
+    "5": {
+      "arabic": "وَغَنَّى الرَّكْبُ وَالحَادِي تَجَلّى مَولدُ الهَادي",
+      "latin": "Wa ghanna ar-rakbu wal hadi tajalla maulidul hadi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Tampak Kelahiran Sang Pemberi Petunjuk",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Tampak kelahiran sang pemberi petunjuk, seperti cahaya matahari di lembah",
+        "2": "Menerangi alam kelahirannya, dengan hari kelahiran yang paling suci",
+        "3": "Di bulan Rabiul-nya berhias, bunga-bungaku dan wirid-wiridku",
+        "4": "Dengan sirahnya dan hadlrahnya, terikat senar-senar rebana-rebanaku",
+        "5": "Dan bernyanyi kafilah dan penggembala, tampak kelahiran sang pemberi petunjuk"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

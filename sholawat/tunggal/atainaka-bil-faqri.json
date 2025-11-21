@@ -1,0 +1,51 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أتَيْناك بِالفَقرِ يَا ذَا الغِنَى",
+  "latin": "Atainaka Bil Faqri Ya Dzal Ghina",
+  "text": {
+    "1": {
+      "arabic": "أتَيْناك بِالفَقرِ يَا ذَا الغِنَى * وأنْتَ الذي لم تزَلْ محسَّنا",
+      "latin": "Atainaka bil faqri ya dzal ghina wa antal ladzi lam tazal muhsinna"
+    },
+    "2": {
+      "arabic": "وعَوَّدْتَنا كلَّ فضْلِ عسى * يدُومُ الذي مِنْك عوَّدتَنا",
+      "latin": "Wa 'awwadtana kulla fadlin 'asa yadumul ladzi minka 'awwadtana"
+    },
+    "3": {
+      "arabic": "مَساكينُكَ الشُّعثُ قَدْ وُلِّهُوا * بحُبكَ إِذْ هُوَ أَقْصَى الْمُنَى",
+      "latin": "Masakinukas syu'atsu qod wullihu bihubbika idz huwa aqsol muna"
+    },
+    "4": {
+      "arabic": "فَمَا في الغِنى أَحَدٌ مِثْلُكم * وَفي الفَقْرِ لَا عُصْبةٌ مِثْلُنا",
+      "latin": "Fama fil ghina ahadun mitslukum wa fil faqri la 'usbatun mitsluna"
+    },
+    "5": {
+      "arabic": "رَأيْناكَ في كُلَّ أمْرِ بَدَا * وَلَيْسَ مِنَ الأَمْرِ شَيءٌ لَنا",
+      "latin": "Ra'ainaka fi kulli amrin bada wa laisa minal amri syai'un lana"
+    },
+    "6": {
+      "arabic": "إِذا كُنْتَ فِي كُلِّ حَالٍ مَعِي * فَعَن حَمْلِ زَادِي أَنَا فِي غِنَى",
+      "latin": "Idza kunta fi kulli halin ma'i fa'an hamli zadi ana fi ghina"
+    },
+    "7": {
+      "arabic": "فَيَا رَبِّ صَلِّ عَلَى الـمُصْطَفَى * صَلَاةً تَكُونُ أَمَاناً لَنَا",
+      "latin": "Faya robbi sholli alal musthofa sholatan takunu amanan lana"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Aku Datang Kepadamu dengan Kefakiran",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Aku datang kepadamu dengan kefakiran wahai yang memiliki kekayaan, dan engkau selalu berbuat baik",
+        "2": "Engkau memberiku setiap keutamaan, semoga kekal yang telah engkau berikan",
+        "3": "Orang-orang miskinMu yang tidak terawat telah dinyalakan dengan cintaMu, karena cinta adalah puncak harapan",
+        "4": "Dala hak kaya tidak ada yang menyamai-Mu, dalam hal miskin tidak ada kelompok seperti kita",
+        "5": "Aku melihatmu di setiap perkara, dan tidak ada suatu perkara pun untuk kita",
+        "6": "Jika engkau di setiap keadaan bersamaku, maka aku tidak butuh membawa bekalku",
+        "7": "Wahai tuhanku berselawatlah kepada nabi yang terpilih, dengan selawat yang menjadi keselamatan bagi kami"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

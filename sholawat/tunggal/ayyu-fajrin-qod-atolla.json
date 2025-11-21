@@ -1,0 +1,36 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَيُّ فَجْرٍ قَدْ أَطَلَّ",
+  "latin": "Ayyu Fajrin Qod Atolla",
+  "text": {
+    "1": {
+      "arabic": "أَيُّ فَجْرٍ قَدْ أَطَلَّ أَيُّ نُورٍ قَدْ أَضَاءَ أَيُّ بَـدْرٍ قَـدْ أَهَـلَّ يَـمْـلَأُ الـدُّنْـيـَا ثَـنَـاء",
+      "latin": "Ayyu fajrin qod atolla ayyu nurin qod adho'a ayyu badrin qod ahalla yamla'ud dunya tsana'"
+    },
+    "2": {
+      "arabic": "إِنَّــهُ مِيـْلَادُ طَـهَ فَاسْتَفِيقِـي يَا دُهُـور أَسْـمِعِي الدُّنْيَا نَشِيدًا وَامْلَئِيهَا بِالسُّرُورِ",
+      "latin": "Innahu miladu thoha fastafiqo ya duhuru asmi'id dunya nasyidan wamla'iha bissurur"
+    },
+    "3": {
+      "arabic": "جَاءَ بِالشَّرْعِ القَوِيم نَاشِراً فِينَا هُدَاه صَاحِب الخُلُقِ العَظِيم أَيْقَظَ الدُّنْيَا ضِيَاء",
+      "latin": "Ja'a bisyar'il qowim nasyiran fina hudahu shohibul khuluqil 'adhim aiqodhod dunya dhiya'"
+    },
+    "4": {
+      "arabic": "قَدْ أَقَامَ الدَّهْرَ عِيداً مِثْلَهُ مَا مَرَّ عِيد كُـلُّ مَـْن يَـفْـرَح بِـطَـهَ إِنَّـهً حَـقًّـا سَعِيد",
+      "latin": "Qod aqomad dahra 'idan mitslahu ma marro 'id kullu man yafrahu bi thoha innahu haqqon sa'id"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Fajar Apa yang Menyinari",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Fajar apa yang menyinari, cahaya apa yang bercahaya, rembulan apa yang muncul yang memenuhi dunia dengan pujian",
+        "2": "Itu adalah kelahiran Taha, maka sadarlah wahai zaman, dengarkan pujian dunia dan penuhilah dengan kebahagiaan",
+        "3": "Beliau datang dengan membawa syariat yang tegak, menyebar petunjuknya kepada kita, pemilik akhlak yang agung, membangunkan dunia dengan terang",
+        "4": "Menjadikan seluruh waktu adalah hari raya tidak ada yang menyamai, setiap orang yang berbahagia dengan kedatangan Taha, maka dia sungguh bahagia"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

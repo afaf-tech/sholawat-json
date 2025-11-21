@@ -1,0 +1,71 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "اَنَا الْفَقِيْرُ اِلَيْكَ يٰا رَبَّ",
+  "latin": "Anal Faqiru Ilaika Ya Robb",
+  "text": {
+    "1": {
+      "arabic": "اَنَا الْفَقِيْرُ اِلَيْكَ يٰا رَبَّ وَاَنْتَ عَنِّى غَنِىّ",
+      "latin": "Anal faqiiru ilaika yaa Robb wa Anta 'annii ghoniyyun"
+    },
+    "2": {
+      "arabic": "وَالضَعْفُ فِىَ اَصِيْلٌ وَاَنْتَ رَبٌّ قَوِىُّ",
+      "latin": "Wadl-dlo'fu fiyya ashiilun wa Anta Robbun qowiyyun"
+    },
+    "3": {
+      "arabic": "الكُلُّ يَفْنَى وَيَبْلىٰ وَاَنْتَ وَحْدَكَ حَىُّ",
+      "latin": "Alkullu yafnaa wa yablaa wa anta wahdaka wahdaka hayyun"
+    },
+    "4": {
+      "arabic": "مَعَايِبِى لَيْسَ تَخْفىٰ لَكِنَّ عَفْوَكَ اَوْفىٰ",
+      "latin": "Ma'aayibii laisa takhfaa laakinna 'afwaka aufaa"
+    },
+    "5": {
+      "arabic": "وَاِنَّنِى رَغْمَ ضَعْفِى اَرَى الْكَبَائِرَ حَفَى",
+      "latin": "Wa innanii roghma dlo'fii arool kabaa-iro hafaa"
+    },
+    "6": {
+      "arabic": "اَحْيَا بِرُوْحٍ طَمُوْحْ مَلْئَ رَجَاءْ وَخَوْفًا",
+      "latin": "Ahyaa biruuhin thomuuhin mal-aa rojaa-an wa khoufan"
+    },
+    "7": {
+      "arabic": "تَطِيْرُ تَسْجُدْ تَسْمُوْ وَتَحْتَسِ النُّوْرَ صرْفًا",
+      "latin": "Tathiiru tasjudu tasjudu tasmuu wa tahtasin annuuro shirfaa"
+    },
+    "8": {
+      "arabic": "لَوْلَاكَ کُنْتُ هَبَاءً يَا رَب أَوْ فَاسِقاً أَوْ شَقِيًّا",
+      "latin": "Laulaaka kuntu habaa-an Yaa Robb awfaasiqon aw syaqiyyan"
+    },
+    "9": {
+      "arabic": "وَالمَرْءُ مِنْ غَيْرٍ دِينٍ يَا رَبّ لَمْ يَسْوِ فِي الكَوْنِ شَيْئاً",
+      "latin": "Wal mar-u min ghoiri diinin Yaa Robb lam yaswa fiil kauni syai-an"
+    },
+    "10": {
+      "arabic": "قَدْ کُنْتُ مَيْتاً وَلَکِنْ أَصْبَحْتُ بِالدِّينِ حَيًّا",
+      "latin": "Qod kuntu mayyitan wa laakin ashbahtu biddiin hayyan"
+    },
+    "11": {
+      "arabic": "وَقُلْتُ شَتَّانَ شَتَّانَ حَقًّا بَيْنَ الثَّرَی وَالثُّرَيَّا",
+      "latin": "Wa qultu syattaan syattaana haqqon bainats-tsaroo wats-tsuroyyaa"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Aku Adalah Orang yang Butuh Kepadamu",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Aku adalah orang yang butuh kepadamu wahai tuhanku, dan engkau tidak butuh kepadaku",
+        "2": "Lemah dalam diriku adalah sejak dahulu, dan engkau Tuhan yang kuat",
+        "3": "Semuanya akan punah dan hancur, dan hanya engkau yang hidup",
+        "4": "Kejelekanku tidak samar, tetapi ampunanmu lebih besar",
+        "5": "Meskipun aku lemah tetapi aku melihat dosa-dosa besar mengitariku",
+        "6": "Aku hidup dengan ruh keinginan yang dipenuhi harapan dan takut",
+        "7": "Terbang, sujud, naik dan merasa cahaya murni",
+        "8": "Jika tidak karenamu, aku menjadi debu, wahai tuhanku, atau orang fasik, atau orang celaka",
+        "9": "Seorang tanpa agama wahai tuhanku tidak ada harganya di dunia",
+        "10": "Aku dahulu mati akan tetapi menjadi hidup dengan agama",
+        "11": "Dan aku berkata, sungguh sangat jauh antara tanah dan bintang surya"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

@@ -1,0 +1,36 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا مَادِحًا خَيْرَ الْأَنَامْ",
+  "latin": "Ya Madihan Khoirol Anam",
+  "text": {
+    "1": {
+      "arabic": "يَا مَادِحًا خَيْرَ الْأَنَامْ * بَادِرْ وَلَا تَخْشَ الْمَلَامْ",
+      "latin": "Ya madihan khoirol anam badir wala takhsyal malam"
+    },
+    "2": {
+      "arabic": "قُلْ مَا اسْتَطَعْتَ فِيْ مَدْحِهْ * مَدَّاحُ طَهَ لَا يُضَامْ",
+      "latin": "Qul mastato'ta fi madhihi maddahu toha la yudlom"
+    },
+    "3": {
+      "arabic": "مَدْحُ النَّبِيِّ الْعَرَبِيْ * دِيْنِيْ وَيَقِيْنِيْ وَمَذْهَبِيْ",
+      "latin": "Madhun nabi al-Arobi diniw yaqiniw madzhabi"
+    },
+    "4": {
+      "arabic": "فَهْوَ الْمَرَامْ بَيْنَ الْأَنَامْ * طَهَ الْمُظَلَّلْ بِالْغَمَامْ",
+      "latin": "Fahwal marom bainal anam tohal mudzollal bil ghomam"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Pemuji Sebaik Manusia",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai pemuji sebaik manusia, segeralah, dan jangan takut hinaan",
+        "2": "Katakan yang engkau mampu dalam memuji beliau, pemuji Toha tidak akan tersia-sia",
+        "3": "Memuji Nabi Al-Arabi agamaku, keyakinanku dan madzhabku",
+        "4": "Beliau adalah harapan di antara manusia, Toha yang dipayungi dengan awan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

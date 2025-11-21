@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "حَـــــبِيْبِيْ أَنْتَ يَا وَلَدِيْ",
+  "latin": "Habibi Anta Ya Waladi",
+  "text": {
+    "1": {
+      "arabic": "حَـــــبِيْبِيْ أَنْتَ يَا وَلَدِيْ عَسَى لِلْـعِلْمِ تَـغْتَنِمُ",
+      "latin": "Habibi anta ya waladi asa lil ilmi taghtanimu"
+    },
+    "2": {
+      "arabic": "إِذَا مَــا كُنْتَ قُــرْآناً يُــنِيْرُ الْأَرَضَ تُـحْتَرَمُ",
+      "latin": "Idza ma qunta quranan yunirul ardlo tuhtaromu"
+    },
+    "3": {
+      "arabic": "عَـزِيْزٌ أَنْتَ فِي الدُّنْــيَا إِذَا حَـصَّلْتَ لِلْـــعِلْمِ",
+      "latin": "Azizun anta fid dunya idza khoshsholta lil ilmi"
+    },
+    "4": {
+      "arabic": "فَحَـاوِلْ أَنْ تَــــكُنْ لَهِفًا إِلَى التَـطْبِيْقِ فِيْ عَــزْمِ",
+      "latin": "Fahawil an takun lahifan ilat tathbiqi fi iazmi"
+    },
+    "5": {
+      "arabic": "فَمَهْمَـا خُذْتَ مِنَ الْــعِلْمٍ وَلَمْ تَــعْمَلْ بِـــهِ تُلَامِ",
+      "latin": "Famahma khudzta minal ilmi wa lam ta'mal bihi tulami"
+    },
+    "6": {
+      "arabic": "لَكَ الأَكْوَانُ خَادِمَةً كَذَاكَ اللهُ قَدْ قَدَّر",
+      "latin": "Lakal akwanu khodimatun kadzakallahu qod qoddar"
+    },
+    "7": {
+      "arabic": "إِذَا مَا كُنْتَ مَتَّبِعاً لِنَهْجِ الـمُصْطَفَى الأَنْوَار",
+      "latin": "Idza ma kunta mustami'an linahjil Mushthofal anwar"
+    },
+    "8": {
+      "arabic": "فَكُنْ لِلْحَقِّ مُنْقَاداً وَصَاحِبْ أَهْلَهُ تُغْفَر",
+      "latin": "Fakun lilhaqqi munqodan wa shohib ahlahu tughfar"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Kekasihku Engkau Wahai Anakku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Kekasihku engkau wahai anakku, semoga engkau mendapatkan ilmu",
+        "2": "Jika kamu menjadi seperti Quran yang menerangi bumi maka engkau dimuliakan",
+        "3": "Kamu mulia di dunia jika kamu menghasilkan ilmu",
+        "4": "Berusahalah untuk capek mempraktikkan dengan sungguh",
+        "5": "Selama engkau mengambil ilmu dan tidak kamu amalkannya maka kamu akan dihina",
+        "6": "Alam semesta akan melayanimu, itulah takdir Allah",
+        "7": "Jika kamu mengikuti jalan nabi yang terpilih yang bercahaya",
+        "8": "Maka ikutilah kebenaran dan temanilah ahlinya maka kamu akan diampuni"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

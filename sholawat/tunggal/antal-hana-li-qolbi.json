@@ -1,0 +1,76 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَنْتَ الهَنَاءُ لِقَلْبِی",
+  "latin": "Antal Hana Li Qolbi",
+  "text": {
+    "1": {
+      "arabic": "أَنْتَ الهَنَاءُ لِقَلْبِی حِينَ أَذْکُرُهُ",
+      "latin": "Antal hana-u liqolbi hina adzkuruhu"
+    },
+    "2": {
+      "arabic": "أَنْتَ الضِّيَاءُ لِعَيْنِی حِيْنَ أَلْقَاهُ",
+      "latin": "Antadh dhiya-u li'aini hina alqahu"
+    },
+    "3": {
+      "arabic": "أَنْتَ الأَمَانُ لِنَفْسِی مِنْ قَلَاقِلِهَا",
+      "latin": "Antal amanu linafsi min qolaqiliha"
+    },
+    "4": {
+      "arabic": "وَأَنْتَ لِلرُّوحِ أُنْسِی لَسْتُ أَنْسَاهُ",
+      "latin": "Wa anta lirruhi unsi lastu ansahu"
+    },
+    "5": {
+      "arabic": "وَأَنْتَ يَا سَيِّدِی البُشْرَی بِأَکْمَلِهَا",
+      "latin": "Wa anta ya sayyidil busyro bi'akmaliha"
+    },
+    "6": {
+      "arabic": "وَأَنْتَ فَرْحَةُ قَلْبِی حِيْنَ تَغْشَاهُ",
+      "latin": "Wa anta farhatu qolbi hina taghsyahu"
+    },
+    "7": {
+      "arabic": "وَأَنْتَ نُورٌ لِمَن قَدْ طَالَ لَيْلُهُمُ",
+      "latin": "Wa anta nurun liman qod thola lailuhumu"
+    },
+    "8": {
+      "arabic": "وَأَنْتَ هَدْيٌ لِمَن ضَلُّوا وَمَن تَاهُوا",
+      "latin": "Wa anta hadyun liman dhollu wa man tahu"
+    },
+    "9": {
+      "arabic": "وَأَنْتَ عَيْنُ جَمَالِ الكَوْنِ إن نَظَرَا",
+      "latin": "Wa anta 'ainu jamalikl kauni in nadhoro"
+    },
+    "10": {
+      "arabic": "عَيْنٌ جَمَالَة رَأَتْكَ العَيْنُ مَعْنَاهُ",
+      "latin": "'Ainun jamalah ro-atkal 'ainu ma'nahu"
+    },
+    "11": {
+      "arabic": "وَأَنْتَ يَا أَيُّهَا المُخْتَارُ سَيِّدُنَا",
+      "latin": "Wa anta ya ayyuhal mukhtaru sayyiduna"
+    },
+    "12": {
+      "arabic": "وَلَيْسَ يَبْدَأُ مَنْ قَدْ کُنْتَ مَنْشَاهُ",
+      "latin": "Wa laisa yabda-u man qod kunta mansyahu"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Engkau Kenyamanan Hatiku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Engkau kenyamanan untuk hatiku ketika aku mengingat",
+        "2": "Engkau penerang untuk mataku ketika aku bertemu",
+        "3": "Engkua keamanan untuk diriku dari ketakutan",
+        "4": "Engkau ruh penenangku tidak aku lupakan",
+        "5": "Engkau wahai junjunganku adalah kabar bahagia yang sempurna",
+        "6": "Engkau kebahagiaan hatiku ketika menimpa",
+        "7": "Engkau adalah cahaya bagi orang yang panjang malamnya",
+        "8": "Engkau adalah cahaya bagi orang yang tersesat dan orang yang bingung",
+        "9": "Engkau mata keindahan alam jika melihat",
+        "10": "Mata indah melihatmu maknanya",
+        "11": "Engkau wahai orang yang dipilih adalah junjungan kita",
+        "12": "Tidak memulai orang yang engkau adalah tempat tumbunya"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

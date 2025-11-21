@@ -1,0 +1,61 @@
+{
+  "source": "dutaislam.or.id",
+  "name": "يَا سَيِّدَ السَّادَاتِ",
+  "latin": "Yâ Sayyidas-Sâdâti",
+  "text": {
+    "1": {
+      "arabic": "يَا سَيِّدَ السَّادَاتِ جِئْتُكَ قَاصِدًا أَرْجُو رِضَاكَ وَأَحْتَمِي بِحِمَاكَ",
+      "latin": "Yâ sayyidas-Sâdâti ji'tuka qôshidân. Arjû ridlôka wahtamî bihimâkâ"
+    },
+    "2": {
+      "arabic": "وَاللهِ يَا خَيْرَ الْخَلَائِقِ إِنَّ لِي قَلْبًا مُشَوِّقًا لَا يَرُومُ سِوَاكَ",
+      "latin": "Wallâh yâ khoirol kholâ-iqi inna lî. Qolban masyûqon lâ yarûmu siwâkâ."
+    },
+    "3": {
+      "arabic": "وَبِحَقِّ جَاهِكَ إِنَّنِي بِكَ مُغْرَمٌ وَاللهُ يَعْلَمُ أَنَّنِي أَهْوَاكَ",
+      "latin": "Wa haqqo jâhuka innanî bika mughromun. Wallâh ya’lamu innanî ahwâkâ."
+    },
+    "4": {
+      "arabic": "أَنْتَ الَّذِي لَوْلَاكَ مَا خُلِقَ امْرُؤٌ كَلَا وَلَا خُلِقَ الْوَرَى لَوْلَاكَ",
+      "latin": "Antalladzî laulâka mâ kholaqo-mru’un. Kallâ wa lâ ‘arofal Hudâ laulâkâ."
+    },
+    "5": {
+      "arabic": "أَنْتَ الَّذِي مِنْ نُورِكَ الْبَدْرُ اكْتَسَى وَالشَّمْسُ مُشْرِقَةٌ بِنُورِ بَهَاكَ",
+      "latin": null
+    },
+    "6": {
+      "arabic": "أَنْتَ الَّذِي لَمَّا رُفِعْتَ إِلَى السَّمَاءِ بِكَ قَدْ سَمَتْ وَتَزَيَّنَتْ لِسِرَّاكَ",
+      "latin": "Antalladzî lammâ rufi’ta ilâs-samâ. Bal qod sammat wa tazayyanatil ‘ulâkâ."
+    },
+    "7": {
+      "arabic": "أَنْتَ الَّذِي نَادَاكَ رَبُّكَ مَرْحَبًا وَلَقَدْ دَعَاكَ لِقُرْبِهِ وَحُبَّاكَ",
+      "latin": "Antalladzî nâdâkâ robbuka marhabân. Wa qodi-jtabâka lihubbihi wa ‘ulâkâ."
+    },
+    "8": {
+      "arabic": "أَنْتَ الَّذِي فِينَا سَالَتْ شَفَاعَةٌ نَادَاكَ رَبُّكَ لَمْ تَكُنْ لِسِوَاكَ",
+      "latin": "Antalladzî fînâ su-ilat syafâ’atan. Nâdâka robbaka lam takun lisiwâkâ"
+    },
+    "9": {
+      "arabic": "أَنْتَ الَّذِي لَمَّا تَوَسَّلَ آدَمُ مِنْ زَلَّةٍ بِكَ فَازَ وَهُوَ بَاكِيًا",
+      "latin": null
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Tuan Para Pemimpin",
+      "translator": "dutaislam.or.id",
+      "text": {
+        "1": "Wahai Tuan segala pemimpin, aku datang kepadamu dengan tujuan, berharap ridhamu dan berlindung dalam perlindunganmu.",
+        "2": "Demi Allah, wahai makhluk terbaik, sesungguhnya aku memiliki hati yang rindu, yang tidak ingin kepada selain dirimu.",
+        "3": "Demi kehormatanmu, sungguh aku tergila-gila padamu, dan Allah tahu bahwa aku mencintaimu.",
+        "4": "Engkaulah yang tanpamu, tidak ada manusia yang diciptakan, tidak pula makhluk lain diciptakan tanpamu.",
+        "5": "Engkaulah yang darimu, rembulan bersinar, dan matahari terbit dengan cahayamu.",
+        "6": "Engkaulah yang ketika engkau diangkat ke langit, engkau meninggi dan menghiasi alam semesta dengan rahasiamu.",
+        "7": "Engkaulah yang dipanggil oleh Tuhanmu dengan sambutan selamat datang, dan Dia mengundangmu untuk dekat kepada-Nya dan menganugerahimu.",
+        "8": "Engkaulah yang syafaatnya mengalir di antara kami, Tuhanmu memanggilmu dan syafaat itu tidak diberikan kepada siapa pun selainmu.",
+        "9": "Engkaulah yang ketika Adam memohon syafaatmu karena kesalahannya, dia berhasil dan menangis dengan penuh penyesalan."
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

@@ -1,0 +1,65 @@
+{
+  "source": "kitabkuning.id",
+  "name": "يٰا حَبِيْبَ الْقَلْبِ",
+  "latin": "Yā Ḥabībal-Qalb",
+  "text": {
+    "1": {
+      "arabic": "يٰا حَبِيْبَ الْقَلْبِ (اللهُ) يَا خَيْرَ الْبَرِيَّةِ",
+      "latin": "Yā ḥabībl-qalbi (Allāhu) yā khairal-bariyyah"
+    },
+    "2": {
+      "arabic": "يَا لَيْتَ جِئْتَ بِالْحَقِّ (اللهُ) رَسُوْلَ الْهِدَايَةِ",
+      "latin": "Yā layta jī-ta bil-ḥaqqi (Allāhu) rasūlal-hidāyah"
+    },
+    "3": {
+      "arabic": "يَا رَسُوْلَ اللهِ يَا حَبِيْبَ اللهِ",
+      "latin": "Yā rasūlallāhi yā ḥabīballāhi"
+    },
+    "4": {
+      "arabic": "يَوْمَ الْوِلَادَةِ كَالْبِدَايَةِ لِلْهِدَايَةِ كَالْبِدَايَةِ",
+      "latin": "Yawmal-wilādah kāl-bidāyah lil-hidāyah kāl-bidāyah"
+    },
+    "5": {
+      "arabic": "إِنْ تَجِدْ يَا طٰهَ بِالنُّوْرِ الْهِدَايَةَ يَا رَسُوْلَ اللهِ",
+      "latin": "In tajid yā Ṭhāhā bin-nūril-hidāyah yā rasūlallāhi"
+    },
+    "6": {
+      "arabic": "جِئْتَ بِدِيْنِ اللهِ جِئْتَ كُلَّ الْبَرِيَّةِ يَا حَبِيْبَ اللهِ",
+      "latin": "Jī-ta bi dīnillāhi jī-ta kullal-bariyyah yā ḥabīballāhi"
+    },
+    "7": {
+      "arabic": "يَا بَشِيْرَ الْخَيْرِ يَا رَسُوْلَ اللهِ",
+      "latin": "Yā basyīral-khairi yā rasūlallāhi"
+    },
+    "8": {
+      "arabic": "يَا دَلِيْلَ النُّوْرِ يَا حَبِيْبَ اللهِ",
+      "latin": "Yā dalīlan-nūri yā ḥabīballāhi"
+    },
+    "9": {
+      "arabic": "يَا يَا يَا بَشِيْرَ الْخَيْرِ يَا يَا دَلِيْلَ النُّوْرِ",
+      "latin": "Yā yā yā basyīral-khairi yā yā dalīlan-nūri"
+    },
+    "10": {
+      "arabic": "يَوْمَ الْوِلَادَةِ كَالْبِدَايَةِ لِلْهِدَايَةِ كَالْبِدَايَةِ",
+      "latin": "Yawmal-wilādah kāl-bidāyah lil-hidāyah kāl-bidāyah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Kekasih Hati",
+      "text": {
+        "1": "Wahai kekasih hati (Ya Allah), wahai sebaik-baik makhluk",
+        "2": "Alangkah baiknya jika Engkau datang dengan kebenaran (Ya Allah), wahai utusan pembawa hidayah",
+        "3": "Wahai utusan Allah, wahai kekasih Allah",
+        "4": "Hari kelahiran bagaikan awal mula bagi hidayah, bagaikan awal mula bagi hidayah",
+        "5": "Jika Engkau temukan wahai Ṭāhā dengan cahaya hidayah, wahai utusan Allah",
+        "6": "Engkau datang dengan agama Allah, Engkau datang untuk seluruh makhluk, wahai kekasih Allah",
+        "7": "Wahai pembawa kabar gembira, wahai utusan Allah",
+        "8": "Wahai penunjuk cahaya, wahai kekasih Allah",
+        "9": "Wahai wahai wahai pembawa kabar gembira, wahai wahai penunjuk cahaya",
+        "10": "Hari kelahiran bagaikan awal mula bagi hidayah, bagaikan awal mula bagi hidayah"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

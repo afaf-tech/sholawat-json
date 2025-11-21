@@ -1,0 +1,61 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "عَلَی المَدِينَة",
+  "latin": "Alal Madinah",
+  "text": {
+    "1": {
+      "arabic": "عَلَی المَدِينَة عَلَی المَدِینَة رَبِّ بَلِّغْنَا زِيَارَة نَبِينَا",
+      "latin": "Alal madinah alal madinah robbi ballighnaa ziyaroh nabina"
+    },
+    "2": {
+      "arabic": "رَبِّ بَلِّغْنَا نَزُورُ الحَضْرَه وَمَشَاهِد أًحْمَد وَالقُبَّة الخَضْرة",
+      "latin": "Robbi ballighnaa nazurul hadlroh wa masyahid ahmad wal qubbatal khadlroh"
+    },
+    "3": {
+      "arabic": "نَهْتِف جَمِيعاً يَا اَبَا الزَّهْرَا نَحْنُ زُوَّارَك فَکُن ضَمِينَا",
+      "latin": "Nahtif jami'an ya abaz zahra nahnu zuwwarok fakun dlomina"
+    },
+    "4": {
+      "arabic": "رَبِّ بَلِّغْنَا زِيَارَة طَهَ وَنَشُوف الرَّوْضَة وَنُصَلِّی حِدَاها",
+      "latin": "Robbi ballighnaa ziyaroh thoha wa nasyuf raudlota wa nusholli haddaha"
+    },
+    "5": {
+      "arabic": "وَنَقُولُ يَا عَظِيمَ الجَاه کُنْ لِی مَجِيراً کُن لِی مُعِينَا",
+      "latin": "Wa naqulu ya 'adhimal jah kun li mujiran kun li mu'inan"
+    },
+    "6": {
+      "arabic": "قَصْدِی إِلَی نَحْوِکُم عَسِيرُ وَالدَّمْعُ مِنْ مُقْلَتِی غَزِيرُ",
+      "latin": "Qoshdi ila nahwikum asirun wad dam'u min muqlati ghazirun"
+    },
+    "7": {
+      "arabic": "وَالْقَلْبُ فِی حُبِّکُم أَسِيرُ يَا قَلْبِی إِفْرَح هَذَا نَبِينَا",
+      "latin": "Wal qolbu fi hubbikum asirun ya qolbi ifroh hadza nabina"
+    },
+    "8": {
+      "arabic": "سَاقِی الحُمَيَّا عَرِجَ عَلَیَّ وَاسْقِنِی هَيَّا كَأْساً وَافِينَا",
+      "latin": "Saqil humayyaa 'aroja 'ala wasqini hayya ka'san wafina"
+    },
+    "9": {
+      "arabic": "وَامْدَح ْمُحمَّد خَيْرَ البَرِيَّة فَهْوَ الشَّفِيعُ فِي المُذْنِبِينَ",
+      "latin": "Wamdah muhammad khoirol bariyyah fa huwas syafi'u fil mudznibina"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ke Kota Madinah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Ke kota Madinah ke kota Madinah, wahai Tuhanku sampaikan kami ziarah nabi kita",
+        "2": "Wahai tuhanku sampaikan aku ziarah al-Hadrah, dan tempat-tempat Ahmad dan Qubbah al-Hadrah",
+        "3": "Kami semua bersuara wahai Abah Zahra. Kami adalah pengunjung anda, jadi jaminan kami",
+        "4": "Wahai tuhanku, sampaikan aku Ziarah Taha, dan kami melihat Raudloh dan sholat di sisinya",
+        "5": "Dan kami berkata wahai yang agung kedudukannya, jadilah penyelamatku, jadilah penolongku",
+        "6": "Tujuanku ke tempat kalian sulit, dan air mata dari kelopakku deras",
+        "7": "Dan hati tertawan dalam cintamu, wahai hatiku, bahagialah ini adalah nabi kita",
+        "8": "Pemberi minim berilah aku minum, mari berilah aku minum dengan gelas yang cukup",
+        "9": "Dan puji Muhammad sebaik manusia, beliau lah pemberi syafaat orang-orang yang berdosa"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

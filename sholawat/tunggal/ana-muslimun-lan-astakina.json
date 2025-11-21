@@ -1,0 +1,61 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أنا مسلم لن أستكينَ",
+  "latin": "Ana Muslimun Lan Astakina",
+  "text": {
+    "1": {
+      "arabic": "أنا مسلم لن أستكينَ أبدا ولن أخشى المنونَ",
+      "latin": "Ana muslimun lan astakina abadan wa lan akhsyal manun"
+    },
+    "2": {
+      "arabic": "وعلى اتباع الحق دوما أقسمت لله اليمينَ",
+      "latin": "Wa 'ala itba'il haqqi dauman aqsamtu lillahil yamin"
+    },
+    "3": {
+      "arabic": "النور يسطع في فؤادي فأدرّه فوق البوادي",
+      "latin": "An nuru yasta'u fi fu'adi fa adrruhu fauqol bawadi"
+    },
+    "4": {
+      "arabic": "لينير قلباً للعباد ويضيئ درب الحائرينَ",
+      "latin": "Liyunira qolban lil 'ibadi wa yudhiu drobbal hairin"
+    },
+    "5": {
+      "arabic": "والشوك يكمن في طريقي والهم والزهو يا صديقي",
+      "latin": "Wasy syauku yakmunu fi thoriqo wal hammu waz zahu ya shodiqi"
+    },
+    "6": {
+      "arabic": "فليلفحوني بالحريق أنا مؤمن أنا لن أهونَ",
+      "latin": "Falyal fahuni bil haroiq ana mu'minun ana lan ahun"
+    },
+    "7": {
+      "arabic": "تجني البشائر للدعاة وتزفنا نصرا مبينا",
+      "latin": "Tajnil basyaira lid du'ati wa tuzfuna nashron mubinan"
+    },
+    "8": {
+      "arabic": "والسيف يلمع في يميني والغار يسطع في جبيني",
+      "latin": "Was saifu yalma'u fi yamini wal gharu yasta'u fi jabini"
+    },
+    "9": {
+      "arabic": "والله في الجُلا معيني والله عون المؤمنين",
+      "latin": "Wallahu fil jula ma'ini wallahu 'aunul mu'minin"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Aku Muslim Takkan Diam",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Aku adalah seorang islam tidak akan diam selamanya, dan tidak akan takut kematian",
+        "2": "Dan selalu mengikuti kebenaran, aku berjanji atas nama Allah",
+        "3": "Cahaya bersinar di hatiku, maka aku putar di atas desa-desa",
+        "4": "Agar menerangi hati hamba-hamba, dan menyinari jalan orang-orang yang tersesat",
+        "5": "Duri menetap di jalanku, dan kesusahan dan kesulitan wahai temanku",
+        "6": "Biar mereka membakarku, aku orang yang beriman dan tidak bakal hina",
+        "7": "Kamu akan memetik kabar bahagia, dan kamu akan mendapat kemenangan yang jelas",
+        "8": "Pedang berkilau di tanganku, dan gua bersinar di wajahku",
+        "9": "Allah adalah penolongku, Allah penolong orang-orang yang beriman"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

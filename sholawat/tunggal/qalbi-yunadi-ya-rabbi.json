@@ -1,0 +1,87 @@
+{
+  "source": "kitabkuning.id",
+  "transmitter": "majelis rosulullah",
+  "name": "دَعُوْنِي دَعُوْنِي",
+  "latin": "Daʿūnī Daʿūnī",
+  "text": {
+    "1": {
+      "arabic": "دَعُوْنِي دَعُوْنِي أُنَاجِي حَبِيْبِي",
+      "latin": "Daʿūnī daʿūnī ʾunājī ḥabībī"
+    },
+    "2": {
+      "arabic": "وَلَا تَعْذُلُوْنِي فَعَذْلِي حَرَامْ",
+      "latin": "Wa lā taʿḏzulūnī fa ʿadzli ḥarām"
+    },
+    "3": {
+      "arabic": "تَعَلَّمْ بُكَايَ وَنُحْ يَاحَمَامْ",
+      "latin": "Taʿallam bukāyā wa nuḥ yā ḥamām"
+    },
+    "4": {
+      "arabic": "وَخُذْ عَنْ شُجُوْنِي دُرُوْسَ الْغَرَامْ",
+      "latin": "Wa khudz ʿan syujūnī durūsal-gharām"
+    },
+    "5": {
+      "arabic": "تَعَلَّمْ بُكَايَ وَ نُحْ يَاحَمَامُ",
+      "latin": "Taʿallam bukāyā wa nuḥ yā ḥamām"
+    },
+    "6": {
+      "arabic": "سَكَرْتُ بِخَمْرِ الْهَوَى وَ الْغَرَامْ",
+      "latin": "Sakartu bi khamril-hawā wal-gharām"
+    },
+    "7": {
+      "arabic": "وَ مَنْ كَانَ مِثْلِي مُعَنِّى مُضَنِّى",
+      "latin": "Wa man kāna mitslī muʿannii muḍhannā"
+    },
+    "8": {
+      "arabic": "بِحُبِّ النَّبِيِّ لِمَاذَا يُلاَمْ",
+      "latin": "Bi ḥubbin-nabiyyi limāḏzā yulām"
+    },
+    "9": {
+      "arabic": "لاَمُوْنِي لَا مُوْنِي بِحُبِّكْ رَمُوْنِي",
+      "latin": "Lāmūnī lā mūnī bi ḥubbik ramunī"
+    },
+    "10": {
+      "arabic": "يَاقُرَّةْ عُيُوْنِي عَلَيْكَ السَّلَامْ",
+      "latin": "Yā qurrah ʿuyūnī ʿalaikas-salām"
+    },
+    "11": {
+      "arabic": "فُؤَادِي لِنَحْوِ الْمَدِيْنَةِ هَامْ",
+      "latin": "Fuʾādī li naḥwil-madīnati hām"
+    },
+    "12": {
+      "arabic": "وَ قَلْبِي تَوَلَّعْ بِخَيْرِ الْأَنَامْ",
+      "latin": "Wa qalbī tawallaʿ bi khaIril-anām"
+    },
+    "13": {
+      "arabic": "أَنَا يَا أبْنَ رَامَةْ حُرِمْتُ الْمَنَامْ",
+      "latin": "Anā yā ʾibna Rāmaḥ ḥurimtul-manām"
+    },
+    "14": {
+      "arabic": "زَادَنِي مَقَامًا غَرَامُكْ تُسَامْ",
+      "latin": "Zādanī maqāman gharāmuk tusām"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Biarkan Aku Berbisik Dengan Kekasihku",
+      "translator": "kitabkuning.id",
+      "text": {
+        "1": "Biarkan aku, biarkan aku berbisik dengan kekasihku",
+        "2": "Dan janganlah kalian mencela aku, karena mencela aku adalah haram",
+        "3": "Belajarlah dari tangis dan ratapanku, wahai burung merpati",
+        "4": "Dan ambillah pelajaran dari kegilaanku tentang cinta",
+        "5": "Belajarlah dari tangis dan ratapanku, wahai burung merpati",
+        "6": "Aku mabuk dengan anggur cinta dan kasih sayang",
+        "7": "Dan siapapun yang seperti aku, sedih dan tertekan",
+        "8": "Karena cinta Nabi, mengapa dia harus disalahkan?",
+        "9": "Cela aku, jangan hentikan aku, lempari aku dengan cintamu",
+        "10": "Wahai penyejuk mata, salam bagimu",
+        "11": "Hatiku tergila-gila ke Madinah",
+        "12": "Dan hatiku jatuh cinta dengan sebaik-baik manusia",
+        "13": "Aku, wahai putra Abdullah, telah kehilangan tidur",
+        "14": "Cintamu telah meninggikan kedudukanku, maafkan aku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

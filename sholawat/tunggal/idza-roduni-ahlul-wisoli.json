@@ -1,0 +1,51 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "إِذَا رَضَونِي أَهْلُ الوِصَالِ",
+  "latin": "Idza Roduni Ahlul Wisoli",
+  "text": {
+    "1": {
+      "arabic": "إِذَا رَضَونِي أَهْلُ الوِصَالِ * فَكُلُّ حَالٍ عَيْنُ الكَمَالِ",
+      "latin": "Idza roduni ahlul wisoli fakul halin ainul kamali"
+    },
+    "2": {
+      "arabic": "سِرْ بِي إِلَى حَيِّهِم وَدَعْنِي * فِي أَيِّ طَوْرٍ فَلَا أُبَالِي",
+      "latin": "Sir bi ila hayyihim wad'ani fi ayyi thourin fala ubali"
+    },
+    "3": {
+      "arabic": "إِنْ رَحِمُونِي أَوْ عَذَّبُونِي * فَالعَبْدُ عَبْدٌ فِي كُلِّ حَالِي",
+      "latin": "In rahimuni au 'adzdzabuni fal'abdu 'abdun fi kulli hali"
+    },
+    "4": {
+      "arabic": "وَمَا عَذَابِي إِلَّا حِجَابِي * وَمَا نَعِيمِي إِلَّا وِصَالِي",
+      "latin": "Wa ma 'adzabi illa hijabi wa ma na'imi illa wisoli"
+    },
+    "5": {
+      "arabic": "وَاللهِ وَالله يَا مَوَالِي * حَالِي بِكُم لَا يَزَالُ حَالِي",
+      "latin": "Wallahi wallahi ya mawali hali bikum la yazalu hali"
+    },
+    "6": {
+      "arabic": "مَوْتِي حَيَاتِي مَحْوَي ثَبَاتِي * ذُلِّي عِزِّي فَقْرِي كَمَالِي",
+      "latin": "Mauti hayati mahwi thabati dzulli 'izzi faqri kamali"
+    },
+    "7": {
+      "arabic": "وَاللهِ وَالله هُم مُرَادِي * وَهُم رَجَائِي وَهُم سُؤَالِي",
+      "latin": "Wallahi wallahi hum muradi wahum raja'i wahum su'ali"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Jika Mereka Ridho Kepadaku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Jika mereka ridho kepadaku ahli pertemuan, maka setiap keadaan adalah mata kesempurnaan",
+        "2": "Berjalan denganku ke kampung mereka dan biarkan aku, dalam kondisi apapun maka aku tidak peduli",
+        "3": "Jika mereka menyayangiku atau menyiksaku, maka hamba adalah hamba dalam setiap keadaanku",
+        "4": "Dan tidak ada siksaanku kecuali hijabku, dan tidak ada kenikmatan ku kecuali pertemuanku",
+        "5": "Demi Allah, demi Allah wahai tuanku, keadaanku dengan kalian tidak akan berubah keadaanku",
+        "6": "Kematianku adalah hidupku, kehancuranku adalah ketetapanku, kehinaanku adalah kemuliaanku, kefakiranku adalah kesempurnaanku",
+        "7": "Demi Allah, demi Allah mereka adalah tujuanku, dan mereka adalah harapanku dan mereka adalah permintaanku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

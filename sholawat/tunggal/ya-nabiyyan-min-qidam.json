@@ -1,0 +1,62 @@
+{
+  "source": "kitabkuning.id",
+  "transmitter": "majelis rosulullah",
+  "name": "يَا نَبِيًا مِنْ قِدَمْ",
+  "latin": "Yā nabiyyān min qidam",
+  "text": {
+    "1": {
+      "arabic": "يَا نَبِيًا مِنْ قِدَمْ — قَدْ جَلَى عَنَّا الظَّلَمْ",
+      "latin": "Yā nabiyyān min qidam — qad jalā ʿannāzh-ẓhalam"
+    },
+    "2": {
+      "arabic": "وَحَبَانَا بِالْهُدَى — وَاسْتَقَامَ فَحَكَمْ",
+      "latin": "Wa ḥabanā bil-hudā — wastaqāma fa ḥakaam"
+    },
+    "3": {
+      "arabic": "صَفْوَةَ الرَّبِّ الْجَلِيْلْ — أَنْتَ طَهَّرْتَ الْحَرَمْ",
+      "latin": "Shafwatar-rabbil-jalīl — anta ṭhahhartal-ḥaram"
+    },
+    "4": {
+      "arabic": "يَاسِرَاجًا قَدْ أَنَارْ — وَآتَانَا بِالْحِكَمْ",
+      "latin": "Yā sirājan qad anār — wa ātanā bil-ḥikam"
+    },
+    "5": {
+      "arabic": "جِئْتَ اَنْقَذْتَ الْأَنَامْ — وَرَفَعْتَ لِلْهِمَمْ",
+      "latin": "Jiʾta anqaḏztal-ʾanām — wa rafaʿta lil-himam"
+    },
+    "6": {
+      "arabic": "يَا أَبَا الزَّهْرَاءِ يَا — خَيْرَ عُرْبٍ وَ عَجَمْ",
+      "latin": "Yā abāz-zahrāʾi yā — khaira ʿurbin wa ʿajam"
+    },
+    "7": {
+      "arabic": "كُنْ لَنَا عَوْنًا إِذَا — اِسْتَشْفَعَتْ فِيْكَ الْأُمَمْ",
+      "latin": "Kun lanā ʿaunan ʾiḏzā — istasyfaʿat fīkal-umam"
+    },
+    "8": {
+      "arabic": "رِفْقَتِيْ صَلُّوْا عَلَى — مَنْ عَلَا فَوْقَ الْمَلاَ",
+      "latin": "Rifqatiy ṣhallū ʿalā — man ʿalā fauqal-malā"
+    },
+    "9": {
+      "arabic": "لِتَنَالَ الْأَمَلْ — مِنْ إِلٰهٍ ذِىْ كَرَمْ",
+      "latin": "li tanālal-ʾamal — min ilāhin ḏzī karam"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Nabi dari Zaman Dahulu",
+      "translator": "kitabkuning.id",
+      "text": {
+        "1": "Wahai Nabi dari zaman dahulu — Engkau telah menghilangkan kegelapan dari kami",
+        "2": "Dan Engkau telah memberi kami petunjuk — Dan Engkau tetap teguh dan memerintah dengan adil",
+        "3": "Kasih pilihan Allah yang Maha Agung — Engkau telah membersihkan Tanah Suci",
+        "4": "Wahai cahaya yang telah menerangi — Dan Engkau telah membawa kami kebijaksanaan",
+        "5": "Engkau datang untuk menyelamatkan manusia — Dan Engkau telah mengangkat cita-cita",
+        "6": "Wahai ayah Fatimah — Engkaulah yang terbaik dari bangsa Arab dan non-Arab",
+        "7": "Jadilah penolong kami ketika — Semua bangsa bersyafaat kepadamu",
+        "8": "Sahabat-sahabatku, bershalawatlah kepada — Dia yang telah naik ke atas langit",
+        "9": "Agar mendapatkan harapan — Dari Allah yang Maha Pemurah"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

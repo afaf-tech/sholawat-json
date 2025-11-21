@@ -1,0 +1,31 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا خَيْرَ مَوْلُودٍ",
+  "latin": "Ya Khoiro Maulud",
+  "text": {
+    "1": {
+      "arabic": "يَا خَيْرَ مَوْلُودٍ بِمَکَّةَ قَدْ أَتَی * ذَلَّت لِهَيْبَتِهِ جَمِيعُ خُصُومِهِ",
+      "latin": "Ya Khoiro mauludin bimakkata qod ata, Dzallat lihaibatihi jami'u khushumihi"
+    },
+    "2": {
+      "arabic": "ضَاءَتْ بِهِ کُلُّ العَوَالِمِ جَهْرَةً * وَالْكَوْنُ أَصْبَحَ مُشْرِقاً بِقُدُومِهِ",
+      "latin": "Dlo-at bihi kullul 'awalimi jahrotan, Wal kaunu ashbaha musyriqon biqudumihi"
+    },
+    "3": {
+      "arabic": "هَذَا الحَبِيبُ المُصْطَفَی طَهَ الَّذِی * کُلُّ العَوَالِمِ قَدْ بَدَت مِن نُورِهِ",
+      "latin": "Hadzal habibul Mushtofa Thohal-ladzi, Kullul 'awalimi qod badat min nurihi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Sebaik-baik yang Dilahirkan",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai sebaik-baik yang dilahirkan di Mekah, beliau telah datang, karena wibawanya merendah seluruh musuh-musuhnya",
+        "2": "Seluruh alam raya menjadi sangat terang karenanya, dan alam semesta menjadi cerah dengan kehadirannya",
+        "3": "Inilah sang kekasih yang terpilih, Thaha, yang seluruh alam bermula dari cahayanya"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

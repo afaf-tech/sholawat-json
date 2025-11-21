@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "لَيْلًا سَرَى وَأَمَّا",
+  "latin": "Lailan Saro Wa Amma",
+  "text": {
+    "1": {
+      "arabic": "لَيْلًا سَرَى وَأَمَّا بِالْأَنْبِيَاءِ الْمَرْضِيَّةْ",
+      "latin": "Lailan sara wa amma bil anbiya'il mardhiyyah"
+    },
+    "2": {
+      "arabic": "وَالطَّالِبْ رَأَى الْمَطْلُوْبْ فِيْ حَضْرَةِ الْقُدْسِيَّةْ",
+      "latin": "Wath thalibu ra'al mathlubu fi hadratil qudsiyyah"
+    },
+    "3": {
+      "arabic": "سَرَى عَلَى الْبُرَاقِ لِسَبْعَةٍ طِبَاقٍ",
+      "latin": "Sara 'alal buraqi lisab'atin thibaqin"
+    },
+    "4": {
+      "arabic": "رَاجِيْ مِنَ الْخَلَّاقِ عَفْوًا عَنِ الْخَطِيْئَةْ",
+      "latin": "Raji minal khallaqi 'afwan 'anil khathi'ah"
+    },
+    "5": {
+      "arabic": "رَآهُ رُؤْيَ الْعَيْنِ وَقَالَ اُدْنُ مِنِّيْ",
+      "latin": "Ra'ahu ru'yal 'aini wa qalu udnu minni"
+    },
+    "6": {
+      "arabic": "وَقَالَ أَخْبِرْ عَنِّيْ جَلَّتْ عَنِ الْكَيْفِيَّةْ",
+      "latin": "Wa qala akhbir 'anni jallat 'anil kaifiyyah"
+    },
+    "7": {
+      "arabic": "صَلَاةُ رَبِّ النَّاسِ عَلَى مُدِيْرِ الْكَأْسِ",
+      "latin": "Sholatu rabbin nasi 'ala mudiril ka'si"
+    },
+    "8": {
+      "arabic": "فِيْ حَضْرَةِ الْإِنَاسِ وَالْآلِ وَالذُّرِّيَّةْ",
+      "latin": "Fi hadratil inasi wal ali wadz dzurriyyah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Beliau Berjalan di Malam Hari",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Beliau berjalan di malam hari, dan menjadi Imam para nabi yang diridai",
+        "2": "Sang pencari melihat yang dicari dalam hadhrah Qudsiyah",
+        "3": "Berjalan di atas Buraq ke tujuh lapis langit",
+        "4": "Mengharap dari sang pencipta ampunan dari kesalahan",
+        "5": "Melihatnya dengan pandangan mata, dan berkata: mendekatlah ke saya",
+        "6": "Dan berkata: kabarkan dariku. Agung dari tata cara",
+        "7": "Selawat Tuhan manusia terhadap pemutar gelas",
+        "8": "Di pangkuan ketenangan, dan keluarga dan anak cucu"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

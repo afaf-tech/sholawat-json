@@ -1,0 +1,61 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "دَاوِينِی يَا نُورَ عَيْنِی",
+  "latin": "Dawini Ya Nurol Aini",
+  "text": {
+    "1": {
+      "arabic": "دَاوِينِی يَا نُورَ عَيْنِی دَاوِينِی وَانظُر إِلَّي",
+      "latin": "Dawini ya nuro aini dawini wandhur ilayya"
+    },
+    "2": {
+      "arabic": "يَا مُحَمَّد أَنْتَ المَحْبُوب وَبِحُبِّكَ نِلْنَا المَطْلُوب",
+      "latin": "Ya muhammad antal mahbub wa bihubbak nilnal mathlub"
+    },
+    "3": {
+      "arabic": "بِغَرَامِكَ قَلْبِى يَذُوب وَيُنَاجِی إِلَهِی الحَیّ",
+      "latin": "Bighoromak qolbi yadzub wa yunaji ilahil hayyi"
+    },
+    "4": {
+      "arabic": "يَا حَبِيبِی أَنَا المَدَّاح وَبِمَدْحِكَ قَلْبِي بِيِرْتَاح",
+      "latin": "Ya habibi anal maddah wa bimadhak qolbi biyartah"
+    },
+    "5": {
+      "arabic": "أَهْدِی لَكَ مَسَاء وَصَبَاح قَلْبِي وَرُوحِی وَفُؤَدِي",
+      "latin": "Ahdi lak masa wa shobah qolbi wa ruhi wa fuadzi"
+    },
+    "6": {
+      "arabic": "إلمَادِح بِمَدْحِه يَقُول أنا بِمَدْحِ طَهَ الرَّسُول",
+      "latin": "Ilmadih bimadhuh yaqul ana bamdah thohar rosul"
+    },
+    "7": {
+      "arabic": "وَبِمَدْحِهِ نِلْنَا القَبُول وَمَدَدُهُ نَازِل عَلَيّ",
+      "latin": "Wa bimadhih nilnal qobul wimadaduh nazil alayya"
+    },
+    "8": {
+      "arabic": "المَدَد يَا آلَ البَيْت بِرِحَابِکُم أَنَا احْتَمَيت",
+      "latin": "Ilmidad ya alal bait birihabkum ana-htamait"
+    },
+    "9": {
+      "arabic": "عَلَی شَأنِکُم أَنَا غَنَّيْت وَمَهْمَا لَامُوا عَلَیّ",
+      "latin": "Ala sya'nikum ana ghonnait wa mahma lamu alayya"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Obatilah Aku Wahai Cahaya Mataku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Obatilah aku wahai cahaya mataku, obatilah aku dan lihatlah kepadaku",
+        "2": "Wahai Muhammad engkau sang kekasih, dan dengan cintamu kami memperoleh yang dicari",
+        "3": "Dengan kerinduanmu hatiku meleleh, dan bermunajat kepada Tuhanku yang hidup",
+        "4": "Wahai kekasihku aku sang pujian, dan dengan pujianmu hatiku merasa nyaman",
+        "5": "Aku persembahkan untukmu sore dan pagi, hatiku dan ruhku dan jiwaku",
+        "6": "Sang pemberi pujian dengan pujiannya berkata, aku dengan memuji Taha sang rasul",
+        "7": "Dan dengan pujiannya kami mendapat penerimaan, dan bantuannya turun kepadaku",
+        "8": "Bantuan wahai keluarga Bayt, dengan kedamaian kalian aku berlindung",
+        "9": "Atas urusan kalian aku bernyanyi, dan meskipun mereka mencela aku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

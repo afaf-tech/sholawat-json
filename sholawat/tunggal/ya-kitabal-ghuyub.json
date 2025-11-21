@@ -1,0 +1,116 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا کِتَابَ الغُيُوب",
+  "latin": "Ya Kitabal Ghuyub",
+  "text": {
+    "1": {
+      "arabic": "يَا کِتَابَ الغُيُوب * قَدْ لَجَأْنَا إِلَيك",
+      "latin": "Ya Kitabal ghuyub qod lajja'na ilaika"
+    },
+    "2": {
+      "arabic": "يَا شِفَاءَ القُلُوب * الصَّلَاةُ عَلَيك",
+      "latin": "Ya syifa-al qulub As-sholatu 'alaik"
+    },
+    "3": {
+      "arabic": "أَنْتَ مَجْلَی الْجَلَال * فِی نِظَامِ الجَمَال",
+      "latin": "Anta majlal jalal fi nidhomin jamal"
+    },
+    "4": {
+      "arabic": "کُلُّ هَذَا النَّوَال * فَاضَ مِن رَاحَتِك",
+      "latin": "Kullu Hadzan-nawal fadlo min rohatik"
+    },
+    "5": {
+      "arabic": "أَنْتَ رُوحُ الوُجُود * كَنْزُ فَضْلٍ وَجُود",
+      "latin": "Anta ruhul wujud kanzu fadl-lin wa jud"
+    },
+    "6": {
+      "arabic": "فِی مَقَامِ الشُّهُود * کُلُّ فَضْلٍ لَدَيك",
+      "latin": "Fi maqomis-syuhud kulla fadl-lin ladaik"
+    },
+    "7": {
+      "arabic": "أَنْتَ سِرُّ الكِتَاب * عَنْكَ فَصْلُ الخِطَاب",
+      "latin": "Anta sirrul kitab anka faslul khitob"
+    },
+    "8": {
+      "arabic": "وَبِيَوم الحِسَاب * فَالرُّجُوعُ إِلَيك",
+      "latin": "Wabi yaumil hisab far ruju'u ilaik"
+    },
+    "9": {
+      "arabic": "أَنْتَ بِالافْتِتَاح * خَتْمُ حِزْبِ النَّجَاح",
+      "latin": "Anta bil iftitah khotmu hizbin najah"
+    },
+    "10": {
+      "arabic": "وَمَنَارُ الصَّلاَح * لَاحَ مِنْ مَظْهَريك",
+      "latin": "Wa manarus solah laha min madzharaik"
+    },
+    "11": {
+      "arabic": "أَنْتَ فِي العَالَمِين * رُوحُ جِسْمِ اليَقِين",
+      "latin": "Anta fil alamin ruhu jizmil yaqin"
+    },
+    "12": {
+      "arabic": "مَوْكَبُ المُرْسَلِين * قَامَ بَيْنَ يَدَيك",
+      "latin": "Maukabul mursalin qoma baina yadaik"
+    },
+    "13": {
+      "arabic": "أَنْتَ هَادِي الأُمَم * أَنْتَ بَحْرُ الكَرَم",
+      "latin": "Anta hadil umam anta bahrul karom"
+    },
+    "14": {
+      "arabic": "أَنْتَ صُبْحُ النِّعَم * فَجَّ مِنْ بُرْدَتَيك",
+      "latin": "Anta subhun niam fajja min burdataik"
+    },
+    "15": {
+      "arabic": "أَنْتَ طَهَ الرَّسُول * تَاجُ أَهْلِ القَبُول",
+      "latin": "Anta Thohar-Rosul Taju ahlil qobul"
+    },
+    "16": {
+      "arabic": "کُلُّ هَمِّی يَزُول * بِالصَّلَاةِ عَلَيك",
+      "latin": "Kullu Hammi yazul bis-sholati 'alaik"
+    },
+    "17": {
+      "arabic": "رُوحُ هَذَا الحَقِير * عَبْدُكَ المُسْتَجِير",
+      "latin": "Ruhu hadazl haqir abdukal mustajir"
+    },
+    "18": {
+      "arabic": "بِالغَرَامِ الوَفِير * قَبَّلَت قَدَمَيْك",
+      "latin": "Bil ghoromil wafir qobbalat qodamaik"
+    },
+    "19": {
+      "arabic": "وَعَلَيْكَ السَّلَام * يَا رَسُولَ الأَنَام",
+      "latin": "Wa 'alaikas-salam Ya Rosulal anam"
+    },
+    "20": {
+      "arabic": "مَا شَدَا مُسْتَهَام * بِالصَّلَاةِ عَلَيك",
+      "latin": "Ma syada mustahim bis-sholati 'alaik"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Kitab yang Gaib",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai kitab yang gaib, kami telah berlindung kepadamu",
+        "2": "Wahai penyembuh hati, shalawat untukmu",
+        "3": "Engkau tempat penampakan keagungan dalam sistem keindahan",
+        "4": "Semua pemberian ini melimpah dari tanganmu",
+        "5": "Engkau roh wujud, harta karun keutamaan dan kemurahan",
+        "6": "Di maqam penyaksian, semua keutamaan ada padamu",
+        "7": "Engkau rahasia kitab, darimu keputusan pembicaraan",
+        "8": "Dan di hari perhitungan, kembalinya kepada mu",
+        "9": "Engkau dengan pembukaan, penutup kelompok kesuksesan",
+        "10": "Dan mercusuar kebaikan, terlihat dari penampakanmu",
+        "11": "Engkau di alam semesta, roh jasad keyakinan",
+        "12": "Rombongan para rasul berdiri di hadapanmu",
+        "13": "Engkau pemberi petunjuk umat-umat, engkau lautan kemuliaan",
+        "14": "Engkau subuh nikmat, muncul dari burdahmu",
+        "15": "Engkau Thoha sang rasul, mahkota ahli penerimaan",
+        "16": "Semua kesedihanku hilang dengan shalawat untukmu",
+        "17": "Ruh orang hina ini, hambamu yang meminta perlindungan",
+        "18": "Dengan cinta yang melimpah, mencium kakimu",
+        "19": "Dan untukmu salam, wahai rasul manusia",
+        "20": "Selama bernyanyi orang yang terpesona dengan shalawat untukmu"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

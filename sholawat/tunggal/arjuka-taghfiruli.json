@@ -1,0 +1,51 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَرْجُوْكَ تَغْفِرُ لِيْ",
+  "latin": "Arjuka Taghfiruli",
+  "text": {
+    "1": {
+      "arabic": "أَرْجُوْكَ تَغْفِرُ لِيْ أَرْجُوْكَ تَرْحَمُنِيْ * أَرْجُوْكَ تُسْكِنُنِيْ فِيْ جَنَّةِ الْخُلْدِ",
+      "latin": "Arjuka taghfiruli arjuka tarhamuni arjuka tuskinuni fi jannatil khuldi"
+    },
+    "2": {
+      "arabic": "مُعَوِّلُوْنَ عَلَى إِحْسَانِهِ فُقَرَا * لِفَيْضِ إِفْضَالِهِ يَا نِعْمَ مَنْ صَمَدِ",
+      "latin": "Mu'awwiluna 'ala ihsanihi fuqoro lifaidli ifdlolihi ya ni'ma man shomadi"
+    },
+    "3": {
+      "arabic": "سُبْحَانَ مَنْ خَلَقَ الْأَكْوَانَ مِنْ عَدَمِ * وَعَمَّهَا مِنْهُ بِالْإِفْضَالِ وَالْمَدَدِ",
+      "latin": "Subhana man kholaqol akwana min 'adami wa 'ammaha minhu bil ifdloli wal madadi"
+    },
+    "4": {
+      "arabic": "اَللهُ اَللهُ رَبِّيْ لَا شَرِيْكَ لَهُ * اَللهُ اَللهُ مَعْبُوْدِيْ وَمُعْتَمَدِيْ",
+      "latin": "Allahu allahu robbi la syarika lahu allahu allahu ma'budi wa mu'tamadi"
+    },
+    "5": {
+      "arabic": "أَنْتَ الْغِيَاثُ لِمَنْ ضَاقَتْ مَذَاهِبُهُ * وَمَنْ أَلَمَّ بِهِ خَطْبٌ مِنَ النَّكَدِ",
+      "latin": "Antal ghiyatsu liman dloqot madzahibuhu wa man alamma bihi khothbun minan-nakadi"
+    },
+    "6": {
+      "arabic": "أَنْتَ الْقَرِيْبُ الْمُجِيْبُ الْمُسْتَغَاثُ بِهِ * وَأَنْتَ يَا رَبِّ لِلرَّاجِيْنَ بِالرَّصَدِ",
+      "latin": "Antal qoribul mujibul mustaghotsu bihi wa anta ya robbi lirrojina birroshodi"
+    },
+    "7": {
+      "arabic": "أَرْجُوْكَ تَنْظُرُنِيْ أَرْجُوْكَ تَنْصُرُنِيْ * أَرْجُوْكَ تُصْلِحُ لِيْ قَلْبِيْ مَعَ الْجَسَدِ",
+      "latin": "Arjuka tandhuruni arjuka tanshuruniArjuka tushliha li qolbi ma'al jasadi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Aku Berharap Engkau Mengampuniku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Aku berharap engkau mengampuniku, aku berharap engkau menyayangiku, aku berharap engkau masukkan aku di surga yang kekal",
+        "2": "Orang-orang fakir bersandar atas kebaikannya agar memberi anugerahnya, wahai sebaik orang yang suci",
+        "3": "Maha suci yang menciptakan alam semesta dari ketiadaan, dan memberinya dengan anugerah dan pemberian",
+        "4": "Allah, Allah tuhanku tiada sekutu baginya, Allah, Allah yang aku sembah dan peganganku",
+        "5": "Engkau penolong bagi orang yang sempit jalannya, dan orang yang terkena kesulitan yang besar",
+        "6": "Engkau maha dekat maha mengabulkan doa, yang di minta tolong, dan engkau wahai Tuhan orang-orang yang mengharap dengan kuat",
+        "7": "Aku berharap engkau memandangku, aku berharap engkau menolongku, aku berharap engkau memperbaiki hatiku dan jasadku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

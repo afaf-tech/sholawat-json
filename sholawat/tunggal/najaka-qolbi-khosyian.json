@@ -1,0 +1,33 @@
+{
+  "source": "terjemahkitab.com",
+  "author": null,
+  "transmitter": null,
+  "name": "نَاجَاكَ قَلْبِیْ خَاشِعًا",
+  "latin": "Nājāka Qalbī Khāshi'an",
+  "text": {
+    "1": {
+      "arabic": "نَاجَاكَ قَلْبِیْ خَاشِعًا وَلِسَانِ يَاعَالِمًا بِالسِّرِّ وَالْاِعْلَان",
+      "latin": "Najaka qolbi khosyi'an wa lisani ya'aliman bisirriwali'lani"
+    },
+    "2": {
+      "arabic": "يَامَنْ حَفِظْتَ مُحَمَّدًا وَحَبِيْبَهُ فِی الْغَارِ يَاذَا الْمَنِّ وَالْاِحْسَان",
+      "latin": "Ya man khafidzta mukhammadan wa habibahu filghori ya dzalmanniwal i'lani"
+    },
+    "3": {
+      "arabic": "فَرِّجْ كُرُوْبَ الْمُسْلِمِيْنَ جَمِيْعِهِمْ يَارَبِّ وَاحْفَظْ عَلَيْنَا نِعْمَةَ الْاِيْمَانِ",
+      "latin": "Farrij kurubal muslimina jami'ihim ya rob wakhfadh' alaina ni'matal imani"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Hatiku Bermunajat Kepadamu Dengan Khusyu",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Hatiku dan lisanmu bermunajat kepadamu dengan khusyu' wahai yang maha mengetahui rahasia dan jelas",
+        "2": "Wahai yang menjaga Muhammad dan kekasihnya di gua wahai yang memiliki anugerah dan kebaikan",
+        "3": "Hilangkan kesusahan semua orang-orang Islam wahai tuhanku dan jaga kita dengan nikmat iman"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

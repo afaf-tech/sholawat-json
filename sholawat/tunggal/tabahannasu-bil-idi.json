@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "تَبَاهَی النَّاسُ بِالعِيدِ",
+  "latin": "Tabahannasu Bil 'Idi",
+  "text": {
+    "1": {
+      "arabic": "تَبَاهَی النَّاسُ بِالعِيدِ وَعِيدِی أَنْتَ يَا سِيدِی",
+      "latin": "Tabahan-nasu bil 'idi wa 'idi anta ya sayyidi"
+    },
+    "2": {
+      "arabic": "مُبَاهَاتِی وَتَأيِيدِی مُنُاجَاتِی لِمَعْبُودِی",
+      "latin": "Mubahatі wa ta'yidi munajati lima'budi"
+    },
+    "3": {
+      "arabic": "تَجَلَّی لِی عَلَی ظَهْرِ بَدَا نُورٌ عَلَی نُورٍ",
+      "latin": "Tajalla li 'ala dhuhri bada nurun 'ala nurin"
+    },
+    "4": {
+      "arabic": "وَقَدْ أُعْطِيتُ مَنْشُورِی بِأَنِّی غَيْرُ مَبْدُولِی",
+      "latin": "Wa qod u'thitu mansyuri bi anni ghairo mabduli"
+    },
+    "5": {
+      "arabic": "وَإِنْ أَدْعُوهُ يَا رَبِّی أَقُولُ لَبَّيكَ بِالقُرْبِی",
+      "latin": "Wa in ad'uhu ya robbi aqulu labbaika bil qurbi"
+    },
+    "6": {
+      "arabic": "وَإِنْ أَعْتَبْتُم حَسْبِی تَوَلَّی مِنْهُ تَقْيِيدِی",
+      "latin": "Wa in a'tabtum hasbi tawalla minhu taqyidi"
+    },
+    "7": {
+      "arabic": "صَلَاةُ اللهِ لَا تَنْفَد عَلَی المَحْبُوبِ ذِی الأَوْحَدِ",
+      "latin": "Sholatullahi la tanfad 'alal mahbubi dzil auhad"
+    },
+    "8": {
+      "arabic": "وَآلٍ هُم كَعَيْن سُجَّاد بَعِيدٌ غَيْرُ مَحْدُودِ",
+      "latin": "Wa alin hum ka'ain sujjad ba'idun ghairu mahdudi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Manusia Berbangga dengan Hari Raya",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Manusia berbangga dengan hari raya, dan hari rayaku adalah engkau wahai tuanku",
+        "2": "Kebanggaanku dan penguat diriku, munajatku untuk yang aku sembah",
+        "3": "Menampakkan diri untukku di atas punggung, terlihat cahaya atas cahaya",
+        "4": "Dan sungguh aku diberi suratku bahwa aku tidak berubah",
+        "5": "Dan jika aku memanggilnya wahai Tuhanku, aku katakan labbaik dengan kedekatan",
+        "6": "Dan jika engkau menyalahkan cukup bagiku, Dia mengambil alih dariku pengikatanku",
+        "7": "Shalawat Allah tidak habis atas kekasih yang maha tunggal",
+        "8": "Dan keluarga mereka seperti mata yang sujud, jauh tidak terbatas"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

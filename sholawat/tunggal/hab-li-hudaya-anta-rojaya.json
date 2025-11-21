@@ -1,0 +1,58 @@
+{
+  "source": "terjemahkitab",
+  "author": null,
+  "transmitter": "Dr. Muhammad Ali Fathomi, Lc., M. H.",
+  "name": "هَبْ لِي هُدَايَا أَنْتَ رَجَايَا",
+  "latin": "Hab li hudaya anta rojaya",
+  "text": {
+    "1": {
+      "arabic": "رَبَّاهُ بِذِكْرِكَ اَعْرِفُ ذَاتِي * حِيْنَ أُنَادِيْ يَا مَوْلَايَا",
+      "latin": "Robbahu bidzikrika a'rifu dzati, hina unadi ya maulaya"
+    },
+    "2": {
+      "arabic": "هَبْ لِي هُدَايَا أَنْتَ رَجَايَا * هَبْ لِي هُدَايَا أَنْتَ رَجَايَا",
+      "latin": "Hab li hudaya anta rojaya, Hab li hudaya anta rojaya"
+    },
+    "3": {
+      "arabic": "اَلنُّوْرُ يُدَاعِبُ أَجْفَانِيْ * فِي اللَّيْلِ فَاَعْزِفُ اَلْحَانِيْ",
+      "latin": "Annuru yuda'ibu ajfani, fîllaili fa a'rifu al-hani"
+    },
+    "4": {
+      "arabic": "وَ أُرَتِّلُ آيَ الْقُرْاٰنِ * وَ أَطِيْرُ إِلَى دُنْيَا الْأُنْسِ",
+      "latin": "Wa urottilu ayâl Qur-ãni, wa athîru ilâd-dunyâl-unsi"
+    },
+    "5": {
+      "arabic": "هَبْ لِي هُدَايَا أَنْتَ رَجَايَا * هَبْ لِي هُدَايَا أَنْتَ رَجَايَا",
+      "latin": "Hab li hudaya anta rojaya, Hab li hudaya anta rojaya"
+    },
+    "6": {
+      "arabic": "دُنْيَا الْإِيْمَانِ آيَا حُلُمًا * فِيْ وَصْفِكِ أَضْنَيْتُ الْقَلَمَ",
+      "latin": "Dunyal imani aya huluman, fi washfika adnaitul qolama"
+    },
+    "7": {
+      "arabic": "اَحْيَاكِ سَعِيْدًا مُبْتَسِمًا * بِقَلْبِيْ وَارْضَ اُمَّتَكِ",
+      "latin": "Ahyaki sa'idan mubtasiman, biqoli wa wardlo ummatiki"
+    },
+    "8": {
+      "arabic": "هَبْ لِي هُدَايَا أَنْتَ رَجَايَا * هَبْ لِي هُدَايَا أَنْتَ رَجَايَا",
+      "latin": "Hab li hudaya anta rojaya, Hab li hudaya anta rojaya"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Berikan Aku Petunjukku, Engkau Harapanku",
+      "translator": "Dr. Muhammad Ali Fathomi, Lc., M. H.",
+      "text": {
+        "1": "Wahai Tuhan manusia, dengan menyebutmu aku mengetahui jati diriku, ketika aku memanggil wahai tuan kami",
+        "2": "Berikan aku petunjukku, engkau harapanku, Berikan aku petunjukku, engkau harapanku",
+        "3": "Cahaya menyelimuti mataku pada malam hari, maka aku mengetahui rintihanku",
+        "4": "Dan aku baca ayat-ayat Quran, dan aku terbang pada dunia ketenangan",
+        "5": "Berikan aku petunjukku, engkau harapanku, Berikan aku petunjukku, engkau harapanku",
+        "6": "Wahai dunia iman wahai harapan, dalam menyifatimu aku menyulitkan pena",
+        "7": "Hidupmu bahagia dan tersenyum, dengan hatiku, dan ridlai umatmu",
+        "8": "Berikan aku petunjukku, engkau harapanku, Berikan aku petunjukku, engkau harapanku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

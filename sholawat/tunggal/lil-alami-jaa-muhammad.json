@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "لِلْعَالَمِ جَاءَ مُحَمَّدْ",
+  "latin": "Lil Alami Jaa Muhammad",
+  "text": {
+    "1": {
+      "arabic": "لِلْعَالَمِ جَاءَ مُحَمَّدْ يَوْماً فِي أَحْلَى مَشْهَدْ فَأَعَادَ الأَرْضَ رَبِيعاً وَالطَّيْرُ الشَّادِي غَرَّدْ",
+      "latin": "Lil alami jaa muhammad yauman fi ahla masyhad fa a'adal arda rabi'an wat thoirus syadi gharrad"
+    },
+    "2": {
+      "arabic": "كَانَتْ أَرْجَاءُ الدُّنْيَا فِي قَلْبِ الظُّلْمةِ تَحْيَا وَأَرَادَ اللهُ الهَدْيَ لِلنَّاسِ فَأَرْسَلَ أَحْمَد",
+      "latin": "Kanat arja'ud dunya fi qolbidz dzulmati tahya wa aradallaahul huda linnaasi fa arsala ahmad"
+    },
+    "3": {
+      "arabic": "بِالنُّورِ أهَلَّ كَرِيماً وَدَعَا للهِ حَكِيماً آذَوْهُ فَكَانَ رَحِيمَا مَا أَعْظَمَ صَبْرَ مُحَمَّدْ",
+      "latin": "Binnuri ahalla kariman wa da'a lillahi hakiman adzauhu fa kaana rahiman ma a'dzoma shobri muhammad"
+    },
+    "4": {
+      "arabic": "بِالصَّبْرِ تَجَمَّلَ قَلْبُهْ وَالخَالِقُ كَانَ يُحِبُّهْ رَجُلٌ مَرْسُومٌ دَرْبُهْ يَسْـلُكُهُ لَا يَتَرَدَّدْ",
+      "latin": "Bis sobri tajammala qolbuh wal kholiqu kaana yuhibbuh rajulun marsuumun darbuh yaslukuhu la yataraddad"
+    },
+    "5": {
+      "arabic": "الصَّبْرُ الطَّيِّبُ أَزْهَرْ وَطَرِيقُ الدَّعْوَةِ أَثْمَرْ وَالعَالَمُ أَصْبَحَ أَخْضَرْ آمَنَ بِاللهِ وَوَحَّدْ",
+      "latin": "Ash shobru thoyyibu azhar wa thoriqud da'wati atsmor wal 'alamu ashbaha akhdor aamana billahi wa wahhad"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Untuk Alam Datang Muhammad",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Untuk alam datang Muhammad, pada suatu hari dengan penampilan yang indah. Ia mengembalikan bumi menjadi musim semi, dan burung penyanyi berkicau",
+        "2": "Dunia berada dalam gelap gulita dan Allah menghendaki petunjuk untuk manusia maka Allah mengutus Ahmad",
+        "3": "Dengan cahaya ia datang dengan mulia, dan mengajak kepada Allah dengan bijaksana. Mereka menyakitinya namun ia tetap penyayang, alangkah agungnya kesabaran Muhammad",
+        "4": "Dengan kesabaran hatinya menjadi indah, dan sang pencipta mencintainya. Seorang lelaki yang telah ditentukan jalannya, ia menjalaninya tanpa ragu",
+        "5": "Kesabaran yang baik berbuah, dan jalan dakwah berbuah. Dan alam menjadi hijau, beriman kepada Allah dan mentauhidkan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}
