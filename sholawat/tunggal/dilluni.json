@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "دِلُّوْنِى",
+  "latin": "Dilluni",
+  "text": {
+    "1": {
+      "arabic": "دِلُّوْنِى دِلُّوْنِى يَااَهْلَ الله عَلَيْه",
+      "latin": "Dilluni dilluni ya ahlallah alaih"
+    },
+    "2": {
+      "arabic": "اِكْرَامً لِطَهَ دِلُوْنِى عَلَيْه",
+      "latin": "Ikroman lithoha dilluni alaih"
+    },
+    "3": {
+      "arabic": "مَحْبُوْبِى تَوَارَى فِى حُجُبِ الْجَمَالْ",
+      "latin": "Mahbubi tawaro fi khujubil jamal"
+    },
+    "4": {
+      "arabic": "وَعَنِّى تَسَامَى وَاَرْحَى الدَّلاَلْ",
+      "latin": "Wa anni tasama wa arhad dalal"
+    },
+    "5": {
+      "arabic": "وَقَدْ عِيْلَ صَبْرِى وَعِرَّالوِصَالْ",
+      "latin": "Wa qod ila sobri wa irrol wishol"
+    },
+    "6": {
+      "arabic": "فَبِااللهِ رَبِّى دِلُوْنِى عَلَيْه",
+      "latin": "Fabillah robbi dilluni alaih"
+    },
+    "7": {
+      "arabic": "تَحَيَّرْتُ فِيْهِ فَكَيْفَ السَبِيْلْ",
+      "latin": "Tahayyurtu fihi fakaifa sabiil"
+    },
+    "8": {
+      "arabic": "لِوَصْلِ الحَبِيبِ النَّزِيهِ الجَمِيل",
+      "latin": "Liwaslil habibin nazihil jamil"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Tunjukkan Aku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Tunjukkan aku, tunjukkan aku wahai Ahlullah, kepadanya",
+        "2": "Untuk memuliakan Taha, tunjukkan aku kepadanya",
+        "3": "Kekasihku bersembunyi di tirai kecantikan",
+        "4": "Dan meninggalkan aku, dan menyedihkan petunjuk",
+        "5": "Telah habis kesabaranku, dan lama ketemu",
+        "6": "Maka demi Allah tuhanku, tunjukkan aku kepadanya",
+        "7": "Aku bingung, maka bagaimana jalannya",
+        "8": "Ketemu sang kekasih yang bersih dan indah"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

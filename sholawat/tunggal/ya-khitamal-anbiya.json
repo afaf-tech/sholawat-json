@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا خِتَامَ الانْبِيَاءِ",
+  "latin": "Ya Khitamal Anbiya",
+  "text": {
+    "1": {
+      "arabic": "يَا خِتَامَ الانْبِيَاءِ كُنْتَ تَخْلُو فِى حِرَاء * إِذْ بَدَى وَحْىُ السَّمَاءِ وَحْيُ رَبِّ العَالَمِين",
+      "latin": "Ya khitamal anbiya kunta takhlu fi hiraa idz bada wahyus sama wahyu robbil alamin"
+    },
+    "2": {
+      "arabic": "فِى حِرَاءٍ كُنْتَ تَخْلُو وَلَكَ التَّبْجِيلُ يَحْلُو * وَبِفَضْلِ اللهِ تَعْلُو يَا إِمَامَ المُرْسَلِين",
+      "latin": "Fi hiraa kunta takhlu wa lakatta bjilu yahlu wa bi fadhlillahi ta'lu ya imamil mursalin"
+    },
+    "3": {
+      "arabic": "فِي حِرَاءٍ كُنْتَ تَعْبُد رَبَّكَ الهَادِى وَتَسْجُد * بِخُشُوعٍ وَتَعَبُّد وَدُعَاءٍ وَحَنِين",
+      "latin": "Fi hiraa kunta ta'budu robbakal hadi wa tasjudu bi khusyu'in wa ta'abbudin wa dua'in wa hanin"
+    },
+    "4": {
+      "arabic": "فَأَتَى جِبْرِيلُ عِنْدَك وَأَضَاءَ الغَارُ حَوْلَك * ثُمَّ قَالَ اقْرَأْ وَضَمَّك ذَلِكَ الرُّوحُ الأَمِين",
+      "latin": "Fa ata jibrilu indaka wa adhaal gharu haulaka tsumma qolaq ra wa dlommaka dzalikar ruhul amin"
+    },
+    "5": {
+      "arabic": "قُلْتَ لَا أَدْرِي الْقِرَاءَة بِهُدُوءٍ وَبَرَاءَة * نَفَّذَ اللهُ قَضَاءَه وَخَتَمْتَ المُرْسَلِين",
+      "latin": "Qulta la adril qiraah bihudu'in wa baraa nafadzallahu qadloahu wa khatamtal mursalin"
+    },
+    "6": {
+      "arabic": "يَا رَسُولَ اللهِ إِنِّى مَادِحٌ وَالمَدْحُ فَنِّى * حُبُّكَ السَّامِى فَتَنِّى يَا إِماَمَ العَابِدِين",
+      "latin": "Ya rasulallahi inni madihun wal madhu fanni hubbukassami fatanni ya imamil abidin"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Penutup Para Nabi",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai penutup para Nabi, engkau menyendiri di Hira', tiba-tiba turun wahyu langit, wahyu Tuhan seluruh alam",
+        "2": "Di Hira' engkau menyendiri, engkau mendapatkan penghormatan yang manis, dengan anugerah Allah engkau berderajat tinggi, wahai pemimpin para Rasul",
+        "3": "Di Hira' engkau beribadah dan bersujud kepada Tuhan pemberi petunjuk, dengan khusyu', ibadah, doa dan rintihan",
+        "4": "Lalu Jibril datang di sisimu, dan gua bersinar di sekitarmu, lalu ia berkata: bacalah, dan merangkulmu, itu adalah Ruhul Amin",
+        "5": "Engkau berkata: aku tidak mengerti membaca dengan tenang dan bebas, Allah melaksanakan putusannya, dan engkau mengakhiri para rasul",
+        "6": "Wahai utusan Allah sesungguhnya aku pemuji dan memuji adalah hobiku, cintaku yang tinggi kepadamu selalu membahagiakanku wahai pemimpin ahli ibadah"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

@@ -1,0 +1,51 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "عَلَى بَلَدِ المَحْبُوب وَدِّبنِي",
+  "latin": "Ala Baladil Mahbub Waddibni",
+  "text": {
+    "1": {
+      "arabic": "عَلَى بَلَدِ المَحْبُوب وَدِّبنِي زَادْ وَجْدِي وَالبُعْدِ كَوِينِي",
+      "latin": "Ala baladil mahbub waddibni zad wajdi wal bu'di kawini"
+    },
+    "2": {
+      "arabic": "يَا حَبِيبِى اَنَا قَلْبِى مَعَاك طُول لِيْلِي سَهْرَان وَيَّاك",
+      "latin": "Ya habibi ana qalbi ma'ak thul laili sahran wayyak"
+    },
+    "3": {
+      "arabic": "تَتْمَنَّى عَيْنَىَّ رُؤْيَاك أَشْكِي لَك وِانْتَ تُوَاسِينِى",
+      "latin": "Tatamanna 'ainayya ru'yak ashki lak winta tuwasini"
+    },
+    "4": {
+      "arabic": "يَا هَنَايَا لَمَّا افْرَح بِك وَاتْهَنَّى بْقُرْبَك وَانَعِيك",
+      "latin": "Ya hanaya lamma afrah bik watahanna biqurbak wana'ik"
+    },
+    "5": {
+      "arabic": "وَعَيْنَيَّ تِبْقَى فِي عَيْنك احكِي لَك وِانتَ تِرْعِينِي",
+      "latin": "Wa 'ainayya tibqa fi 'ainak ahki lak winta tir'ini"
+    },
+    "6": {
+      "arabic": "يَا مْسَافِر عَلَى بَحْرِ النّيل أَنَا لِيَّه فِى مَصْرِ خَلِيل",
+      "latin": "Ya musafir 'ala bahri nil ana liyyah fi mishr khalil"
+    },
+    "7": {
+      "arabic": "مِنْ حُبُّهْ مَا بَنَامِ اللَّيل عَلَى بَلَدِ المَحْبوب وَدِّينِى",
+      "latin": "Min hubbuhu ma banam al-lail ala baladil mahbub waddini"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ke Negeri Sang Kekasih Antarkan Aku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Ke negeri sang kekasih antarkan aku, bertambah kerinduanku dan jauhnya membakarku",
+        "2": "Wahai kekasihku, aku hatiku bersamamu, sepanjang malamku begadang bersamamu",
+        "3": "Berharap mataku melihatmu, aku mengadu padamu dan engkau menghiburku",
+        "4": "Wahai kebahagiaanku ketika aku bahagia denganmu, dan aku senang dengan dekatmu dan aku memanggilmu",
+        "5": "Dan mataku tetap di matamu, aku bercerita padamu dan engkau merawatku",
+        "6": "Wahai musafir di sungai Nil, mengapa aku di Mesir punya kawan",
+        "7": "Dari cintanya aku tak tidur malam, ke negeri sang kekasih antarkan aku"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

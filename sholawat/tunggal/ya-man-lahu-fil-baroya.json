@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا مَنْ لَهُ فِي البَرَايَا",
+  "latin": "Ya Man Lahu Fil Baroya",
+  "text": {
+    "1": {
+      "arabic": "يَا مَنْ لَهُ فِي البَرَايَا * مَنٌّ وَبِرٌّ وَجُودُ",
+      "latin": "Ya man lau fil baroyo mannun wa birrun wa judu"
+    },
+    "2": {
+      "arabic": "أَنْعِمْ عَلَينَا بِفَضْلٍ * وَرَحْمَةٍ يَا وَدُودُ",
+      "latin": "An'im alaina bifadlin wa rohmatin ya wadudu"
+    },
+    "3": {
+      "arabic": "وًبًلِّغِ الكُلَّ مِنَّا * يَا سَيِّدِي مَا يُرِيدُ",
+      "latin": "Wa ballighil kulla minna ya sayyidi ma yuridu"
+    },
+    "4": {
+      "arabic": "وَصَلَّي رَبِّي عَلَى مَنْ * بِذِكْرٍهٍ نَسْتَفِيدُ",
+      "latin": "Wa solla robbi ala man bidzikrihi tastafidu"
+    },
+    "5": {
+      "arabic": "مُحَمَّدٍ مَا تَلَأْلَأَ * بَرْقٌ وَحَنَّت رَعُودُ",
+      "latin": "Muhammadin ma tala'la barqun wa hannat roudu"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai yang Memiliki di Makhluk",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai yang memiliki di makhluk, pemberian dan kebaikan dan kemurahan",
+        "2": "Anugerahilah kepada kami dengan karunia dan rahmat wahai Yang Maha Pengasih",
+        "3": "Dan sampaikanlah kepada semua dari kami wahai tuanku apa yang diinginkan",
+        "4": "Dan berselawatlah Tuhanku atas yang dengan mengingat-Nya kami mendapat manfaat",
+        "5": "Muhammad ketika berkilau kilat dan bergumam guntur"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

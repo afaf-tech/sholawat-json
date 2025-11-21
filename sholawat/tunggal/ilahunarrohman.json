@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "إِلَهُنَا الرَّحْمَنْ",
+  "latin": "Ilahunarrohman",
+  "text": {
+    "1": {
+      "arabic": "إِلَهُنَا الرَّحْمَنْ * اَلْخَالِقُ الدَّيَّانْ",
+      "latin": "Ilahunarrohman al kholiqud dayyan"
+    },
+    "2": {
+      "arabic": "نَبِيُّنَا الْمُخْتَار * الْمُصْطَفَ الْعَدْنَانْ",
+      "latin": "Nabiyyunal mukhtar, al mustofal adnan"
+    },
+    "3": {
+      "arabic": "دُسْتُورُنَا القُرْان * نَعِيشُ فِي أَمَان",
+      "latin": "Dusturunal Quran na'isyu fi aman"
+    },
+    "4": {
+      "arabic": "وُضُوءُنَا طُهُوْرٌ * وَفِي صَلَاةِ نُوْرْ * وَعِيشُنَا حَبُورُ * بِدَوْحَةِ الإِيْمَانْ",
+      "latin": "Wudluuna tuhur wafi sholati nurun wa isyuna haburun bi dauhatil iman"
+    },
+    "5": {
+      "arabic": "صِيَامُنَا تَقَرُّبٌ * وَخُلُقٌ مُهَذَّبٌ * لِجِسْمِنَا يُطَبِّبٌ * وَيُصْلِحُ الْأَبْدَانْ",
+      "latin": "Siyamuna taqorrubun wa khuluqun muhaddzabun li jismina yutoyyibu wa yuslihul abdan"
+    },
+    "6": {
+      "arabic": "وَفِيْ زَكَاةِ مَالِنَا * تَكَافُلٌ بِبَعْضِنَا * فَلَا فَقِيْرَبَيْنَنَا * يَسْتَقِيَ الْإِحْسَانْ",
+      "latin": "Wa fi zakati malina takafulun b iba'dini fa la faqiro bainana yastaqiyal ihasan"
+    },
+    "7": {
+      "arabic": "وَحَجُّنَا إِلَى الحْرَاَمْ * وَحِيْرَةٌ لِمَنْ نَادِمْ * مَنْ سَارَهُ حَقًّا سَالِمْ * مِنْ سَطْوَةِ الشَّيْطَانْ",
+      "latin": "Wa hajjuna ilal harom wa hirotun liman nadim man sarohu haqqon salim mis sathwati syaiton"
+    },
+    "8": {
+      "arabic": "إِسْلَامُنَا سَعَادَةْ * وَدَوْرُنَا الرِّيَادَةْ * وَفُزْنَا بِالْعِبَاَدَةْ * بِجَنَّةِ الرِّضْوَانْ",
+      "latin": "Islamuna saadah wa dauruna ribadah wa fuzna bil ibadah bi jannatir ridlwan"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Tuhan Kami yang Maha Pengasih",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Tuhan kami Yang Maha Pengasih, Sang Pencipta Yang Maha Membalas",
+        "2": "Nabi kami yang terpilih, Al-Mustofa Al-Adnan",
+        "3": "Undang-undang kami Al-Quran, kami hidup dalam keamanan",
+        "4": "Wudhu kami suci, dan dalam sholat cahaya, dan kehidupan kami kebahagiaan dengan pohon iman",
+        "5": "Puasa kami mendekatkan diri, dan akhlak terpuji, untuk tubuh kami menyembuhkan dan memperbaiki badan-badan",
+        "6": "Dan dalam zakat harta kami, saling tolong menolong di antara kami, maka tidak ada orang fakir di antara kami, tegaklah kebaikan",
+        "7": "Dan haji kami ke tanah haram, dan penyesalan bagi yang menyesal, siapa yang menjalankannya dengan benar selamat dari kekuatan setan",
+        "8": "Islam kami kebahagiaan, dan peran kami kepemimpinan, dan kami menang dengan ibadah di surga keridhoan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

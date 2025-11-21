@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَنَا ضَيفَك يَا رَسُولَ اللهِ",
+  "latin": "Ana Dhoifak Ya Rasulullah",
+  "text": {
+    "1": {
+      "arabic": "أَنَا ضَيفَك يَا رَسُولَ اللهِ أَنَا ضَيْفَك يَا حَبِيبَ الله",
+      "latin": "Ana dhoifaka ya rasulallah, ana dhoifaka ya habibullah"
+    },
+    "2": {
+      "arabic": "يَا مُشَفَّع يَا عَرِيضَ الجَاه أَنَا ضَيْفَك يَا رَسُولَ الله",
+      "latin": "Ya musyaffa' ya 'aridol jah, ana dhoifaka ya rasulallah"
+    },
+    "3": {
+      "arabic": "قُل لي أَحْرِم وَقُمْ حَجَّ البَيْت أَحْرَمْتُ وَلَبَّيْتْ وَسَعَيْتْ",
+      "latin": "Qul li ahrim wa qum hajjal bait, ahramtu wa labbaytu wa sa'aytu"
+    },
+    "4": {
+      "arabic": "وَأَنَا دَاخِل عَلَى البَيْت غَنَّيْت أَنَا ضَيْفَك يَا رَسُولَ الله",
+      "latin": "Wa ana dakhil 'alal baiti ghannaytu, ana dhoifaka ya rasulallah"
+    },
+    "5": {
+      "arabic": "وَدَخَلْتُ عَلَى الكَعْبَة بِلَبتى بِالتَّوبَةِ بِجَدِّدْهَا لِرَبِّي",
+      "latin": "Wa dakhaltu 'alal ka'bati bilabati, bit taubati bijaddidha lirobbi"
+    },
+    "6": {
+      "arabic": "وَلَقَيْتُ النُّورَ زَمْزَمَ قَلْبِي أَنَا ضَيْفَك يَا رَسُولَ الله",
+      "latin": "Wa laqaitun nura zamzama qolbi, ana dhoifaka ya rasulallah"
+    },
+    "7": {
+      "arabic": "يَا حَبَايِب صَلُّوا عَلَى الهَادِي بِنَشِيدِ العَاكِف وَالبَادِي",
+      "latin": "Ya habayib shollu 'alal hadi binasyidil 'akifi wal badi"
+    },
+    "8": {
+      "arabic": "لَوْ تَسْمَع جِبريل يُنَادِي أَنَا ضَيْفَك يَا رَسُولَ الله",
+      "latin": "Lau tasma' jibrilu yunadi ana dhoifaka ya rasulallah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Aku Tamumu Wahai Rasulullah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Aku tamumu wahai Rasulullah, aku tamumu wahai kekasih Allah",
+        "2": "Wahai orang yang memberi syafaat, wahai yang luas kedudukannya, aku tamumu wahai Rasulullah",
+        "3": "Katakan kepadaku ihramlah, dan laksanakan haji baitullah, maka aku akan ihram dan membaca talbiah dan sai",
+        "4": "Dan aku masuk ke baitullah, aku bernyanyi, aku tamumu wahai Rasulullah",
+        "5": "Aku masuk kakbah dengan talbiahku, dengan taubat aku perbarui untuk tuhanku",
+        "6": "Dan aku menemukan hatiku ke cahaya zamzam, aku tamumu wahai Rasulullah",
+        "7": "Wahai para kekasih berselawatlah kepada sang petunjuk, dengan lagu orang yang menetap dan orang desa",
+        "8": "Jika kamu mendengar Jibril memanggil aku tamumu wahai Rasulullah"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

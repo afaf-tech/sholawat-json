@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أمسكت نفسي عن هواها",
+  "latin": "Amsaktu Nafsi An Hawaha",
+  "text": {
+    "1": {
+      "arabic": "أمسكت نفسي عن هواها وجعلتها تهوى هداها",
+      "latin": "Amsaktu nafsi 'an hawaha wa ja'altuha tahwa hudaha"
+    },
+    "2": {
+      "arabic": "حتى ارتوت من نبعه وسمت وهامت في علاها",
+      "latin": "Hatta irtawat min nab'ihi wa samat wa hamat fi 'ulaha"
+    },
+    "3": {
+      "arabic": "ألبستها ثوب الإباء علمتها معنى العطاء",
+      "latin": "Albastuha tsaubal iba' 'allamtuha ma'nal 'atho'"
+    },
+    "4": {
+      "arabic": "أطلقتها من غلها أطلقتها نحو السماء",
+      "latin": "Athlaqtuha min ghilliha athlaqtuha nahos sama'"
+    },
+    "5": {
+      "arabic": "علمتها أن الحياة هبة وأن الموت آت",
+      "latin": "Allamtuha annal hayata hibah wa annal mauta at"
+    },
+    "6": {
+      "arabic": "وبأن درب محمد هو وحده درب النجاة",
+      "latin": "Wa bi'anna darba muhammadin huwa wahdahu darbun najat"
+    },
+    "7": {
+      "arabic": "ما جئت بين الناس بدعا إن بعتها لله طوعا",
+      "latin": "Ma ji'tu bainan nasi bid'an in bi'tuha lillahi thau'an"
+    },
+    "8": {
+      "arabic": "فغدت تهيم بحبه وتضوع بالإيمان ضوعا",
+      "latin": "Faghadat tahimu bihubbih wa tadho'u bil imani dho'an"
+    },
+    "9": {
+      "arabic": "فإذا بأمواج السرور تنساب سيلا في الضمير",
+      "latin": "Fa'idza bi'amwajis sururi tansabu sailan fidh dhomir"
+    },
+    "10": {
+      "arabic": "والعمر يغدو باسما ريان من كأس الحبور",
+      "latin": "Wal 'umru yaghdu basiman rayyana min ka'sil hubur"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Aku Tahan Diriku dari Kesenangannya",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Aku tahan diriku dari kesenangannya, dan aku jadikan condong ke petunjuknya",
+        "2": "Sehingga segar dari sumbernya dan tinggi dan besar dalam ketinggiannya",
+        "3": "Aku beri pakaian dengan pakaian tidak mau melakukan maksiat, dan aku ajari makna pemberian",
+        "4": "Aku lepaskan dari ikatannya, aku lepaskan ke arah langit",
+        "5": "Aku ajari bahwa kehidupan adalah pemberian, dan kematian akan datang",
+        "6": "Dan bahwa hanya jalan Muhammad adalah jalan keselamatan",
+        "7": "Aku tidak baru di antara manusia jika aku jual nafsuku taat karena Allah",
+        "8": "Maka ia terpanah dengan cintanya, dan bercahaya dengan cahaya iman",
+        "9": "Saat itulah ombak kebahagiaan menarik banjir di hati",
+        "10": "Dan umur menjadi senyum segar dari gelas tinta"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

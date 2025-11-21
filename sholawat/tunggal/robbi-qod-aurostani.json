@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "رَبِّ قَدْ اَوْرَثَنِىْ",
+  "latin": "Robbi Qod Aurostani",
+  "text": {
+    "1": {
+      "arabic": "رَبِّ قَدْ اَوْرَثَنِىْ طَيْبَ الْعَطَاءْ",
+      "latin": "Robbi Qod Aurostani tibal atho'"
+    },
+    "2": {
+      "arabic": "وَمَدَدْتَ الْقَلْبَ مِنِّى بِالثَّبَاتِ وَالْوَلاَءْ",
+      "latin": "Wa madadtal qolba minni bisabati wal wala'"
+    },
+    "3": {
+      "arabic": "هٰذِهِ الدُّنْيَا حَوَثْ كُلَّ اَسْبَابِ الْغَوَايَةْ",
+      "latin": "Hadzihi dunya hawat kulla asbabil ghowayah"
+    },
+    "4": {
+      "arabic": "فَاحْتَضَنْ قَلْبِى حَصِيْنًا بِمَقَامَاتِ الْهِدَايَةْ",
+      "latin": "Fahtadlon qolbi hasinan bi maqomatil hidayah"
+    },
+    "5": {
+      "arabic": "وَامْنَحَنْ رُوْحِى شِفَاهاَ فَرِضَاكَ لَهَا غَايَةْ",
+      "latin": "Wamnahan ruhi syifaha faridloka laha ghoyah"
+    },
+    "6": {
+      "arabic": "كَمْ تَسَامَنْ هَوَاكَ وَعَلَى دَرْبِ الرِّعَايَةْ",
+      "latin": "Kam tasaman hawaka wa ala darbir riayah"
+    },
+    "7": {
+      "arabic": "فَاهْدِهَا يَا رَبِّ نَهْجَمْ مِنْكَ يُعْلِيْهَا الْوِقَيَةْ",
+      "latin": "Fahdiha ya robbi nahjam minka yu'linuha wiqoyah"
+    },
+    "8": {
+      "arabic": "وَاقْبَلَنْ نَجْوَايَ جُوْدًا بِالْخِتَامِ وَالْبِدَايَةْ",
+      "latin": "Waqbalan najwaya judan bil khitami wal bidayah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ya Tuhanku Telah Mewariskan Kepadaku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Ya Tuhanku telah mewariskan kepadaku kebaikan pemberian",
+        "2": "Dan Engkau bentangkan hati dariku dengan keteguhan dan kesetiaan",
+        "3": "Dunia ini mengumpulkan semua sebab kesesatan",
+        "4": "Maka peluk hatiku dengan kokoh di maqam-maqam hidayah",
+        "5": "Dan berilah rohku kesembuhan maka ridha-Mu adalah tujuannya",
+        "6": "Berapa kali Engkau meninggikan hawa nafsuku dan di jalan pemeliharaan",
+        "7": "Maka berilah petunjuk ya Tuhanku jalan dari-Mu yang meninggikan penjagaan",
+        "8": "Dan terimalah bisikan hatiku dengan kedermawanan di akhir dan awal"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

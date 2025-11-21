@@ -1,0 +1,31 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "اللهُ بِنُورِهِ تَجَلَّی",
+  "latin": "Allahu Binurihi Tajalla",
+  "text": {
+    "1": {
+      "arabic": "اللهُ بِنُورِهِ تَجَلَّی بِمَجْدِ القُدْرَةِ الإلَهِيَّة * وَالْعَقْلُ سَاجِدٌ قَدْ صَلَّی لِذَاتِ الحَضْرَةِ القُدْسِيَّة",
+      "latin": "Allâhu binûrihi tajallâ bimajdil qudrotil ilâhiyyah wal 'aqlu sâjidun qod shollâ lidzâtil hadlrotil qudsiyyah"
+    },
+    "2": {
+      "arabic": "اللهُ تَجَلَّی بِأَنْوَارٍ وَكَانَ الكَوْنُ بِأَقْدَار * وَالعَقْلُ بِعِلْمِهِ وَکَمَالِه شَهِدَ لِقُدْسِ الرُّبُوبِيَة",
+      "latin": "Allâhu tajallâ bi-anwâri wa kânal kaunu bi-aqdari wal 'aqlu bi'ilmihi wa kamâlihi syahida liqudsir rubûbiyyah"
+    },
+    "3": {
+      "arabic": "وَالحَضَيا لِذَاتٍ وَحَيَاة سَبَّحَ لِرَبِّ السَّمَوَات * فَكَّر قَدَّرَ لِلْحَقِّ وَصَلْ بِأَنْوَارِ رَحْمَانِيَّة",
+      "latin": "Wal hadliyâ lidzâti wa hayât sabaha lirobbis-samâwâti fakkarp qoddaro lil haqqi wasol wadlol bi-anwâri rohmâniyyah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Allah dengan Cahaya-Nya Menampakkan Diri",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Allah dengan cahaya-Nya menampakkan diri dengan keagungan kekuasaan Ilahi, dan akal bersujud telah sholat untuk dzat hadirat yang suci",
+        "2": "Allah menampakkan diri dengan cahaya-cahaya dan alam semesta dengan takdir-takdir, dan akal dengan ilmunya dan kesempurnaannya bersaksi untuk kesucian ketuhanan",
+        "3": "Dan makhluk untuk dzat dan kehidupan bertasbih untuk Tuhan langit-langit, maka berpikir bertakdir untuk kebenaran dan sampailah dengan cahaya-cahaya rahmat"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

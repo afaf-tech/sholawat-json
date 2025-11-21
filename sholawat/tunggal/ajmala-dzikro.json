@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَجْمَلْ ذِکْرَی",
+  "latin": "Ajmala Dzikro",
+  "text": {
+    "1": {
+      "arabic": "أَجْمَلْ ذِکْرَی عَزِيزَة عَلَينا * نِلْنَا فِيهَا کُلَّ أَمَانِينَا",
+      "latin": "Ajmal dzikro azizah 'alaina nilna fiha kul amanina"
+    },
+    "2": {
+      "arabic": "ذِکْرَی مِيلَادِ الهَادِی أَحْمَد * طَهَ رَسُول الله نَبِينَا",
+      "latin": "Dzikro miladil hadi Ahmad Thoha Rosulullahi nabina"
+    },
+    "3": {
+      "arabic": "شَهْرُ رَبِيعِ الخَيْرِ مُنَانَا * بِخَيرِ خَلْقِ اللهِ أَتَانَا",
+      "latin": "Syahru robi'il khoiri munana bikhoiri kholqillahi atana"
+    },
+    "4": {
+      "arabic": "نُورْ حَيَاتْنَا سِرِّ هَنَانَا * مِنْ کُلِّ خَطْبٍ يُنْجِينَا",
+      "latin": "Nuru hayatina sirri hanana min kulli khothbin yunjina"
+    },
+    "5": {
+      "arabic": "نَدْعُوكَ يَا رَبَّ الأَنَام * بِالمُصْطَفَی مَاحِی الظَّلَام",
+      "latin": "Nad'uka ya Robbal anam bil Musthofa mahidh-dholam"
+    },
+    "6": {
+      "arabic": "وَالآلِ وَالصَّحْبِ الکِرَام * مِنْ کُلِّ خَيْرٍ يُعْطِينَا",
+      "latin": "Wal ali wash-shohbil kirom min kulli khoirin yu'thina"
+    },
+    "7": {
+      "arabic": "صَلِّ وَسَلِّم رَبَّنَا * عَلَی التِّهَامِی نَبِينَا",
+      "latin": "Sholli wa sallim robbana 'alat-tihami nabiyyina"
+    },
+    "8": {
+      "arabic": "وَاغْفِر لَنَا أَوْزَارَنَا * وَعَنْ سِوَاكَ فَأَغْنِنَا",
+      "latin": "Waghfir lana awzarona wa 'an siwaka fa-aghnina"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Sebaik Peringatan",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Sebaik peringatan yang istimewa bagi kami, kami mendapatkan setiap yang kami harapkan",
+        "2": "Peringatan kelahiran sang petunjuk, Ahmad, Taha, Rasulullah, Nabi kita",
+        "3": "Bulan Rabi'ul Khair adalah harapan kita, ia datang dengan membawa sebaik makhluk Allah",
+        "4": "Cahaya kehidupan kita, rahasia kenikmatan kita, menyelamatkan kita dari setiap kesulitan",
+        "5": "Aku memohon kepadamu wahai Tuhan manusia dengan Nabi yang dipilih penghapus kegelapan",
+        "6": "Dan keluarga dan sahabat yang mulia, agar memberi dari setiap kebaikan",
+        "7": "Berselawatlah dan salamlah wahai Tuhan kami kepada At-Tihami Nabi kita",
+        "8": "Dan ampuni kesalahan kami, dan cukupi kami dari selain-Mu"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

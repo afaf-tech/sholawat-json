@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "الحَجُّ وافَانَا",
+  "latin": "Al Hajju Wafana",
+  "text": {
+    "1": {
+      "arabic": "الحَجُّ وافَانَا هِمُّوا مَعَانَا نَزُور نَبِينَا وبَيْتَ الحَرَام * هِمُّوا مَعَانَا وَالنَّبِيْ دَعَانَا",
+      "latin": "Al hajju wafana hummu ma'ana, nazur nabina wa baital harom, hummu ma'ana wannabi da'ana"
+    },
+    "2": {
+      "arabic": "عَلى المَدِينة يَحْدُو الرَّكْبُ * إلى نَبِيْنَا هامَ القَلْبُ",
+      "latin": "Alal madinah yahdurrokbu, ila nabina hamal qolbu"
+    },
+    "3": {
+      "arabic": "رَبِّي اجمعنا وَالصَحْبُ * أَقْرَبَ يَوْمٍ لِلُقْياهَا",
+      "latin": "Robbij makna wassohbu aqrobu yaumin liluqyaha"
+    },
+    "4": {
+      "arabic": "الكَعْبَةُ أَفَاضَت أَنْوَارَا * حَبَاهَا اللَهُ الأَسْرارَا",
+      "latin": "Alka'batu afadlot anwaro, habaha allahu al-asroro"
+    },
+    "5": {
+      "arabic": "أَطُوْفُ بِقَلْبِي أَدْوارَا * وَأُصَلِّيْ عِنْدَ لُقْياهَا",
+      "latin": "Atufu bi qolbi adwaro, wa usolli inda luqyaha"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Haji Datang kepada Kami",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Haji telah datang kepada kami, marilah bersama kami mengunjungi Nabi kami dan Baitulharam, marilah bersama kami dan Nabi memanggil kami",
+        "2": "Menuju Madinah rombongan berjalan, kepada Nabi kami hati rindu",
+        "3": "Ya Tuhanku, kumpulkanlah kami dan para sahabat di hari terdekat untuk bertemu dengannya",
+        "4": "Ka'bah memancarkan cahaya-cahaya, Allah menganugerahinya rahasia-rahasia",
+        "5": "Aku berthawaf dengan hatiku berputar-putar, dan aku shalat ketika bertemu dengannya"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

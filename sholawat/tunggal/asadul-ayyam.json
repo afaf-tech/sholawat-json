@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أِسْعَدَ الأَيَّامِ يَوْمٌ",
+  "latin": "As'adul Ayyami Yaumun",
+  "text": {
+    "1": {
+      "arabic": "أِسْعَدَ الأَيَّامِ يَوْمٌ * جَاءَنَا فِيهِ مُحَمَّد",
+      "latin": "As'adul ayyaami yaumun jaa-anaa fiihi Muhammad"
+    },
+    "2": {
+      "arabic": "جَمَعَ النَّاسَ وَوَحَّدْ * وَنِدَاءَ الحَقِّ رَدَّد * فَشَدَی الدَّهْرُ وَغَرَّد",
+      "latin": "Jama'an-naasa wawahhad wa nidaa-al haqqi roddad fasyadaad-dahru wa ghorrod"
+    },
+    "3": {
+      "arabic": "جَاءَنَا وَالنَّاسُ فَوْضَی * بَعْضُهُم يَظْلِمُ بَعْضًا * فَأَقَامَ الحَقَّ فَرْضاً * حَقَّقَ العَدْلَ وَأَرْضَی",
+      "latin": "Jaa-anaa wannaasu faudloo ba'dluhum yadhlimu ba'dloo fa-aqoomal haqqo fardloo haqqoqol 'ad-la wa ardloo"
+    },
+    "4": {
+      "arabic": "نَحْنُ مُذْ جَاءَ اهْتَدَينَا * هَلَّتِ البُشْرَی عَلَيْنَا * فَسَعَی النَّاسُ إِلَينَا * يوم أرضينا محمد",
+      "latin": "Nahnu mudz jaa-ahtadainaa hallatil busyroo 'alainaa fasa'aan-naasu ilainaa yauma ardloinaa Muhammad"
+    },
+    "5": {
+      "arabic": "رَبَّنا وَفِّقْ خُطَانَا * وَاجْزِ عَنَّا مُصْطَفَانَا * وَارْفَعِ الإسْلَام شَأنَا * بِالنَّبِی الهَادِی مُحَمَّد",
+      "latin": "Robbanaa waffiq khuthoonaa wa ajzi 'annaa Mushthofaanaa wa arfa'il islaama sya.naa binnabiil haadii Muhammad"
+    },
+    "6": {
+      "arabic": "کُلَّمَّا نَادَی المُنَادَی * أَوْ حَدَی فِی الرَّکْبِ حَادِی * أَوْ شَدَی فِی الرَّوْضِ شَادِی * فَعَلَی خَيرِ العِبَادِ * صًلِّ يَا رَبِّ مُحَمَّد",
+      "latin": "Kullamaa naadaal munaadii auhadaa fiir-rokbi haadii awsyadaa fiir-roudli syaadii fa'alaa khoiril 'ibaad sholli yaa robba Muhammad"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Paling Bahagia dari Hari-hari",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Paling bahagia dari hari-hari adalah hari, datang kepada kami padanya Muhammad",
+        "2": "Mengumpulkan manusia dan menyatukan, dan seruan kebenaran diulang-ulang, maka zaman bernyanyi dan berkicau",
+        "3": "Datang kepada kami dan manusia kacau, sebagian mereka menzalimi sebagian, maka menegakkan kebenaran wajib, mewujudkan keadilan dan merelakan",
+        "4": "Kami sejak datang mendapat petunjuk, kabar gembira turun kepada kami, maka manusia berusaha kepada kami, hari kami ridhokan Muhammad",
+        "5": "Tuhan kami wafaqkan langkah kami, dan balas untuk kami Mustofa kami, dan angkat Islam urusan kami, dengan nabi pemberi petunjuk Muhammad",
+        "6": "Setiap kali memanggil yang memanggil, atau bernyanyi di rombongan yang bernyanyi, atau bernyanyi di taman yang bernyanyi, maka atas sebaik hamba, berselalawatlah wahai Tuhan Muhammad"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

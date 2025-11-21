@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا قُبَّةَ الخَضْرَا مَالِك",
+  "latin": "Ya Qubbatal Khodro Malik",
+  "text": {
+    "1": {
+      "arabic": "يَا قُبَّةَ الخَضْرَا مَالِك كَانَتْ فِينَا بِجَمَالِك قَالَت جَمَالي بِمُحَمَّد نَوَّر جَمِيعَ المَمَالِك",
+      "latin": "Ya Qubbatal khodro malik kanaf fina bijamalik qolat jamali bi muhammad nawwar jamial mamalik"
+    },
+    "2": {
+      "arabic": "ظَلَّلْتِ خَيْرَ البَرَايَا سَامِي العُلَا وَالمَزَايَا لَهُ تَسِيرُ المَطَايَا مِنْ كُلِّ تِلْكَ المَمَالِك",
+      "latin": "Dzolalti khoirol baroya samil ula wal mazaya lahu tasirul matoyo min kulli tilkal mamalik"
+    },
+    "3": {
+      "arabic": "لَاحَتْ عَلَينَا أَنْوَارُه فَاضِت عَلَيْنَا أَسْرَارُه بُشْرَى لَكُم يَا زُوَّارُه بَعْدَ أدَاءِ المَنَاسِك",
+      "latin": "Lahat alaina anwaruh fadit alaina asroruh busyro lakum ya zuwwaruh ba'da adail manasik"
+    },
+    "4": {
+      "arabic": "طُوبَي لِمَنْ شَمِّ تْرَابُه شَوقاً وَقَبَّل أَعْتَابُه تَزُول عَنْهٌ أَتْعَابُه يَأْمَن جَمِيعَ المَهَالِك",
+      "latin": "Tuba liman syammit robuh syauqon wa qobbal a'tabuh tazul anhu atabuh ya'man jamial mahalik"
+    },
+    "5": {
+      "arabic": "صَلُّوا عَلَيْهِ يَا حُضَّار وَالآلِ وَالصَّحْبِ الأَخْيَار تَنْجُو غَدا مِنْ عَذَابِ النَّار وَتَرْبَحُو عَفْوَ المَالِك",
+      "latin": "Sollu alaihi ya huddor wal ali was sohbil akhyar tanju ghodan min adzabin nar wa tarbahu afwal malik"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Kubah Hijau Ada Apa Denganmu",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai Qubbah hijau ada apa denganmu? dahulu di kami ada kecantikanmu. Ia berkata: kecantikanku karena Muhammad, ia menerangi seluruh kekuasaan",
+        "2": "Kau payungi sebaik manusia, orang yang tinggi keluhurannya dan keistimewaannya. Kafilah-kafilah berjalan menuju beliau dari setiap kekuasaan",
+        "3": "Tampak kepada kami cahaya beliau, mengalir kepada kami keistimewaan beliau. Beruntung kalian wahai para peziarah nabi, setelah melaksanakan manasik",
+        "4": "Beruntung orang yang mencium debu nabi, karena rindu dan mencium pintu-pintu beliau. Hilang semua capeknya, aman dari setiap kerusakan",
+        "5": "Berselawatlah kepada beliau wahai para hadirin, dan keluarga dan sahabat yang terpilih. Besok engkau selamat dari siksa neraka, dan mendapat ampunan Allah yang maha memiliki"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

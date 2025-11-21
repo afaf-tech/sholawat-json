@@ -1,0 +1,36 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "قَدْ بَدَا اِلَيَّ نُوْرُهَا",
+  "latin": "Qod Bada Ilayya Nuruha",
+  "text": {
+    "1": {
+      "arabic": "قَدْ بَدَا اِلَيَّ نُوْرُهَا عَشِيَّةْ ذَاتٌ فَتَنَتْ فِى حُلَى حُسْنِهَا البَرِيَّة",
+      "latin": "Qod bada ilayya nuru haa asyiyyah dzatun fatanat fii hula husniha bariyyah"
+    },
+    "2": {
+      "arabic": "أَسْمَاءٌ جَمِيلَة كَمْ شَفَت عَلِيلاً أَضْحَى فَتِيلاً فِي الهَوَى وَقَضَى المَنِيَّة",
+      "latin": "Asmaun jamilah kam syafat alila adha fatilan fil hawa wa qodlo maniyyah"
+    },
+    "3": {
+      "arabic": "صَاحِ لاَ تَلُمْنِى حُبُّهَا فَتَنِّى خَمْرِى وَدَنِّى مِنْ طَلَا ثُغْرِهَا الدَّرِيَّة",
+      "latin": "Shohi la talumni hubbuha fatanna khamri wadanni min thola tsugri haa dariyyah"
+    },
+    "4": {
+      "arabic": "صَلَّى ذُو الجَلَالِ عَلَى النَّبِى اْلغَالي ثُمَّ اْلآلِ ذَوِى اْلعُلَا الصَّحْبِ وَالذُّرِّيَّة",
+      "latin": "Sholla dul jalali alan nabi gholi tsummal ali dawil ula shohbi wad durriyyah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Telah Tampak Kepadaku Cahayanya",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Telah tampak kepadaku cahayanya sore hari, sesuatu yang dalam hiasan kebaikannya menggoda manusia",
+        "2": "Nama-nama baik, banyak menyembuhkan orang yang sakit. Aku menjadi kurus karena cinta dan mendatangi kematian",
+        "3": "Wahai sahabatku jangan menghinaku, karena cintanya menggodaku. Arakku dan gelasku dari lubang giginya yang cantik",
+        "4": "Selawat Allah yang memiliki keagungan untuk nabi yang mulia, lalu keluarga pemilik keluhuran, sahabat dan keturunan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

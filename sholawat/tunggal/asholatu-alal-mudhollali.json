@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "اَلصَّلَاةُ عَلَى اْلمُظَـلَّلِ بِالْغَمَامَةْ",
+  "latin": "Ashsholatu Alal Mudhollali Bil Ghomamah",
+  "text": {
+    "1": {
+      "arabic": "اَلصَّلَاةُ عَلَى اْلمُظَـلَّلِ بِالْغَمَامَةْ * خَيْرُخَلْقِ اللهِ شَرَّفْ اَرْضَ رَامَه",
+      "latin": "Ashsholatu 'alal mudhollal bil ghomamah * khoiri kholqillahi syarrof ardlo romah"
+    },
+    "2": {
+      "arabic": "يَانَدَامَى هَافُؤَادِى عِنْدَكُمْ * مَاصَنَعْتُمْ بِفُؤَادِى يَانَدَامَهْ",
+      "latin": "Ya nadama ha fu-adi 'indakum * ma shona'tum bifu-adi ya nadamah"
+    },
+    "3": {
+      "arabic": "وَاَقِلْنِى سَيِّدِى مِنْ عَثْرَةٍ * وَارْتِكَابٍ ذَنْبِى مِنْ سَبْعِيْنَ عَامَهْ",
+      "latin": "Wa aqilni sayyidi min 'atsrotin * wartikabi dzanbi min sab'ina 'amah"
+    },
+    "4": {
+      "arabic": "يَامُحَمَّدْ يَامُمَجَّدْ يَابْنَ رَامَهْ * يَاشَفِيْعَ اْلخَلْقِ فِى يَوْمِ الزِّحَامَهْ",
+      "latin": "Ya Muhammad ya mumajjad ya-bna romah * ya syafi'al kholqi fi yaumiz-zihамah"
+    },
+    "5": {
+      "arabic": "يَا بُدُوراً أَشْرَقَ الكَوْنُ بِکُم يَا کِرَام * بَعْدَ مَا كَانَت نَوَاحِيهَ الظَّلَام",
+      "latin": "Ya buduron asyroqol kawn bikum ya kirom * ba'da ma kanat nawahihidh-dholam"
+    },
+    "6": {
+      "arabic": "وَابْعَثُوا لِی فِی الکِرَی طَيْفَکُم يَا کِرَام * إِذ أَذِنْتُم لِعُيُونِی أَن تْنَامَ",
+      "latin": "Wab'atsu li fil kiro thoifakum ya kirom * idz adzintum li'uyuni an tanam"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Shalawat Atas Yang Dinaungi Awan",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Shalawat atas yang dinaungi awan, sebaik-baik makhluk Allah yang memuliakan bumi Ramah (Madinah)",
+        "2": "Wahai sahabat-sahabatku, hatiku ada di sisimu, apa yang telah kalian perbuat terhadap hatiku wahai sahabat-sahabat",
+        "3": "Dan maafkanlah aku wahai tuanku dari kesalahan, dan perbuatan dosaku dari tujuh puluh tahun",
+        "4": "Wahai Muhammad wahai yang dimuliakan wahai putra Ramah, wahai pemberi syafa'at makhluk di hari kesesakan",
+        "5": "Wahai bulan-bulan yang alam semesta bersinar karena kalian wahai yang mulia, setelah sudut-sudutnya gelap",
+        "6": "Dan kirimkanlah untukku dalam tidurku bayangan kalian wahai yang mulia, ketika kalian mengizinkan mataku untuk tidur"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

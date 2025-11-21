@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا نَفْسُ تُوبِي وَارْجَعِي",
+  "latin": "Ya Nafsu Tubi Warjai",
+  "text": {
+    "1": {
+      "arabic": "يَا نَفْسُ تُوبِي وَارْجَعِي وَعَنِ الهَوَى فَتَرَفَّعِي",
+      "latin": "Ya nafsu tubi warjai wa 'anil hawa fatarafa'i"
+    },
+    "2": {
+      "arabic": "لله حَمْداً فَاشْكُرِي وَعَنِ المَهَالِكِ فَارْجَعِي",
+      "latin": "Lillahi hamdan fasyukuri wa 'anil mahaliki farjai'i"
+    },
+    "3": {
+      "arabic": "وَإِلَى الحِسَابِ تَأَهَّبِي الحَشْرُ حَقٌّ فَاخْشَعِي",
+      "latin": "Wa ilal hisabi ta'ahhabi alhasyru haqqun fakhsya'i"
+    },
+    "4": {
+      "arabic": "قَبْلَ المَمَاتِ فَإِنَّهُ يَوْمُ الرُّجُوعِ لِتَرْجَعِي",
+      "latin": "Qoblal mamati fa innahu yaumur ruju'i litarjai'i"
+    },
+    "5": {
+      "arabic": "للهِ فِي اليَوْمِ الَّذِي جَمَعَ الخَلَائِقَ فَاسْمَعِي",
+      "latin": "Lillahi fil yaumil ladzi jama'al khola'iqa fasma'i"
+    },
+    "6": {
+      "arabic": "هَذَا الكِتَابُ كِتَابُهُ يَهْدِي إِلَى المُتَوَرِّعِ",
+      "latin": "Hadza alkitabu kitabuhu yahdi ilal mutawarri'i"
+    },
+    "7": {
+      "arabic": "يَا نَفْسُ كُونِي رَحْمَةً بَيْنَ العِبَادِ لِتَنْفَعِي",
+      "latin": "Ya nafsu kuni rahmatan bainal 'ibadi litanfa'i"
+    },
+    "8": {
+      "arabic": "وَتَفَكُّرِي وَتَدَبُّرِي هَذَا الكِتَابُ لِتَقْلَعِي",
+      "latin": "Wa tafakkuri wa tadabburi hadza alkitabu litaqla'i"
+    },
+    "9": {
+      "arabic": "دُنْيَا سَرَابٌ زَائِلٌ فَعَنِ السَّرَابِ تَرَفَّعِي",
+      "latin": "Dunya sarabun za'ilun fa 'anis sarabi tarafa'i"
+    },
+    "10": {
+      "arabic": "وَإِلَى الإلَهِ وآيِهِ فِي كُلِّ حَالٍ فَارْجِعِي",
+      "latin": "Wa ilal ilahi wa ayatihi fi kulli halin farjai'i"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Jiwa Bertaubatlah dan Kembalilah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai jiwa, bertaubatlah dan kembalilah, dan dari hawa nafsu maka tinggalkanlah",
+        "2": "Kepada Allah bersyukurlah, dan dari kebinasaan maka kembalilah",
+        "3": "Dan untuk perhitungan bersiaplah, hari pengumpulan adalah pasti maka khusyuklah",
+        "4": "Sebelum kematian karena sesungguhnya, itu adalah hari kembali untuk kembalilah",
+        "5": "Kepada Allah pada hari yang mana, Dia mengumpulkan makhluk maka dengarkanlah",
+        "6": "Ini adalah kitab, kitab-Nya, memberi petunjuk kepada orang yang wara'",
+        "7": "Wahai jiwa jadilah rahmat, di antara hamba untuk memberi manfaat",
+        "8": "Dan berpikiriah dan renungkanlah, ini adalah kitab untuk mencabut (maksiat)",
+        "9": "Dunia adalah fatamorgana yang hilang, maka dari fatamorgana tinggalkanlah",
+        "10": "Dan kepada Allah dan ayat-ayat-Nya, dalam setiap keadaan maka kembalilah"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

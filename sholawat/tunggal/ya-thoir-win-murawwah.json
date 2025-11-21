@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا طِير وِين مُرَوَّح",
+  "latin": "Ya Thoir Win Murawwah",
+  "text": {
+    "1": {
+      "arabic": "يَا طِير وِين مُرَوَّح * نَحْوَ المَدِينَة سَارِی",
+      "latin": "Ya thoir wini mrowwah nahwal Madinah sari"
+    },
+    "2": {
+      "arabic": "بِالله بَلِّغ سَلَامِی * لِكَامِلِ الأَنْوَار",
+      "latin": "Billahi balligh salami li kamilil anwar"
+    },
+    "3": {
+      "arabic": "صِدِّيقِ يَا صِدِّيق * يَاصَاحِبَ التَّحْقِيق",
+      "latin": "Siddiqi ya shiddiqi Ya shohibat-tahqiqi"
+    },
+    "4": {
+      "arabic": "أَنْعٍمْنَا عِنْدَ الضِّيقِ * يَا مَقْصِدِی وَأَمَالِی",
+      "latin": "An'imna 'indadl-dliqi ya maqshodi wa amali"
+    },
+    "5": {
+      "arabic": "عُمَر يَا ابْنَ الخَطَّابِ * يَا نَاطِق لِلصَّوَاب",
+      "latin": "'Umar Yabnal Khotthobi ya natiq lishowab"
+    },
+    "6": {
+      "arabic": "وَأَنِح وَاقِف بِالْبَابِ * بِاللهِ انْظُر لِحَالِی",
+      "latin": "Wa anih wa qif bil babi billahi-ndhur lihali"
+    },
+    "7": {
+      "arabic": "عُثمَانُ ابنُ عَفَّانِ * ذُو الحَيَا وَالإيمَان",
+      "latin": "'Utsmanu-bnu 'Affani dzul haya wal imani"
+    },
+    "8": {
+      "arabic": "يَا جَامِعَ القُرآن * أَنْتَ صِهْرُ العَدْنَانِ",
+      "latin": "ya jami'al Qur-an, anta sihrol adnani"
+    },
+    "9": {
+      "arabic": "عَلِیَّ يَا ابنَ أَبِی طَالِب * يَا مُظْهِرَ العَجَائِب",
+      "latin": "'Ali Ya-bna Abi Tholib ya mudhiol 'aja-ib"
+    },
+    "10": {
+      "arabic": "يَا مُفْرِقَ الكَتَائِب * بِسَيفِكَ ذِی الفَقَار",
+      "latin": "Ya mufarriqol kata-ib bisaifika dzil-fiqori"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Burung Ke Mana Tujuanmu",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai burung ke mana tujuan orang yang berjalan menuju Madinah",
+        "2": "Demi Allah sampaikan salamku kepada Nabi yang sempurna cahayanya",
+        "3": "Wahai Abu Bakr Shiddiq, wahai pemilik kebenaran",
+        "4": "Berilah kenikmatan kami ketika sempit, wahai tujuanku dan harapanku",
+        "5": "Wahai Umar Ibn Khottob, wahai yang mengatakan kebenaran",
+        "6": "Perhatikan yang berdiri di pintu, demi Allah lihatlah keadaanku",
+        "7": "Wahai Utsman Ibn Affan, pemilik malu dan iman",
+        "8": "Wahai pengumpul Al-Quran, engkau menantu Nabi Al-Adnani",
+        "9": "Wahai Ali Bin Abi Tholib wahai yang mengeluarkan perkara-perkara yang menakjubkan",
+        "10": "Wahai yang menghancurkan pasukan-pasukan musuh dengan pedangmu Dzul Fiqar"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

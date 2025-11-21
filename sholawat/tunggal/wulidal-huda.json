@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "وُلِدَ الهُدى",
+  "latin": "Wulidal Huda",
+  "text": {
+    "1": {
+      "arabic": "وُلِدَ الهُدى فَالكائِناتُ ضِياءُ * وَفَمُ الزَمانِ تَبَسُّمٌ وَثَناءُ",
+      "latin": "Wulidal Huda fal kainatu dziya'u Wafamudzamani tabassumun wasanau"
+    },
+    "2": {
+      "arabic": "الروحُ وَالمَلَأُ المَلائِكُ حَولَهُ * لِلدينِ وَالدُنيا بِهِ بُشَراءُ",
+      "latin": "Arrukhu wal malaul malaiku khaulahu, liddini wad dunya bihi busyro'u"
+    },
+    "3": {
+      "arabic": "يا خَيرَ مَن جاءَ الوُجودَ تَحِيَّةً * مِن مُرسَلينَ إِلى الهُدى بِكَ جاؤوا",
+      "latin": "Ya khaira man jaal wujuda tahiyyatan min mursaliyna ilal huda bika jaau"
+    },
+    "4": {
+      "arabic": "بِكَ بَشَّرَ اللَهُ السَماءَ فَزُيِّنَت * وَتَضَوَّعَت مِسكاً بِكَ الغَبراءُ",
+      "latin": "Bika Bassyarallahus samaa fajuyyinat Wa tathawwa'at miskan bikal ghobaraau"
+    },
+    "5": {
+      "arabic": "زانَتكَ في الخُلُقِ العَظيمِ شَمائِلٌ * يُغرى بِهِنَّ وَيولَعُ الكُرَماءُ",
+      "latin": "Zanatka fil khuluqil adzim syamailu, yughro bihinna wa yulaul kuroma'u"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Dilahirkan Sang Petunjuk",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Dilahirkan sang petunjuk maka bercahayalah alam semesta, dan bibir waktu tersenyum dan memuji",
+        "2": "Ruh dan kelompok malaikat di sisinya, karena Nabi mereka memberi kabar bahagia untuk agama dan dunia",
+        "3": "Wahai sebaik orang yang datang ke alam semesta sebagai penghormatan dari para rasul yang mereka datang membawa pentunjukmu",
+        "4": "Denganmu Allah memberi kabar gembira terhadap langit, maka langit dihiasi dan debu-debu harum misk karenamu",
+        "5": "Sifat mulia menghiasimu dalam akhlak yang agung, yang dengannya orang-orang yang mulia tertegun dan membara"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

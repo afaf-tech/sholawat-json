@@ -1,0 +1,31 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "بُلْبُلُ الأَفْرَاحِ",
+  "latin": "Bulbulul Afroh",
+  "text": {
+    "1": {
+      "arabic": "بُلْبُلُ الأَفْرَاحِ غَرَّدْ مُذْ بَدَا بَدْرُ الكَمَال",
+      "latin": "Bulbulul afrih gharrad mudz bada badrul kamal"
+    },
+    "2": {
+      "arabic": "وَحَمَامُ الأَيْكِ أَنْشَد وَبَشِيرُ الأنْسِ قَالَ",
+      "latin": "Wa hamamu al-aiki ansyad wa basyirul unsi qal"
+    },
+    "3": {
+      "arabic": "ظَهَرَ المُخْتَارِ أَحْمَد مَنْ حَوَى أَبْهَى الجَمَال",
+      "latin": "Dhohoral mukhtar ahmad man hawa abha al-jamal"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Burung Bulbul Kegembiraan",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Burung bulbul kegembiraan berkicau, ketika tampak bulan purnama kesempurnaan",
+        "2": "Dan burung merpati belukar bernyanyi, dan pembawa kabar kemanusiaan berkata",
+        "3": "Telah tampak yang terpilih Ahmad, yang memiliki keindahan yang paling tampak"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

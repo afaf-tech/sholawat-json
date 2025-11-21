@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "الهي بيا ارحم الراحمين",
+  "latin": "Ilahi Biya Arhamar Rohimin",
+  "text": {
+    "1": {
+      "arabic": "الهي بيا ارحم الراحمين * بسر الكتاب القديم المبين",
+      "latin": "Ilahi biya arhamar rohimin * bisirril kitabil qadimil mubin"
+    },
+    "2": {
+      "arabic": "بحرمة طه الحبيب الأمين * أغثنا وفرج عن المسلمين",
+      "latin": "Bihurmati thohal habibil amin * aghitsna wa farrij 'anil muslimin"
+    },
+    "3": {
+      "arabic": "بآل نبيك أهل الكمال * بقايا الرسول أسود الرجال",
+      "latin": "Bi ali nabiyyika ahlil kamal * baqoyor rosuli aswadur rijal"
+    },
+    "4": {
+      "arabic": "بصحب النبي بدور الجلال * بيمن الملائك والتابعين",
+      "latin": "Bishohbin nabiyyi buduril jalal * biyumnil mala-ikati wat tabi'in"
+    },
+    "5": {
+      "arabic": "تفضل علينا بنصر قريب * ونور وفضل نوال الزكي",
+      "latin": "Tafadhdhal 'alaina binashrin qorib * wa nurin wa fadlin nawaliz zakiy"
+    },
+    "6": {
+      "arabic": "بحرمة غوث الزمان القريب * وكل ولي من الصالحين",
+      "latin": "Bihurmati ghautsiz zamanil qorib * wa kulli waliyyin minash sholihin"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ya Allah dengan Yang Maha Pengasih dari Para Pengasih",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Ya Allah, dengan Yang Maha Pengasih dari para pengasih, dengan rahasia Kitab yang lama lagi jelas",
+        "2": "Dengan kehormatan Thaha sang kekasih yang terpercaya, tolonglah kami dan lapangkanlah (kesulitan) kaum muslimin",
+        "3": "Dengan keluarga Nabi-Mu ahli kesempurnaan, dengan keturunan Rasul para pemimpin laki-laki",
+        "4": "Dengan sahabat Nabi bulan-bulan keagungan, dengan berkah para malaikat dan para tabi'in",
+        "5": "Karuniakanlah kepada kami pertolongan yang dekat, dan cahaya serta karunia pemberian yang suci",
+        "6": "Dengan kehormatan penolong zaman yang dekat, dan setiap wali dari orang-orang shalih"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

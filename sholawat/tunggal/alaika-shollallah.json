@@ -1,0 +1,96 @@
+{
+    "source": "terjemahkitab",
+    "name": "عَلَيْكَ صَلَّى الله",
+    "latin": "Alaika Shollallah",
+    "text": {
+        "1": {
+            "arabic": "عَلَيْكَ صَلَّى الله يَا خَيْرَ خَلْقِ الله",
+            "latin": "Alaika shollallah Ya khoiro kholqillah"
+        },
+        "2": {
+            "arabic": "وَالْاَلِ وَالْاَصْحَابْ وَالْقَوْمِ أَهْلِ الله",
+            "latin": "Wal ali wal ashhab Wal qoumi ali llah"
+        },
+        "3": {
+            "arabic": "جِئْنَا اِلَى دَارِكْ نَنْعُمْ بِأسْرَارِكْ",
+            "latin": "Ji'na ila darik tanum bi asrorik"
+        },
+        "4": {
+            "arabic": "مَا خَابَ مَنْ زَارَكْ وَالله اَيْ وَالله",
+            "latin": "Makho baman zarok Walli ai wallah"
+        },
+        "5": {
+            "arabic": "فِدَاؤُكَ الْاَرْوَاحْ وَمِثْلُهَا الْأَسْبَاحْ",
+            "latin": "Fidaukal arwah Wa misluhal asbah"
+        },
+        "6": {
+            "arabic": "يَا خَيْرَةَ الْفَتَّاحْ مِنْ اَنْبِيَاءِ الله",
+            "latin": "Ya khoirotal fattah min anbiyaillah"
+        },
+        "7": {
+            "arabic": "يَا كَعْبَةَ الْاَسْرَارْ يَا مَنْبَعَ الْاَنْوَارْ",
+            "latin": "Ya ka'batal asror ya mamba'al anwar"
+        },
+        "8": {
+            "arabic": "بِالْعُرْمِ يَا مُخْتَارْ اَيَّدْتَ دِيْنِ الله",
+            "latin": "Bil azmi ya mukhtar ayyadta dinillah"
+        },
+        "9": {
+            "arabic": "يَا مَنْ لَهُ البُرْهَان وُخُلْقُهُ القُرْآن",
+            "latin": "Ya man lahul burhan wa khulquhul quran"
+        },
+        "10": {
+            "arabic": "مَا كَانَتِ الأَكْوَان وَحَقِّهُ لَوْلَاه",
+            "latin": "ma kanatil akwan wa haqqihi laulah"
+        },
+        "11": {
+            "arabic": "لِوَاؤُكَ المَرْفُوع وَقَوْلُكَ المَسْمُوع",
+            "latin": "liwaukal marfu wa qoulukal masmu'"
+        },
+        "12": {
+            "arabic": "وَحُبُّكَ المَطْبُوع فِي مُهْجَةِ الأَوَّاه",
+            "latin": "wa hubbukal matbu' fi muhjatil awwah"
+        },
+        "13": {
+            "arabic": "نَدْعُوكَ بِالسِّبْطِين لِكَشْفِ هَذَا الغَيْم",
+            "latin": "naduka bis sibtin li kasyfi hadzal ghoib"
+        },
+        "14": {
+            "arabic": "يَا مَلْجَأَ الكَوْنَين بِالخَطْبِ بَعْدَ الله",
+            "latin": "ya malja'al kaunain bil khotbi ba'da Allah"
+        },
+        "15": {
+            "arabic": "هَا أَنْتَ فِي المَحْشَر مُؤَيَّد المَظهَر",
+            "latin": "ha anta fil mahsyar muayyad madzhar"
+        },
+        "16": {
+            "arabic": "فَكُلَّمَا تُذْكَر عَلَيْكَ صَلَّى الله",
+            "latin": "fakullafa tudzkar alaika sollaallah"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Untukmu Selawat Allah",
+            "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+            "text": {
+                "1": "Untukmu selawat Allah wahai sebaik makhluk Allah",
+                "2": "Serta keluarga dan para sahabat juga kaum keluarga Allah",
+                "3": "Aku datang ke rumahmu menikmati rahasia-rahasiamu",
+                "4": "Tidak rugi orang yang menziarahimu, demi Allah, ya Demi Allah",
+                "5": "Ruh-ruh adalah tebusanmu, begitu juga jasad",
+                "6": "Wahai pilihan Allah maha pembuka dari para nabi Allah",
+                "7": "Wahai pusat rahasia, wahai sumbur cahaya",
+                "8": "Dengan kekuatan wahai yang dipilih engkau kuatkan agama Allah",
+                "9": "Wahai seorang yang memiliki kebenaran, dan akhlaknya adalah Quran",
+                "10": "Alam seisinya tidak akan ada jika tidak ada beliau",
+                "11": "Benderamu dikibarkan, ucapanmu didengarkan",
+                "12": "Cintamu tercetak di hati orang-orang yang merintih",
+                "13": "Aku memintamu dengan lantaran dua cucu untuk menghilangkan kesusahan ini",
+                "14": "Wahai tempat kembali dua alam dalam kesulitan setelah Allah",
+                "15": "Engkau di mahsyar dikuatkan penampakannya",
+                "16": "Selama disebut Alaika sollaallah"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}

@@ -1,0 +1,41 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "بِأِسْلَامِيْ وَأِيْمَانِيْ",
+  "latin": "Bi Islami Wa Imani",
+  "text": {
+    "1": {
+      "arabic": "بِأِسْلَامِيْ وَأِيْمَانِيْ * أَضَاءَالْكَوْنُ وَالزَّمَنُ",
+      "latin": "Bi islami wa imani adoal kaunu waz zamani"
+    },
+    "2": {
+      "arabic": "يُحِبُّ الْكَوْنُ أَلْحَاني * فَأَلْحَانِي لَهُ سَكَنُ",
+      "latin": "Yuhubbul kaunu alhani fa alhani lahu sakanun"
+    },
+    "3": {
+      "arabic": "أَجِيْ الأِنْسَانُ يَامَعْنَى * حَبَاهُ الله‌ أَسْرَارَا * فَجَاءَ يُعَطِّرُ الْكَوْنَ * وَيَنْشُرُ فِيْهِ أَنْوَارَ",
+      "latin": "Aji al insan wa ya'na habahullahu asroro faja'a yuattirul kauna wa yansyuru fihi anwaro"
+    },
+    "4": {
+      "arabic": "فَإنْ تَكُ تَعْشَقُ الْفِكْرَ * فَنَحْنُ النُّوْرُ وَالْفِكْرُ",
+      "latin": "Fain taku ta'syaqul fikro, fa nahnu nuru wal fikru"
+    },
+    "5": {
+      "arabic": "وَإِنْ تَكُ تَعْبُدُ الْكُفْرَ * فَنَحْنُ الْعَلْقَمُ الْمُرُّ",
+      "latin": "Wain taku ta'budul kufro fanahnu alqomu almuurr"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Dengan Islam dan Imanku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Dengan Islamku dan imanku, bercahaya alam semesta dan zaman",
+        "2": "Alam semesta mencintai laguku, maka laguku adalah tempat tinggalnya",
+        "3": "Manusia yang mulia datang dengan makna, Allah menganugerahinya rahasia-rahasia, maka dia datang mengharumkan alam semesta dan menyebarkan padanya cahaya-cahaya",
+        "4": "Jika engkau mencintai pemikiran, maka kami adalah cahaya dan pemikiran",
+        "5": "Dan jika engkau menyembah kekufuran, maka kami adalah kepahitan yang pahit"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

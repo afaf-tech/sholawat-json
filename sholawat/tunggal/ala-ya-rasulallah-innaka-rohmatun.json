@@ -1,0 +1,36 @@
+{
+    "source": "terjemahkitab.com",
+    "name": "أَلَا يَا رَسُولَ اللهِ إِنَّكَ رَحْمَةٌ",
+    "latin": "Ala Ya Rasulallah Innaka Rohmatun",
+    "text": {
+        "1": {
+            "arabic": "أَلَا يَا رَسُولَ اللهِ إِنَّكَ رَحْمَةٌ * وَإِنَّكَ سِرٌ لِلْوُجُودِ وَصْفَوَة",
+            "latin": "Ala ya rasulallahi innaka rohmatun wa innaka sirrun lil wujudi wa shofwah"
+        },
+        "2": {
+            "arabic": "كُؤُوسُ التَّصَابِي في هواك لذيذة * فليتك تحلو والحياة مريرة * وليتك ترضى والأنام غضاب",
+            "latin": "Ku-usut tashobi fi hawaka ladzidzah falaytaka tahlu wal hayatu maridoh wa laytaka tardlo wal anamu ghodlob"
+        },
+        "3": {
+            "arabic": "إلى كعبة الأحباب شوقي طائر * وفي عالم الأسرار سرى حائر * جميع البرايا في رضاك تفاخر * فليت الذي بيني وبينك عامر * وبيني وبين العالمين خراب",
+            "latin": "Ila ka'batil ahbabi syauqi tho-ir wa fi 'alamil asrori sirri ha-ir jami'ul baroyo fi ridloka tafakhur falaytalladzî baini wa bainaka 'amir wa baini wa bainal 'alamina khorob"
+        },
+        "4": {
+            "arabic": "سألتك يا مختار بالحمد والثنا * بحق جلال الله والنور والثنا * تعطف علينا بالوصال فهل منى * وإن صح منك الود يا غاية المنى * فكل الذي فوق التراب تراب",
+            "latin": "Sa-altuka ya mukhtar bil hamdi wats-tsana bihaqi jalalillahi wan-nur wats-tsana ta'attof 'alaina bil wisholi fahal minna wa in shohha minkal waddu ya ghoyatal muna fakulluladzi fauqot-turob turob"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Wahai Rasulullah Sesungguhnya Engkau Rahmat",
+            "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+            "text": {
+                "1": "Ketahuilah wahai Rasulullah sesungguhnya engkau rahmat, dan sesungguhnya engkau rahasia untuk wujud dan pilihan",
+                "2": "Gelas-gelas kesabaran dalam cintamu nikmat, andaikan engkau manis sedangkan kehidupan pahit, dan andaikan engkau ridho sedangkan manusia marah",
+                "3": "Ke Ka'bah para kekasih kerinduanku terbang, dan di alam rahasia-rahasia perjalananku bingung, semua makhluk dalam keridhoanmu berbangga, andaikan yang antara aku dan engkau makmur, dan antaraku dan antara alam-alam rusak",
+                "4": "Aku bertanya kepadamu wahai yang terpilih dengan pujian dan sanjungan, dengan hak keagungan Allah dan cahaya dan sanjungan, berlemah lembutlah kepada kami dengan pertemuan maka apakah dari kami, dan jika benar darimu kasih sayang wahai puncak harapan, maka semua yang di atas tanah adalah tanah"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}
