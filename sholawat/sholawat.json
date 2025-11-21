@@ -207,6 +207,7 @@
                     "fihubbi-sayyidina-muhammad.json",
                     "hab-li-hudaya-anta-rojaya.json",
                     "habibi-anta-ya-waladi.json",
+                    "habibi-ya-muhammad-ya-sodiqon-bil-wad.json",
                     "halumman-syud-ya-hadina.json",
                     "hama-qalbi.json",
                     "hubbu-ahmadi-qolbi-sakan.json",
@@ -222,6 +223,7 @@
                     "khobbiri.json",
                     "kullul-quluub.json",
                     "lil-alami-jaa-muhammad.json",
+                    "ludz-fi-hima-toha-abil-qosimi.json",
                     "mahbubi-lamma-bada.json",
                     "najaka-qolbi-khosyian.json",
                     "nurul-mustofa.json",
@@ -233,6 +235,7 @@
                     "qolbi-lak-mamlu-ghorom.json",
                     "qomarun.json",
                     "rahman-ya-rahman.json",
+                    "robbahu-bidzikrika-arifu-dzati.json",
                     "robbi-kholaq-thoha.json",
                     "robbi-qod-aurostani.json",
                     "sallimu-alaiha-ajmala-salam.json",
@@ -272,7 +275,8 @@
                     "ya-sayyidar-rusli-ya-tahir.json",
                     "ya-sayyidi-ya-rasulallahi-khudz-biyadi.json",
                     "ya-thoir-win-murawwah.json",
-                    "yakadu-min-syiddati.json"
+                    "yakadu-min-syiddati.json",
+                    "zairor-roudloti-la-tansa.json"
                 ],
                 "schema": "sholawat_tunggal_v1.1.schema.json"
             }

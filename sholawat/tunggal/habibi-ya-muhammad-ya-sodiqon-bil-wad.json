@@ -1,0 +1,86 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "حَبِيْبِيْ يَا مُحَمَّدْ",
+  "latin": "Habibi Ya Muhammad Ya Sodiqon Bil Wad",
+  "text": {
+    "1": {
+      "arabic": "حَبِيْبِيْ يَا مُحَمَّدْ يَا صَادِقًا بِالْوَعْدْ",
+      "latin": "Habibi ya Muhammad ya shodiqon bil wa'd"
+    },
+    "2": {
+      "arabic": "يَا أَحْمَدْ يَا مُؤَيَّدْ مِنَ الْفَرْدِ الصَّمَدْ",
+      "latin": "Ya ahmad ya muayyad minal fardish shomad"
+    },
+    "3": {
+      "arabic": "يَا صَادِقَ الْمَقَالِ يَا ذَا الْمَقَامِ الْعَالِيْ",
+      "latin": "Ya shodiqol maqoli ya dzal maqomil 'ali"
+    },
+    "4": {
+      "arabic": "يَا مَنْ حَبَاهُ رَبِّيْ بِطَيِّبِ الْأَفْعَالِ",
+      "latin": "Ya man habahu robbi bithoyyibil af'ali"
+    },
+    "5": {
+      "arabic": "يَا مَنْ سَرَيْتَ لَيْلًا مُصَاحِبًا جِبْرِيْلًا",
+      "latin": "Ya man saroita lailan mushohibon jibrila"
+    },
+    "6": {
+      "arabic": "بِالْمَسْجِدِ الْأَقْصَى فِيْ تِلْكَ اللَّيْلَةْ",
+      "latin": "Bil masjidil aqsho fi tilkal lailah"
+    },
+    "7": {
+      "arabic": "صَلَّيْتَ يَا مُحَمَّد بِجَمْعِ الـمُرْسَلِينَ",
+      "latin": "Shollaita ya Muhammad bijam'il mursalin"
+    },
+    "8": {
+      "arabic": "كَنْتَ فِيهِم إِمَاماً وَكَانُوا مُقْتَدِين",
+      "latin": "Kunta fihim imaman wa kanu muqtadin"
+    },
+    "9": {
+      "arabic": "ثُمَّ بَعْدَ الصَّلَاة سِرْتَ لِلسَّمَوَات",
+      "latin": "Tsumma ba'dash sholah sirta lis samawat"
+    },
+    "10": {
+      "arabic": "فَوْقَ ظَهْرِ البُرَاق لِرَبِّ العَالَمِين",
+      "latin": "Fauqo dhohril buroq lirobbil 'alamin"
+    },
+    "11": {
+      "arabic": "بِبَهْجَةٍ وَسُرُورٍ وَفَوْقَ السِدْرَةِ",
+      "latin": "Bi bahjatin wa sururin wa fauqos sidroti"
+    },
+    "12": {
+      "arabic": "وَأُنْسٍ وَحُبُورٍ لِقُدْسِ الحَضْرَةِ",
+      "latin": "Wa unsin wa huburin liqudsil hadlroti"
+    },
+    "13": {
+      "arabic": "حَيَّكَ إِلَى هُنَا وَقَدْ نِلْتَ الـمُنَى",
+      "latin": "Hayyaka ila huna wa qod niltal muna"
+    },
+    "14": {
+      "arabic": "يَا مَنْ حَبَاهُ رَبِّي بِطَيِّبِ الأَفْعَالِ",
+      "latin": "Ya man habahu robbi bithoyyibil af'ali"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Kekasihku Wahai Muhammad",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Kekasihku wahai Muhammad wahai yang menepati janji",
+        "2": "Wahai Ahmad, wahai yang dikuatkan dari yang maha tunggal dan yang maha suci",
+        "3": "Wahai yang jujur ucapannya yang memiliki kedudukan yang tinggi",
+        "4": "Wahai pilihan Tuhanku dengan baiknya perkataan",
+        "5": "Wahai orang yang berjalan di waktu malam, bersama Jibril",
+        "6": "Di masjid al-Aqsa di malam tersebut",
+        "7": "Engkau shalat wahai Muhammad dengan seluruh utusan",
+        "8": "Engkau menjadi Imam dan para utusan menjadi makmum",
+        "9": "Lalu setelah shalat engkau berjalan ke langit",
+        "10": "Di atas punggung burok ke Tuhan semesta alam",
+        "11": "Dengan keindahan dan kebahagiaan dan di atas Sidrotul muntaha",
+        "12": "Dan ketenangan dan keluasan karena kesucian keadaan",
+        "13": "Allah menjalankan engkau ke sana, dan engkau mendapat yang engkau harapkan",
+        "14": "Wahai pilihan Tuhanku dengan baiknya perkataan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

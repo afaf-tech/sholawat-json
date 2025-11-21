@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "رَبَّاهُ بِذِكْرِكَ اَعْرِفُ ذَاتِي",
+  "latin": "Robbahu Bidzikrika A'rifu Dzati",
+  "text": {
+    "1": {
+      "arabic": "رَبَّاهُ بِذِكْرِكَ اَعْرِفُ ذَاتِي حِيْنَ أُنَادِيْ يَا مَوْلَايَا",
+      "latin": "Robbahu bidzikrika a'rifu dzati, hina unadi ya maulaya"
+    },
+    "2": {
+      "arabic": "هَبْ لِي هُدَايَا أَنْتَ رَجَايَا هَبْ لِي هُدَايَا أَنْتَ رَجَايَا",
+      "latin": "Hab li hudaya anta rojaya, hab li hudaya anta rojaya"
+    },
+    "3": {
+      "arabic": "اَلنُّوْرُ يُدَاعِبُ أَجْفَانِيْ فِي اللَّيْلِ فَاَعْزِفُ اَلْحَانِيْ",
+      "latin": "Annuru yuda'ibu ajfani, fil laili fa a'rifu al-hani"
+    },
+    "4": {
+      "arabic": "وَ أُرَتِّلُ آيَ الْقُرْاٰنِ وَ أَطِيْرُ إِلَى دُنْيَا الْأُنْسِ",
+      "latin": "Wa urottilu ayal Qur'ani, wa athiru ilad dunyal unsi"
+    },
+    "5": {
+      "arabic": "دُنْيَا الْإِيْمَانِ آيَا حُلُمًا فِيْ وَصْفِكِ أَضْنَيْتُ الْقَلَمَ",
+      "latin": "Dunyal imani aya huluman, fi washfika adnaitul qolama"
+    },
+    "6": {
+      "arabic": "اَحْيَاكِ سَعِيْدًا مُبْتَسِمًا بِقَلْبِيْ وَارْضَ اُمَّتَكِ",
+      "latin": "Ahyaki sa'idan mubtasiman, biqolbi wa wardlo ummatiki"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Tuhanku dengan Menyebutmu",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai Tuhan manusia, dengan menyebutmu aku mengetahui jati diriku, ketika aku memanggil wahai tuan kami",
+        "2": "Berikan aku petunjukku, engkau harapanku, berikan aku petunjukku, engkau harapanku",
+        "3": "Cahaya menyelimuti mataku pada malam hari, maka aku mengetahui rintihanku",
+        "4": "Dan aku baca ayat-ayat Quran, dan aku terbang pada dunia ketenangan",
+        "5": "Wahai dunia iman wahai harapan, dalam menyifatimu aku menyulitkan pena",
+        "6": "Hidupmu bahagia dan tersenyum, dengan hatiku, dan ridlai umatmu"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}
