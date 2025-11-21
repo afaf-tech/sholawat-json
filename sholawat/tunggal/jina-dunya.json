@@ -1,0 +1,51 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "جِئْنَا الدُّنْيَا نَعْلَمُ أَنَّا",
+  "latin": "Ji'na Dunya Na'lamu Anna",
+  "text": {
+    "1": {
+      "arabic": "جِئْنَا الدُّنْيَا نَعْلَمُ أَنَّا لِنُضِيءَ جَوَانِبْهَا جِئْنَا",
+      "latin": "Ji'nad dunya na'lamu anna linudhi'a jawanibuha ji'na"
+    },
+    "2": {
+      "arabic": "وَعَرَفْنَا اللهَ لَنَا رَبًّا يَهْدِينَا الدَّرْبَ إِذَا تِهْنَا",
+      "latin": "Wa 'arafnallaha lana robban yahdina darba idza tihna"
+    },
+    "3": {
+      "arabic": "وَمَشَيْنَا فِيهَا أَيَّاماً وَمَشَيْنَا وَرَسَمْنَا فِيهَا أَحْلَاماً وَرَسَمْنَا",
+      "latin": "Wa masyaina fiha ayyaman wa masyaina wa rasamnا fiha ahlaman wa rasamna"
+    },
+    "4": {
+      "arabic": "قَلْبٌ يَهْوِي أَوْ يَتَسَامَى فَيَعِيشُ الوَهْمُ أَوِ الأَمْنَا",
+      "latin": "Qalbun yahwi au yatasamа fa ya'isyul wahmu awil amna"
+    },
+    "5": {
+      "arabic": "مَا فِي الدُّنْيَا عَبَثٌ أَبَداً أَبَداً مَا جِئْنَاهَا لِنَضِيعَ سُدًى",
+      "latin": "Ma fid dunya 'abatsun abadan abadan ma ji'naha linadhi'a sudan"
+    },
+    "6": {
+      "arabic": "مَنْ آمَنَ مِنَّا أَوْ جَحَدَا مَنْ يُولَدُ مِنَّا أَوْ يَفْنَى",
+      "latin": "Man amana minna au jahada man yuladu minna au yafna"
+    },
+    "7": {
+      "arabic": "كَمْ رُوحٍ تَبِحَثُ عَنْ مَرْفَعْ كَمْ رُوحٍ تَبْحَثُ عَنْ مَوْضِعْ",
+      "latin": "Kam ruhin tabhatsu 'an marfa' kam ruhin tabhatsu 'an maudhi'"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Kami Datang ke Dunia Mengetahui Bahwa",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Kami datang ke dunia mengetahui bahwa untuk menerangi sisi-sisinya kami datang",
+        "2": "Dan kami mengetahui Allah untuk kami Tuhan, menunjukkan kami jalan jika kami tersesat",
+        "3": "Dan kami berjalan di dalamnya beberapa hari dan kami berjalan, dan kami menggambar di dalamnya mimpi-mimpi dan kami menggambar",
+        "4": "Hati yang jatuh atau yang tinggi, maka hidup delusi atau keamanan",
+        "5": "Tidak ada di dunia sia-sia selamanya selamanya, kami tidak datang padanya untuk hilang sia-sia",
+        "6": "Siapa yang beriman dari kami atau mengingkari, siapa yang dilahirkan dari kami atau yang fana",
+        "7": "Berapa ruh yang mencari tempat tinggi, berapa ruh yang mencari tempat"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}
