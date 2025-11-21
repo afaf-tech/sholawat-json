@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أتاني زماني بما أرتضي",
+  "latin": "Atani Zamani Bima Artadli",
+  "text": {
+    "1": {
+      "arabic": "أتاني زماني بما أرتضي فَبِاللهِ يادهرُ لا تَنْقَضي",
+      "latin": "Atani zamani bima artadli fa billahi ya dahru la tanqadli"
+    },
+    "2": {
+      "arabic": "ويا ليلة الأُنس دومي لنا لأنَّ الحبيب علينا رضي",
+      "latin": "Wa ya lailatal unsi dumi lana li annal habiba 'alaina rodli"
+    },
+    "3": {
+      "arabic": "سقانا بكأس الهنا شربة ولاح من الكأس نور يضي",
+      "latin": "Saqana bika'sil hana syorbatan wa laha minal ka'si nurun yadli"
+    },
+    "4": {
+      "arabic": "وبتنا على العهد نرعى الوداد وعيش المحبين لا ينقضي",
+      "latin": "Wa batna 'alal 'ahdi nar'al wadada wa 'aisyul muhibbina la yanqadli"
+    },
+    "5": {
+      "arabic": "وفي حالة السخط لا في الرضا يبين المحب من المبغضي",
+      "latin": "Wa fi halatissakhti la fir ridla yubinu al muhibbu minal mubghadli"
+    },
+    "6": {
+      "arabic": "ويا رب صلِّ على المصطفى صلاة تدوم ولا تنقضي",
+      "latin": "Wa ya robbi sholli 'alal mustofa sholatan tadumu wa la tanqadli"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Datang Waktuku dengan Yang Aku Ridoi",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Datang waktuku dengan yang aku ridoi, demi Allah wahai masa janganlah selesai",
+        "2": "Wahai malam kenikmatan tetaplah bersama kami, karena sang kekasih rido kepada kami",
+        "3": "Memberi seteguk minum kepada kita dengan gelas kedamaian, dan bersinar dari gelas cahaya yang menyinari",
+        "4": "Dan kami bermalam menjaga kasih sayang, dan kehidupan orang-orang yang mencintai tidak akan selesai",
+        "5": "Dan dalam keadaan marah tidak dalam keadaan damai, menjadi jelas seorang yang mencintai dan orang yang membenci",
+        "6": "Wahai tuhanku berselawatlah untuk nabi yang terpilih, shalat yang langgeng tidak putus"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

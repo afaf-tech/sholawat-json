@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أکثر أخي من الصلوة علی الحبيب",
+  "latin": "Aktsir Ukhoyya Minash Sholaati 'Alal Habib",
+  "text": {
+    "1": {
+      "arabic": "أکثر أخي من الصلوة علی الحبيب",
+      "latin": "Aktsir ukhoyya minash sholaati 'alal habib"
+    },
+    "2": {
+      "arabic": "فإنها نور نور يضيئ بنوره",
+      "latin": "Fa innaha nurun nurun yudhi-u binurihi"
+    },
+    "3": {
+      "arabic": "وادم صلاتك فی خشوع علاها",
+      "latin": "Wa adim sholataka fi khusyu'in 'allaha"
+    },
+    "4": {
+      "arabic": "تکن الوسيلة گي تفوز بقربه",
+      "latin": "Takunil wasilata kay tafuza biqurbihi"
+    },
+    "5": {
+      "arabic": "واضب بإخلاص وطوليت شوقی",
+      "latin": "Wa adhlib bi ikhlashin wa thuliita syauqi"
+    },
+    "6": {
+      "arabic": "لتکون أقرب ما يکون لقلبه",
+      "latin": "Litakuna aqroba ma yakunu liqolbihi"
+    },
+    "7": {
+      "arabic": "إن رمت ان تحيا وقلبك آمر",
+      "latin": "In rumta an tahya wa qolbuka amirun"
+    },
+    "8": {
+      "arabic": "بالنور صل علی النبی واله",
+      "latin": "Binnuri sholli 'alan nabii wa alihi"
+    },
+    "9": {
+      "arabic": "أو شئت يغمرك الزمان بصفوه",
+      "latin": "Au syi'ta yaghmurukaz zamanu bishofwihi"
+    },
+    "10": {
+      "arabic": "فاجعل من الصلوات غرة يومه",
+      "latin": "Faj'al minash sholawati ghurrota yaumihi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Perbanyaklah Saudaraku Bershalawat",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Berbanyaklah wahai saudara kecilku bersalawat kepada sang kekasih",
+        "2": "Karena selawat adalah cahaya, cahaya yang bersinar dengan cahaya nabi",
+        "3": "Dan selalulah khusyuk dalam selawatmu",
+        "4": "Maka akan menjadi wasilah, agar kamu mendapat kedekatannya",
+        "5": "Dan tertibkan dengan ikhlas, dan dipanjangkan rinduku",
+        "6": "Agar kamu mendapat kedekatan dengan hatinya",
+        "7": "Jika kamu mengharapkan untuk hidup, dan hatimu ramai",
+        "8": "Dengan cahaya, maka berselawatan kepada nabi dan keluarganya",
+        "9": "Atau kau mau waktu menyelimutimu dengan padangnya",
+        "10": "Maka jadikan salawat sebagai penyinar harinya"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

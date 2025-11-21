@@ -1,0 +1,76 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "أَيُّ ذِكْرَ مِنْ سَنَاهَا",
+  "latin": "Ayyu Dzikro Min Sanaha",
+  "text": {
+    "1": {
+      "arabic": "أَيُّ ذِكْرَ مِنْ سَنَاهَا رَقَصَ الكَوْنُ وَتَاهَا",
+      "latin": "Ayyu dzikro min sanaha roqoshol kaunu wa taha"
+    },
+    "2": {
+      "arabic": "وَتَغَنَّى فِي فَخَارٍ زَارَنِي الـمَحْبُوبِ طَهَ",
+      "latin": "Wa taghanna fi fakharin zarani al mahbubi thoha"
+    },
+    "3": {
+      "arabic": "لَيْلَةَ الإسْـرَاء والِمعْـرَاجِ أَكْرِم بِضِيَاهَا",
+      "latin": "Lailatal isra wal mi'raji akrim bi dhiyaha"
+    },
+    "4": {
+      "arabic": "فَإذَا الأَمْـلَاكُ تَشْوَى وَالأَمَانِي فِي شِفَاهَا",
+      "latin": "Fa idzal amlaku tasywa wal amani fi syifaha"
+    },
+    "5": {
+      "arabic": "تَتَمَلَّى فِي بَهَاءٍ وَبِطَهَ تَتَبَـاهَى",
+      "latin": "Tatamalla fi baha'in wa bi thoha tatabaha"
+    },
+    "6": {
+      "arabic": "إِنَّهَا ذِكْرَى تَسَـامَت وَتَبَاهَتْ فِي عُـلَاهَا",
+      "latin": "Innaha dzikra tasamat wa tabahat fi 'ulaha"
+    },
+    "7": {
+      "arabic": "مِنْ حِمَى البَيْتِ الحَرَامِ لَمْحَةٌ فِي القُدْسِ كَانَا",
+      "latin": "Min himal baitil harami lamhatun fil qudsi kana"
+    },
+    "8": {
+      "arabic": "وَكِرَام الرُّسْلِ نَادَت خَيْر مَبْعُوثِ أَتَانَا",
+      "latin": "Wa kiramur rusli nadat khoiru mab'utsin atana"
+    },
+    "9": {
+      "arabic": "لَيْلَة الإسْــراء وَالِمـعْرَاجِ أَكْرِم بِضِيَاهَا",
+      "latin": "Lailatal isra wal mi'raji akrim bi dhiyaha"
+    },
+    "10": {
+      "arabic": "قَدْ رَقَى ظَهْرَ البُـراق مَاضِياً عَبْرَ الفَضَـاء",
+      "latin": "Qod roqa dhohrol buraqi madhiyan 'abrol fadha'"
+    },
+    "11": {
+      "arabic": "فِي مَدَى السَّبْعِ الطِّبَاقِ مِنْ سَمَاءٍ لِسَمَـاءِ",
+      "latin": "Fi madassab'i thibaqi min sama'in lisama'"
+    },
+    "12": {
+      "arabic": "لَيْلَةَ الِمعْـرَاج تِيْهِي فِي تَحَدٍّ وَإبَـاءٍ",
+      "latin": "Lailatal mi'raji tihi fi tahaddin wa iba'"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Peringatan Mana yang Lebih Tinggi",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Peringatan mana yang lebih tinggi, alam menari dan terpanah",
+        "2": "Dan bernyanyi dalam kebahagiaan, ziarah kepadaku orang yang dicintai yaitu taha",
+        "3": "Malam isra dan mikraj sungguh sangat bersinar",
+        "4": "Ketika para malaikat menjadi rendah, dan harapan dalam kesembuhan",
+        "5": "Mereka lama dalam keindahan, dan menyanjung taha",
+        "6": "Hal tersebut adalah peringatan yang tinggi, dan unggul dalam ketinggian",
+        "7": "Dari tanah bait al-haram, sejenak berada dalam Quds",
+        "8": "Dan rasul-rasul yang mulia berkata: sebaik utusan datang kepada kita",
+        "9": "Malam isra dan mikraj sungguh bersinar",
+        "10": "Beliau menaiki punggung burak, berlalu melewati angkasa",
+        "11": "Dalam bentangan tujuh lapisan, dari langit ke langit",
+        "12": "Malam mikraj bergembiralah dalam kesatuan dan kasih sayang"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}
