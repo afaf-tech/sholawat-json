@@ -1,0 +1,116 @@
+{
+    "source": "general",
+    "name": "هَامَ قَلْبِي",
+    "latin": "Hāma Qalbī",
+    "text": {
+        "1": {
+            "arabic": "هَامَ قَلْبِي يَا قَلْبِي عِندَ مَا عِندَمَا",
+            "latin": "Hāma qalbi ya qalbi 'inda mā 'inda mā"
+        },
+        "2": {
+            "arabic": "ذُكِرَ النَّبِي اَلنَّبِي الْمُخْتَارْ",
+            "latin": "Dzukiran-nabiy an-nabil-mukhtār"
+        },
+        "3": {
+            "arabic": "دَمْعُ عَيْنِيْ هَمَا قَدْ قَدْ هَمَا",
+            "latin": "Dam'u 'ayniy hamā qad qad hamā"
+        },
+        "4": {
+            "arabic": "شَوْقًا شَوْقًا لِتِلْكَ الدِّيَارْ",
+            "latin": "Syauqan syauqan li tilkad-diyār"
+        },
+        "5": {
+            "arabic": "مُحَمَّدٌ أَحْمَدٌ طٰهَ كَامِلُ الْاَنْوَارْ",
+            "latin": "Muhammadun Ahmadun Ṭhāhā Kāmilul-anwār"
+        },
+        "6": {
+            "arabic": "مَالِيْ سِوَاهْ عَالِى الِلّوَاءَ اللِّوَاءْ",
+            "latin": "Māli siwāh 'ālil-liwā' al-liwā'"
+        },
+        "7": {
+            "arabic": "أَحْمَدُ الْهَادِي الْبَشِيرْ",
+            "latin": "Aḥmadul-hādil-basyīr"
+        },
+        "8": {
+            "arabic": "كَنْزُ التُّقَىٰ وَالنَّقَىٰ قَدْ جَاءَنَا حَقًّا بَشِيرْ",
+            "latin": "Kanzut-tuqā wannaqā qad jā-anā ḥaqqan basyīr"
+        },
+        "9": {
+            "arabic": "إِلٰهِىْ إِذَا ضَاقَ فِيْنَا الزَّمَانْ",
+            "latin": "Ilāhiy idzā ḍhāqa fīnāz-zamān"
+        },
+        "10": {
+            "arabic": "وَجَدْنَا بِظِلِّكَ فَيْضَ الْحَنَانْ",
+            "latin": "Wajadnā bi ẓhillika fayḍhal-ḥanān"
+        },
+        "11": {
+            "arabic": "إِلٰهِىْ إِذَا ضَاقَ فِيْنَا الزَّمَانْ",
+            "latin": "Ilāhiy idzā ḍhāqa fīnāz-zamān"
+        },
+        "12": {
+            "arabic": "أَتَيْنَا اِلَيْكَ نَرُوْمُ الْأَمَانْ",
+            "latin": "Atainā ilaika narūmul-amān"
+        },
+        "13": {
+            "arabic": "لَكَ اللهُ نَدْعُوْ وَأَنْتَ الْمُجيبْ",
+            "latin": "Lakallāhu nad'ū wa antal-mujīb"
+        },
+        "14": {
+            "arabic": "وَأَنْتَ إِلَى كُلٍّ دَاعٍ قَرِيبْ",
+            "latin": "Wa anta ilā kullin dā'in qarīb"
+        },
+        "15": {
+            "arabic": "غَفُوْرٌ حَلِيْمٌ رَؤُوْفٌ بِنَا",
+            "latin": "Ghafūrun ḥalīmun ra'ūfun binā"
+        },
+        "16": {
+            "arabic": "إِذَا حَلَّ فِيْنَا زَمَانٌ عَصِيبْ",
+            "latin": "Idzā ḥalla fīnā zamānun 'aṣhīb"
+        },
+        "17": {
+            "arabic": "دَعَوْنَاكَ فَاسْمَعْ فَكَمْ مِنْ دُعَاءْ",
+            "latin": "Da'awnaka fasma' fa-kam min du'ā'"
+        },
+        "18": {
+            "arabic": "دُعَاءْ يَدُوْرُ بِرَحْبِ السَّمَاءْ",
+            "latin": "Du'ā' yadūru bi raḥbis-samā'"
+        },
+        "19": {
+            "arabic": "نَقُوْلُ إِلٰهِيْ وَنَرْجُو الرِّضَاءْ",
+            "latin": "Naqūlu ilāhiy wa narjūr-riḍhā'"
+        },
+        "20": {
+            "arabic": "نُنَنَاجِي اِلٰهًا كَثِيْرَ الْعَطَاءْ",
+            "latin": "Nunanājī ilāhan katsīral-'aṭhā'"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Bergemalah Hatiku",
+            "translator": "General",
+            "text": {
+                "1": "Bergemalah hatiku wahai hatiku ketika",
+                "2": "Disebutkan nama Nabi, Nabi yang terpilih",
+                "3": "Air mataku berlinang, berlinang",
+                "4": "Karena rindu, rindu pada rumah itu",
+                "5": "Muhammad, Ahmad, Thaha, yang sempurna cahayanya",
+                "6": "Tiada bagiku selain dia, yang tinggi panjinya, panjinya",
+                "7": "Ahmad, pembimbing, pembawa kabar gembira",
+                "8": "Limpahan ketakwaan dan kesucian, sungguh dia datang kepada kita sebagai pembawa kabar gembira",
+                "9": "Ya Tuhanku, ketika waktu terasa sempit bagi kami",
+                "10": "Kami dapati di bawah naunganMu limpahan kasih sayang",
+                "11": "Ya Tuhanku, ketika waktu terasa sempit bagi kami",
+                "12": "Kami datang kepadaMu, memohon keamanan",
+                "13": "Hanya kepadaMu kami berdoa, dan Engkaulah Yang Maha Mengabulkan",
+                "14": "Dan Engkau sangat dekat dengan setiap orang yang berdoa",
+                "15": "Maha Pengampun, Maha Penyantun, Maha Penyayang kepada kami",
+                "16": "Ketika datang kepada kami masa yang sulit",
+                "17": "Kami berdoa kepadaMu, maka dengarkanlah, karena banyaknya doa dan harapan kami",
+                "18": "Doa yang berputar mengelilingi langit yang luas",
+                "19": "Kami berkata, \"Ya Tuhanku,\", kami berharap ridha-Mu",
+                "20": "Kami bermunajat kepada Tuhan Yang Maha Pemberi"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}

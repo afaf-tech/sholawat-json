@@ -1,0 +1,46 @@
+{
+  "source": "jabar.nu.or.id",
+  "name": "الدين لنا والحق لنا",
+  "latin": "Addînu lanâ wal haqqu lanâ",
+  "text": {
+    "1": {
+      "arabic": "الدين لنا والحق لنا ، والعدل لنا والکل لنا",
+      "latin": "Addînu lanâ wal haqqu lanâ wal 'ad-lu lanâ wal kullu lanâ"
+    },
+    "2": {
+      "arabic": "اضحی الإسلام لنا دينا ، وجميع الگون لنا وطنا",
+      "latin": "Adlhâl islâmu lanâ dînâ wa jamî'ul kawni lanâ wathonâ"
+    },
+    "3": {
+      "arabic": "توحيد الله لنا نور ، اعددنا الروح له سگنا",
+      "latin": "Tawhîdullâhi lanâ nûrun a'dadnâr-rûha lahu sakanâ"
+    },
+    "4": {
+      "arabic": "هو اول بيت نحفظه ، بحياة الروح ويحفظنا",
+      "latin": "Huwa awwalu baitin nahfadhuhu bihayâtir-rûhi wa yahfadhunâ"
+    },
+    "5": {
+      "arabic": "علم الإسلام علی الأيام ، شعار المجد لملتنا",
+      "latin": "'Alamul islâmi 'alâl ayyâm syi'ârul majdi limillatinâ"
+    },
+    "6": {
+      "arabic": "الگون يزول ولا تمحی ، بالدهر صحائف سؤددنا",
+      "latin": "Alkawnu yazûlu walâ tumhâ biddahri shohâ-if su,dadinâ"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Agama Adalah Milik Kita",
+      "translator": "jabar.nu.or.id",
+      "text": {
+        "1": "Utang adalah milik kita dan hak adalah milik kita, dan keadilan adalah milik kita dan segalanya adalah milik kita",
+        "2": "Islam telah menjadi agama kami, dan seluruh alam semesta adalah rumah kita",
+        "3": "Kesatuan Allah adalah terang bagi kita, Kami telah menyiapkan jiwa untuknya",
+        "4": "Ini adalah rumah pertama yang kami selamatkan, Roh hidup dan menyelamatkan kita",
+        "5": "Ilmu Islam pada hari-hari, Moto kemuliaan bagi bangsa kita",
+        "6": "Waktu boleh bergeser, dan kami pun menjaganya segenap hidup kami"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

@@ -1,0 +1,81 @@
+{
+    "source": "kitabkuning.id",
+    "name": "طٰالَمَا أَشْكُوْ غَرَامِى",
+    "latin": "Ṭhālamā Asykū Gharāmī",
+    "text": {
+        "1": {
+            "arabic": "طٰالَمَا أَشْكُوْ غَرَامِى — يَا نُوْرَ الْوُجُود",
+            "latin": "Ṭhālamā asykū gharāmī – Yā nūral-wujūd"
+        },
+        "2": {
+            "arabic": "وَاُنَادِي يٰاتِهَا مِى — يَا مَعْدِنَ الْجُوْد",
+            "latin": "Wa unādī yā tihāmī – Yā ma'dinal-jūd"
+        },
+        "3": {
+            "arabic": "مُنْيَتِي أَقْصَى مَرَامِى — أَحْظٰى بالشُّهُوْد",
+            "latin": "Munyatī aqṣhā marāmī – Aḥẓhā bisy-syuhūd"
+        },
+        "4": {
+            "arabic": "وَاَرَى بَابَ السَّلَامِ — يٰا زَاكِى الْجُدُوْد",
+            "latin": "Wa arā bābas-salāmi – Yā zākil-judūd"
+        },
+        "5": {
+            "arabic": "يَا طِرَازَ الْكَوْنِ إِنِّي — عَاشِقْ مُسْتَهَامْ",
+            "latin": "Yā ṭhirāzal-kauni innii – 'Āsyiqun mustahām"
+        },
+        "6": {
+            "arabic": "مُغْرَمٌ وَالْمَدْحُ فَنِّى — يَا بَدْرَ التَّمَامْ",
+            "latin": "Mughramun wal-madḥu fannī – Yā badrat-tamām"
+        },
+        "7": {
+            "arabic": "يَا سِرَاجَ الْاَنْبِيَاءِ — يَا عَالِي الْجَنَابْ",
+            "latin": "Yā sirājal-anbiyā'i – Yā 'ālīl-janāb"
+        },
+        "8": {
+            "arabic": "يَا إِمَامَ الْاتْقِيَاءِ — إِنَّ قَلْبِيْ ذَابْ",
+            "latin": "Yā imāmal-atqiyā' – Inna qalbī dzāb"
+        },
+        "9": {
+            "arabic": "اصْرِفِ الْأَعْرَاضَ عَنِّي — أَضْنَانِيْ السَّقَامْ",
+            "latin": "Ishrifil-a'rāḍha 'annī – Aḍhnānīs-saqām"
+        },
+        "10": {
+            "arabic": "فِيْكَ قَدْ أَحْسَنْتُ ظَنِّي — يَا سَامِي الْعُهُوْد",
+            "latin": "Fīka qad aḥsantu ẓhannī – Yā sāmil-'uhūd"
+        },
+        "11": {
+            "arabic": "وَعَلَيْكَ اللهُ صَلَّى — رَبِّي ذُو الْجَلَالْ",
+            "latin": "Wa 'alaikallāhu ṣhallā – Rabbī ḏzūl-jalāl"
+        },
+        "12": {
+            "arabic": "يَكْفِى َيا نُوْرَ الْأَهِلَّهْ — إِنَّ هَجْرِ طَالْ",
+            "latin": "Yakfī yā nūrual-ahillah – Inna hajri ṭhāl"
+        },
+        "13": {
+            "arabic": "سَيِّدى وَالْعُمْرِ وَلَّى — جُدْ بِالْوَصْلِ جُوْد",
+            "latin": "Sayyidi wal-'umri wallā – Jud bil-waṣhli jūd"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Sudah Lama Aku Mengeluh Tentang Rasa Cintaku",
+            "translator": "kitabkuning.id",
+            "text": {
+                "1": "Sudah lama aku mengeluh tentang rasa cintaku – Wahai cahaya keberadaan",
+                "2": "Dan aku berseru wahai kekasihku – Wahai sumber kemurahan",
+                "3": "Cita-citaku yang terjauh – Adalah mendapatkan penglihatan (tentangmu)",
+                "4": "Dan aku melihat pintu keselamatan – Wahai yang suci dan mulia",
+                "5": "Wahai perhiasan alam semesta, sesungguhnya aku – Adalah kekasih yang tergila-gila",
+                "6": "Tergila-gila dan pujian telah sirna – Wahai bulan purnama",
+                "7": "Wahai pelita para nabi – Wahai yang tinggi kedudukannya",
+                "8": "Wahai pemimpin orang-orang yang bertakwa – Sesungguhnya hatiku telah meleleh",
+                "9": "Palingkanlah penyakit dariku – Kegelisahan telah menipisku",
+                "10": "Kepadamu aku telah berprasangka baik – Wahai yang tinggi janjinya",
+                "11": "Dan semoga Allah melimpahkan rahmat kepadamu – Tuhanku yang Maha Agung",
+                "12": "Cukuplah wahai cahaya rembulan – Sesungguhnya perpisahan telah lama",
+                "13": "Tuanku dan umur telah berlalu – Berikanlah persatuan dengan kemurahan"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}

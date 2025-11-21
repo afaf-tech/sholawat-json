@@ -1,0 +1,46 @@
+{
+  "source": "kitabkuning.id",
+  "name": "خَيْرَ الْبَرِيَّةْ",
+  "latin": "Khairal-bariyyah",
+  "text": {
+    "1": {
+      "arabic": "خَيْرَ الْبَريَّةْ نَظْرَهْ إِلَىَّ",
+      "latin": "Khairal-bariyyah nazhrah 'ilayya"
+    },
+    "2": {
+      "arabic": "مَا أَنتَ اِلَّا كَنْزُ الْعَطِيَّةْ",
+      "latin": "Maa anta illaa kanzul-'atiyyah"
+    },
+    "3": {
+      "arabic": "يَا بَحْرَ فَضْلٍ وَتَاجَ عَدْلٍ — جُدْلِي بِوَصْلٍ قَبْلَ الْمَنِيَّةْ",
+      "latin": "Yaa bahra fadhlin wa taaj 'adlin — Judlī bi-washlin qablal-maniyyah"
+    },
+    "4": {
+      "arabic": "حَاشَاكَ تَغْفَلْ عَنَّا وَتَبْخَلْ — يَا خَيْرَ مُرْسَلْ اِرْحَمْ شَجيَّةْ",
+      "latin": "Haasyaka tagfal 'annā wa tabkhal — Yaa khaira mursal irham syajīyyah"
+    },
+    "5": {
+      "arabic": "كَمْ ذَا أُنَادِى يَا خَيْرَ هَادِي — قَصْدِي مُرَادِي عَطَفًا عَلَىَّ",
+      "latin": "Kam dzaa unaadii yaa khaira haadi — Qashdi muraadi 'athafan 'alayya"
+    },
+    "6": {
+      "arabic": "أُهْدِيْكَ حِبِّى صَلَاةَ رَبِّي — مَادَامَ قَلْبِي بِالذِّكْرِ حَيَّا",
+      "latin": "Uhdiika hibbi shalaata Rabbi — Madaama qalbi bidz-dzikri hayyaa"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Sebaik-baik Manusia",
+      "translator": "kitabkuning.id",
+      "text": {
+        "1": "Wahai sebaik-baik manusia, lihatlah aku",
+        "2": "Engkau tidak lain hanyalah khazanah pemberian",
+        "3": "Wahai lautan karunia dan mahkota keadilan — Sambunglah aku denganmu sebelum kematian",
+        "4": "Jauhlah dari-Mu untuk lalai dari kami dan kikir — Wahai sebaik-baik utusan, kasihanilah jiwa yang merana ini",
+        "5": "Berapa lama aku harus memanggil wahai sebaik-baik pembimbing — Tujuanku dan harapanku adalah kasih sayangmu",
+        "6": "Aku persembahkan cintaku dan shalawat Tuhanku — Selama hatiku hidup dengan zikir"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

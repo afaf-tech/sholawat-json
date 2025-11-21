@@ -1,0 +1,86 @@
+{
+    "source": "kitabkuning.id",
+    "name": "اَلْكَوْنُ أَضَاءَ مِنْكِ مَكَةْ شَرِيْفَةْ",
+    "latin": "Al-kaunu adhoo'a minka Makkah Syarifah",
+    "text": {
+        "1": {
+            "arabic": "اَلْكَوْنُ أَضَاءَ مِنْكِ مَكَةْ شَرِيْفَةْ",
+            "latin": "Al-kaunu adhoo'a minka Makkah Syarifah"
+        },
+        "2": {
+            "arabic": "هَيَّا بِنَا نَسْعَى وَنُقَبِّلْ كَعْبَةَ الْمَحْرُوْسَةْ",
+            "latin": "Hayya binaa nas'aa wa nuqabbil Ka'batal-Mahruusah"
+        },
+        "3": {
+            "arabic": "ظَلَمُوْا عَرَفَاتِ وَلَبُّوا نَالُوْا مُنَاهُمْ",
+            "latin": "Dzhalamu 'Arafaati wa labbu naaluu munaahum"
+        },
+        "4": {
+            "arabic": "صَلُّوْا بِمِنٰى يَا عَيْنِي ضَحُّوْا ضَحَيَاهُمْ",
+            "latin": "Shalluu bi Minaa yaa 'ayni dhahhuu dhahayahum"
+        },
+        "5": {
+            "arabic": "شَرِبُوا مِنْ زَمْزَمَ كَأْسًا اَيَا هَنَاهُمْ",
+            "latin": "Syaribuu min Zamzama ka'san ayaa hanaahum"
+        },
+        "6": {
+            "arabic": "تَرَكُوا الذُّنُوْبَ جَمِيْعًا رَحَلُوْا بَلَاهُمْ",
+            "latin": "Tarakudz-dzunuuba jamii'an rahalu balahum"
+        },
+        "7": {
+            "arabic": "وَحَلُوْا بِاللَّيْلِ وَسَارُوْا قَصَدُ والْمَدِيْنَةْ",
+            "latin": "Wa halu bil-laili wa saaru qasdu wal-Madinah"
+        },
+        "8": {
+            "arabic": "لِزِيَارَةِ طٰهَ شَفِيْعًا لِلْمُذْنِبِيْنَ",
+            "latin": "Li ziyaarati Thaaha syafi'an lil-mudznibin"
+        },
+        "9": {
+            "arabic": "دَخَلُوا الْمَدِيْنَة وَصَلُّوْا اَمَامَ الْحَضْرَةْ",
+            "latin": "Dakhalul-Madinah wa shalluu amaamal-Hadrah"
+        },
+        "10": {
+            "arabic": "مَسَكُوا الشُّبَّاكَ وَنَادُوْا يَا أَبَا الزَّهْرَاءْ",
+            "latin": "Masakusy-syubbaaka wa naduu yaa Abaz-Zahraa'"
+        },
+        "11": {
+            "arabic": "أَرْجُوْكَ يَا أَحْمَدَ غِثْنَا مِنْكَ بِنَظْرَةْ",
+            "latin": "Arjuuka yaa Ahmad ghitsnaa minka binadzhrah"
+        },
+        "12": {
+            "arabic": "بِاَبِي بَكْرٍ وَعُمَرْ وَالْبَاقِي الْعَشرَةْ",
+            "latin": "Bi Abi Bakrin wa 'Umar wal-baqil-'asyrah"
+        },
+        "13": {
+            "arabic": "مَسَكُوا الشُّبَّاكَ وَنَالُوْا مِنْهُ الشَّفَاعَةْ",
+            "latin": "Masakusy-syubbaaka wa naaluu minhusy-syafa'ah"
+        },
+        "14": {
+            "arabic": "لَوْ كَانَ عَلَيْهِ ذُنُوْبٌ مِلْءَ الْبِحَارِ",
+            "latin": "Lau kaana 'alaihi dzunuubun mil'al-bihaar"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Dunia Bersinar Karenamu, Mekkah yang Mulia",
+            "translator": "kitabkuning.id",
+            "text": {
+                "1": "Dunia bersinar karenamu, Mekkah yang mulia",
+                "2": "Marilah kita berlari dan mencium Ka'bah yang terjaga",
+                "3": "Mereka bermalam di Arafah dan ber-talbiyah, mereka mendapatkan cita-cita mereka",
+                "4": "Sholatlah di Mina wahai mataku, mereka menyembelih hewan kurban mereka",
+                "5": "Mereka minum air Zamzam segelas, alangkah bahagianya mereka",
+                "6": "Mereka meninggalkan semua dosa, mereka pergi dengan kelelahan mereka",
+                "7": "Dan mereka bermalam di malam hari dan berangkat menuju Madinah",
+                "8": "Untuk mengunjungi Thaaha (Nabi Muhammad SAW), pemberi syafaat bagi orang-orang yang berdosa",
+                "9": "Mereka memasuki Madinah dan shalat di depan Rauhah",
+                "10": "Mereka memegang terali dan berdoa, wahai ayah Fatimah",
+                "11": "Aku mohon padamu wahai Ahmad, berikan kami pandangan darimu",
+                "12": "Demi Abu Bakar, Umar dan sepuluh sahabat lainnya",
+                "13": "Mereka memegang terali dan mendapatkan syafaat darinya",
+                "14": "Jika dia memiliki dosa sebanyak lautan"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}

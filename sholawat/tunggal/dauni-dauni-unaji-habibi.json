@@ -1,0 +1,51 @@
+{
+    "source": "kitabkuning.id",
+    "name": "دَعُوْنِي دَعُوْنِي أُنَاجِي حَبِيْبي",
+    "latin": "Da'ūnī da'ūnī unājī ḥabībī",
+    "text": {
+        "1": {
+            "arabic": "دَعُوْنِي دَعُوْنِي أُنَاجِي حَبِيْبي * وَلَا تَعْذُ لُوْنِي فَعَذْ لِي حَرَامْ",
+            "latin": "Da'ūnī da'ūnī unājī ḥabībī * Wa lā ta'dzulūnī fa'adz lī ḥarām"
+        },
+        "2": {
+            "arabic": "تَعَلَّمْ بُكَايَ وَنُحْ يَاحَمَامْ * وَخُذْ عَنْ شُجُوْنِي دُرُوْسَ الْغَرَامْ",
+            "latin": "Ta'allam bukāya wa nuḥ yā ḥamām * Wa khuddz 'an syujūnī durūsal-gharām"
+        },
+        "3": {
+            "arabic": "تَعَلَّمْ بُكَايَ وَنُحْ يَا حَمَامْ * سكَرْتُ بِخَمْرِ الْهَوَى وَالْغَرَامْ",
+            "latin": "Ta'allam bukāya wa nuḥ yā ḥamām * Sakartu bi khamril-hawā wal-gharām"
+        },
+        "4": {
+            "arabic": "وَمَنْ كَانَ مِثْلِى مُعَنَّى مُضَنَّى * بِحُبِّ النَّبِيِّ لِمَاذَا يُلَامْ",
+            "latin": "Wa man kāna mitslī mu'annā muḍhannā * Bi ḥubbin-nabiyyi limādzā yulām"
+        },
+        "5": {
+            "arabic": "لَا مُوْنِي لَامُوْنِي بِحُبِّكَ رَمُوْنِي * يَاقُرَّةْ عُيُوْنِي عَلَيْكَ السَّلَامْ",
+            "latin": "Lā mūnī lāmūnī bi ḥubbika ramūnī * Yā qurrah 'uyūnī 'alaikas-salām"
+        },
+        "6": {
+            "arabic": "فُؤَادِي لِنَحْوِ الْمَدِينَةِ هَامْ * وَقَلْبِي تَوَلَّعْ بِخَيْرِ الْآنَامْ",
+            "latin": "Fu'ādī linaḥwil-madīnati hām * Wa qalbī tawalla' bi khairil-anām"
+        },
+        "7": {
+            "arabic": "أَنَا يَا ابْنَ رَامَةْ حُرِمْتُ الْمَنَامْ * وَزَادْنِي سِقَا مًا غَرَامُكْ تَمَامْ",
+            "latin": "Anā yābn Ramah ḥurimtul-manām * Wa zādni siqā mān gharāmuka tamām"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Biarkan aku bermunajat dengan kekasihku",
+            "translator": "kitabkuning.id",
+            "text": {
+                "1": "Biarkan aku, biarkan aku bermunajat dengan kekasihku * Dan jangan salahkan warnaku (pucat pasi), karena mencintaimu adalah haram bagiku",
+                "2": "Belajarlah dari tangisan dan ratapanku wahai burung merpati * Dan ambillah pelajaran dari kegilaanku tentang cinta",
+                "3": "Belajarlah dari tangisan dan ratapanku wahai burung merpati * Aku mabuk dengan khamar cinta dan kerinduan",
+                "4": "Dan siapa yang sepertiku, menderita dan tersiksa * Dengan cinta Nabi, mengapa aku disalahkan",
+                "5": "Jangan salahkan aku, jangan salahkan aku, dengan cintamu mereka lempari aku * Wahai penyejuk mataku, salam bagimu",
+                "6": "Hatiku tertuju ke Madinah * Dan hatiku tergila-gila dengan sebaik-baik manusia",
+                "7": "Aku wahai Ibnu Ramah, dilarang tidur * Dan dahaga cintamu semakin menambah dahagaku"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}

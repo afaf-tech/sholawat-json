@@ -1,0 +1,62 @@
+{
+  "source": "kitabkuning.id",
+  "transmitter": null,
+  "name": "أَحْمَدْ يَا حَبِيْبِي",
+  "latin": "Ahmad yaa habibi",
+  "text": {
+    "1": {
+      "arabic": "أَحْمَدْ يَا حَبِيْبِي × 3 — يَا حَبِيْبِي سَلَامْ عَلَيْكَ",
+      "latin": "Ahmad yaa habibi 3x — yaa habibi salaam 'alaika"
+    },
+    "2": {
+      "arabic": "يَاعَوْنَ الْغَرِيْبِ — سَلَام عَلَيْكَ",
+      "latin": "Yaa 'aunal-ghariibi — salaam 'alaika"
+    },
+    "3": {
+      "arabic": "أَنْتُمْ وَسَلَامٌ — سَلَام عَلَيْكَ",
+      "latin": "Antum wa salaamun — salaam 'alaika"
+    },
+    "4": {
+      "arabic": "جِئْتَ بالتَّوْحِيْدِ — سَلَام عَلَيْكَ",
+      "latin": "Ji'ta bit-tauhiidi — salaam 'alaika"
+    },
+    "5": {
+      "arabic": "جِئْتَ بالتَّمْجِيْدِ — سَلَامْ عَلَيْكَ",
+      "latin": "Ji'ta bit-tamjidi — salaam 'alaika"
+    },
+    "6": {
+      "arabic": "جئْتَ بِالْقُرْآنِ — سَلَامْ عَلَيْكَ",
+      "latin": "Ji'ta bil-qur'aan — salaam 'alaika"
+    },
+    "7": {
+      "arabic": "مِنْ عِنْدَ الرَّحْمَنِ — سَلَامْ عَلَيْكَ",
+      "latin": "Min 'indar-rahmani — salaam 'alaika"
+    },
+    "8": {
+      "arabic": "دِيْنُكَ الْإِسْلَامِ — سَلامْ عَلَيْكَ",
+      "latin": "Diinukal-islaami — salaam 'alaika"
+    },
+    "9": {
+      "arabic": "مِنْ رَبِّ رَحِيْمِ — سَلَامْ عَلَيْكَ",
+      "latin": "Min rabbi rahiim — salaam 'alaika"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ahmad Wahai Kekasihku",
+      "translator": "kitabkuning.id",
+      "text": {
+        "1": "Ahmad wahai kekasihku 3x — wahai kekasihku salam sejahtera atasmu",
+        "2": "Wahai penolong orang yang lemah — salam sejahtera atasmu",
+        "3": "Kamu dan keselamatan — salam sejahtera atasmu",
+        "4": "Kamu datang dengan tauhid — salam sejahtera atasmu",
+        "5": "Kamu datang dengan pemuliaan — salam sejahtera atasmu",
+        "6": "Kamu datang dengan Al-Qur'an — salam sejahtera atasmu",
+        "7": "Dari sisi Allah Yang Maha Pengasih — salam sejahtera atasmu",
+        "8": "Agamamu adalah Islam — salam sejahtera atasmu",
+        "9": "Dari Tuhan Yang Maha Penyayang — salam sejahtera atasmu"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

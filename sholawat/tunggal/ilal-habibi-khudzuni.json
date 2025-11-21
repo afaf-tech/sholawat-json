@@ -1,0 +1,61 @@
+{
+    "source": "kitabkuning.id",
+    "name": "إلَى الْحَبِيْبِ خُذُوْنِي",
+    "latin": "Ilāl-Ḥabībi Khudzūnī",
+    "text": {
+        "1": {
+            "arabic": "إلَى الْحَبِيْبِ خُذُوْنِي",
+            "latin": "Ilāl-ḥabībi khudzūnī"
+        },
+        "2": {
+            "arabic": "إِلَى ضِّيَاءِ عُيُوْنِيْ",
+            "latin": "Ilā ḍhiyā'i 'uyūnī"
+        },
+        "3": {
+            "arabic": "إلَى الْمُخْتَارْ حَيْثُ الْأَنْوَارْ",
+            "latin": "Ilāl-mukhtār ḥaitsul-anwār"
+        },
+        "4": {
+            "arabic": "وَهُنَاكَ دَعُوْنِيْ",
+            "latin": "Wa hunāka da'ūnī"
+        },
+        "5": {
+            "arabic": "خُذُوْنِىْ فَبَعْدِيْ طَالَ وَزَادْ",
+            "latin": "Khudzūnī fa ba'dī ṭhāla wa zād"
+        },
+        "6": {
+            "arabic": "أَمَتَّعَ بَصَرِيْ وَكَذَا الْفُؤادْ",
+            "latin": "Amatta' baṣharī wa kadzāl-fu'ād"
+        },
+        "7": {
+            "arabic": "وَأَلْقَى هَنَايَ وَألْقٰى مُنايْ",
+            "latin": "Wa alqā hanāyā wa alqā munāy"
+        },
+        "8": {
+            "arabic": "لِنُوْرِ الْعَيْن لِطٰهَ الزَّيْن",
+            "latin": "Li-nūril-'ain li-ṭhāhāz-zain"
+        },
+        "9": {
+            "arabic": "وَهُنَاكَ دَعُوْنِيْ دَعُوْنِيْ",
+            "latin": "Wa hunāka da'ūnī da'ūnī"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Bawa Aku Kepada Kekasih",
+            "translator": "kitabkuning.id",
+            "text": {
+                "1": "Bawa aku kepada kekasih",
+                "2": "Ke cahaya mataku",
+                "3": "Kepada yang terpilih di mana cahaya",
+                "4": "Di sanalah tinggalkan aku",
+                "5": "Bawa aku, karena kerinduanku sudah lama dan bertambah",
+                "6": "Yang telah menyenangkan mataku dan begitu pula hatiku",
+                "7": "Dan aku lemparkan kesenanganku dan aku lemparkan keinginanku",
+                "8": "Kepada cahaya mata, kepada Ṭāhā yang tampan",
+                "9": "Di sanalah tinggalkan aku, tinggalkan aku"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}

@@ -1,0 +1,70 @@
+{
+    "source": "kitabkuning.id",
+    "name": "أَشْرَقَتْ أَنْوَارْ نَبِيْنَا",
+    "latin": "Asyraqāt Anwār Nabīnā",
+    "text": {
+        "1": {
+            "arabic": "أَشْرَقَتْ أَنْوَارْ نَبِيْنَا — فَازْدَهَى الْكَوْنُ سُرُورْ",
+            "latin": "Asyraqāt anwār nabīnā — fazdahal-kaunu surūr"
+        },
+        "2": {
+            "arabic": "فِي رَبِيْعِ هَلَّ فِيْنَا — نُوْرُأَنْوَارِ الْبُدُورْ",
+            "latin": "Fī rabī'i halla fīnā — nūru anwāril-budūr"
+        },
+        "3": {
+            "arabic": "مَرْحَبًا يَا نُورَ عَيْنِي — مَرْحَبًا طُوْلَ الدُّهُورْ",
+            "latin": "Marḥabān yā nūra 'aynī — marḥabān ṭhūlad-duhūr"
+        },
+        "4": {
+            "arabic": "مَرْحَبًا جَدَّ الْحُسَيْنِي — يَاحَبِيْبًا لِلْغَفُورْ",
+            "latin": "Marḥabān jaddal-ḥusainī — yā ḥabiiban lil-ghaffūr"
+        },
+        "5": {
+            "arabic": "اَنْتَ شَمْسٌ اَنْتَ قَمَرٌ×۲ — اَنْتَ نُوْرٌ فَوْقَ نُور×۲",
+            "latin": "Anta syamsun anta qamarun 2x — anta nūrun fauqa nūr 2x"
+        },
+        "6": {
+            "arabic": "يَا حَبِيْبِي يَاشَفِيعِي يَارَسُوْلَ الْخَافِقَينْ",
+            "latin": "Yā ḥabībī yā syāfi'ī yā rasūlal-khāfiqain"
+        },
+        "7": {
+            "arabic": "يَا مُؤَيَّدْ يَا مُمَجَّدْ يَا إِمَامَ الْقِبْلَتَينْ",
+            "latin": "Yā mu'ayyad yā mumajjad yā imāmal-qiblatain"
+        },
+        "8": {
+            "arabic": "أَنْتَ شَمْسٌ أَنْتَ قَمَرٌ ×۲ — اَنْتَ نُوْرٌ فَوْقَ نُورْ ×۲",
+            "latin": "Anta syamsun anta qamarun 2x — anta nūrun fauqa nūr 2x"
+        },
+        "9": {
+            "arabic": "أَعْظَمُ الْأَعْيَادِ عِيْدًا مَوْلِدُ الْهَادِي الشَّكُورْ",
+            "latin": "A'ẓhamul-a'yādi 'īdān maulidul-hādīsy-syakūr"
+        },
+        "10": {
+            "arabic": "حُسْنُهُ لِلشَّمْسِ أَضْحَتْ نُوْرُنُوْرٍ فَوْقَ نُورْ",
+            "latin": "Ḥusnuhu lisy-syamsi aḍh-ḥat nūru nūrin fauqa nūr"
+        },
+        "11": {
+            "arabic": "أَنْتَ شَمْسٌ أَنْتَ قَمَرٌ ×۲ — اَنْتَ نُوْرٌ فَوْقَ نُورْ ×۲",
+            "latin": "Anta syamsun anta qamarun 2x — anta nūrun fauqa nūr 2x"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Cahaya Nabi Kita Telah Bersinar",
+            "text": {
+                "1": "Cahaya Nabi kita telah bersinar — maka alam semesta pun bersuka cita",
+                "2": "Di musim semi telah datang kepada kita — cahaya yang lebih terang dari bulan",
+                "3": "Selamat datang wahai cahaya mataku — selamat datang selama-lamanya",
+                "4": "Selamat datang kakeknya Husain — wahai kekasih Allah Yang Maha Pengampun",
+                "5": "Engkau adalah matahari, engkau adalah bulan ×2 — engkau adalah cahaya di atas cahaya ×2",
+                "6": "Wahai kekasihku, wahai penolongku, wahai utusan alam semesta",
+                "7": "Wahai yang dibantu, wahai yang diagungkan, wahai imam dua kiblat",
+                "8": "Engkau adalah matahari, engkau adalah bulan ×2 — engkau adalah cahaya di atas cahaya ×2",
+                "9": "Terbesar di antara hari raya adalah hari kelahiran pembimbing yang bersyukur",
+                "10": "Keindahannya bagi matahari telah menjadi cahaya, cahaya di atas cahaya",
+                "11": "Engkau adalah matahari, engkau adalah bulan ×2 — engkau adalah cahaya di atas cahaya ×2"
+            }
+        }
+    },
+    "last_updated": "2025-11-21"
+}
