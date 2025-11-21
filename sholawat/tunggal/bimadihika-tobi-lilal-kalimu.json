@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "بِمَدِيحِكَ طَابَ لِيَ الكَلِمُ",
+  "latin": "Bimadihika Thoba Liyal Kalimu",
+  "text": {
+    "1": {
+      "arabic": "بِمَدِيحِكَ طَابَ لِيَ الكَلِمُ وَحَلَا لِأَحِبَّتِيَ النَغَمُ",
+      "latin": "Bimadihika thoba liyal kalimu wa hala li ahibbatiyan naghamu"
+    },
+    "2": {
+      "arabic": "كَمْ هَمَّت رُوحِيَ نَحْوَكمُ فَبِكَ الأَرْوَاحُ تَنْسَجِمُ",
+      "latin": "Kam hammat ruhi nahwakum fabika arwahu tanjasimu"
+    },
+    "3": {
+      "arabic": "مِنْ مَكَّةَ ضَاءَ الكَوْنُ هُدًى وَانْجَلَتْ بِالنُّورِ الظُّلَمُ",
+      "latin": "Min makkah dha'al kaunu hudan wanjalat binnuri dhulamu"
+    },
+    "4": {
+      "arabic": "وَتَمَايَلَتِ الدُّنْيَا فَرَحاً وَتَغَنَّى القَاعُ وَالأَكَمُ",
+      "latin": "Wa tamayalatid dunya farahan wa taghannol qa'u wal akamu"
+    },
+    "5": {
+      "arabic": "وَمَشَتْ فِي الأَرْضِ عَدَالَتُهُ فَتَآخَى العُرْبُ وَالعَجَمُ",
+      "latin": "Wa masyat fil ardhi 'adalatuhu fata akhol 'urbu wal ajamu"
+    },
+    "6": {
+      "arabic": "قَدْ أَلَّفَ بَيْنَ قُلُوبِهِمُ وَبِحَبْلِ الله قَدِاعْتَصَمُوا",
+      "latin": "Qod allafa baina qulubihim wa bihabillahi qodi'tashomu"
+    },
+    "7": {
+      "arabic": "الكَوْنُ أَضَاءَ بِمَولِدِهِ وَتَبَدَّدَ بِالهَادِي الظُّلمُ",
+      "latin": "Alkaunu adha'a bimaulidihi wa tabaddada bil hadi dhulamu"
+    },
+    "8": {
+      "arabic": "وَالأرْضُ تَهَادَت مِنْ طَرَبٍ فَثُغُورُ الرَوْضِ تَبْتَسِمُ",
+      "latin": "Wal ardhu tahadat min tharabin fatughurur raudhi tabtasimu"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Dengan Memujimu Baik Bagiku Kata-kata",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Dengan memujimu baik bagiku kata-kata, dan manis bagi kekasihku nada",
+        "2": "Berapa kali jiwaku pergi kepadamu, maka denganmu ruh-ruh harmonis",
+        "3": "Dari Makkah alam semesta bercahaya petunjuk, dan tersingkap dengan cahaya kegelapan",
+        "4": "Dan dunia bergoyang dengan bahagia, dan bernyanyi lembah dan bukit",
+        "5": "Dan berjalan di bumi keadilannya, maka bersaudara Arab dan Ajam",
+        "6": "Sungguh menyatukan antara hati mereka, dan dengan tali Allah sungguh berpegang teguh",
+        "7": "Alam semesta bercahaya dengan kelahirannya, dan tercerai berai dengan sang petunjuk kegelapan",
+        "8": "Dan bumi bergerak dari kegembiraan, maka mulut taman tersenyum"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

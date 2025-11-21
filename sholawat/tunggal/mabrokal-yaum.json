@@ -1,0 +1,86 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "مَبْرَكَ الْيَوْم ذَا جِيْنَا",
+  "latin": "Mabrokal Yaum Dza Ji'na",
+  "text": {
+    "1": {
+      "arabic": "مَبْرَكَ الْيَوْم ذَا جِيْنَا لِقَصْدِ الزِّياَرَةْ",
+      "latin": "Mabrokal yaum dza ji'na liqasdiz ziyarah"
+    },
+    "2": {
+      "arabic": "لِلْإِماَمِ الْمُعَظَّمْ كَنْزِنَا وَالتِجَارَةْ",
+      "latin": "Lil imamil mu'adhdhami kanzina wat tijarah"
+    },
+    "3": {
+      "arabic": "بِمُحَمَّدْ حَبِيْبَ الْكُلِّ حَامِ ذِي مَارَهْ",
+      "latin": "Bimuhammad habibil kulli hami dzi marah"
+    },
+    "4": {
+      "arabic": "يَا طَبِيْبَ الْقُلُوْبِ الْقَاسِيَةْ كَالْحِجَارَة",
+      "latin": "Ya thabibul qulubil qasiyah kal hijarah"
+    },
+    "5": {
+      "arabic": "قَدْ قَصَدْنَا حِمَاكُمْ هَيَّا هَّيَّا بِغَارَةْ",
+      "latin": "Qad qashadna himakum hayya hayya bigharah"
+    },
+    "6": {
+      "arabic": "حَلَّهَا حِلَّهَا فُكُّوْا جَمِيْعَ الزِّياَرَةْ",
+      "latin": "Hallaha hillaha fukku jami'az ziyarah"
+    },
+    "7": {
+      "arabic": "سِرَّكُمْ قَدْ سَرَى فِي الْكَوْنِ كُلَّهْ جِهَارَةْ",
+      "latin": "Sirrakum qad sara fil kauni kullahu jiharah"
+    },
+    "8": {
+      "arabic": "وَانْتُمُ اَهْلَ الْمَوَدَّةْ ذُخْرُنَا وَالسِّيَارَةْ",
+      "latin": "Wa antum ahlal mawaddati dzukhrunا was siyarah"
+    },
+    "9": {
+      "arabic": "فَانْظُرُوا حَالَ مَنْ حَلَّتْ عَلَيْهِ الْخَسَارَةْ",
+      "latin": "Fandhuru hala man hallat 'alaihil khasarah"
+    },
+    "10": {
+      "arabic": "وَارْفَعُوْا الطَّرْفَ لِلْمَوْلَى وَقُوْلُوا بِشَارَةْ",
+      "latin": "Warfa'uth tharfa lil maula wa qulu bisyarah"
+    },
+    "11": {
+      "arabic": "مُقْبِلَ الْخَيْرِ لَاهْلِهْ بَحِنُّوا نَظَارَة",
+      "latin": "Muqbilal khairi lahlih bahinu nadharah"
+    },
+    "12": {
+      "arabic": "يَهْناَنَا وَيَهْنَاكُمْ بِحُسْنِ الْعِمَارَةْ",
+      "latin": "Yahnana wa yahnakum bihusnil 'imarah"
+    },
+    "13": {
+      "arabic": "وَالصَّلَاةُ عَلَى مَنْ بِهِ قَبُوْلِ الزِّيَارَةْ",
+      "latin": "Wash sholatu 'ala man bihi qabuliz ziyarah"
+    },
+    "14": {
+      "arabic": "وَأَلِهِ وَالصَّاحَبَةِ وَاهْلِ بَيْتِهِ وَجَارَهْ",
+      "latin": "Wa alihi wash shahabah wa ahli baitihi wa jarah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Pemberhentian Hari Ini",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Pemberhentian hari ini, kita datang untuk ziarah",
+        "2": "Kepada Imam yang diagungkan, harta dan dagangan kita",
+        "3": "Dengan Muhammad wahai kekasih semua, jagalah orang yang berjalan ini",
+        "4": "Wahai dokter hati yang keras seperti batu",
+        "5": "Aku menuju tempatmu, mari mari menyerbu",
+        "6": "Bertempatlah di tempatnya, lalu laranglah semua ziarah",
+        "7": "Rahasiamu menyebar di seluruh alam secara jelas",
+        "8": "Dan engkau pemilik cinta, simpanan kita dan para musafir",
+        "9": "Lihatlah keadaan orang yang jelas rugi",
+        "10": "Dan angkatlah pandangan kepada sang junjungan dan katakan kabar bahagia",
+        "11": "Wahai yang menghadapkan kebaikan kepada pemiliknya, sayangilah pandangan",
+        "12": "Selamat bagi kita selamat bagi kalian dengan kebaikan kemakmuran",
+        "13": "Dan selawat bagi orang yang dengannya dikabulkannya ziarah",
+        "14": "Dan keluarga beliau dan sahabat dan ahli bait dan tetangga"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}
