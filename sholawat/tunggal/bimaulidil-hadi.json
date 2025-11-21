@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "بِمَوْلِدِ اْلهَادِيْ",
+  "latin": "Bimaulidil Hadi",
+  "text": {
+    "1": {
+      "arabic": "بِمَوْلِدِ اْلهَادِيْ قَدْ ضَاءَتِ الْأَكْوَانْ",
+      "latin": "Bimaulidil hadi qod dho'atil akwan"
+    },
+    "2": {
+      "arabic": "يَا بَهْجَةَ الدُّنْيَا يَا نَفْحَةَ الرَّحْمَنْ",
+      "latin": "Ya bahjatad dunya ya nafhatar rahman"
+    },
+    "3": {
+      "arabic": "يَا مَبْعَثَ الرَّحْمَنْ يَا كَاشِفَ اْلغُمَّةْ",
+      "latin": "Ya mab'atsar rahman ya kasyifal ghummah"
+    },
+    "4": {
+      "arabic": "تَمَّتْ بِكَ النِّعْمَةْ يَا مِنَّةَ الدَّيَّانْ",
+      "latin": "Tammat bikal ni'mah ya minnatad dayyan"
+    },
+    "5": {
+      "arabic": "يَا سَيِّدَ السَّادَاتْ يَا صَاحِبَ اْلخَيْرَاتْ",
+      "latin": "Ya sayyidas sadat ya shohibal khoirot"
+    },
+    "6": {
+      "arabic": "قَدْ جِئْتَ بِالْأَيَاتْ يا نُسْخَةَ اْلفُرْقَانْ",
+      "latin": "Qod ji'ta bil ayat ya nuskhatol furqon"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Dengan Kelahiran Sang Petunjuk",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Dengan kelahiran sang petunjuk, alam menjadi bercahaya",
+        "2": "Wahai keindahan dunia, wahai hadiah yang maha penyayang",
+        "3": "Wahai yang diutus yang maha penyayang, wahai penghilang kesusahan",
+        "4": "Denganmu nikmat menjadi sempurna, wahai pemberian yang maha menguasai",
+        "5": "Wahai junjungan orang-orang yang mulia, wahai pemilik kebaikan",
+        "6": "Engkau datang dengan membawa ayat-ayat, wahai salinan al-Quran"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

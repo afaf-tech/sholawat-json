@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "حُبُّ النَّبِي عَلَی الإنْسَانِ مُفْتَرَضٌ",
+  "latin": "Hubbun Nabi Alal Insani Muftarodun",
+  "text": {
+    "1": {
+      "arabic": "حُبُّ النَّبِي عَلَی الإنْسَانِ مُفْتَرَضٌ وَحُبُّ أَصْحَابِهِ نُوْرٌ بِبُرْهَانٍ",
+      "latin": "Hubbun nabiyyi 'alal insani muftarodlun wa hubbu ash-habihi nurun biburhani"
+    },
+    "2": {
+      "arabic": "مَنْ كَانَ يَعْلَمُ أَنَّ اللهَ خَالِقُهُ لَا يَرْمِيَنَّ أَبَا بَکْرٍ بِبُهْتَانٍ",
+      "latin": "Man kana ya'lamu annallaha kholiquhu la yarmiyanna Aba Bakrin bibuhtani"
+    },
+    "3": {
+      "arabic": "وَلَا أَبَا حَفْصٍ الفَارُوقِ صَاحِبُهُ وَلَا الخَلِيفَةُ عُثْمَانَ ابنَ عَفَّانٍ",
+      "latin": "Wala aba hafshin al-faruqo shohibahu walal kholifata 'Utsmana-bna 'Affani"
+    },
+    "4": {
+      "arabic": "وَلَا عَلِيًّا أَبَا السِّبْطَيْنِ نِعْمَ فَتَی أَوْصَی بِهِ اللهُ فِی سِرٍّ وَإِعْلَانِ",
+      "latin": "Wa la 'Aliyyan Abas-Sibthoini ni'ma fata ausho bihillahu fi sirrin wa i'lani"
+    },
+    "5": {
+      "arabic": "فَهُمْ صَحَابَةُ خَيْرِ الخَلْقِ خَصَهُمُ رَبُّ العِبَادِ بِجَنَّاتٍ وَرِضْوَانِ",
+      "latin": "Fahum shohabatu khoiril kholqi khoshshohumu robbul 'ibadi bijannaatin wa ridlwani"
+    },
+    "6": {
+      "arabic": "فَمَنْ أَحَبَّهُم قَدْ نَالَ مَنْزِلَةً عِنْدَ الإلَهِ وَجَازَاهُ بِإِحْسَانٍ",
+      "latin": "Faman ahabbahum qod nala manzilatan 'indal ilahi wa jazahu bi ihsani"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Mencintai Nabi adalah Wajib",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Mencintai Nabi Muhammad adalah wajib atas manusia, dan cinta terhadap sahabat-sahabatnya merupakan cahaya dengan bukti-bukti",
+        "2": "Barang siapa yang tahu bahwa sesungguhnya Allah SWT yang menciptakannya, dia tidak akan menghina Abu Bakar dengan kehinaan",
+        "3": "Juga dia tidak akan mencaci Abu Hafsoh Al-Faruk yang merupakan sahabat beliau, dan tidak pula mencaci sayyidina Utsman Bin Affan",
+        "4": "Tidak pula mencaci Ali yang merupakan bapak dari dua cucu Rasulullah SAW dan kedua cucu itu adalah sebaik-baik pemuda, Allah swt berwasiat kepadanya baik zohir maupun bathin",
+        "5": "Merekalah sahabat-sahabat dari sebaik-baik mahluk yang distimewakan, Tuhan manusia dengan surga dan keridaan",
+        "6": "Maka barang siapa yang mencintai mereka, niscaya dia akan memperoleh derajat di sisi Allah dan Allah akan membalasnya dengan kebaikan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

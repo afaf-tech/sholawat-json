@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "حُبُّ أَحْمَدٍ قَلْبِيْ سَكَنْ",
+  "latin": "Hubbu Ahmadi Qolbi Sakan",
+  "text": {
+    "1": {
+      "arabic": "حُبُّ أَحْمَدٍ قَلْبِيْ سَكَنْ وَالْفَتَى عَلِيُّ الْمُؤْتَمَنْ وَابْنَيْهِ الْحُسَيْنِ وَالْحَسَنْ",
+      "latin": "Hubbu Ahmadi qolbi sakan wal fata 'Aliyyul mu'taman wabnaihil Husaini wal Hasan"
+    },
+    "2": {
+      "arabic": "هَاتِ يَا حُوَيْدَ الرَّكْبِ غَنْ أَنَا فِيْ هَوَى ذَاكَ الْغَنْ لَيْسَ لِيْ سِوَى رُوْحِيْ ثَمَنْ",
+      "latin": "Hati ya huwaidar rokbi ghon ana fi hawa dzakal aghon laisa li siwa ruhi tsaman"
+    },
+    "3": {
+      "arabic": "وَأَعِدْ لَنَا حَدِيْثَ مَنْ مَلَأَ الْوُجُوْدَ بِالْمِنَنْ أَحْمَدَ الَّذِيْ سَنَّ السُّنَنْ",
+      "latin": "Wa a'idlana haditsaman mala'alwujuda bilminan Ahmadalladzi sannassunan"
+    },
+    "4": {
+      "arabic": "مَنْ لَنَا إِذَا جَارَ الزَّمَنْ نَتَّقِيْ بِهِ هَوْلَ الْمِحَنْ مَنْ لِفَقْدِهِ اَلْجِذْعُ حَنْ",
+      "latin": "Man lana idza jarozzaman nattaqi bihi haulal mihan man lifaqdihi aljiz'uhan"
+    },
+    "5": {
+      "arabic": "قَسَمًا بِمَنْ أَعْطَى وَمَنْ كُلُّ مُؤْمِنٍ بِهِ افْتَتَنْ لَا يَرَى بِهِ هَوْلَ الْمِحَنْ",
+      "latin": "Qosaman biman 'athowaman kullu mukminin bihiftatan layarobhi haulal mihan"
+    },
+    "6": {
+      "arabic": "شَرْعُهُ انْتَظَمَ حِكَمًا يُرْوِي الظَّمَا يُرْوِي الظَّمَا رَوَّحَ الْأُمَمَ وَالْحُكَمَا",
+      "latin": "Syar'uhun tadhoma hikama yurwidhoma yurwidohma rawahal umama wal hukama"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Cinta Ahmad Hati Tenang",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Cinta Ahmad hati tenang, pemuda Ali dapat dipercaya, dan kedua putranya Husain dan Hasan",
+        "2": "Kemarilah wahai orang yang menumpangi kendaraan, bernyanyilah, aku mencintai nyanyian tersebut, tidak ada harga bagiku selain ruhku",
+        "3": "Ulangi kepada kami cerita seorang yang memenuhi alam semesta dengan anugerah, Ahmad yang menjalankan sunah-sunah",
+        "4": "Siapa yang menyelamatkan kita jika zaman rusak, yang dapat menjaga kami dari cobaan-cobaan, seorang yang karena kehilangan beliau pohon menangis",
+        "5": "Dengan sumpah dengan seorang yang memberi dan orang yang, setiap mukmin tergoda dengannya, dengan beliau tidak melihat sulitnya cobaan",
+        "6": "Syariat beliau mengandung hikmah, menyegarkan orang yang dahaga, menyegarkan orang yang dahaga, meringankan umat dan pemimpin"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}
