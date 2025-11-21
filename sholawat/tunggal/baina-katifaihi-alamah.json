@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "بَيْنَ كَتِفَيْهِ عَلاَمَة",
+  "latin": "Baina Katifaihi Alamah",
+  "text": {
+    "1": {
+      "arabic": "بَيْنَ كَتِفَيْهِ عَلاَمَة خَاتِمَ الرُّسُلِ الْكِرَامْ",
+      "latin": "Baina katifaihi 'alamah khotimur rusulil kiram"
+    },
+    "2": {
+      "arabic": "فىِ الْمَدِيْنَةْ قَدْ حَضَرْنَا مَجْمَعَ الْقَوْمِ الْكِرَامْ",
+      "latin": "Fil madinati qod hadlorna majma'al qoumil kiram"
+    },
+    "3": {
+      "arabic": "نَالَ كُلٌّ مَا تَمَنَّا عِنْدَ هَاتِيْكَ الْخِيَامْ",
+      "latin": "Nala kullun ma tamanna 'inda hatikil khiyam"
+    },
+    "4": {
+      "arabic": "وَبَلَغْنَا مَا طَلَبْنَا مِنْ مَطَالِبْ وَ مَرَامْ",
+      "latin": "Wa balaghna ma tholabna min matholib wa maram"
+    },
+    "5": {
+      "arabic": "وَاجْتَمَعْنَا وَاتَّصَلْنَا عِنْدَ سَيِّدِنَا الاِمَامْ",
+      "latin": "Wajtama'na wattasholna 'inda sayyidinal imam"
+    },
+    "6": {
+      "arabic": "رَبِّ فَاجْعَلْ مُجْتَمَعْنَا غَايَتُهْ حُسْنُ الْخِتَام",
+      "latin": "Robbi faj'al mujtama'na ghoyatuhu husnul khitam"
+    },
+    "7": {
+      "arabic": "وَاعْطنَا مَا قَدْ سَأَلْنَا مِنْ عَطَايَاكَ الْجِسَام",
+      "latin": "Wa a'thina ma qod sa'alna min 'athoyakal jisam"
+    },
+    "8": {
+      "arabic": "وَابْلِغِ الْمُخْتَارَ عَنَّا مِنْ صَلاَةٍ وَسَلاَمْ",
+      "latin": "Wablighil mukhtara 'anna min sholatin wa salam"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Di Antara Kedua Pundak Beliau Ada Tanda",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Di antara kedua pundak beliau ada tanda akhir para utusan yang mulia",
+        "2": "Kami hadir di Madinah, tempat kumpul orang-orang yang mulia",
+        "3": "Semua orang mendapatkan yang ia harapkan di sisi rumah tersebut",
+        "4": "Dan kita sampai pada yang kami cari dan kami harap",
+        "5": "Dan kami berkumpul dan bertemu di sisi junjungan kita sang pemimpin",
+        "6": "Wahai tuhanku jadikan perkumpulan kita, akhirnya adalah husnul khatimah",
+        "7": "Dan berikan yang kami minta, dari pemberianmu yang agung",
+        "8": "Dan sampaikan kepada nabi yang terpilih dari kita berupa selawat dan salam"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

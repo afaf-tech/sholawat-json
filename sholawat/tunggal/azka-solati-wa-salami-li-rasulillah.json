@@ -1,0 +1,31 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "الحمد لله والشكر لله",
+  "latin": "Azka Solati Wa Salami Li Rasulillah",
+  "text": {
+    "1": {
+      "arabic": "الحمد لله والشكر لله أزكى صلاتي وسلامي لرسول الله",
+      "latin": "Alhamdulillahi wasy syukru lillahi azka sholati wa salami lirasulillah"
+    },
+    "2": {
+      "arabic": "صل وسلم على المعلم أحمد محمد يا سيدي خير البرية",
+      "latin": "Sholli wa sallim 'alal mu'allim ahmad muhammad ya sayyidi khoirul bariyyah"
+    },
+    "3": {
+      "arabic": "هذه المدينة فيها نبينا فيها أبو الزهرا يا سيدي خير البرية",
+      "latin": "Hadzihi al madinatu fiha nabiyuna fiha abuz zahra ya sayyidi khoirul bariyyah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Segala Puji bagi Allah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Segala puji bagi Allah, syukur untuk Allah, sebaik selawat dan salam saya untuk rasulullah",
+        "2": "Berselawatlah dan salamlah kepada pengajar, yaitu Ahmad Muhammad wahai junjunganku sebaik manusia",
+        "3": "Ini adalah Madinah, di situ ada nabi kita, abu Zahra wahai junjunganku sebaik manusia"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "اَزْكَى تَسْلِيْمِيْ",
+  "latin": "Azka Taslimi",
+  "text": {
+    "1": {
+      "arabic": "اَزْكَى تَسْلِيْمِيْ تَسْلِيْمِيْ تُهْدَى اِلَيْكَ يَا طٰهَ",
+      "latin": "Azka taslimi taslimi tuhda ilaika ya thoha"
+    },
+    "2": {
+      "arabic": "وَصَلَاةُ الْبَارِي اَلْبَارِي تَتْرَى عَلَيْكَ يَا طٰهَ",
+      "latin": "Wa sholatil bari al bari tatra 'alaika ya thoha"
+    },
+    "3": {
+      "arabic": "جِئْتَ بِالْخَيْرِ يَا نَبِی وَالدِّيْنِ الْيُسْرِ يَا نَبِي",
+      "latin": "Ji'ta bil khoiri ya nabi wad diniyusri ya nabi"
+    },
+    "4": {
+      "arabic": "مَنْ يَّخْطُوْ خُطَاكْ فَازَ واَفْلَحْ",
+      "latin": "Man yakhthuw khuthaka faza wa aflah"
+    },
+    "5": {
+      "arabic": "اَلله رَعَاكْ عَلَى الشَّبَابِ جُمِعَتْ بِصِفَاكْ كُلُّ اْلاَنَامِ",
+      "latin": "Allahu ro'aka 'alasy syababi jumi'at bishofaka kullul anam"
+    },
+    "6": {
+      "arabic": "وَالْوَحْيُ نَزَلْ عَلَيْكَ فِي الْغَارِ وَ اَوْحَى اِلَيْكَ",
+      "latin": "Wal wahyu nazala 'alaika fil ghari wa auha ilaika"
+    },
+    "7": {
+      "arabic": "جِئْتَ بِالنُّوْر يَا خَيْرَ هَادِيْ تَهْدِيْ لِلّٰـه كُلُّ الْعِبَادِ",
+      "latin": "Ji'ta bin nuri ya khoiro hadi tahdi lillahi kullul 'ibad"
+    },
+    "8": {
+      "arabic": "شُوْا بِنَا نعْمِلْ يَا حَبَائِبْنَا حُبُّ النَّبِي دَوَّابْنَا",
+      "latin": "Syuwa bina na'mal ya habaibna hubbun nabi dawwabna"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Sebaik Salamku",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Sebaik salamku, salamku dihadiahkan kepadamu wahai taha",
+        "2": "Dan shalat Allah yang maha menciptakan dilimpahkan kepadamu wahai taha",
+        "3": "Engkau datang dengan membawa kebaikan wahai nabi, dan agama mudah wahai nabi",
+        "4": "Siapa yang melangkah seperti langkahmu maka ia bahagia dan beruntung",
+        "5": "Allah menjagamu atas para pemuda, dan setiap manusia mengumpulkan sifatmu",
+        "6": "Dan wahyu turun kepadamu di gua, dan diwahyukan kepadamu",
+        "7": "Engkau datang dengan cahaya wahai sebaik petunjuk, setiap hamba mendapat petunjuk kepada Allah",
+        "8": "Mari kita beramal wahai kekasih kamu, mencintai nabi kebiasaan kita"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}

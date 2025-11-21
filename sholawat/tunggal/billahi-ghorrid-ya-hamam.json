@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "بِاللهِ غَرِّدْ يَا حَمَام",
+  "latin": "Billahi Ghorrid Ya Hamam",
+  "text": {
+    "1": {
+      "arabic": "بِاللهِ غَرِّدْ يَا حَمَام بِمَوْلِدِ البَدْرِ التَّمَامْ",
+      "latin": "Billahi ghorrid ya hamam bimaulidil badrit tamam"
+    },
+    "2": {
+      "arabic": "نُورُ الرَّبِيع قَدْ بَدَا وَمَحَا عَنِ الكَوْنِ الظَّلَام",
+      "latin": "Nurur robi'i qod bada wa maha 'anil kaunil dhalam"
+    },
+    "3": {
+      "arabic": "الكَوْنُ صَاحَ مُكَبِّراً وَغَدَا الهُدَى مُسْتَبْشِراً",
+      "latin": "Al kaunu shoha mukabbiran wa ghodal huda mustabsyiran"
+    },
+    "4": {
+      "arabic": "وَالكُفْرُ وَلَّى مُدْبِراً لَمَّا أَتَى هَادِي الأنَام",
+      "latin": "Wal kufru walla mudbiran lamma ata hadil anam"
+    },
+    "5": {
+      "arabic": "مِيلَادُ طَهَ نِعْمَةٌ وَظُهُورُ أحمدٌ مِنَّةٌ",
+      "latin": "Miladu thoha ni'matun wa dhuhuru ahmadun minnatun"
+    },
+    "6": {
+      "arabic": "هُوَ رَحْمَةٌ وَهِدَايَةُ مِنْ عِنْدِ مَولَانَا السَّلَام",
+      "latin": "Huwa rohmatun wa hidayatun min 'indi maulanassalam"
+    },
+    "7": {
+      "arabic": "أَرْسَلَ اللهُ أَحْمَدَ بِكِتَابٍ فُرْقَانٍ هَدَا",
+      "latin": "Arsalallahu ahmada bikitabin furqonin hada"
+    },
+    "8": {
+      "arabic": "وَدَعَا طَرِيقَ السُّعَدَاء وَمَحَى عَنْ سَائِرِ الظَّلَام",
+      "latin": "Wa da'a thoriqos su'ada' wa maha 'an sa'iridh dhalam"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Demi Allah Berkicaulah Wahai Merpati",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Demi Allah berkicaulah wahai merpati, karena kelahiran purnama yang sempurna",
+        "2": "Cahaya Rabiul Awwal telah tampak, dan menghapus kegelapan dari alam semesta",
+        "3": "Alam berteriak seraya bertakbir, dan petunjuk menjadi bahagia",
+        "4": "Kekufuran menghindar, ketika datang sang petunjuk manusia",
+        "5": "Kelahiran Taha adalah nikmat, munculnya Ahmad adalah anugerah",
+        "6": "Beliau adalah rahmat dan hidayah dari tuan kita yang maha penyelamat",
+        "7": "Allah mengutus Ahmad dengan kitab pembeda yang menunjukkan",
+        "8": "Dan mengajak ke jalan orang-orang yang bahagia, dan menghapus seluruh kegelapan"
+      }
+    }
+  },
+  "last_updated": "2025-11-21"
+}
