@@ -1,0 +1,95 @@
+{
+  "source": null,
+  "name": "النفس تبکی علی الدنيا",
+  "latin": "Annafsu Tabkî 'Alâd-Dunyâ",
+  "text": {
+    "1": {
+      "arabic": "النفس تبکی علی الدنيا وقد علمت",
+      "latin": "Annafsu tabkî 'alâd-dunyâ wa qod 'alimat"
+    },
+    "2": {
+      "arabic": "أن السلامة فيها ترك ما فيها",
+      "latin": "Annas-salâmata fîhâ tarku mâ fîhâ"
+    },
+    "3": {
+      "arabic": "لا دار للمرء بعد الموت يسکنها",
+      "latin": "Lâ dârun lil mar-i ba'dal mauti yaskunuhâ"
+    },
+    "4": {
+      "arabic": "إلا التی گان قبل الموت بانيها",
+      "latin": "Illâl-latî kâna qoblal mauti bânîhâ"
+    },
+    "5": {
+      "arabic": "فإن بناها بخير طاب مسکنها",
+      "latin": "Fa-in banâhâ bikhoirin thôba maskanuhâ"
+    },
+    "6": {
+      "arabic": "وإن بناها بشر خاب بانيها",
+      "latin": "Wa in banâhâ bisyarrin khôbâ bânîhâ"
+    },
+    "7": {
+      "arabic": "أين الملوك التی گانت مسلطنة",
+      "latin": "Ainal mulûkul-latî kânat musalthonatan"
+    },
+    "8": {
+      "arabic": "حتی سقاها بکأس الموت ساقيها",
+      "latin": "Hattâ saqôhâ bika,sil mauti sâqîhâ"
+    },
+    "9": {
+      "arabic": "أموالنا لذوی الميراث نجمعها",
+      "latin": "Amwâlunâ lidzawîl mîrôtsi najma'uhâ"
+    },
+    "10": {
+      "arabic": "و دورنا لخراب الدهر نبنيها",
+      "latin": "Wa dûrunâ likhorôbid-dahri nabnîhâ"
+    },
+    "11": {
+      "arabic": "گم من مدائن فی الأفاق قد بنيت",
+      "latin": "Kam min madâ-ini fîl afâqi qod buniyat"
+    },
+    "12": {
+      "arabic": "امست خرابا وذان الموت دانيها",
+      "latin": "Amsat khorôban wadzânul mauti dânîhâ"
+    },
+    "13": {
+      "arabic": "لکل نفس وإن گانت علی وجل",
+      "latin": "Likulli nafsin wa in kânat 'alâ wajlin"
+    },
+    "14": {
+      "arabic": "من المنية آمال تقويها",
+      "latin": "Minal maniyyati ãmâlun tuqowwîhâ"
+    },
+    "15": {
+      "arabic": "فالمرء يبسطها والدهر يقبضها",
+      "latin": "Fal mar-u yabsithuhâ waddahru yaqbidluhâ"
+    },
+    "16": {
+      "arabic": "والنفس تنشرها والموت يطويها",
+      "latin": "Wannafsu tansyuruhâ wal mautu yathwîhâ"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Jiwa Menangis Karena Dunia",
+      "text": {
+        "1": "Jiwaku menangis karena dunia, padahal ia telah mengetahui",
+        "2": "bahwa keselamatan adalah dengan meninggalkan apa yang ada di dalamnya",
+        "3": "Tidak ada rumah bagi seseorang setelah kematian yang ia tinggali,",
+        "4": "Kecuali rumah yang telah ia bangun sebelum kematian",
+        "5": "Jika ia membangunnya dengan kebaikan, maka baiklah tempat tinggalnya,",
+        "6": "tetapi jika ia membangunnya dengan keburukan, maka buruklah bangunannya",
+        "7": "Di mana raja-raja yang dulu berkuasa,",
+        "8": "Hingga diberikan kepadanya minuman dengan cangkir kematian",
+        "9": "Harta kita kumpulkan untuk ahli waris",
+        "10": "dan rumah yang kita bangun akan hancur seiring berjalannya waktu",
+        "11": "Betapa banyak kota-kota yang telah dibangun di penjuru dunia,",
+        "12": "Kini menjadi reruntuhan, karena maut telah mendekatinya",
+        "13": "Setiap jiwa, meskipun dalam kekhawatiran terhadap kematian,",
+        "14": "memiliki harapan yang memperkuatnya",
+        "15": "Manusia yang membentangkannya, namun waktu yang menariknya,",
+        "16": "Jiwa yang menyebarkannya, namun maut yang melipatnya"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}
