@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا حَبِيْبًا جَاءَ فِيْنَا",
+  "latin": "Ya Habiban Jaa Fina",
+  "text": {
+    "1": {
+      "arabic": "يَا حَبِيْبًا جَاءَ فِيْنَا * رَحْمَةً لِلْعَالَمِيْنَ",
+      "latin": "Yaa habiban ja afinaa rohmatan lil 'alaaminaa"
+    },
+    "2": {
+      "arabic": "قَدْ سَرَى نُوْرُ الْمُحَيَّا * مِنْكَ فِيْنَا مَا حَيِيْنَا",
+      "latin": "Qod Saroo nurul muhayya Minka fiina maa hayyina"
+    },
+    "3": {
+      "arabic": "وَ رَأَيْنَا الْبَدْرَ لَمَّا * اَنْ تَجَلَّيْتَ مُبِيْنَا",
+      "latin": "Wa roainal badro lamma an tajallaita mubina"
+    },
+    "4": {
+      "arabic": "رَبِّ وَاجْعَلْ وَالِدِيْنَا * فِى نَعِمِ الْخَالِدِيْنَ",
+      "latin": "Robbi waj'al walidina fi naimil kholidina"
+    },
+    "5": {
+      "arabic": "وَاسْقِهِمْ حَوْضًا مُعِيْنَا * بِالْحَبِيْبِ طَهَ الْأَمِيْنْ",
+      "latin": "Wasqihim haudon mu'ina bil habib tohal amina"
+    },
+    "6": {
+      "arabic": "رَبِّ أَدْخِلْهُمْ جِنَانَا * أُزْلِفَتْ لِلْمُتَّقِيْنَ",
+      "latin": "Robbi adkhilhum jinanan uzlifat lil muttaqina"
+    },
+    "7": {
+      "arabic": "وَصَلاَةُ اللَّهِ دَوْمًا * تَبْلُغُ الْهَادِى الأَمِيْن",
+      "latin": "Washolatullahi dauman tablughul hadil amina"
+    },
+    "8": {
+      "arabic": "وَ عَلَى الاَلِ الْكِرَامِ * وَ الصَّحَابِ وَ التَّابِعِيْنَ",
+      "latin": "Wa alal alil kiromi wasohab wattabiina"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Kekasih yang Datang Kepada Kami",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai kekasih yang datang kepada kami sebagai rahmat untuk seluruh alam",
+        "2": "Talah datang cahaya terang darimu selama kita hidup",
+        "3": "Dan kami melihat purnama ketika engkau datang",
+        "4": "Wahai tuhanku jadikan orang tua kami di kenikmatan sorga selama-lamanya",
+        "5": "Dan beri minum mereka dari telaga bersama sang kekasih Taha al Amin",
+        "6": "Wahai tuhanku masukkan mereka sorga yang disiapkan untuk orang-orang yang bertakwa",
+        "7": "Dan selawat Allah selalu sampai kepada sang petunjuk yang terpercaya",
+        "8": "Dan untuk keluarga yang mulia, dan para sahabat dan para tabiiin"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}

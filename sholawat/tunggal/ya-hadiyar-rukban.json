@@ -1,0 +1,66 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا حَادِيَ الرُّكْبَانْ",
+  "latin": "Ya Hadiyar Rukban",
+  "text": {
+    "1": {
+      "arabic": "يَا حَادِيَ الرُّكْبَانْ * مَتَى وَصَلْتَ الْبَانْ",
+      "latin": "Ya hadiyar rukban mata wa sholtal ban"
+    },
+    "2": {
+      "arabic": "أَرِحْ هُنَاكَ الْعِيْسْ * وَبَشِّرِ الْوَلْهَانْ",
+      "latin": "Arih hunakal 'is wa bassyiril walhaan"
+    },
+    "3": {
+      "arabic": "لِحَيِّهِمْ سِرْنَا * شَوْقًا وَقَدْ طِرْنَا",
+      "latin": "Li hayyihim sirnaa syauqon wa qod thirnaa"
+    },
+    "4": {
+      "arabic": "وَفِي الْهَوَى حِرْنَا * وَذُو الْهَوَى حَيْرَانْ",
+      "latin": "Wafil hawaa hirna wa dzul hawa hayron"
+    },
+    "5": {
+      "arabic": "يَا سَاكِنِيْ رَوْمَةْ * اَلنَّارُ ضَرَّامَةْ",
+      "latin": "Ya sakini rowmah annaru dhorromah"
+    },
+    "6": {
+      "arabic": "وَالرُّوْحُ صَوَّامَةْ * لَكُمْ عَيْنُ الْأَكْوَانْ",
+      "latin": "Warruhu showwamah Likum 'ainul akwaan"
+    },
+    "7": {
+      "arabic": "مَا أَكْثَرَ الْأَحْبَابْ * وَجْدًا بِذَاكَ الْبَابْ",
+      "latin": "Ma aksarol ahbab wajdal bidzakal bab"
+    },
+    "8": {
+      "arabic": "تَطُوْفُ بِالْأَعْتَابْ * وَكُلُّهَا أَشْجَانْ",
+      "latin": "Tatubu bil a'tab wa kulluha asyjan"
+    },
+    "9": {
+      "arabic": "لَكُمْ سَلَامُ اللهْ * يَهْدِيْ لِرُوْحِ اللهْ",
+      "latin": "Lakum salamullah Yahdi li ruhillah"
+    },
+    "10": {
+      "arabic": "مَا أَنْشَدَ الْأَوَّاهْ * يَا حَادِيَ الرُّكْبَانْ",
+      "latin": "Ma ansyadal awwah Ya hadiyar rukban"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Pemandu Kafilah",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai pemandu kafilah, kapan engkau sampai tempat sang kekasih",
+        "2": "Istirahatkan unta di sana, dan kasih kabar bahagia orang-orang yang rindu",
+        "3": "Ke tempat mereka kami berjalan karena rindu, dan kami telah berharap",
+        "4": "Dan kami telah gelisah, dan yang memiliki cinta gelisah",
+        "5": "Wahai penduduk gua, api telah menyala",
+        "6": "Ruh telah berpuasa untuk kalian, mata alam semesta",
+        "7": "Sungguh banyak kekasih di pintu tersebut",
+        "8": "Berjalan dengan rintihan, dan semuanya adalah lagu",
+        "9": "Untuk kalian salam Allah, dihadiahkan untuk ruh Allah",
+        "10": "Selama perintih penyayikan wahai pemandu kafilah"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}

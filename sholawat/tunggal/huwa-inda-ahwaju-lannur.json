@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "هُوَ عِنْدَ احْوَجُ لَنُّورْ",
+  "latin": "Huwa 'Inda Ahwaju Lannur",
+  "text": {
+    "1": {
+      "arabic": "هُوَ عِنْدَ احْوَجُ لَنُّورْ وِنْتُ صَلُّوْا عَلَى الرَّسُولْ",
+      "latin": "Huwa 'inda ahwju lannuur Wintu sholluu 'alar rosuul"
+    },
+    "2": {
+      "arabic": "كَيْفَ يَحْضُرْ لِلْفَجْرِيَّةْ طَهَ حَبِيْبِيْ ظَيَّ عَلَيَّ",
+      "latin": "Kaifa yahdhuru lilfajriyyah Thooha habiibi dzoyya 'alayya"
+    },
+    "3": {
+      "arabic": "لِلْقُلُوبْ حَنِّتْ اِلَيهْ صَلَّى اللهُ عَلَيهْ",
+      "latin": "Lil'uluub hannit ilaih Shollallahu 'alaih"
+    },
+    "4": {
+      "arabic": "كَلَّ لِسَانِيْ لَمَّا دَعَانِيْ وَالْقَلْبُ وَالْهَانْ",
+      "latin": "Kalla lisaani Lamma da'aanii Wal qolib walhaan"
+    },
+    "5": {
+      "arabic": "نَظْرَةْ كَفَانِيْ لَمَّا شَفَانِيْ إِنَّا بِالْعَدْنَانْ",
+      "latin": "Nadzroh kafaanii lamma syafaani Inna bil 'adnaan"
+    },
+    "6": {
+      "arabic": "صَلُّوْا عَلَيهْ (صَلَّيْنَا) اَلْخَيْرُ لَدَيهْ (يُحْيِيْنَا)",
+      "latin": "Sholluu 'alaih (shollainaa) Al khairu ladaih (yuhyiinaa)"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Beliau Ketika Aku Butuh adalah Cahaya",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Beliau ketiak aku butuh adalah cahaya, dan engkau berselawat kepada rasul",
+        "2": "Bagaimana beliau datang untuk sholat fajar, Taha kekasihku membangunkan aku",
+        "3": "Hati-hati rindu kepada beliau, semoga selawat Allah untuk beliau",
+        "4": "Lisanku tumpul ketika beliau memanggilku, dan hati menyala",
+        "5": "Pandangan mencukupiku, ketika beliau menyembuhkanku, kita bersama Adnan",
+        "6": "Berselawatlah kepada beliau (kami berselawat) kebaikan di sisi beliau (beliau menghidupkan kami)"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}

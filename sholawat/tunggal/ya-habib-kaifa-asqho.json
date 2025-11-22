@@ -1,0 +1,36 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "يَا حَبِيبِي كَيْفَ اَشْقَى",
+  "latin": "Ya Habibi Kaifa Asqho",
+  "text": {
+    "1": {
+      "arabic": "يَا حَبِيبِي كَيْفَ اَشْقَى وَاُضَامْ * وَفُؤاَدِي قَدْ بَدَا بَادِي الظَّلاَمْ",
+      "latin": "Ya habib kahif asqho wa udlom wa fuadi qod bada badi dzolam"
+    },
+    "2": {
+      "arabic": "فَتَحَنَّنْ وَامْحُ عَنَّي مَا بَدَا * كُلُّ نُورٍ مِنْ ثَنَا خَيْر اْلاَنَامِ",
+      "latin": "Fatahanna wamhu anni qod bada kullu turin min tsana khoiril anam"
+    },
+    "3": {
+      "arabic": "مَالِي حِبِّي إِنْ يَغِيبْ عَنْ نَاظِرِي * تَرَكَ الْقَوْلَ مَا لَدَيْه مُسْتَهَامْ",
+      "latin": "Mali hibbi in yaghib an nadziri tarokal qoul ma ladaihi mustaham"
+    },
+    "4": {
+      "arabic": "كُلُّ حُسْنٍ فِي الْوَرَى يَبْدُوا لَنَا * مِنْ جَمَالِ الْمُصْطَفِى دَاعِ السَّلاَمْ",
+      "latin": "Kullu husnin fil waro yabdu lana min jalamalil mustofa dai salam"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Kekasihku Bagaimana Aku Celaka",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Wahai kekasihku, bagaimana aku celaka dan tersia-sia, sedangkan hatiku telah tampak penerang kegelapan",
+        "2": "Maka menghindarlah, dan hapuslah dari apa pun yang tampak, setiap cahaya dari kebaikan sebaik manusia",
+        "3": "Aku tidak memiliki kekasih jika ia hilang dari pandanganku, meninggalkan ucapan, tidak memiliki bagian di sisinya",
+        "4": "Setiap kebaikan di manusia, tampak kepada kami dari kebaikan nabi yang terpilih, pengajak keselamatan"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}
