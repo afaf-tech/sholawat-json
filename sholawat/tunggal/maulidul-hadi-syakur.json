@@ -1,0 +1,56 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "مَوْلِدُ الهَادِى الشَكُورْ",
+  "latin": "Maulidul Hadis Syakur",
+  "text": {
+    "1": {
+      "arabic": "مَوْلِدُ الهَادِى الشَكُورْ نَبِينَا",
+      "latin": "Maulidul Hadis syakur Nabiina"
+    },
+    "2": {
+      "arabic": "مَنْ سَمَا فَوْقَ البُدُور هَادِينَا",
+      "latin": "Man sama fauqol buduur Hadiina"
+    },
+    "3": {
+      "arabic": "اَحْمَدٌ طَهَ البَشِير",
+      "latin": "Ahmadun, Thohal Basyiir"
+    },
+    "4": {
+      "arabic": "الكَوْنُ ضَاءَ بِنُورِهِ * وَالجَنُّ زَالَ بِهَدْيِهِ",
+      "latin": "Al Kaunu Dlo'a bi nurihi * Wal jannu Zaala bi hadyihi"
+    },
+    "5": {
+      "arabic": "بُشْرَى الاسْلَامُ بِدَعْوَتِهِ * بِنَيْلِ الْمَجْدِ وَرِفْعَتِه",
+      "latin": "Busyrol islaami bi da'watihi * bi Nailil majdi wa rif'atihi"
+    },
+    "6": {
+      "arabic": "يَا بُلْبُلْ غَرِّدْ تَغْرِيدَا * بِرَبِيعِ الأَوَّلِ يَوْمْ عِيدَا",
+      "latin": "Ya Bul bul, Ghorrid Taghriida * Bi robi'il awwali yauma 'iida"
+    },
+    "7": {
+      "arabic": "رَبِيعُكَ نُورٌ فَاقَ البَدْرَ * رَبِيعُكَ نَارٌ يُخْزِى الكَفَرَ",
+      "latin": "Robii'uka nuurun Faaqol badro * Robii'uka Naarun Yukhzi kufro"
+    },
+    "8": {
+      "arabic": "أَنْتَ سِرُّ الكَوْنِ لَمَّا * كُنْتَ لِلْعَلْيَاءِ فَجْراً",
+      "latin": "Anta sirrul kauni lamma * kunta lil 'alyaa-i fajro"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Kelahiran Nabi yang Ahli Bersyukur",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Kelahiran nabi yang ahli bersyukur, nabi kita",
+        "2": "Seorang yang tinggi di atas purnama, petunjuk kita",
+        "3": "Ahmad, Taha, sang pemberi kabar bahagian",
+        "4": "Alam semesta cerah karena cahaya beliau, jin hilang karena petunjuknya",
+        "5": "Kebaikan islam karena dakwah beliau, dengan mendapat keagungan dan ketinggian",
+        "6": "Wahail bul-bul berkicaulah di bulan rabiul awwal hari kelahiran",
+        "7": "Rabiul Awal-mu adalah cahaya melebihi purnama, Rabiul Awal-mu adalah api yang menghinakan orang-orang kafir",
+        "8": "Engkau adalah sirr alam semesta ketika engkau adalah fajar bagi tempat-tempat tinggi"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}

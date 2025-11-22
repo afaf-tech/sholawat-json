@@ -1,0 +1,46 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "مِنَّا الرَّجَاءْ وَمِنْكَ العَفْوُ",
+  "latin": "Minnar Roja'u wa Minkal 'Afwu",
+  "text": {
+    "1": {
+      "arabic": "مِنَّا الرَّجَاءْ وَمِنْكَ العَفْوُ وَالجُوْدُ * مِنَّا الدُّعَاءْ وَمِنْكَ الفَضْلُ مَمْدُوْدُ",
+      "latin": "Minnar roja'u wa minkal 'afwu wal juudu Minnad Du'a'u Wa minkal fadhlu mamduudu"
+    },
+    "2": {
+      "arabic": "مِنْكَ العَطَايَا بِلاَ حَدٍّ وَلاَ عَدَدٍ * وَجُهْدُهَا لِاَدَاءِ الشُّكْرِ مَحْدُوْدٌ",
+      "latin": "Minkal 'athooyaa bilaa haddin walaa 'adafin Wa juhdunaa li ada'is syukri mahduudu"
+    },
+    "3": {
+      "arabic": "يُسَبِّحُ الْبَحْرُ بِاْلأَمْوَاجِ خَالِقَهُ * بِحَمْدِهِ لَكَ اِعْظَامٌ وَتَمْجِيْدُ",
+      "latin": "Yusabbihul bahru bil amwaaji Khooliqohu Bi hamdihi laka I'dhzoomun wa tamjiidu"
+    },
+    "4": {
+      "arabic": "تَسْبِيْحَةُ الرَّوْضِ عِطْرٌ فِى خَمَائِلِهِ * تَسْرِىْ وَتَسْبِيْحَةُ الْعُصْفُوْرِ تَغْرِيْدُ",
+      "latin": "Tasbiihatur Roudhi fi khomaa ilihi Tasrii wa tasbiihatul 'Ushfuuri taghriidu"
+    },
+    "5": {
+      "arabic": "مِنْ طِيْنَةٍ بَشَرًا مِنْ حَبَّةٍ شَجَرَا * لَوْلاَكَ فِى غَرْسِهِ مَا اَوْرَقُ الْعُودْ",
+      "latin": "Min thiinatin basyaron min habbatin syajaro Laulaaka fi ghorsihi maa auroqol 'Uudu"
+    },
+    "6": {
+      "arabic": "جَلَيْتَهَا صُوَرَا اَبْدَيْتَهَا ثَمَرَا * لنَا بِقُدْرَتِكَ الْعَلْيَا مَوَاعِيدُ",
+      "latin": "Jallaitahaa suwaron abdaitahaa tsamaran Lanaa bi qudrotiKal 'ulyaa mawa'idu"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Dari Kami Harapan, Dari-Mu Ampunan",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Dari kami harapan, dan dari-Mu ampunan dan kemurahan, Dari kami doa dan darimu anugerah yang banyak",
+        "2": "Darimu pemberian tanpa batas dan tanpa hitungan, dan kesungguhan untuk melaksanakan syukur adalah terbatas",
+        "3": "Lautan bertasbih dengan pujian kepada penciptanya dengan ombak, kepadamu pengagungan dan penghormatan",
+        "4": "Bertasbihnya taman adalah semerbak harum pepohonannya, dan bertasbihnya burung adalah berkicau",
+        "5": "Manusia dari tanah, pohon dari bijian, adaikan tiada kamu dalam menanamnya, maka tidak akan ada daun pohon aud",
+        "6": "Engkau tampakkan menjadi bentuk, engkau jelaskan menjadi buat kepada kita dengan kekuasaanmu yang luhur"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}

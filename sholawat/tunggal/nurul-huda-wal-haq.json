@@ -1,0 +1,36 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "نُورُ الْهُدَى وَالحَقِّ",
+  "latin": "Nurul Huda wal Haq",
+  "text": {
+    "1": {
+      "arabic": "نُورُ الْهُدَى وَالحَقِّ لَاحَ مِنْ سَيِّدِ الرُّسْلِ الْمِلَاح",
+      "latin": "Nurul huda wal haqqi laaha min sayyidir rusulil milaah"
+    },
+    "2": {
+      "arabic": "الْمُصْطَفَى بَحْرُ السَّمَاحِ وَصَاحِبِ الْخُلُقِ الحَسَن",
+      "latin": "Al Mushthafa bahrus samaahi wa shaahibil khuluqil hasan"
+    },
+    "3": {
+      "arabic": "طَهَ رَسُولُ العَالَمِين الصَّادِقِ الوَعْدِ الأَمِين",
+      "latin": "Thaha rasulul 'aalamiin ash-shaadiqul wa'dil amiin"
+    },
+    "4": {
+      "arabic": "مَنْ فَضْلُهُ فِينَا مُبِين يَجْلُو بِهِ عَنَّا الحَزَن",
+      "latin": "Man fadhlluhu fiina mubiin yajlu bihi 'annal hazan"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Cahaya Petunjuk dan Kebenaran",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Cahaya petunjuk dan kebenaran tampak dari junjungan para utusan yang bagus",
+        "2": "Nabi yang terpilih, lautan kemurahan, dan pemilik akhlak yang baik",
+        "3": "Taha utusan semesta alam, penepat janji, yang terpercaya",
+        "4": "Seorang yang keutamaannya jelas di kita, yang menghilangkan kesusahan dari kita"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}

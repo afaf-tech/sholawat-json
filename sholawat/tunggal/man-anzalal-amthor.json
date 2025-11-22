@@ -1,0 +1,61 @@
+{
+  "source": "terjemahkitab.com",
+  "name": "مَنْ أَنْزَلَ الأَمْطَار",
+  "latin": "Man Anzalal Amthar",
+  "text": {
+    "1": {
+      "arabic": "مَنْ أَنْزَلَ الأَمْطَار * وَفَجَّرَ الأَنْهَار",
+      "latin": "Man anzalal amthor, wa fajjarol anhaar"
+    },
+    "2": {
+      "arabic": "وَأَنْبَتَ الأَزْهَار* تُزَخْرِفُ الجِبَال",
+      "latin": "Wa anbatal azhaar, tuzakhriful jibaal"
+    },
+    "3": {
+      "arabic": "ذَاكَ العَظِيمُ فِي عُلَاه * مَنْ أَبْدَعَ الكَوْنَ سِوَاه",
+      "latin": "Dzaakal 'adhiimu fii 'ulaah, man abda'al kauna siwaah"
+    },
+    "4": {
+      "arabic": "مَنْ عَلَّمَ العُصْفُورَ * فِي الجَوِّ أَنْ يَطِيرَ",
+      "latin": "Man 'allamal 'ushfuuro, fiil jawwi an yathiiro"
+    },
+    "5": {
+      "arabic": "وَأَنْزَلَ الغَدِيرَ * وَدَفَّقَ الشَّلَالَ",
+      "latin": "Wa zalzalal ghodiiro, wa daffaqosy-syallaal"
+    },
+    "6": {
+      "arabic": "ذَاكَ العَظِيمُ فِي عُلَاه * مَنْ أَبْدَعَ الكَوْنَ سِوَاه",
+      "latin": "Dzaakal 'adhiimu fii 'ulaah, man abda'al kauna siwaah"
+    },
+    "7": {
+      "arabic": "مَنْ أَنْطَقَ الِّلسَانَ * وَأَسْمَعَ الأَذَانَ",
+      "latin": "Man anthoqollisaana, wa asma'al adzaana"
+    },
+    "8": {
+      "arabic": "وَعَلَّمَ الانسَانَ * وَأَبْدَعَ الجَمَال",
+      "latin": "Wa 'allamal insaana, wa abda'al Jamaal"
+    },
+    "9": {
+      "arabic": "ذَاكَ العَظِيمُ فِي عُلَاه * مَنْ أَبْدَعَ الكَوْنَ سِوَاه",
+      "latin": "Dzaakal 'adhiimu fii 'ulaah, man abda'al kauna siwaah"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Siapa yang Menurunkan Hujan",
+      "translator": "Terjemahkitab (Dr. Muhammad Ali Fathomi, Lc., M. H.)",
+      "text": {
+        "1": "Siapa yang menurunkan hujan, dan menyumberkan sungai",
+        "2": "Menumbuhkan bunga, menghiasi gunung",
+        "3": "Dialah yang maha agung di ketinggiannya, tiada yang menciptakan alam semesta selain-Nya",
+        "4": "Siapa yang mengajari burung terbang di angkasa",
+        "5": "Dan menurunkan hujan yang deras, dan mengeluarkan air terjun",
+        "6": "Dialah yang maha agung di ketinggiannya, tiada yang menciptakan alam semesta selain-Nya",
+        "7": "Siapa yang menjadikan mulut bicara, menjadikan telinga mendengar",
+        "8": "Mengajari manusia, menciptakan keindahan",
+        "9": "Dialah yang maha agung di ketinggiannya, tiada yang menciptakan alam semesta selain-Nya"
+      }
+    }
+  },
+  "last_updated": "2025-11-22"
+}
