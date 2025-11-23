@@ -1,0 +1,103 @@
+{
+    "number": 4,
+    "source": "مكتبة المحراب",
+    "name": "الْفَصْلُ الرَّابِعُ : فِي مَوْلِدِهِ عَلَيْهِ الصَّلاَةُ وَالسَّلاَمُ",
+    "latin": "Al-Fashlur Rābi’u: Fī Mawlidihī ‘Alaihis Shalātu was Salāmu",
+    "last_updated": "2025-11-23",
+    "text": {
+        "1": {
+            "arabic": "أَبَانَ مَوْلِدُهُ عَنْ طِيْبِ عُنْصُرِهِ ۞ يَا طِيْبَ مُبْتَدَإٍ مِنْهُ وَمُخْتَتَمِ",
+            "latin": "Abāna mawliduhū ‘an thībi ‘unshurihī ۞ Yā thība mubtada-in minhu wa mukhtatami"
+        },
+        "2": {
+            "arabic": "يَوْمٌ تَفَرَّسَ فِيْهِ الْفُرْسُ أَنَّهُمُ ۞ قَدْ أُنْذِرُوا بِحُلُولِ الْبُؤْسِ وَالنِّقَمِ",
+            "latin": "Yawmun tafarrasat fīhil fursu annahumu ۞ Qad undzirū bihulūlil bu’si wan-niqami"
+        },
+        "3": {
+            "arabic": "وَبَاتَ إِيْوَانُ كِسْرَى وَهْوَ مُنْصَدِعٌ ۞ كَشَمْلِ أَصْحَابِ كِسْرَى غَيْرَ مُلْتَئِمِ",
+            "latin": "Wa bāta īwānu Kisrā wahwa munshadi’un ۞ Kasyamli ash-hābi Kisrā ghaira multa-imi"
+        },
+        "4": {
+            "arabic": "وَالنَّارُ خَامِدَةُ الْأَنْفَاسِ مِنْ أَسَفٍ ۞ عَلَيْهِ وَالنَّهْرُ سَاهِي الْعَيْنِ مِنْ سَدَمِ",
+            "latin": "Wan nāru khāmidatul anfāsi min asafin ۞ ‘Alaihi wan nahru sāhil ‘aini min sadami"
+        },
+        "5": {
+            "arabic": "وَسَاءَ سَاوَةَ أَنْ غَاضَتْ بُحَيْرَتُهَا ۞ وَرُدَّ وَارِدُهَا بِالْغَيْظِ حِيْنَ ظَمِي",
+            "latin": "Wa sā-a Sāwata an ghādhat buhairatuhā ۞ Wa rudda wāriduhā bil ghaizhi hīna zhamī"
+        },
+        "6": {
+            "arabic": "كَأَنَّ بِالنَّارِ مَا بِالْمَاءِ مِنْ بَلَلٍ ۞ حُزْنًا وَبِالْمَاءِ مَا بِالنَّارِ مِنْ ضَرَمِ",
+            "latin": "Ka-anna binnāri mā bil mā-i min balalin ۞ Huznan wa bil mā-i mā binnāri min dharami"
+        },
+        "7": {
+            "arabic": "وَالْجِنُّ تَهِتِفُ وَالْأَنْوَارُ سَاطِعَةٌ ۞ وَالْحَقُّ يَظْهَرُ مِنْ مَعْنًى وَمِنْ كَلِمِ",
+            "latin": "Wal jinnu tahtifu wal anwāru sāthi’atun ۞ Wal haqqu yazh-haru min ma’nan wa min kalimi"
+        },
+        "8": {
+            "arabic": "عَمُوا وَصَمُّوا فَإِعْلاَنُ الْبَشَائِرِ لَمْ ۞ تُسْمَعْ وَبَارِقَةُ الْإِنْذَارِ لَمْ تُشَمِ",
+            "latin": "‘Amū wa shammū fa i’lānul basyā-iri lam ۞ Tusma’ wa bāriqatul indzāri lam tusyami"
+        },
+        "9": {
+            "arabic": "مِنْ بَعْدِ مَا أَخْبَرَ الْأَقْوَامَ كَاهِنُهُمْ ۞ بِأَنَّ دِينَهُمُ الْمُعْوَجَّ لَمْ يَقُمِ",
+            "latin": "Min ba’di mā akhbaral aqwāma kāhinuhum ۞ Bi anna dīnahumul mu’wajja lam yaqumi"
+        },
+        "10": {
+            "arabic": "وَبَعْدَ مَا عَايَنُوْا فِي الْأُفْقِ مِنْ شُهُبٍ ۞ مُنْقَضَّةٍ وَفْقَ مَا فِي الْأَرْضِ مِنْ صَنَمِ",
+            "latin": "Wa ba’da mā ‘āyanū fil ufqi min syuhubin ۞ Munqadh-dhatin wafqa mā fil ardhi min shanami"
+        },
+        "11": {
+            "arabic": "حَتَّى غَدَا عَنْ طَرِيقِ الْوَحْيِ مُنْهَزِمٌ ۞ مِنَ الشَّيَاطِينِ يَقْفُو إِثْرَ مُنْهَزِمِ",
+            "latin": "Hattā ghadā ‘an tharīqil wahyi munhazimun ۞ Minasy syayāthīni yaqfū itsra munhazimi"
+        },
+        "12": {
+            "arabic": "كَأَنَّهُمْ هَرَبًا أَبْطَالُ أَبْرَهَةَ ۞ أَوْ عَسْكَرٍ بِالْحَصَى مِنْ رَاحَتَيْهِ رُمِي",
+            "latin": "Ka annahum haraban abthālu Abrahati ۞ Aw ‘askarin bil hashā min rāhataihi rumī"
+        },
+        "13": {
+            "arabic": "نَبْذًا بِهِ بَعْدَ تَسْبِيحٍ بِبَطْنِهِمَا ۞ نَبْذَ الْمُسَبِّحِ مِنْ أَحْشَاءِ مُلْتَقِمِ",
+            "latin": "Nabdzan bihi ba’da tasbīhin bibathnihimā ۞ Nabdzal musabbihi min ahsyā-i multaqimi"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Pasal Keempat: Tentang Kelahiran Nabi SAW",
+            "translator": "gemini-3.0-pro",
+            "muqaddimah": "Pasal ini menceritakan peristiwa-peristiwa ajaib (irhas) yang mengiringi kelahiran Nabi Muhammad SAW, sebagai tanda hancurnya kebatilan (Kerajaan Persia) dan terbitnya cahaya kebenaran.",
+            "text": {
+                "1": "Kelahirannya menampakkan kesucian unsur (nasab)-nya. Alangkah indahnya permulaan dan penghabisan (hidup)-nya.",
+                "2": "Hari dimana bangsa Persia merasa (mendapat firasat) bahwa mereka telah diperingatkan akan datangnya bencana dan siksa.",
+                "3": "Dan (pada malam itu) Istana Kisra retak-retak, sebagaimana barisan tentara Kisra yang terpecah belah dan tidak dapat bersatu lagi.",
+                "4": "Dan api (sesembahan Persia) padam nafasnya karena duka cita atasnya (kelahiran Nabi), dan sungai (Eufrat) lupa mengalir karena kesedihan.",
+                "5": "Dan penduduk Sawah bersedih karena danau mereka menjadi kering, dan pengambil air pulang dengan kemarahan serta kehausan.",
+                "6": "Seakan-akan pada api itu terdapat sifat air (basah) karena duka, dan pada air terdapat sifat api (menyala) karena panasnya kesedihan.",
+                "7": "Dan jin-jin berteriak (memberi kabar), dan cahaya-cahaya bersinar, dan kebenaran tampak dari makna dan kata-kata.",
+                "8": "Mereka (orang-orang kafir) buta dan tuli, sehingga kabar gembira tidak didengar, dan kilatan peringatan tidak dilihat.",
+                "9": "Setelah para dukun mereka memberitahu kaumnya, bahwa agama mereka yang bengkok itu tidak akan tegak lagi.",
+                "10": "Dan setelah mereka melihat bintang-bintang di ufuk berjatuhan, seiring dengan berjatuhannya berhala-berhala di bumi.",
+                "11": "Sehingga setan-setan lari terbirit-birit menjauhi jalan wahyu, mereka lari mengikuti jejak kekalahan.",
+                "12": "Seakan-akan mereka yang lari itu adalah pasukan Abraha (Tentara Gajah), atau pasukan yang dilempari kerikil dari kedua telapak tangan beliau.",
+                "13": "Beliau melemparkannya setelah kerikil itu bertasbih di dalam genggamannya, sebagaimana terlemparnya orang yang bertasbih (Nabi Yunus) dari perut ikan yang menelannya."
+            }
+        },
+        "en": {
+            "name": "Chapter Four: Concerning His Birth",
+            "translator": "gemini-3.0-pro",
+            "muqaddimah": "This chapter recounts the miraculous signs accompanying the birth of Prophet Muhammad (PBUH), marking the decline of false powers like the Persian Empire and the rise of the Truth.",
+            "text": {
+                "1": "His birth revealed the purity of his origin. Oh, the excellence of such a beginning and such an end!",
+                "2": "A day when the Persians perceived a warning that misery and punishment were descending upon them.",
+                "3": "And the Palace of Chosroes spent the night cracked, just as the army of Chosroes was scattered, never to be reunited.",
+                "4": "And the sacred fire died out, its breath extinguished from grief over him, and the river forgot its source from sorrow.",
+                "5": "And Sawa was saddened that its lake dried up, and the one coming to drink was turned back in anger and thirst.",
+                "6": "As if the fire had the wetness of water due to grief, and the water had the burning of fire.",
+                "7": "And the Jinn were shouting (the news), and lights were shining, and the truth appeared in both meaning and word.",
+                "8": "They were blind and deaf, so the announcement of good tidings was not heard, nor was the lightning of warning seen.",
+                "9": "After their soothsayers had informed the people that their crooked religion would not stand.",
+                "10": "And after they saw shooting stars on the horizon falling, just as idols fell upon the earth.",
+                "11": "Until the devils were defeated and driven away from the path of revelation, fleeing one after another.",
+                "12": "As if in their flight they were the heroes of Abraha (the Elephant Army), or the army pelted with pebbles from his two palms.",
+                "13": "Thrown by him after they glorified God in his hands; like the throwing of the one who glorified God (Jonah) from the entrails of the swallower."
+            }
+        }
+    }
+}

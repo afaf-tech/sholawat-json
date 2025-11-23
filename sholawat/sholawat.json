@@ -55,6 +55,25 @@
                     "10.json"
                 ],
                 "schema": "burdah_fasl_v1.0.schema.json"
+            },
+            {
+                "source_name": "maktabah al mihrab",
+                "description": "burdah-fasl",
+                "path_files": "sholawat/burdah/maktabah-al-mihrab/fasl/",
+                "files": [
+                    "1.json",
+                    "2.json",
+                    "3.json",
+                    "4.json",
+                    "5.json",
+                    "6.json",
+                    "7.json",
+                    "8.json",
+                    "9.json",
+                    "10.json",
+                    "doa.json"
+                ],
+                "schema": "burdah_fasl_v1.1.schema.json"
             }
         ]
     },
