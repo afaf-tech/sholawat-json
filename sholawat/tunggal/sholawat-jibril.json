@@ -1,0 +1,86 @@
+{
+    "source": "detik hikmah",
+    "name": "صَلَاةُ جِبْرِيْل",
+    "latin": "Sholawat Jibril",
+    "text": {
+        "1": {
+            "arabic": "صَلَّى اللهُ عَلَى مُحَمَّد",
+            "latin": "Shallallaahu 'ala Muhammad"
+        },
+        "2": {
+            "arabic": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+            "latin": "Shallallah alaihi wasallam"
+        },
+        "3": {
+            "arabic": "صَلَّى اللهُ عَلَى مُحَمَّد",
+            "latin": "Shallallah ala muhammad"
+        },
+        "4": {
+            "arabic": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+            "latin": "Shallallah alaihi wasallam"
+        },
+        "5": {
+            "arabic": "أَنْتَ شَمْسٌ أَنْتَ بَدْرٌ",
+            "latin": "Anta Syamsun Anta Badrun"
+        },
+        "6": {
+            "arabic": "أَنْتَ نُوْرٌ فَوْقَ نُوْرِ",
+            "latin": "Anta nurun fauqo nurin"
+        },
+        "7": {
+            "arabic": "أَنْتَ شَمْسٌ أَنْتَ بَدْرٌ",
+            "latin": "Anta Syamsun Anta Badrun"
+        },
+        "8": {
+            "arabic": "أَنْتَ نُوْرٌ فَوْقَ نُوْرِ",
+            "latin": "Anta nurun fauqo nurin"
+        },
+        "9": {
+            "arabic": "أَنْتَ إِكْسِيْرٌ وَغَالِي",
+            "latin": "Anta iksiirun wa ghoolii"
+        },
+        "10": {
+            "arabic": "أَنْتَ مِصْبَاحُ الصُّدُوْرِ",
+            "latin": "Anta mishbaahush-shuduuri"
+        },
+        "11": {
+            "arabic": "يَاحَبِيْبِى يَامُحَمَّدْ",
+            "latin": "Ya habiibii Ya Muhammad"
+        },
+        "12": {
+            "arabic": "يَاعَرُوْسَ الْخَافِقَيْنِ",
+            "latin": "Ya 'Aruusal-khoofiqoini"
+        },
+        "13": {
+            "arabic": "يَامُؤَيَّدْ يَامُمَجَّدْ",
+            "latin": "Ya Mu-ayyad ya Mumajjad"
+        },
+        "14": {
+            "arabic": "يَاإِمَامَ الْقِبْلَتَيْنِ",
+            "latin": "Ya Imaamal Qiblataini"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Sholawat Jibril",
+            "translator": "Detik Hikmah",
+            "text": {
+                "1": "Semoga Sholawat dari Allah atas (Nabi) Muhammad.",
+                "2": "Semoga Sholawat dan salam dari Allah atasnya (Rasulullah).",
+                "3": "Semoga Sholawat dari Allah atas (Nabi) Muhammad.",
+                "4": "Semoga Sholawat dan salam dari Allah atasnya (Rasulullah).",
+                "5": "Engkau bagai matahari, engkau bagai bulan purnama.",
+                "6": "Engkau cahaya di atas cahaya.",
+                "7": "Engkau bagai matahari, engkau bagai bulan purnama.",
+                "8": "Engkau cahaya di atas cahaya.",
+                "9": "Engkau bagaikan emas murni yang mahal harganya.",
+                "10": "Engkaulah pelita hati.",
+                "11": "Wahai kekasihku, wahai Muhammad.",
+                "12": "Wahai pengantin tanah timur dan barat (sedunia).",
+                "13": "Wahai Nabi yang dikuatkan (dengan wahyu).",
+                "14": "Wahai Nabi yang diagungkan, wahai imam dua arah kiblat."
+            }
+        }
+    },
+    "last_updated": "2025-11-26"
+}
