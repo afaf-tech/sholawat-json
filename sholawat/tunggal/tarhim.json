@@ -55,6 +55,21 @@
                 "8": "Wahai yang sangat mulia akhlaknya, Ya Rasulullah",
                 "9": "Semoga shalawat selalu dilimpahkan kepadamu, untuk keluarga dan sahabatmu"
             }
+        },
+        "en": {
+            "name": "Blessings and Peace Upon You",
+            "translator": "Islamic Translation Team",
+            "text": {
+                "1": "Blessings and peace be upon you, O leader of the strivers. O Messenger of Allah",
+                "2": "Blessings and peace be upon you, O supporter of divine guidance, O the best of Allah's creation",
+                "3": "Blessings and peace be upon you, O helper of truth. O Messenger of Allah",
+                "4": "Blessings and peace be upon you",
+                "5": "O You whom the Protector made journey by night, You attained what You attained while all mankind was asleep",
+                "6": "You led the prayer and all the inhabitants of the heavens prayed behind you as their imam",
+                "7": "You were raised to Sidratul Muntaha in honor, and heard the call of peace upon you",
+                "8": "O You of the most noble character, O Messenger of Allah",
+                "9": "May Allah's blessings always be upon you, and upon your family and companions"
+            }
         }
     },
     "last_updated": "2025-11-26"
