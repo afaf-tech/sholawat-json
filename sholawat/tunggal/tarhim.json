@@ -1,0 +1,76 @@
+{
+    "source": "nu online",
+    "name": "تَرْحِيْمْ",
+    "latin": "Tarhim",
+    "text": {
+        "1": {
+            "arabic": "الصَّلَاةُ وَالسَّلَامُ عَلَيْكَ يَاإمَامَ الْمُجَاهِدِيْنَ يَارَسُوْلَ اللهْ",
+            "latin": "Ash-shalaatu was-salaamu 'alaiyk, Yaa imaamal mujaahidiin, Yaa Rasuulallaah"
+        },
+        "2": {
+            "arabic": "الصَّلَاةُ وَالسَّلَامُ عَلَيْكَ يَانَاصِرَ اْلهُدَى يَا خَيْرَ خَلْقِ اللهْ",
+            "latin": "Ash-shalaatu was-salaamu 'alaaik, Yaa naashiral hudaa, Yaa khayra khalqillaah"
+        },
+        "3": {
+            "arabic": "الصَّلَاةُ وَالسَّلَامُ عَلَيْكَ يَانَاصِرَ الْحَقِّ يَارَسُوْلَ اللهْ",
+            "latin": "Ash-shalaatu was-salaamu 'alaaik, Yaa naashiral haqqi yaa Rasuulallaah"
+        },
+        "4": {
+            "arabic": "الصَّلَاةُ وَالسَّلَامُ عَلَيْكَ",
+            "latin": "Ash-shalaatu was-salaamu 'alaaik"
+        },
+        "5": {
+            "arabic": "يَامَنْ اَسْرَى بِكَ مُهَيْمِنُ لَيْلًا نِلْتَ مَا نِلْتَ وَالأَنَامُ نِيَامْ",
+            "latin": "Yaa Man asraa bikal muhayminu laylan nilta, Maa nilta wal-anaamu niyaamu"
+        },
+        "6": {
+            "arabic": "وَتَقَدَّمْتَ لِلصَّلَاةِ فَصَلَّ كُلُّ مَنْ فِى السَّمَاءِ وَاَنْتَ الْإِمَامْ",
+            "latin": "Wa taqaddamta lish-shalaati fashallaa kulu man fis-samaai wa antal imaamu"
+        },
+        "7": {
+            "arabic": "وَاِلَى الْمُنْتَهَى رُفِعْتَ كَرِيْمًا وَ سَمِعْتَ نِدَاءً عَلَيْكَ السَّلَامْ",
+            "latin": "wa ilal muntahaa rufi'ta kariiman wa ilal muntahaa rufi'ta kariiman wa sai'tan nidaa 'alaykas salaam"
+        },
+        "8": {
+            "arabic": "يَا كَرِمَ الْأَخْلَاقْ يَارَسُوْلَ اللهْ",
+            "latin": "Yaa kariimal akhlaaq yaa Rasuulallaah"
+        },
+        "9": {
+            "arabic": "صَلىَ اللهُ عَلَيْكَ وَ عَلىَ عَلِكَ وَ اَصْحَابِكَ أجْمَعِيْنَ",
+            "latin": "Shallallaahu 'alayka, Wa 'alaa 'aalika wa ashhaabika ajma'iin"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Shalawat dan Salam Untukmu",
+            "translator": "NU Online",
+            "text": {
+                "1": "Shalawat dan salam semoga dilimpahkan padamu wahai pemimpin para pejuang. Ya Rasulullah",
+                "2": "Shalawat serta salam semoga diberikan kepadamu wahai penuntun petunjuk Ilahi, wahai makhluk yang paling baik",
+                "3": "Shalawat dan salam semoga tercurahkan atasmu, wahai penolong kebenaran. Ya Rasulullah",
+                "4": "Shalawat dan salam semoga tercurahkan kepadamu",
+                "5": "Duhai Yang Memperjalankanmu pada malam hari, Dialah Yang Maha Melindungi, Kau memperoleh apa yang engkau dapat sedangkan seluruh manusia tidur",
+                "6": "Di belakangmu ada semua penghuni langit saat mengerjakan shalat dan engkau jadi imam",
+                "7": "Kau diberangkatkan menuju Sidratul Muntaha sebab kemulianmu, dan suara ucapan salam atasmu kau dengar",
+                "8": "Wahai yang sangat mulia akhlaknya, Ya Rasulullah",
+                "9": "Semoga shalawat selalu dilimpahkan kepadamu, untuk keluarga dan sahabatmu"
+            }
+        },
+        "en": {
+            "name": "Blessings and Peace Upon You",
+            "translator": "Islamic Translation Team",
+            "text": {
+                "1": "Blessings and peace be upon you, O leader of the strivers. O Messenger of Allah",
+                "2": "Blessings and peace be upon you, O supporter of divine guidance, O the best of Allah's creation",
+                "3": "Blessings and peace be upon you, O helper of truth. O Messenger of Allah",
+                "4": "Blessings and peace be upon you",
+                "5": "O You whom the Protector made journey by night, You attained what You attained while all mankind was asleep",
+                "6": "You led the prayer and all the inhabitants of the heavens prayed behind you as their imam",
+                "7": "You were raised to Sidratul Muntaha in honor, and heard the call of peace upon you",
+                "8": "O You of the most noble character, O Messenger of Allah",
+                "9": "May Allah's blessings always be upon you, and upon your family and companions"
+            }
+        }
+    },
+    "last_updated": "2025-11-26"
+}

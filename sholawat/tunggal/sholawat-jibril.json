@@ -1,0 +1,106 @@
+{
+    "source": "detik hikmah",
+    "name": "صَلَاةُ جِبْرِيْل",
+    "latin": "Sholawat Jibril",
+    "text": {
+        "1": {
+            "arabic": "صَلَّى اللهُ عَلَى مُحَمَّد",
+            "latin": "Shallallaahu 'ala Muhammad"
+        },
+        "2": {
+            "arabic": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+            "latin": "Shallallah alaihi wasallam"
+        },
+        "3": {
+            "arabic": "صَلَّى اللهُ عَلَى مُحَمَّد",
+            "latin": "Shallallah ala muhammad"
+        },
+        "4": {
+            "arabic": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+            "latin": "Shallallah alaihi wasallam"
+        },
+        "5": {
+            "arabic": "أَنْتَ شَمْسٌ أَنْتَ بَدْرٌ",
+            "latin": "Anta Syamsun Anta Badrun"
+        },
+        "6": {
+            "arabic": "أَنْتَ نُوْرٌ فَوْقَ نُوْرِ",
+            "latin": "Anta nurun fauqo nurin"
+        },
+        "7": {
+            "arabic": "أَنْتَ شَمْسٌ أَنْتَ بَدْرٌ",
+            "latin": "Anta Syamsun Anta Badrun"
+        },
+        "8": {
+            "arabic": "أَنْتَ نُوْرٌ فَوْقَ نُوْرِ",
+            "latin": "Anta nurun fauqo nurin"
+        },
+        "9": {
+            "arabic": "أَنْتَ إِكْسِيْرٌ وَغَالِي",
+            "latin": "Anta iksiirun wa ghoolii"
+        },
+        "10": {
+            "arabic": "أَنْتَ مِصْبَاحُ الصُّدُوْرِ",
+            "latin": "Anta mishbaahush-shuduuri"
+        },
+        "11": {
+            "arabic": "يَاحَبِيْبِى يَامُحَمَّدْ",
+            "latin": "Ya habiibii Ya Muhammad"
+        },
+        "12": {
+            "arabic": "يَاعَرُوْسَ الْخَافِقَيْنِ",
+            "latin": "Ya 'Aruusal-khoofiqoini"
+        },
+        "13": {
+            "arabic": "يَامُؤَيَّدْ يَامُمَجَّدْ",
+            "latin": "Ya Mu-ayyad ya Mumajjad"
+        },
+        "14": {
+            "arabic": "يَاإِمَامَ الْقِبْلَتَيْنِ",
+            "latin": "Ya Imaamal Qiblataini"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Sholawat Jibril",
+            "translator": "Detik Hikmah",
+            "text": {
+                "1": "Semoga Sholawat dari Allah atas (Nabi) Muhammad.",
+                "2": "Semoga Sholawat dan salam dari Allah atasnya (Rasulullah).",
+                "3": "Semoga Sholawat dari Allah atas (Nabi) Muhammad.",
+                "4": "Semoga Sholawat dan salam dari Allah atasnya (Rasulullah).",
+                "5": "Engkau bagai matahari, engkau bagai bulan purnama.",
+                "6": "Engkau cahaya di atas cahaya.",
+                "7": "Engkau bagai matahari, engkau bagai bulan purnama.",
+                "8": "Engkau cahaya di atas cahaya.",
+                "9": "Engkau bagaikan emas murni yang mahal harganya.",
+                "10": "Engkaulah pelita hati.",
+                "11": "Wahai kekasihku, wahai Muhammad.",
+                "12": "Wahai pengantin tanah timur dan barat (sedunia).",
+                "13": "Wahai Nabi yang dikuatkan (dengan wahyu).",
+                "14": "Wahai Nabi yang diagungkan, wahai imam dua arah kiblat."
+            }
+        },
+        "en": {
+            "name": "Sholawat Jibril",
+            "translator": "Islamic Translation Team",
+            "text": {
+                "1": "May Allah's blessings be upon (Prophet) Muhammad.",
+                "2": "May Allah's blessings and peace be upon him (the Messenger of Allah).",
+                "3": "May Allah's blessings be upon (Prophet) Muhammad.",
+                "4": "May Allah's blessings and peace be upon him (the Messenger of Allah).",
+                "5": "You are like the sun, you are like the full moon.",
+                "6": "You are light upon light.",
+                "7": "You are like the sun, you are like the full moon.",
+                "8": "You are light upon light.",
+                "9": "You are like pure gold that is precious.",
+                "10": "You are the lamp of hearts.",
+                "11": "O my beloved, O Muhammad.",
+                "12": "O bridegroom of the East and West (the whole world).",
+                "13": "O Prophet who was strengthened (with revelation).",
+                "14": "O glorified Prophet, O imam of the two qiblas."
+            }
+        }
+    },
+    "last_updated": "2025-11-26"
+}
