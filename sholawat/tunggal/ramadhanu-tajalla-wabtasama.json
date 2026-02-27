@@ -1,0 +1,56 @@
+{
+  "source": "kitabkuning.id",
+  "name": "رَمَضَانُ تَجَلَّى وَابْتَسَمَ",
+  "latin": "Ramadhanu Tajalla Wabtasama",
+  "text": {
+    "1": {
+      "arabic": "رَمَضَانُ تَجَلَّى وَابْتَسَمَ — طُوْبٰى لِلْعَبْدِ إِذَا اغْتَنَمَ",
+      "latin": "Ramaḍhānu tajallā wabtaṣama — ṭhūbā lil-'abdi iḏzāgtanam"
+    },
+    "2": {
+      "arabic": "اَرْضَى مَوْلَاهُ بِمَا الْتَزَمَ — طُوْبٰى لِلنَّفْسِ بِتَقْوَاهَا",
+      "latin": "Arḍhā mawlahu bimāl-tazama — ṭhūbā lin-nafsi bi taqwāhā"
+    },
+    "3": {
+      "arabic": "رَمَضَانُ زَمَانُ الْبَرَكَاتِ — رَمَضَانُ زَمَانُ الْحَسَنَاتِ",
+      "latin": "Ramaḍhānu zamānul-barakāti — Ramaḍhānu zamānul-ḥasanāti"
+    },
+    "4": {
+      "arabic": "رَمَضَانُ فَجَالُ الصَّلَوَاتِ — تَسْمُو لِلنَّفْسِ بِمَوْلَاهَا",
+      "latin": "Ramaḍhānu fajāluṣh-ṣhalawāti — tasmū lin-nafsi bi mawlāhā"
+    },
+    "5": {
+      "arabic": "رَمَضَانُ طهُوْرُ الْأَرْوَاح — رَمَضَانُ زَمَانُ الْأَفْرَاحِ",
+      "latin": "Ramaḍhānu ṭhahūrul-arwāḥ — Ramaḍhānu zamānul-afrāḥ"
+    },
+    "6": {
+      "arabic": "رَمَضَانُ مَنَارُ الْإِصْلَاحِ — بِدُنْيَا النَّاسِ وَأُخْرَاهَا",
+      "latin": "Ramaḍhānu manārul-iṣhlāḥi — bi dunyān-nāsi wa-ukhrahā"
+    },
+    "7": {
+      "arabic": "رَمَضَانُ يُكَفِّرُ مَا فَرَّطَ — مِنْ خَطَأ النَّاسِ وَمَا اخْتَلَطَ",
+      "latin": "Ramaḍhānu yukaffiru mā farraṭha — min khaṭan-nāsi wa-mākhtalaṭha"
+    },
+    "8": {
+      "arabic": "فَعَسٰى مِنْ عَفْوِا اللهِ عَطَا — لِقُلُوْبِ الْأُمَّةِ يَرْعَاهَا",
+      "latin": "Fa-'asā min 'afwillāhi 'aṭhā — li qulūbil-ummah yar'āhā"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ramadhan Telah Datang dan Tersenyum",
+      "translator": "kitabkuning.id",
+      "text": {
+        "1": "Ramadhan telah datang dan tersenyum — berbahagialah hamba yang memanfaatkannya",
+        "2": "Dia telah meridhakan Tuhannya dengan apa yang dia lakukan — berbahagialah jiwa dengan ketakwaannya",
+        "3": "Ramadhan adalah waktu keberkahan — Ramadhan adalah waktu kebaikan",
+        "4": "Ramadhan adalah lautan shalat — yang mengangkat jiwa kepada Tuhannya",
+        "5": "Ramadhan adalah penyucian jiwa — Ramadhan adalah waktu kebahagiaan",
+        "6": "Ramadhan adalah mercusuar perbaikan — di dunia dan akhirat manusia",
+        "7": "Ramadhan menghapus apa yang telah diabaikan — dari kesalahan manusia dan apa yang telah tercampur",
+        "8": "Semoga dengan ampunan Allah — Dia memelihara hati umat"
+      }
+    }
+  },
+  "last_updated": "2026-02-28"
+}
