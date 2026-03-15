@@ -4,95 +4,95 @@
   "latin": "Rahman Ya Rahman",
   "text": {
     "1": {
-      "arabic": "رﺣﻤﻦ ﯾﺎ رﺣﻤﻦ",
+      "arabic": "رَحْمٰن يَا رَحْمٰن",
       "latin": "Raḥmān Yā Raḥmān"
     },
     "2": {
-      "arabic": "ﺳﺎﻋﺪﻧﻲ ﯾﺎ رﺣﻤﻦ",
+      "arabic": "سَاعِدْنِيْ يَا رَحْمٰن",
       "latin": "Sā’idnī Yā Raḥmān"
     },
     "3": {
-      "arabic": "اﺷﺮح ﺻﺪري ﻗﺮآن",
+      "arabic": "اِشْرَحْ صَدْرِيْ قُرْآن",
       "latin": "Isyroḥ ṣodrī Qur-ān"
     },
     "4": {
-      "arabic": "أﻣﻸ ﻗﻠﺒﻲ ﻗﺮآن",
+      "arabic": "اِمْلَأْ قَلْبِيْ قُرْآن",
       "latin": "Imla’ qolbī Qur-ān"
     },
     "5": {
-      "arabic": "واﺳﻘﻲ ﺣﯿﺎﺗﻲ ﻗﺮآن",
+      "arabic": "وَاسْقِيْ حَيَاتِيْ قُرْآن",
       "latin": "Wasqī ḥayātī Qur-ān"
     },
     "6": {
-      "arabic": "ﷲ ﷲ ﯾﻬﻔﻮ أﻣﻠﻲ ﷲ",
+      "arabic": "لِلّٰهِ لِلّٰهِ يَهْفُوْ أَمَلِيْ لِلّٰهِ",
       "latin": "Lillāh lillāh yahfū amalī lillāh"
     },
     "7": {
-      "arabic": "وﻟﺤﻔﻆ ِ ﻛﺘﺎب ِ اﷲ",
+      "arabic": "وَلِحِفْظِ كِتَابِ اللهِ",
       "latin": "Wa liḥifdhi kitābillāh"
     },
     "8": {
-      "arabic": "ﻣﻦ أول ِ ﺑﺎﺳﻢ ِاﷲ",
+      "arabic": "مِنْ أَوَّلِ بِسْمِ اللهِ",
       "latin": "Min awwali bismillāh"
     },
     "9": {
-      "arabic": "ﻟﻠﺨﺘﻢ وﻟﻠﺮﺿﻮان",
+      "arabic": "لِلْخَتْمِ وَلِلرِّضْوَان",
       "latin": "Lil khotmi wa lir-riḍwān"
     },
     "10": {
-      "arabic": "ﯾﺎ ﻧﻮر ﯾﺎ ﻧﻮر",
+      "arabic": "يَا نُوْرُ يَا نُوْرُ",
       "latin": "Yā Nūr Yā Nūr"
     },
     "11": {
-      "arabic": "ﯾﺎ ﻣــُـﺤﻜﻢ ﯾﺎ ﺗﻨﺰﯾﻞ",
+      "arabic": "يَا مُحْكَمُ يَا تَنْزِيْلُ",
       "latin": "Yā muḥkamu yā tanzīl"
     },
     "12": {
-      "arabic": "ﻟﻤﺤﻤﺪ ﻋﻦ ﺟﺒﺮﯾﻞ",
+      "arabic": "لِمُحَمَّدٍ عَنْ جِبْرِيْل",
       "latin": "Li Muḥammadin ‘an Jibrīl"
     },
     "13": {
-      "arabic": "ﻣﻦ رب اﻟﻌﺮش دﻟﯿﻞ",
+      "arabic": "مِنْ رَبِّ الْعَرْشِ دَلِيْل",
       "latin": "Min Rabbil ‘arsyi dalīl"
     },
     "14": {
-      "arabic": "ﻟﻠﻌﺎﻟﻢ واﻷﻧﺴﺎن",
+      "arabic": "لِلْعَالَمِ وَالْإِنْسَان",
       "latin": "Lil ‘ālami wal insān"
     },
     "15": {
-      "arabic": "ﺗﻜﺒﯿﺮ ﺗﻜﺒﯿﺮ",
+      "arabic": "تَكْبِيْرُ تَكْبِيْرُ",
       "latin": "Takbīr takbīr"
     },
     "16": {
-      "arabic": "ﻟﻠﺤﺎﻓﻆ ِ وﻫﻮ ﺻﻐﯿﺮ",
+      "arabic": "لِلْحَافِظِ وَهُوَ صَغِيْر",
       "latin": "Lil ḥāfidzi wa huwa ṣoghīr"
     },
     "17": {
-      "arabic": "وﺿـّﺎء اﻟﻌﯿﻦ ﻗﺮﯾﺮ",
+      "arabic": "وَضَّاءُ الْعَيْنِ قَرِيْرُ",
       "latin": "Waḍḍā-ul ‘aini qarīr"
     },
     "18": {
-      "arabic": "ﯾﺤﻤﻞ ُ ﻓﺠﺮا ً ﻟﯿــُـﻨﯿﺮ",
+      "arabic": "يَحْمِلُ فَجْرًا لِيُنِيْر",
       "latin": "Yaḥmilu fajron liyunīr"
     },
     "19": {
-      "arabic": "ﺑﺘﻼوﺗﻪ اﻷﻛﻮان",
+      "arabic": "بِتِلَاوَتِهِ الْأَكْوَان",
       "latin": "Bitilāwatihil akwān"
     },
     "20": {
-      "arabic": "اﷲ اﷲ اﻟﻠﻬﻢ اﺟﻤﻌﻨﺎ",
+      "arabic": "اَللّٰهُ اَللّٰهُ اَللّٰهُمَّ اجْمَعْنَا",
       "latin": "Allāh Allāh Allāhummajma’nā"
     },
     "21": {
-      "arabic": "ﺑﻜﺘﺎﺑﻚ و اﻧﻔﻌﻨﺎ",
+      "arabic": "بِكِتَابِكَ وَ انْفَعْنَا",
       "latin": "Bikitābika wanfa’nā"
     },
     "22": {
-      "arabic": "واﺟﻌﻠﻪ ﻟﻨﺎ ﺣﺼﻨﺎ",
+      "arabic": "وَاجْعَلْهُ لَنَا حِصْنًا",
       "latin": "Waj’alhu lanā ḥiṣnā"
     },
     "23": {
-      "arabic": "وﻫﺪى أﺑﺪا وأﻣﺎن",
+      "arabic": "وَهُدًى أَبَدًا وَأَمَان",
       "latin": "Wa hudan abadan wa amān"
     }
   },
@@ -126,5 +126,5 @@
       }
     }
   },
-  "last_updated": "2025-11-17"
+  "last_updated": "2026-03-15"
 }

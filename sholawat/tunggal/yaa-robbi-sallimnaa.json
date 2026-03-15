@@ -1,0 +1,33 @@
+{
+  "source": "kitabkuning.id",
+  "author": null,
+  "transmitter": null,
+  "name": "يَارَبِّ سَلِّمْنَا",
+  "latin": "Yaa robbi sallimnaa",
+  "text": {
+    "1": {
+      "arabic": "رَبِّ يَا رَبِّ يَا رَبِّ سَلِّمْنَا — رَبِّ يَا رَبِّ يَا رَبِّ سَلِّمْنَا",
+      "latin": "Rabbi yā rabbī yā rabbī sallimnā — rabbī yā rabbī yā rabbī sallimnā"
+    },
+    "2": {
+      "arabic": "كُلُّ الْهِدَايَة مِنْكَ يَا اَللهُ — حَبْلٌ لِتَقْوٰى إِلَيْكَ يَا رَبِّي كُلُّ الزَّمَان",
+      "latin": "Kullul-hidāyati minka yā Allāh — ḥablun li taqwā ilayka yā rabbī kulluz-zamān"
+    },
+    "3": {
+      "arabic": "وَاخْتِمْ لَنَا فِي كُلِّ حَالِنَا — مَمْلُوأً بِالْحِكْمَةِ مَمْلُوأً بِالْإِيْمَانْ",
+      "latin": "Wakḥtim lanā fī kulli ḥālinā — mamlū-an bil-ḥikmati mamlū-an bil-īmān"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ya Tuhan Selamatkanlah Kami",
+      "translator": "kitabkuning.id",
+      "text": {
+        "1": "Ya Tuhan, ya Tuhan, ya Tuhan, selamatkanlah kami — ya Tuhan, ya Tuhan, ya Tuhan, selamatkanlah kami",
+        "2": "Segala petunjuk berasal dari-Mu ya Allah — tali untuk bertaqwa kepada-Mu ya Tuhanku di setiap waktu",
+        "3": "Dan akhirilah setiap keadaan kami — dengan penuh kebijaksanaan dan penuh keimanan"
+      }
+    }
+  },
+  "last_updated": "2026-03-15"
+}

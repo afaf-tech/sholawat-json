@@ -4,27 +4,27 @@
   "latin": "Addînu lanâ wal haqqu lanâ",
   "text": {
     "1": {
-      "arabic": "الدين لنا والحق لنا ، والعدل لنا والکل لنا",
+      "arabic": "اَلدِّيْنُ لَنَا وَالْحَقُّ لَنَا ، وَالْعَدْلُ لَنَا وَالْكُلُّ لَنَا",
       "latin": "Addînu lanâ wal haqqu lanâ wal 'ad-lu lanâ wal kullu lanâ"
     },
     "2": {
-      "arabic": "اضحی الإسلام لنا دينا ، وجميع الگون لنا وطنا",
+      "arabic": "أَضْحَى الْإِسْلَامُ لَنَا دِيْنًا ، وَجَمِيْعُ الْكَوْنِ لَنَا وَطَنًا",
       "latin": "Adlhâl islâmu lanâ dînâ wa jamî'ul kawni lanâ wathonâ"
     },
     "3": {
-      "arabic": "توحيد الله لنا نور ، اعددنا الروح له سگنا",
+      "arabic": "تَوْحِيْدُ اللهِ لَنَا نُوْرٌ ، أَعْدَدْنَا الرُّوْحَ لَهُ سَكَنًا",
       "latin": "Tawhîdullâhi lanâ nûrun a'dadnâr-rûha lahu sakanâ"
     },
     "4": {
-      "arabic": "هو اول بيت نحفظه ، بحياة الروح ويحفظنا",
+      "arabic": "هُوَ أَوَّلُ بَيْتٍ نَحْفَظُهُ ، بِحَيَاةِ الرُّوْحِ وَيَحْفَظُنَا",
       "latin": "Huwa awwalu baitin nahfadhuhu bihayâtir-rûhi wa yahfadhunâ"
     },
     "5": {
-      "arabic": "علم الإسلام علی الأيام ، شعار المجد لملتنا",
+      "arabic": "عَلَمُ الْإِسْلَامِ عَلَى الْأَيَّامِ ، شِعَارُ الْمَجْدِ لِمِلَّتِنَا",
       "latin": "'Alamul islâmi 'alâl ayyâm syi'ârul majdi limillatinâ"
     },
     "6": {
-      "arabic": "الگون يزول ولا تمحی ، بالدهر صحائف سؤددنا",
+      "arabic": "الْكَوْنُ يَزُوْلُ وَلَا تُمْحَى ، بِالدَّهْرِ صَحَائِفُ سُؤْدَدِنَا",
       "latin": "Alkawnu yazûlu walâ tumhâ biddahri shohâ-if su,dadinâ"
     }
   },
@@ -42,5 +42,5 @@
       }
     }
   },
-  "last_updated": "2025-11-21"
+  "last_updated": "2026-03-15"
 }

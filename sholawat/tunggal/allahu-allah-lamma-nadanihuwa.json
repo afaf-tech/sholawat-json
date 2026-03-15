@@ -1,76 +1,101 @@
 {
   "source": "dutaislam.or.id",
-  "name": "ألله ألله لما ندنی هو",
+  "name": "اَللّٰهُ اَللّٰهُ لَمَّا نَدَانِي هُوَ",
   "latin": "Allâhu Allâh lammâ nadanî huwa",
   "text": {
     "1": {
-      "arabic": "ألله ألله لما ندنی هو ، فصرت عبدا مملوکا له هو",
+      "arabic": "اَللّٰهُ اَللّٰهُ لَمَّا نَدَانِي هُوَ ، فَصِرْتُ عَبْدًا مَمْلُوْكًا لَهُ هُوَ",
       "latin": "Allâhu Allâh lammâ nadanî huwa , fashirtu ‘abdân mamlûkân lahu huwa"
     },
     "2": {
-      "arabic": "خير البرية نظرة إلي ، ما أنت إلا گنز العطية",
+      "arabic": "خَيْرَ الْبَرِيَّةِ نَظْرَةً إِلَيَّ ، مَا أَنْتَ إِلَّا كَنْزُ الْعَطِيَّةِ",
       "latin": "Khoiril bariyyah nadhroh ilayya  mâ anta illâ kanzul ‘athiyyah"
     },
     "3": {
-      "arabic": "يا بحر فضل وتاج عدل ، جدلي بوصل قبل المنية",
+      "arabic": "يَا بَحْرَ فَضْلٍ وَتَاجَ عَدْلٍ ، جُدْ لِي بِوَصْلٍ قَبْلَ الْمَنِيَّةِ",
       "latin": "Yâ bahro fadl-lin wa tâja ‘ad-lin  jud lî biwashlin qoblal maniyyah"
     },
     "4": {
-      "arabic": "گم ذا أنادي يا خير هادي ، يکفي عبادی يا نور عينيا",
+      "arabic": "كَمْ ذَا أُنَادِي يَا خَيْرَ هَادِي ، يَكْفِي عِبَادِي يَا نُوْرَ عَيْنَيَّ",
       "latin": "Kam dzâ unâdî yâ khoiro hâdî  yakfî ‘ibâdî yâ nûro ‘ainayyâ"
     },
     "5": {
-      "arabic": "حاشاك تغفل عنا وتبخل ياخير مرسل إرحم شجية",
+      "arabic": "حَاشَاكَ تَغْفُلُ عَنَّا وَتَبْخَلُ يَا خَيْرَ مُرْسَلٍ اِرْحَمْ شَجِيَّةً",
       "latin": "Hâsyâka taghful ‘annâ wa tabkhul yâ khoiro mursal irham syajiyyah"
     },
     "6": {
-      "arabic": "إني محب بذکر أحمد ، بشر محبا ولو برؤيا",
+      "arabic": "إِنِّي مُحِبٌّ بِذِكْرِ أَحْمَدَ ، بَشِّرْ مُحِبًّا وَلَوْ بِرُؤْيَا",
       "latin": "Innî muhibbun bidzikri Ahmad  basyir muhibbân walau biru,yâ"
     },
     "7": {
-      "arabic": "أهديك حبي صلاة ربی ، مادام قلبی بالذکر حيا",
+      "arabic": "أُهْدِيْكَ حُبِّي صَلَاةَ رَبِّي ، مَادَامَ قَلْبِي بِالذِّكْرِ حَيًّا",
       "latin": "Uhdîka hibbî sholâta robbî  mâ dâma qolbî bidzdzikri hayyâ"
     },
     "8": {
-      "arabic": "لو لاك يازينة الوجود ، ماطاب عيشی ولا وجودي",
+      "arabic": "لَوْلَاكَ يَا زِيْنَةَ الْوُجُوْدِ ، مَا طَابَ عَيْشِي وَلَا وُجُوْدِي",
       "latin": "Laulâka yâ zînatal wujûdi mâ thôba ‘aisyî walâ wujûdî"
     },
     "9": {
-      "arabic": "ولا نرنمت فی صلاتي ، ولا رکوعی ولا سجودي",
+      "arabic": "وَلَا تَرَنَّمْتُ فِي صَلَاتِي ، وَلَا رُكُوْعِي وَلَا سُجُوْدِي",
       "latin": "Wa lâ naronnamtu fî sholâtî  wa lâ rukû’î wa lâ sujûdî"
     },
     "10": {
-      "arabic": "أيا ليالي الرضا علينا ، عودی ليحضر منك عودی",
+      "arabic": "أَيَا لَيَالِي الرِّضَا عَلَيْنَا ، عُوْدِي لِيَحْضُرْ مِنْكَ عُوْدِي",
       "latin": "Ayâ layâlîr-ridlô ‘alainâ  ‘ûdî liyahdlur minka ‘ûdî"
     },
     "11": {
-      "arabic": "عودي علينا بکل خير ، بالمصطفی طيب الجدود",
+      "arabic": "عُوْدِي عَلَيْنَا بِكُلِّ خَيْرٍ ، بِالْمُصْطَفَى طِيْبِ الْجُدُوْدِ",
       "latin": "‘Ûdî ‘alainâ bikulli khoirin  bil Mushthofâ thîbil judûdi"
     },
     "12": {
-      "arabic": "بالله عيدوا وصال عيدوا ، فإن شوقی لکم يزيدوا",
+      "arabic": "بِاللّٰهِ عِيْدُوْا وِصَالِي عِيْدُوْا ، فَإِنَّ شَوْقِي إِلَيْكُمْ يَزِيْدُ",
       "latin": "Billâhi ‘îdû wishôli ‘îdû fa inna syauqî lakum yazîdû"
     },
     "13": {
-      "arabic": "وجددوا کل يوم وصل ، فإن يوم وصال عيدوا",
+      "arabic": "وَجَدِّدُوْا كُلَّ يَوْمٍ وَصْلًا ، فَإِنَّ يَوْمَ وِصَالِ عِيْدُ",
       "latin": "Wa jaddidû kulla yaumi washli fa inna yauma wishôli ‘îdû"
     },
     "14": {
-      "arabic": "خذوا فؤادی وفتشوه ، وقلبوه گما تريدوا",
+      "arabic": "خُذُوْا فُؤَادِي وَفَتِّشُوْهُ ، وَقَلِّبُوْهُ كَمَا تُرِيْدُوْا",
       "latin": "Khudzû fu-âdî wa fattisyûhu  wa qollibûhu kamâ turîdû"
     },
     "15": {
-      "arabic": "فإن وجدتم فيه سواکم ، علي زيدوا البعاد زيدوا",
+      "arabic": "فَإِنْ وَجَدْتُمْ فِيْهِ سِوَاكُمْ ، عَلَيَّ زِيْدُوْا الْبِعَادَ زِيْدُوْا",
       "latin": "Fa in wajadtum fîhi siwâkum  ‘alayya zîdûl bi’âda zîdû"
     },
     "16": {
-      "arabic": "ثم الصلاة علی نبينا ، وآله الرکع السجود",
+      "arabic": "ثُمَّ الصَّلَاةُ عَلَى نَبِيِّنَا ، وَآلِهِ الرُّكَّعِ السُّجُوْدِ",
       "latin": "Tsummas-sholâtu ‘alâ nabînâ  wa ãlihir-rukka’is-sujûdi"
     },
     "17": {
-      "arabic": "گذا سلامي علی الدوام ، عند الصباح مع العشية",
+      "arabic": "كَذَا سَلَامِي عَلَى الدَّوَامِ ، عِنْدَ الصَّبَاحِ مَعَ الْعَشِيَّةِ",
       "latin": "Kadzâ salâmî ‘alâd-dawâm  ‘indash-shobâhi ma’al ‘asyiyyah"
     }
   },
-  "translations": null
+  "translations": {
+    "id": {
+      "name": "Allah Allah Ketika Dia Memanggilku",
+      "translator": "Duta Islam",
+      "text": {
+        "1": "Allah, Allah, ketika Dia memanggilku, maka aku menjadi hamba yang dimiliki oleh-Nya",
+        "2": "Sebaik-baik ciptaan, pandanglah diriku, tidaklah engkau melainkan harta karun pemberian",
+        "3": "Wahai lautan anugerah dan mahkota keadilan, bermurah hatilah padaku dengan pertemuan sebelum kematian",
+        "4": "Betapa sering aku menyeru wahai sebaik-baik pemberi petunjuk, cukuplah hamba-hambaku, wahai cahaya mataku",
+        "5": "Sekali-kali engkau tidak akan lalai dari kami dan pelit wahai sebaik-baik utusan, kasihanilah yang dilanda kesedihan",
+        "6": "Sesungguhnya aku adalah pencinta dengan mengingat Ahmad, berilah kabar gembira kepada pencinta walau hanya dalam mimpi",
+        "7": "Aku hadiahkan padamu cintaku, selawat Tuhanku, selama hatiku hidup dengan zikir",
+        "8": "Seandainya bukan karena engkau wahai perhiasan wujud, tidak akan baik hidupku dan wujudku",
+        "9": "Dan tidaklah aku bersenandung di selawatku, rukukku, dan sujudku",
+        "10": "Wahai malam-malam keridaan atas kami, kembalilah agar kembali padamu kebahagiaanku",
+        "11": "Kembalilah pada kami dengan segala kebaikan, dengan Al-Musthafa yang baik keturunannya",
+        "12": "Demi Allah kembalikanlah pertemuanku, kembalikanlah, karena sesungguhnya rinduku pada kalian bertambah",
+        "13": "Dan perbaruilah setiap hari pertemuan, karena sesungguhnya hari pertemuan adalah hari raya",
+        "14": "Ambillah hatiku dan periksalah, dan bolak-balikkanlah sebagaimana kalian inginkan",
+        "15": "Maka jika kalian menemukan di dalamnya selain kalian, tambahkanlah padaku jarak dan kejauhan",
+        "16": "Kemudian selawat atas nabi kita, dan keluarganya yang rukuk dan sujud",
+        "17": "Demikian juga salamku secara terus-menerus, di waktu pagi dan petang"
+      }
+    }
+  },
+  "last_updated": "2026-03-15"
 }
