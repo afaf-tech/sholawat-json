@@ -4,15 +4,15 @@
   "latin": "Azka Solati Wa Salami Li Rasulillah",
   "text": {
     "1": {
-      "arabic": "الحمد لله والشكر لله أزكى صلاتي وسلامي لرسول الله",
+      "arabic": "اَلْحَمْدُ لِلّٰهِ وَالشُّكْرُ لِلّٰهِ أَزْكَى صَلَاتِيْ وَسَلَامِيْ لِرَسُوْلِ اللهِ",
       "latin": "Alhamdulillahi wasy syukru lillahi azka sholati wa salami lirasulillah"
     },
     "2": {
-      "arabic": "صل وسلم على المعلم أحمد محمد يا سيدي خير البرية",
+      "arabic": "صَلِّ وَسَلِّمْ عَلَى الْمُعَلِّمْ أَحْمَدْ مُحَمَّدْ يَا سَيِّدِيْ خَيْرَ الْبَرِيَّةْ",
       "latin": "Sholli wa sallim 'alal mu'allim ahmad muhammad ya sayyidi khoirul bariyyah"
     },
     "3": {
-      "arabic": "هذه المدينة فيها نبينا فيها أبو الزهرا يا سيدي خير البرية",
+      "arabic": "هٰذِهِ الْمَدِيْنَةْ فِيْهَا نَبِيُّنَا فِيْهَا أَبُوْ الزَّهْرَاء يَا سَيِّدِيْ خَيْرَ الْبَرِيَّةْ",
       "latin": "Hadzihi al madinatu fiha nabiyuna fiha abuz zahra ya sayyidi khoirul bariyyah"
     }
   },
@@ -27,5 +27,5 @@
       }
     }
   },
-  "last_updated": "2025-11-21"
+  "last_updated": "2026-03-15"
 }

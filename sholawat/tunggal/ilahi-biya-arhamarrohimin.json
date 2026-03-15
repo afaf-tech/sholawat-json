@@ -4,27 +4,27 @@
   "latin": "Ilahi Biya Arhamar Rohimin",
   "text": {
     "1": {
-      "arabic": "الهي بيا ارحم الراحمين * بسر الكتاب القديم المبين",
+      "arabic": "اِلٰهِيْ بِيَا أَرْحَمَ الرَّاحِمِيْنَ * بِسِرِّ الْكِتَابِ الْقَدِيْمِ الْمُبِيْنِ",
       "latin": "Ilahi biya arhamar rohimin * bisirril kitabil qadimil mubin"
     },
     "2": {
-      "arabic": "بحرمة طه الحبيب الأمين * أغثنا وفرج عن المسلمين",
+      "arabic": "بِحُرْمَةِ طٰهَ الْحَبِيْبِ الْأَمِيْنِ * أَغِثْنَا وَفَرِّجْ عَنِ الْمُسْلِمِيْنَ",
       "latin": "Bihurmati thohal habibil amin * aghitsna wa farrij 'anil muslimin"
     },
     "3": {
-      "arabic": "بآل نبيك أهل الكمال * بقايا الرسول أسود الرجال",
+      "arabic": "بِآلِ نَبِيِّكَ أَهْلِ الْكَمَالِ * بَقَايَا الرَّسُوْلِ أُسُوْدِ الرِّجَالِ",
       "latin": "Bi ali nabiyyika ahlil kamal * baqoyor rosuli aswadur rijal"
     },
     "4": {
-      "arabic": "بصحب النبي بدور الجلال * بيمن الملائك والتابعين",
+      "arabic": "بِصَحْبِ النَّبِيِّ بُدُوْرِ الْجَلَالِ * بِيُمْنِ الْمَلَائِكِ وَالتَّابِعِيْنَ",
       "latin": "Bishohbin nabiyyi buduril jalal * biyumnil mala-ikati wat tabi'in"
     },
     "5": {
-      "arabic": "تفضل علينا بنصر قريب * ونور وفضل نوال الزكي",
+      "arabic": "تَفَضَّلْ عَلَيْنَا بِنَصْرٍ قَرِيْبٍ * وَنُوْرٍ وَفَضْلِ نَوَالِ الزَّكِيِّ",
       "latin": "Tafadhdhal 'alaina binashrin qorib * wa nurin wa fadlin nawaliz zakiy"
     },
     "6": {
-      "arabic": "بحرمة غوث الزمان القريب * وكل ولي من الصالحين",
+      "arabic": "بِحُرْمَةِ غَوْثِ الزَّمَانِ الْقَرِيْبِ * وَكُلِّ وَلِيٍّ مِنَ الصَّالِحِيْنَ",
       "latin": "Bihurmati ghautsiz zamanil qorib * wa kulli waliyyin minash sholihin"
     }
   },
@@ -42,5 +42,5 @@
       }
     }
   },
-  "last_updated": "2025-11-21"
+  "last_updated": "2026-03-15"
 }
