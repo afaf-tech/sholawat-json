@@ -1,0 +1,82 @@
+{
+  "source": "Majelis Sholawat Nurul Anwar",
+  "name": "صلوات وطري",
+  "latin": "Sholawat Wathori",
+  "text": {
+    "1": {
+      "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلَى مُحَمَّدٍ وَحَصِّـلْ بِهِ وَطَرِي",
+      "latin": "Allahumma shalli wa sallim 'ala Muhammadin wa hasshil bihi wathari"
+    },
+    "2": {
+      "arabic": "وَمَنْ يَتَّقِ اللّٰهَ يَجْعَلْ لَهُ مِنَ الْأَمْرِ يُسْرًا كَذَاكَ دَرِي",
+      "latin": "Wa man yattaqillaha yaj'al lahu minal amri yusran kadzaka dari"
+    },
+    "3": {
+      "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبْ فَرَبٌّ كَرِيمٌ جَوَادٌ حَرِي",
+      "latin": "Wa yarzuqhu min haythu la yahtasib farabbun karimun jawadun hari"
+    },
+    "4": {
+      "arabic": "فَيَارَبِّ سَدِّدْ وَوَفِّقْ لِمَا رَضِيْتَ وَنَلْحَقْ بِالْغُرَرِ",
+      "latin": "Fayarabbi saddid wa waffiq lima radhita wa nalhaq bil ghurari"
+    },
+    "5": {
+      "arabic": "فَكُنْ عَوْنَنَا يَا إِلٰهِي عَلَى عِدَاكَ وَلِلْمُسْلِمِيْنَ انْصُرِ",
+      "latin": "Fakun 'awnana ya ilahi 'ala 'idaka wa lil musliminansuri"
+    },
+    "6": {
+      "arabic": "فَيَا أَرْحَمَ الرَّاحِمِيْنَ اكْشِفَا كُرُوْبِي وَفَضْلُكَ مَا تَحْتَرِي",
+      "latin": "Faya arhamar rahiminaksyifa kurubi wa fadhluka ma tahtari"
+    },
+    "7": {
+      "arabic": "فَيَا ذَا الْجَلَالِ وَالْإِكْرَامِ كُنْ مُغِيْثًا لَنَا وَاقْضِ لِي وَطَرِي",
+      "latin": "Faya dhal jalali wal ikrami kun mughithan lana waqdhi li wathari"
+    },
+    "8": {
+      "arabic": "بِعَمِّ الرِّضَا وَالْقَبُوْلِ سُدِي فَيَارَبِّ لِلْحَاضِرِيْنَ اغْفِرِ",
+      "latin": "Bi 'ammir ridha wal qabuli sudi fayarabbi lil hadhirinaghfiri"
+    },
+    "9": {
+      "arabic": "بِجَاهِ النَّبِيِّ وَآلٍ لَهُ وَصَحْبٍ وَمَنْ قَامَ فِي السَّحَرِ",
+      "latin": "Bijahin nabiyyi wa aalin lahu wa sahbin wa man qama fis sahari"
+    },
+    "10": {
+      "arabic": "عَلَيْهِمْ صَلَاةُ رَبَّتْ وَسَلَامُ وَحُسْنُ خِتَامٍ رَبِّ اقْدِرِ",
+      "latin": "Alayhim shalatu robbat wa salam wa husnu khitamin rabbiqdiri"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Sholawat Wathori (Hajat)",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "Ya Allah, limpahkanlah rahmat dan salam kepada Muhammad, dan penuhilah hajatku melaluinya.",
+        "2": "Barangsiapa bertakwa kepada Allah, niscaya Dia jadikan kemudahan dalam urusannya, begitulah yang aku yakini.",
+        "3": "Serta memberinya rezeki dari arah yang tak terduga, karena Tuhan Maha Pemurah, Maha Dermawan, lagi Maha Patut disembah.",
+        "4": "Wahai Tuhanku, bimbinglah dan berilah taufik pada apa yang Engkau ridhai, dan pertemukanlah kami dengan hamba-hamba-Mu yang mulia.",
+        "5": "Maka jadilah Penolong kami wahai Tuhanku atas musuh-musuh-Mu, dan berilah kemenangan bagi kaum muslimin.",
+        "6": "Wahai Yang Maha Penyayang di antara para penyayang, angkatlah kesusahanku, dan karunia-Mulah yang aku harapkan.",
+        "7": "Wahai Pemilik Keagungan dan Kemuliaan, jadilah Penolong bagi kami dan tunaikanlah keinginanku.",
+        "8": "Dengan keridhaan dan penerimaan yang luas, berilah kebahagiaan, dan wahai Tuhanku ampunilah mereka yang hadir.",
+        "9": "Berkat kedudukan Nabi, keluarganya, sahabatnya, dan mereka yang bangun beribadah di waktu sahur.",
+        "10": "Semoga shalawat dan salam Tuhan tercurah atas mereka, dan takdirkanlah akhir yang baik bagi kami, wahai Tuhanku."
+      }
+    },
+    "en": {
+      "name": "Sholawat Wathori (The Prayer of Fulfillment)",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "O Allah, bestow blessings and peace upon Muhammad, and fulfill my needs through him.",
+        "2": "And whoever fears Allah, He will grant him ease in his affairs; thus is my conviction.",
+        "3": "And provide for him from where he does not expect, for the Lord is Generous, Bountiful, and Gracious.",
+        "4": "O my Lord, direct and grant success in what pleases You, and let us join the ranks of the noble ones.",
+        "5": "Be our Helper, O my God, against Your foes, and grant victory to the believers.",
+        "6": "O Most Merciful of the merciful, relieve my distress, for Your bounty is all I seek.",
+        "7": "O Possessor of Majesty and Honor, be our Succor and fulfill my deep desires.",
+        "8": "With encompassing pleasure and acceptance, grant prosperity, and O my Lord, forgive all those present.",
+        "9": "By the virtue of the Prophet, his family, his companions, and those who stand in prayer at dawn.",
+        "10": "May the blessings and peace of the Lord be upon them, and decree for us a righteous ending, O my Lord."
+      }
+    }
+  },
+  "last_updated": "2026-03-25"
+}
