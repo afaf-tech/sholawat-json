@@ -1,0 +1,84 @@
+{
+  "source": "dutaislam.or.id",
+  "author": null,
+  "transmitter": null,
+  "name": "صَلِّ وَسَلِّمْ يَاسَلَامْ",
+  "latin": "Sholli wa Sallim Ya Salam",
+  "text": {
+    "1": {
+      "arabic": "صَلِّ وَسَلِّمْ يَاسَلَامْ ۝ عَلَى النَّبِيْ خَيْرِ الْاَنَامْ",
+      "latin": "Sholli wa sallim yaa salaam, 'alan nabiy khoyril anaam"
+    },
+    "2": {
+      "arabic": "وَالْآلِ وَالصَّحْبِ الْكِرَامْ ۝ مَاحَنَّ مُشْتَاقٌ لِمَيْ",
+      "latin": "Wal aali washohbil kiroom, maa hanna musytaaqun limay"
+    },
+    "3": {
+      "arabic": "وَاللّٰهِ مَا هَذَا الْوُجُوْد ۝ اِلَّا مُشِيْرٌ لِلْمَعْبُوْد",
+      "latin": "Wallaahi maa haadzal wujuud, illaa musyiirun lilma'buud"
+    },
+    "4": {
+      "arabic": "فَقُمْ وَنَادِيَا وَدُوْد ۝ يَاظَاهِرًا فِي كُلِّ شَيْءٍ",
+      "latin": "Faqum wa naadi yaa waduud, yaa dhoohiron fii kulli syai'"
+    },
+    "5": {
+      "arabic": "يَاآلَ بَيْتِ الْمُصْطَفَى ۝ عُبَيْدُكُمْ يَرْجُو الْوَفَا",
+      "latin": "Yaa aala baytil musthofaa, 'ubaydukum yarjul wafaa"
+    },
+    "6": {
+      "arabic": "يَاسَادَاتِيْ هَذَا الْجَفَا ۝ اَوْرَثَ قَلْبِي الْمُضْنَى كَيْ",
+      "latin": "Yaa saadaatii haadzal jafaa, aurotsa qolbil mudhnaa kay"
+    },
+    "7": {
+      "arabic": "بِاللّٰهِ رِقُوْا وَارْحَمُوْا ۝ حَالِيْ فَاِنِّيْ مُغْرَمُ",
+      "latin": "Billaahi riqquu warhamuu, haalii fa-innii mughromu"
+    },
+    "8": {
+      "arabic": "تَعَطَّفُوْا تَكَرَّمُوْا ۝ بِنَظْرَةٍ يَا اَهْلَ الْحَي",
+      "latin": "Ta'atthofuu takarromuu, binadhrotin yaa ahlal hay"
+    },
+    "9": {
+      "arabic": "يَاوَيْحَ قَلْبِيْ مَا سْتَتَابْ ۝ مِمَّا جَنَتْ يَدُ الشَّبَابْ",
+      "latin": "Yaa wayha qolbii mas-tataab, mimmaa janat yadusy syabaab"
+    },
+    "10": {
+      "arabic": "يَاخَجْلَتِيْ يَوْمَ الْحِسَابْ ۝ مِنْ نَاقِدٍ يُحْصَى عَلَى",
+      "latin": "Yaa khojlatii yaumal hisaab, min naaqidin yuhshoo 'alay"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Sholawat Sholli wa Sallim Ya Salam",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "Berikanlah shalawat dan salam wahai Yang Maha Sejahtera, kepada Nabi sebaik-baik makhluk.",
+        "2": "Dan kepada keluarga serta sahabat yang mulia, selama orang yang rindu masih merindukan kekasihnya.",
+        "3": "Demi Allah tidaklah wujud alam semesta ini ada, melainkan sebagai penunjuk kepada Dzat Yang Maha Disembah.",
+        "4": "Maka bangkitlah dan panggillah wahai Yang Maha Mengasihi, wahai Dzat yang nyata pada segala sesuatu.",
+        "5": "Wahai keluarga rumah manusia pilihan (Nabi Muhammad), hamba kecilmu ini mengharapkan kesetiaan pertolongan.",
+        "6": "Wahai para tuanku keterasingan ini, telah mewariskan luka bakar pada hatiku yang lara.",
+        "7": "Demi Allah berlemah-lembutlah dan kasihanilah, keadaanku karena sesungguhnya aku sangat tergila-gila (cinta).",
+        "8": "Berbelas kasihlah dan bermurah hatilah, dengan sebuah pandangan wahai penduduk kampung (para wali/orang shalih).",
+        "9": "Aduhai celakanya hatiku yang belum bertaubat, dari dosa yang diperbuat oleh tangan di masa muda.",
+        "10": "Aduhai malunya diriku pada hari perhitungan kelak, di hadapan Sang Peneliti yang mencatat segala sesuatu atasku."
+      }
+    },
+    "en": {
+      "name": "Sholawat Sholli wa Sallim Ya Salam",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "Bestow blessings and peace O Source of Peace, upon the Prophet, the best of mankind.",
+        "2": "And upon the noble family and companions, as long as a yearning soul longs for its beloved.",
+        "3": "By Allah, this existence is nothing, but a pointer to the Worshipped One.",
+        "4": "So stand and call out O Most Loving, O You who are manifest in everything.",
+        "5": "O household of the Chosen Prophet, your humble servant hopes for your loyalty.",
+        "6": "O my masters, this estrangement, has left a burning mark on my weary heart.",
+        "7": "By Allah, be gentle and have mercy, upon my state, for indeed I am deeply in love.",
+        "8": "Show sympathy and generosity, with a single glance O people of the neighborhood.",
+        "9": "Woe to my heart that has not repented, from what the hands of youth have committed.",
+        "10": "Oh my shame on the Day of Judgment, before the Critic who records everything against me."
+      }
+    }
+  },
+  "last_updated": "2026-03-26"
+}
