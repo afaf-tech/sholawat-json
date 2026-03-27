@@ -1,0 +1,156 @@
+{
+  "source": "Duta Islam",
+  "author": null,
+  "transmitter": "Taqim Ibnu Reyhan",
+  "name": "ذاك قباب",
+  "latin": "Dzaka Qubabun",
+  "text": {
+    "1": {
+      "arabic": "ذَاكَ قُبَابٌ طَيْبَةٌ مَدِيْنَةٌ نَبِيْنَا",
+      "latin": "Dzaka qubabun thoyyibatun madinatun nabina"
+    },
+    "2": {
+      "arabic": "طَابَتْ تَرَاهَا بِرَسُولِ مُحَمَّدٍ عَلَيْهِ سَلَامُنَا",
+      "latin": "Thobat taroha birosuli muhammadin 'alaihi salamuna"
+    },
+    "3": {
+      "arabic": "يَارَسُولَ اللّٰهِ مِنَ الْبُعْدِ وَصَلْنَا",
+      "latin": "Ya Rasulullah minal bu'di washolna"
+    },
+    "4": {
+      "arabic": "يَارَسُولَ اللّٰهِ لَا لِغَيْرِكَ مَقْصَدْنَا",
+      "latin": "Ya Rasulullah la lighoirika maqsodna"
+    },
+    "5": {
+      "arabic": "يَارَسُولَ اللّٰهِ عِنْدَ بَابِكَ وَقَفْنَا",
+      "latin": "Ya Rasulullah 'inda babika waqofna"
+    },
+    "6": {
+      "arabic": "يَارَسُولَ اللّٰهِ اِفْتَحْ بَابَكَ لَنَا",
+      "latin": "Ya Rasulullah iftah babaka lana"
+    },
+    "7": {
+      "arabic": "يَارَسُولَ اللّٰهِ إِنِّي أُحِبُّكَ فَقْبَلْنَا",
+      "latin": "Ya Rasulullah inni uhibbuka faqbalna"
+    },
+    "8": {
+      "arabic": "يَارَسُولَ اللّٰهِ ذِكْرُكَ شِفَاءٌ لَنَا",
+      "latin": "Ya Rasulullah dzikruka syifa'un lana"
+    },
+    "9": {
+      "arabic": "يَارَسُولَ اللّٰهِ إِسْمُكَ نُورُ لَنَا",
+      "latin": "Ya Rasulullah ismuka nurun lana"
+    },
+    "10": {
+      "arabic": "يَارَسُولَ اللّٰهِ حَيْثُمَا كُنَّا وَأَوْلَادَنَا",
+      "latin": "Ya Rasulullah haitsuma kunna wa awladana"
+    },
+    "11": {
+      "arabic": "يَارَسُولَ اللّٰهِ إِسْتَجِبْ دُعَاءَنَا وَنِدَاءَنَا",
+      "latin": "Ya Rasulullah istajib du'aana wa nida'ana"
+    },
+    "12": {
+      "arabic": "يَارَسُولَ اللّٰهِ مِنْ خَيْرِ جُودِكَ جُدْلَنَا",
+      "latin": "Ya Rasulullah min khoiri judika judlana"
+    },
+    "13": {
+      "arabic": "يَارَسُولَ اللّٰهِ وَلِقَاءُكَ هُوَ مُنَانَا",
+      "latin": "Ya Rasulullah wa liqouka huwa munana"
+    },
+    "14": {
+      "arabic": "يَارَسُولَ اللّٰهِ مِنْ بَرَكَاتِكَ هَبْ لَنَا",
+      "latin": "Ya Rasulullah min barokatika hab lana"
+    },
+    "15": {
+      "arabic": "يَارَسُولَ اللّٰهِ فِي دُنْيَانَا وَأُخْرَانَا",
+      "latin": "Ya Rasulullah fi dunyana wa ukhrana"
+    },
+    "16": {
+      "arabic": "يَارَسُولَ اللّٰهِ أَنْتَ الشَّفِيعُ لَنَا",
+      "latin": "Ya Rasulullah antasy syafi'u lana"
+    },
+    "17": {
+      "arabic": "يَارَسُولَ اللّٰهِ بِهُدَى كَ اِهْتَدَيْنَا",
+      "latin": "Ya Rasulullah bihudaka ihtadaina"
+    },
+    "18": {
+      "arabic": "يَارَسُولَ اللّٰهِ مِنْ أَحْبَابِكَ فَجْعَلْنَا",
+      "latin": "Ya Rasulullah min ahbabika faj'alna"
+    },
+    "19": {
+      "arabic": "يَارَسُولَ اللّٰهِ عَلَى اللّٰهِ رَبِّنَا تَوَكَّلْنَا",
+      "latin": "Ya Rasulullah 'alallahi robbina tawakkalna"
+    },
+    "20": {
+      "arabic": "يَارَسُولَ اللّٰهِ نَسْأَلُهُ الْعَفْوَى وَالرِّضَاءَنَا",
+      "latin": "Ya Rasulullah nas'aluhul 'afwa war ridho'ana"
+    },
+    "21": {
+      "arabic": "يَارَسُولَ اللّٰهِ مَدَدْنَا أَيْدِينَا لِمَوْلَانَا",
+      "latin": "Ya Rasulullah madadna aidina limawlana"
+    },
+    "22": {
+      "arabic": "يَارَسُولَ اللّٰهِ بِجَاهِكَ يَقْبَلُ دُعَاءَنَا",
+      "latin": "Ya Rasulullah bijahika yaqbalu du'a'ana"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Itu Kubah Bagus",
+      "translator": "Taqim Ibnu Reyhan Video Subtitles",
+      "text": {
+        "1": "itu kubah bagus kota nabi kita",
+        "2": "bagus tanahnya karena keberadaan sang utusan bernama Muhammad semoga salam kita tercurah kepadanya",
+        "3": "wahai utusan Allah sampaikanlah kami pada sesuatu yang jauh",
+        "4": "wahai utusan Allah hanya engkaulah tujuan kami",
+        "5": "wahai utusan Allah kami berdiam diri didepan pintumu",
+        "6": "wahai utusan Allah bukalah pintumu untuk kami",
+        "7": "Wahai utusan Allah kami sungguh mencintaimu maka terimalah kami",
+        "8": "wahai Utusan Allah mengingatmu adalah obat bagi kami",
+        "9": "wahai utusan Allah namamu adalah cahaya kami",
+        "10": "wahai Utusan Allah dimanapun kami dan anak anak kami berada",
+        "11": "wahai utusan Allah ijabahi Doa dan panggilan kami",
+        "12": "wahai utusan Allah bermurah hatilah kepada kami",
+        "13": "wahai Utusan Allah berjumpa denganmu ialah tujuan kami",
+        "14": "wahai Utusan Allah berkahilah kami",
+        "15": "wahai utusan Allah di dunia dan akhirat kami",
+        "16": "wahai Utusan Allah engkaulah pemberi syafaat kami",
+        "17": "wahai Utusan Allah tunjukanlah kami seperti yang telah engkau tunjukan",
+        "18": "wahai Utusan Allah jadikanlah kami sebagian orang orang yang kau cintai",
+        "19": "wahai utusan Allah hanya kepada Allah semuanya kupasrahkan",
+        "20": "wahai utusan Allah semoga kami semua diampuni segala dosa dan diridloi",
+        "21": "wahai utusan Allah tolonglah kami",
+        "22": "wahai utusan Allah dihadapanmu terimalah permohonan kami"
+      }
+    },
+    "en": {
+      "name": "That is the beautiful dome",
+      "translator": "AI Translation",
+      "text": {
+        "1": "That is the beautiful dome of the city of our Prophet",
+        "2": "Its land is good because of the presence of the messenger named Muhammad, may our blessings be poured upon him",
+        "3": "O Messenger of Allah, from afar we have arrived",
+        "4": "O Messenger of Allah, to none other than you is our destination",
+        "5": "O Messenger of Allah, at your door we stand",
+        "6": "O Messenger of Allah, open your door for us",
+        "7": "O Messenger of Allah, I truly love you so accept us",
+        "8": "O Messenger of Allah, remembering you is a cure for us",
+        "9": "O Messenger of Allah, your name is our light",
+        "10": "O Messenger of Allah, wherever we and our children are",
+        "11": "O Messenger of Allah, answer our prayers and calls",
+        "12": "O Messenger of Allah, from the best of your generosity, be generous to us",
+        "13": "O Messenger of Allah, meeting you is our hope",
+        "14": "O Messenger of Allah, from your blessings, bestow upon us",
+        "15": "O Messenger of Allah, in our world and our hereafter",
+        "16": "O Messenger of Allah, you are our intercessor",
+        "17": "O Messenger of Allah, by your guidance we are guided",
+        "18": "O Messenger of Allah, make us among those you love",
+        "19": "O Messenger of Allah, upon Allah our Lord we rely",
+        "20": "O Messenger of Allah, we ask Him for forgiveness and His pleasure",
+        "21": "O Messenger of Allah, we stretch our hands for help",
+        "22": "O Messenger of Allah, by your status may He accept our prayer"
+      }
+    }
+  },
+  "last_updated": "2026-03-27"
+}

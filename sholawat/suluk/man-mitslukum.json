@@ -1,0 +1,48 @@
+{
+  "source": "Duta Islam",
+  "author": "Al-Imam Al-Haddad (Bait 1-2) & Al-Imam Asy-Syafi'i (Bait 3-4)",
+  "transmitter": "Gus Wahid",
+  "name": "مَنْ مِثْلُكُمْ لِرَسُوْلِ اللهِ يَنْتَسِبُ",
+  "latin": "Man Mitslukum",
+  "text": {
+    "1": {
+      "arabic": "مَنْ مِثْلُكُمْ لِرَسُوْلِ اللهِ يَنْتَسِبُ ۝ لَيْتَ الْمُلُوْكَ لَهَا مِنْ جَدِّكُمْ نَسَبُ",
+      "latin": "Man mitslukum lirosulillahi yantasibu, laital muluka laha min jaddikum nasabu"
+    },
+    "2": {
+      "arabic": "مَا لِلْبَرِيَّةِ فَخْرٌ كَمَا لَكُمُ ۝ كُلُّ الْمَفَاخِرِ عِنْدَ فَخْرِكُمْ نَقَصُ",
+      "latin": "Ma lil bariyyati fakhron kama lakumu, kullul mafakhiri 'inda fakhrikum naqoshu"
+    },
+    "3": {
+      "arabic": "يَا آلَ بَيْتِ رَسُوْلِ اللهِ حُبُّكُمُ ۝ فَرْضٌ مِنَ اللهِ فِي الْقُرْآنِ أَنْزَلَهُ",
+      "latin": "Ya ala baiti rosulillahi hubbukumu, fardhun minallahi fil qur'ani anzalahu"
+    },
+    "4": {
+      "arabic": "كَفَاكُمْ مِنْ عَظِيْمِ الْفَخْرِ أَنَّكُمْ ۝ مَنْ لَمْ يُصَلِّ عَلَيْكُمْ لَا صَلَاةَ لَهُ",
+      "latin": "Kafakum min 'adhimi fakhri annakumu, man lam yusholli 'alaikum la sholata lahu"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Man Mitslukum (Suluk Kemuliaan Ahlul Bayt)",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "Siapakah yang setara dengan kalian yang bernasab kepada Rasulullah, andai saja para raja memiliki nasab dari kakek kalian.",
+        "2": "Tidak ada bagi manusia kebanggaan seperti kebanggaan kalian, segala kebanggaan akan berkurang di hadapan kebanggaan kalian.",
+        "3": "Wahai keluarga rumah Rasulullah mencintai kalian adalah, kewajiban dari Allah yang diturunkan dalam Al-Qur'an.",
+        "4": "Cukuplah bagi kalian keagungan fakhru bahwa sesungguhnya kalian, barangsiapa yang tidak bershalawat kepada kalian maka tidak sah shalat baginya."
+      }
+    },
+    "en": {
+      "name": "Who is Like You (Honor of the Prophet's Family)",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "Who is like you related by lineage to the Messenger of Allah, if only kings had a lineage from your grandfather.",
+        "2": "Humanity has no pride like your pride, all other prides fall short before your pride.",
+        "3": "O People of the Prophet's House loving you is, an obligation from Allah revealed in the Quran.",
+        "4": "It is enough of a great honor for you that indeed, whoever does not send blessings upon you his prayer is not valid."
+      }
+    }
+  },
+  "last_updated": "2026-03-27"
+}

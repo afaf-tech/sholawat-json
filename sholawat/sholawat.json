@@ -157,9 +157,14 @@
         "description": "A collection of various suluk.",
         "path_files": "sholawat/suluk/",
         "files": [
+          "adimishsholata-alal-habib.json",
+          "dzaka-qubabun.json",
           "fa-yaa-ayyuhar-rojuna.json",
           "fahamdan-lirobbi.json",
           "hubbun-nabi.json",
+          "man-mitslukum.json",
+          "ya-hujrotan.json",
+          "ya-khoiro-man-jaa-a.json",
           "ya-robbi-ya-alimal-hal.json"
         ],
         "schema": "suluk_v1.1.schema.json"

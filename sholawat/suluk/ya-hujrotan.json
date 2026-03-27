@@ -1,0 +1,48 @@
+{
+  "source": "Duta Islam",
+  "author": null,
+  "transmitter": null,
+  "name": "يَا حُجْرَةً ضَمَّتْ جَمَالَ مُحَمَّدٍ",
+  "latin": "Ya Hujrotan",
+  "text": {
+    "1": {
+      "arabic": "يَا حُجْرَةً ضَمَّتْ جَمَالَ مُحَمَّدٍ ۝ حَوَيْتِ كَرِيْمًا سَيِّدًا كَامِلًا بَدْرًا",
+      "latin": "Ya hujrotan dhommat jamala Muhammadin, hawaiti kariman sayyidan kamilan badron"
+    },
+    "2": {
+      "arabic": "مَضَى الْعُمْرُ مِنِّي يَا مُحَمَّدُ وَانْقَضَى ۝ وَلَمْ تَسْمَحْ لِيَ الْأَيَّامُ أَنْ أَنْظُرَ الْحُجْرَةَ",
+      "latin": "Madlol 'umru minni ya Muhammadu wanqodlo, wa lam tasmakh liyal ayyamu an andhurul hujrotan"
+    },
+    "3": {
+      "arabic": "مَقَامُكَ مَحْمُوْدٌ وَأَنْتَ مُحَمَّدٌ ۝ وَرَبُّ السَّمَاءِ أَعْطَاكَ حَوْضًا وَكَوْثَرًا",
+      "latin": "Maqomuka mahmudun wa anta Muhammadun, wa robbus-sama-i a'thoka haudlon wa kautsaro"
+    },
+    "4": {
+      "arabic": "يَا سَيِّدِي اشْفَعْ لَنَا عِنْدَ رَبِّنَا ۝ فَمَنْ لِذِي النُّقْصَانِ إِلَّاكَ يُرْتَجَى",
+      "latin": "Ya sayyidi isyfa' lana 'inda robbina, faman lidzin-nuqshoni illaka yurtaja"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ya Hujrotan (Wahai Kamar Sang Nabi)",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "Wahai kamar yang merangkul keindahan Nabi Muhammad, engkau menyimpan sosok yang mulia, pemimpin, sempurna, dan laksana bulan purnama.",
+        "2": "Telah berlalu usiaku wahai Muhammad dan telah habis, namun hari-hariku belum mengizinkanku untuk memandang kamar suci itu.",
+        "3": "Kedudukanmu terpuji dan engkau adalah Muhammad, dan Tuhan pemilik langit telah memberimu telaga Haudh dan Kautsar.",
+        "4": "Wahai tuanku, berilah syafaat bagi kami di hadapan Tuhan kami, karena siapakah bagi yang memiliki kekurangan ini selain engkau yang diharapkan."
+      }
+    },
+    "en": {
+      "name": "O Chamber (Ya Hujrotan)",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "O chamber that embraces the beauty of Muhammad, you contain the noble one, the master, the perfect, the full moon.",
+        "2": "My life has passed by, O Muhammad, and spent, yet the days have not allowed me to gaze upon the sacred chamber.",
+        "3": "Your rank is praised and you are Muhammad, and the Lord of the heavens has granted you the Basin (Haudh) and Abundance (Kautsar).",
+        "4": "O my master, intercede for us before our Lord, for who else can one with deficiencies turn to but you."
+      }
+    }
+  },
+  "last_updated": "2026-03-27"
+}
