@@ -159,7 +159,8 @@
         "files": [
           "fa-yaa-ayyuhar-rojuna.json",
           "fahamdan-lirobbi.json",
-          "hubbun-nabi.json"
+          "hubbun-nabi.json",
+          "ya-robbi-ya-alimal-hal.json"
         ],
         "schema": "suluk_v1.1.schema.json"
       }
