@@ -1,0 +1,42 @@
+{
+  "source": "Duta Islam",
+  "author": "Ahmad Syauqi",
+  "transmitter": null,
+  "name": "يَا خَيْرَ مَنْ جَاءَ",
+  "latin": "Ya Khoiro Man Jaa'a",
+  "text": {
+    "1": {
+      "arabic": "يَا خَيْرَ مَنْ جَاءَ الْوُجُودَ تَحِيَّةً ۝ مِنْ مُرْسَلِينَ إِلَى الْهُدَى بِكَ جَاؤُوا",
+      "latin": "Ya khoiro man ja'al wujuda tahiyyatan, min mursalina ilal huda bika ja'u"
+    },
+    "2": {
+      "arabic": "بِكَ بَشَّرَ اللهُ السَّمَاءَ فَزُيِّنَتْ ۝ وَتَطَوَّعَتْ مِسْكاً بِكَ الْغَبْرَاءُ",
+      "latin": "Bika basysyarallohus-sama'a fazuyyinat, wa tathowwa'at miskan bikal ghabra'u"
+    },
+    "3": {
+      "arabic": "زَانَتْكَ بِالْخُلُقِ الْعَظِيمِ شَمَائِلٌ ۝ يُغْرَى بِهِنَّ وَيُولَعُ الْكُرَمَاءُ",
+      "latin": "Zanat-ka bil khuluqil 'adhimi syama'ilun, yughra bihinna wa yula'ul kurama'u"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Ya Khoiro Man Jaa'a",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "Wahai sebaik-baik orang yang datang ke alam wujud sebagai penghormatan, dari para rasul yang datang membawa petunjuk karenamu.",
+        "2": "Karenamu Allah memberi kabar gembira kepada langit sehingga ia berhias diri, dan bumi pun harum semerbak dengan wangian misik karenamu.",
+        "3": "Engkau dihiasi dengan akhlak yang agung dan budi pekerti, yang dengannya orang-orang mulia terpesona dan terpikat."
+      }
+    },
+    "en": {
+      "name": "O Best of Those Who Came",
+      "translator": "Gemini AI",
+      "text": {
+        "1": "O best of those who came to existence as a greeting, from messengers who came to guidance because of you.",
+        "2": "Through you Allah gave glad tidings to the heavens so they were adorned, and the earth voluntarily became fragrant with musk through you.",
+        "3": "You were adorned with great character and noble traits, by which the generous are enticed and enamored."
+      }
+    }
+  },
+  "last_updated": "2026-03-27"
+}
