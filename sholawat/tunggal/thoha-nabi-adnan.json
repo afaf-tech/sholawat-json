@@ -1,0 +1,46 @@
+{
+    "source": "terjemahkitab.com",
+    "name": "طَهَ النَّبِی العَدْنَان",
+    "latin": "Thoha Nabi Adnan",
+    "text": {
+        "1": {
+            "arabic": "طَهَ النَّبِی العَدْنَان مَنْ جَآءَ بِالقُرآن",
+            "latin": "Thôhan-Nabîl ‘adnân man jã-a bil-Qur-ãn"
+        },
+        "2": {
+            "arabic": "عَيْنِی وَسُؤْلِی وَکُلُّ شُغْلِی بِهِ مَدَی الأزْمَان",
+            "latin": "‘Ainî wasû,lî wa kullu syughlî bihi madâl azmân"
+        },
+        "3": {
+            "arabic": "عَلَی النَّبِی صَلِّ وَأَلِهِ الکُلِّ",
+            "latin": "‘Alân-Nabî sholli wa âlihil kulli"
+        },
+        "4": {
+            "arabic": "مَا دَامَ عَبْدُ الغَنِیِّ يَشْدُو بِهِ مَدَی الأَزْمَان",
+            "latin": "Mâ dâma ‘abdul ghoniyyi yasydû bihi madâl azmân"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Thoha nabi keturunan Adnan",
+            "translator": "TerjemahKitab",
+            "text": {
+                "1": "Toha nabi keturunan Adnan, seorang yang datang membawa al-Quran",
+                "2": "Mataku, permintaanku, dan setiap kesibuanku untuk beliau selamanya",
+                "3": "Berselawatlah kepada nabi dan semua keluarga",
+                "4": "Selama Abdul Ghoni memuji beliau selamanya"
+            }
+        },
+        "en": {
+            "name": "Thaha the Prophet, Descendant of Adnan",
+            "translator": "Gemini",
+            "text": {
+                "1": "Thaha the Prophet, descendant of Adnan, the one who came with the Quran",
+                "2": "My eyes, my desires, and all my preoccupations are upon him for all of time",
+                "3": "Send blessings upon the Prophet and his entire family",
+                "4": "As long as Abdul Ghani sings his praises throughout the ages"
+            }
+        }
+    },
+    "last_updated": "2026-03-30"
+}

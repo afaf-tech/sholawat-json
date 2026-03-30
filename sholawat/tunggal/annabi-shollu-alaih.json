@@ -1,56 +1,70 @@
 {
-  "source": "various",
-  "name": "النبي صلوا عليه",
-  "latin": "Annabi Shollu Alaih",
-  "text": {
-    "1": {
-      "arabic": "اَلنَّبِي صَلُّوْا عَلَيْهِ، صَلَوَاتُ اللّٰهِ عَلَيْهِ",
-      "latin": "An-Nabi shollu 'alaih, sholawatullahi 'alaih"
+    "source": "various",
+    "name": "النبي صلوا عليه",
+    "latin": "Annabi Shollu Alaih",
+    "text": {
+        "1": {
+            "arabic": "اَلنَّبِي صَلُّوْا عَلَيْهِ، صَلَوَاتُ اللّٰهِ عَلَيْهِ",
+            "latin": "An-Nabi shollu 'alaih, sholawatullahi 'alaih"
+        },
+        "2": {
+            "arabic": "وَيَنَالُ الْبَرَكَاتِ، كُلُّ مَنْ صَلَّى عَلَيْهِ",
+            "latin": "Wa yanalul barokat, kullu man sholla 'alaih"
+        },
+        "3": {
+            "arabic": "اَلنَّبِي يَا حَاضِرِيْن، اِعْلَمُوْا عِلْمَ الْيَقِيْن",
+            "latin": "An-Nabi ya hadlirin, i'lamu 'ilmal yaqin"
+        },
+        "4": {
+            "arabic": "أَنَّ رَبَّ الْعَالَمِيْن، فَرَضَ الصَّلَاةَ عَلَيْهِ",
+            "latin": "Anna Robbal 'alamin, farodhos sholata 'alaih"
+        },
+        "5": {
+            "arabic": "اَلنَّبِي ذَاكَ الْعَرُوْس، ذِكْرُهُ يُحْيِ النُّفُوْس",
+            "latin": "An-Nabi dzakal 'arus, dzikruhu yuhyin nufus"
+        },
+        "6": {
+            "arabic": "اَلنَّصَارَى وَالْمَجُوْس، أَسْلَمُوْا عَلَى يَدَيْهِ",
+            "latin": "An-Nashoro wal majus, aslamu 'ala yadaih"
+        },
+        "7": {
+            "arabic": "اَلنَّبِي يَا مَنْ حَضَرْ، اَلنَّبِي خَيْرُ الْبَشَر",
+            "latin": "An-Nabi ya man hadhor, an-Nabi khoirul basyar"
+        },
+        "8": {
+            "arabic": "وَدَنَا لَهُ الْقَمَرْ، وَالْغَزَالُ سَلَّمْ عَلَيْهِ",
+            "latin": "Wa dana lahul qomar, wal ghozalu sallam 'alaih"
+        }
     },
-    "2": {
-      "arabic": "وَيَنَالُ الْبَرَكَاتِ، كُلُّ مَنْ صَلَّى عَلَيْهِ",
-      "latin": "Wa yanalul barokat, kullu man sholla 'alaih"
+    "translations": {
+        "id": {
+            "name": "Nabi Bershalawatlah Kepadanya",
+            "translator": "Tribunnews",
+            "text": {
+                "1": "Kepada Nabi bershalawatlah, shalawat Allah ke atasnya (semoga tercurah untuknya)",
+                "2": "Dan akan mendapat keberkahan, bagi siapa yang bershalawat ke atasnya",
+                "3": "Wahai orang-orang yang hadir majelis Nabi, ketahuilah dengan pengetahuan yang yakin (haqqul yaqin)",
+                "4": "Bahwa Tuhan semesta alam, telah mewajibkan (memerintahkan) shalawat kepadanya",
+                "5": "Nabi laksana sang pengantin (manusia terindah), dan mengingatnya menghidupkan jiwa",
+                "6": "Bahkan orang-orang Nasrani dan Majusi, mendapat hidayah Islam melalui perantaranya",
+                "7": "Wahai hadirin semua, Nabi (Muhammad) adalah sebaik-baik manusia",
+                "8": "Dan bulan pun tunduk mendekat, begitu pula kijang bersalam kepadanya"
+            }
+        },
+        "en": {
+            "name": "The Prophet, Send Blessings Upon Him",
+            "translator": "Gemini",
+            "text": {
+                "1": "The Prophet, send blessings upon him, the blessings of Allah be upon him",
+                "2": "And blessings will be attained by everyone who sends blessings upon him",
+                "3": "O those present (for the Prophet), know with absolute certainty",
+                "4": "That the Lord of the worlds has made sending blessings upon him an obligation",
+                "5": "The Prophet is like that groom (the most beautiful), his remembrance revives souls",
+                "6": "The Christians and the Magians embraced Islam at his hands",
+                "7": "O everyone who is present, the Prophet is the best of mankind",
+                "8": "And the moon drew near to him, and the gazelle greeted him"
+            }
+        }
     },
-    "3": {
-      "arabic": "اَلنَّبِي يَا حَاضِرِيْن، اِعْلَمُوْا عِلْمَ الْيَقِيْن",
-      "latin": "An-Nabi ya hadlirin, i'lamu 'ilmal yaqin"
-    },
-    "4": {
-      "arabic": "أَنَّ رَبَّ الْعَالَمِيْن، فَرَضَ الصَّلَاةَ عَلَيْهِ",
-      "latin": "Anna Robbal 'alamin, farodhos sholata 'alaih"
-    },
-    "5": {
-      "arabic": "اَلنَّبِي ذَاكَ الْعَرُوْس، ذِكْرُهُ يُحْيِ النُّفُوْس",
-      "latin": "An-Nabi dzakal 'arus, dzikruhu yuhyin nufus"
-    },
-    "6": {
-      "arabic": "اَلنَّصَارَى وَالْمَجُوْس، أَسْلَمُوْا عَلَى يَدَيْهِ",
-      "latin": "An-Nashoro wal majus, aslamu 'ala yadaih"
-    },
-    "7": {
-      "arabic": "اَلنَّبِي يَا مَنْ حَضَرْ، اَلنَّبِي خَيْرُ الْبَشَر",
-      "latin": "An-Nabi ya man hadhor, an-Nabi khoirul basyar"
-    },
-    "8": {
-      "arabic": "وَدَنَا لَهُ الْقَمَرْ، وَالْغَزَالُ سَلَّمْ عَلَيْهِ",
-      "latin": "Wa dana lahul qomar, wal ghozalu sallam 'alaih"
-    }
-  },
-  "translations": {
-    "id": {
-      "name": "Nabi Bershalawatlah Kepadanya",
-      "translator": "Tribunnews",
-      "text": {
-        "1": "Kepada Nabi bershalawatlah, shalawat Allah ke atasnya (semoga tercurah untuknya)",
-        "2": "Dan akan mendapat keberkahan, bagi siapa yang bershalawat ke atasnya",
-        "3": "Wahai orang-orang yang hadir majelis Nabi, ketahuilah dengan pengetahuan yang yakin (haqqul yaqin)",
-        "4": "Bahwa Tuhan semesta alam, telah mewajibkan (memerintahkan) shalawat kepadanya",
-        "5": "Nabi laksana sang pengantin (manusia terindah), dan mengingatnya menghidupkan jiwa",
-        "6": "Bahkan orang-orang Nasrani dan Majusi, mendapat hidayah Islam melalui perantaranya",
-        "7": "Wahai hadirin semua, Nabi (Muhammad) adalah sebaik-baik manusia",
-        "8": "Dan bulan pun tunduk mendekat, begitu pula kijang bersalam kepadanya"
-      }
-    }
-  },
-  "last_updated": "2026-03-30"
+    "last_updated": "2026-03-30"
 }
