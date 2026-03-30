@@ -1,0 +1,46 @@
+{
+  "source": "Ikhwah Kafafa (YouTube)",
+  "name": "أَلَا يَا رَسُولَ اللهِ إِنَّا قَرَابَةٌ",
+  "latin": "Ala Ya Rasulallah Inna Qorobatun",
+  "text": {
+    "1": {
+      "arabic": "أَلَا يَا رَسُولَ اللهِ إِنَّا قَرَابَةٌ * وَذُرِّيَّةٌ جِئْنَاكَ لِلشَّوْقِ وَالحُبِّ",
+      "latin": "Ala ya Rasulallah inna qorobatun * Wa dzurriyyatun ji'naka lisy-syauqi wal hubbi"
+    },
+    "2": {
+      "arabic": "وَقَفْنَا عَلَى أَعْتَابِ فَضْلِكَ سَيِّدِي * لِتَقْبِيلِ تُرْبٍ حَبَّذَا ذَلِكَ مِنْ تُرْبِ",
+      "latin": "Wa qofna 'ala a'tabi fadhlik sayyidi * Litaqbili turbin habbadza dzalika min turbi"
+    },
+    "3": {
+      "arabic": "وَقُمْنَا تِجَاهَ الوَجْهِ وَجْهٍ مُبَارَكٍ * عَلَيْنَا بِهِ نُسْقَى الغَمَامَ لَدَى الجَدْبِ",
+      "latin": "Wa qumna tijahal wajhi wajhin mubarokin * 'Alayna bihi nusqol ghamama ladal jadbi"
+    },
+    "4": {
+      "arabic": "أَتَيْنَاكَ زُوَّارًا نَرُومُ شَفَاعَةً * إِلَى اللهِ فِي مَحْوِ الإِسَاءَةِ وَالذَّنْبِ",
+      "latin": "Ataynaka zuwwaron narumu syafa'atan * Ilallahi fi mahwil isa'ati wadz-dzanbi"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Wahai Utusan Allah, Sesungguhnya Kami Adalah Kerabat",
+      "translator": "Gemini",
+      "text": {
+        "1": "Ketahuilah wahai Utusan Allah, sesungguhnya kami adalah kerabat * Dan keturunan, kami datang kepadamu karena kerinduan dan cinta",
+        "2": "Kami berdiri di ambang pintu karuniamu, wahai tuanku * Untuk mengecup debu (tanahmu), betapa mulianya debu itu",
+        "3": "Dan kami berdiri menghadap wajah, wajah yang diberkahi * Yang dengannya kami diturunkan hujan dari awan saat kemarau melanda",
+        "4": "Kami datang kepadamu sebagai peziarah, mengharapkan syafaat * Kepada Allah untuk menghapus segala keburukan dan dosa"
+      }
+    },
+    "en": {
+      "name": "O Messenger of Allah, Indeed We Are Relatives",
+      "translator": "Gemini",
+      "text": {
+        "1": "Take heed, O Messenger of Allah, indeed we are relatives * And descendants, we have come to you out of longing and love",
+        "2": "We stand at the threshold of your grace, my master * To kiss the dust, and how excellent is that dust",
+        "3": "And we stand facing the face, a blessed face * By which we are granted rain from the clouds during drought",
+        "4": "We have come to you as visitors seeking intercession * With Allah for the erasure of misdeeds and sins"
+      }
+    }
+  },
+  "last_updated": "2026-03-30"
+}

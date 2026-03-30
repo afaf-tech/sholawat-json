@@ -1,0 +1,72 @@
+{
+    "source": "Husain Channel (YouTube)",
+    "author": null,
+    "transmitter": null,
+    "name": "رَبِّ إِنِّي لِلْفَضْلِ",
+    "latin": "Robbi Inni Lil Fadli",
+    "text": {
+        "1": {
+            "arabic": "رَبِّ إِنِّي لِلْفَضْلِ طَالَ انْتِظَارِي * يَاعَلِيماً بِذِلَّتِي وَانْكِسَارِي",
+            "latin": "Robbi inni lil fadli tholantidhori * Ya 'aliman bidzillati wankisari"
+        },
+        "2": {
+            "arabic": "قُمْتُ بِالْبَابِ أَرْتَجِي مِنْكَ عَطْفاً * يَاخَبِيراً بِفَاقَتِي وَاضْطِرَارِي",
+            "latin": "Qumtu bil babi artaji minka 'athfan * Ya khobiron bifaqoti wadhdhirori"
+        },
+        "3": {
+            "arabic": "طَالَ مُكْثِي فِي سِجْنِ بَلْوَاكَ فَأَدْرِكْ * بِغِيَاثِي مِنْ قَبْلِ يَفْنَى اصْطِبَارِي",
+            "latin": "Thola muktsi fi sijni balwaka fadrik * Bighiyatsi min qobli yafnashthibari"
+        },
+        "4": {
+            "arabic": "وَعَلَى فَضْلِكَ الْجَزِيْلِ اعْتِمَادِي * وَإِلَى بَابِكَ الْمَنِيْعِ اضْطِرَارِي",
+            "latin": "Wa 'ala fadhlikal jazili'timadi * Wa ila babikal mani'idhdhirori"
+        },
+        "5": {
+            "arabic": "إِنَّ ضَعْفِي مَا قَطُّ يَخْفَاكَ يَا مَنْ * فَضْلُهُ فِي الْوُجُوْدِ وَالْكَوْنِ سَارِي",
+            "latin": "Inna dho'fi ma qoththu yakhfaka ya man * Fadhluhu fil wujudi wal kawni sari"
+        },
+        "6": {
+            "arabic": "أَنَا عَبْدٌ مِنْ شَأْنِيَ النَّقْصُ لَكِنْ * لَيْسَ لِي طَاقَةٌ عَلَى الإِخْتِبَارِ",
+            "latin": "Ana 'abdun min sya'niyan-naqshu lakin * Laysa li thoqotun 'alal ikhtibari"
+        },
+        "7": {
+            "arabic": "رَبِّ فَانْظُرْ إِلَيَّ نَظْرَةَ وُدٍّ * وَاغْنِنِي بِالْغِنَى وَقَرِّبْ مَزَارِي",
+            "latin": "Robbi fanzhur ilayya nazhrota wuddin * Waghnini bil ghina wa qorrib mazari"
+        },
+        "8": {
+            "arabic": "بِالْمُصْطَفَى بَلِّغْ مَقَاصِدَنَا * وَاغْفِرْ لَنَا مَامَضَى يَا وَاسِعَ الْكَرَمِ",
+            "latin": "Bil Mushthofa balligh maqoshidana * Waghfir lana ma madho ya wasi'al karomi"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Tuhanku, Sungguh Lama Aku Menantikan Karunia-Mu",
+            "translator": "Gemini",
+            "text": {
+                "1": "Tuhanku, sungguh lama aku menantikan karunia-Mu * Wahai Yang Maha Mengetahui kehinaan dan kehancuranku",
+                "2": "Aku berdiri di pintu berharap belas kasih-Mu * Wahai Yang Maha Mengetahui kefakiran dan keputusasaanku",
+                "3": "Telah lama aku tinggal di penjara ujian-Mu, maka tolonglah * Dengan pertolongan kepadaku sebelum kesabaranku sirna",
+                "4": "Dan atas karunia-Mu yang berlimpah aku bersandar * Dan ke pintu-Mu yang kokoh letak kembaliku (keterpaksaanku)",
+                "5": "Sesungguhnya kelemahanku tidak pernah tersembunyi dari-Mu wahai Dzat * Yang karunia-Nya di alam wujud dan semesta ini mengalir",
+                "6": "Aku adalah hamba yang keadaanku penuh kekurangan, akan tetapi * Aku tidak memiliki kekuatan untuk menghadapi cobaan",
+                "7": "Tuhanku, maka pandanglah aku dengan pandangan cinta * Dan cukupkanlah aku dengan kecukupan serta dekatkanlah perjumpaanku",
+                "8": "Demi Nabi (Muhammad) yang terpilih, sampaikanlah tujuan-tujuan kami * Dan ampunilah kami atas apa yang telah lalu, wahai Yang Maha Luas Kemurahan-Nya"
+            }
+        },
+        "en": {
+            "name": "My Lord, Long Have I Awaited Your Grace",
+            "translator": "Gemini",
+            "text": {
+                "1": "My Lord, truly long have I awaited Your grace * O You who know my humiliation and brokenness",
+                "2": "I stand at the door hoping for Your compassion * O You who are aware of my poverty and desperation",
+                "3": "Long have I stayed in the prison of Your trial, so rescue me * With relief before my patience perishes",
+                "4": "And upon Your abundant grace is my reliance * And to Your impenetrable door is my compelling need",
+                "5": "Indeed, my weakness is never hidden from You, O One * Whose grace flows throughout existence and the universe",
+                "6": "I am a servant whose nature is flawed, but * I have no strength to bear the trial",
+                "7": "My Lord, then look upon me with a glance of love * And enrich me with sufficiency and draw near my place of visitation",
+                "8": "By the Chosen One, fulfill our aims * And forgive us for what has passed, O You of vast generosity"
+            }
+        }
+    },
+    "last_updated": "2026-03-30"
+}

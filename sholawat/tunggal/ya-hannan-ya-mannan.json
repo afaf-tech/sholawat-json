@@ -1,0 +1,58 @@
+{
+    "source": "dutaislam.or.id",
+    "name": "يَا حَنَّان يَا مَنَّان",
+    "latin": "Ya Hannan Ya Mannan",
+    "text": {
+        "1": {
+            "arabic": "يَا حَنَّان يَا مَنَّان * يَا قَدِيْمَ الإِحْسَان",
+            "latin": "Ya Hannan Ya Mannan * Ya Qodimal Ihsan"
+        },
+        "2": {
+            "arabic": "بَحْرُ جُوْدِكَ مَلْيَان * جُدْ لَنَا بِالغُفْرَان",
+            "latin": "Bahru judika malyan * Jud lana bil ghufran"
+        },
+        "3": {
+            "arabic": "جُدْ لِهٰذَا الإِنْسَان * عَبْدِ سُوْءٍ خَزْيَان",
+            "latin": "Jud lihadzal insan * 'Abdi su-in khozyan"
+        },
+        "4": {
+            "arabic": "مِنْ ذُنُوْبِهْ وَحْلَان * خَائِفْ إِنَّكْ غَضْبَان",
+            "latin": "Min dzunubih wahlan * Kho-if innak ghodhban"
+        },
+        "5": {
+            "arabic": "رَبَّنَا نَسْتَعْفِيْك * رَبَّنَا نَسْتَرْضِيْك",
+            "latin": "Robbana nasta'fik * Robbana nastardhik"
+        },
+        "6": {
+            "arabic": "وَلَنَا ظَنٌّ فِيْك * يَا رَجَا أَهْلِ الإِيْمَان",
+            "latin": "Wa lana dhonnun fik * Ya roja ahlil iman"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Wahai Yang Maha Santun, Wahai Yang Maha Pemberi",
+            "translator": "Gemini",
+            "text": {
+                "1": "Wahai Yang Maha Santun, Wahai Yang Maha Pemberi * Wahai Yang Qadim (Terdahulu) kebaikan-Nya",
+                "2": "Lautan kedermawanan-Mu penuh * Maka berikanlah kami ampunan",
+                "3": "Berikanlah (kebaikan) kepada manusia ini * Hamba yang buruk dan hina",
+                "4": "Dari dosa-dosanya ia terpuruk * Takut jika Engkau murka",
+                "5": "Wahai Tuhan kami, kami memohon ampunan-Mu * Wahai Tuhan kami, kami memohon ridha-Mu",
+                "6": "Dan kami memiliki prasangka (baik) kepada-Mu * Wahai harapan para ahli iman"
+            }
+        },
+        "en": {
+            "name": "O Most Compassionate, O Most Bountiful",
+            "translator": "Gemini",
+            "text": {
+                "1": "O Most Compassionate, O Most Bountiful * O You whose goodness is eternal",
+                "2": "The ocean of Your generosity is full * So bestow upon us forgiveness",
+                "3": "Bestow (goodness) upon this human * A sinful and disgraced servant",
+                "4": "Mired in his sins * Fearful that You are angry",
+                "5": "O our Lord, we seek Your forgiveness * O our Lord, we seek Your pleasure",
+                "6": "And we have (good) expectations of You * O hope of the people of faith"
+            }
+        }
+    },
+    "last_updated": "2026-03-30"
+}

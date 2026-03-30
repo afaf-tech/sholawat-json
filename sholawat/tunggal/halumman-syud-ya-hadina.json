@@ -4,76 +4,72 @@
     "latin": "Halumman Syud Ya Hadina",
     "text": {
         "1": {
-            "arabic": "هَلُمَّا انْشُدْ يَا حَادِيْنَا",
-            "latin": "Halumman syud ya hadina"
+            "arabic": "هَلُمَّا انْشُدْ يَا حَادِيْنَا * بِمَنْ أَهْوَاهُ غَنِّيْنَا",
+            "latin": "Halumman syud ya hadina * Biman ahwahu ghonnina"
         },
         "2": {
-            "arabic": "بِمَنْ أَهْوَاهُ غَنِّيْنَا",
-            "latin": "B iman ahwahu ghonnina"
+            "arabic": "بِمَنْ أَهْوَاهُ يَا حَادِيْ * أَعِدْ مَدْحَكْ بِإِنْشَادِيْ",
+            "latin": "Biman ahwahu ya hadi * A'id madhak bi insyadi"
         },
         "3": {
-            "arabic": "بِمَنْ أَهْوَاهُ يَا حَادِيْ",
-            "latin": "B iman ahwahu ya hadi"
+            "arabic": "وَلَوْلَا جِيْرَةَ الْوَادِيْ * لَمَا رُحْنَا وَلَا جِيْنَا",
+            "latin": "Walaula jirotal wadi * Lama ruhna wala jina"
         },
         "4": {
-            "arabic": "أَعِدْ مَدْحَكْ بِإِنْشَادِيْ",
-            "latin": "A'id madhak bi insyadi"
+            "arabic": "وَلَوْلَاهُمْ لَمَا سِرْنَا * لِطَيْبَةْ بِرُوْحِنَا طِرْنَا",
+            "latin": "Walaulahum lama sirna * Litibah biruhina tirna"
         },
         "5": {
-            "arabic": "وَلَوْلَا جِيْرَةَ الْوَادِيْ",
-            "latin": "Walaula jirotal wadi"
+            "arabic": "مَا أَسْعَدْ مَا إِذَا طِرْنَا * بِحْمَاهُم مَعْ مُحِبّينا",
+            "latin": "Ma as'ad ma idza tirna * Bihmahum ma' muhibbina"
         },
         "6": {
-            "arabic": "لَمَا رُحْنَا وَلَا جِيْنَا",
-            "latin": "Lama ruhna wala jina"
+            "arabic": "سَرَيْنَا وَالرَّاكِبْ سَائِرْ * لِطَيْبَةْ وَالشَّجِيْ حَائِرْ",
+            "latin": "Saraina war rokib sair * Li tibah wasyaji hair"
         },
         "7": {
-            "arabic": "وَلَوْلَاهُمْ لَمَا سِرْنَا",
-            "latin": "Walaulahum lama sirna"
+            "arabic": "شَمِمْنَا رِيحَهَا العَاطِر * بِرَوضَة جَنَّةْ وَاجْنَيْنَا",
+            "latin": "Syamimna rihahal atir * Bi roudloh jannah waj naina"
         },
         "8": {
-            "arabic": "لِطَيْبَةْ بِرُوْحِنَا طِرْنَا",
-            "latin": "Litibah biruhina tirna"
+            "arabic": "دَخِيْلٌ يَا اَبَا الزَّهْرَا * فَأَنْتَ بِحَالنَا اَدْرَى",
+            "latin": "Dakhilun ya abaz zahro * Fa anta bihalina adro"
         },
         "9": {
-            "arabic": "مَا أَسْعَدْ مَا إِذَا طِرْنَا",
-            "latin": "Ma as'ad idza ma tirna"
+            "arabic": "بِحَقِّ الآلِ وَالعَشْرَة * تَشَفَّع فِينَا وَاحْمِينَا",
+            "latin": "Bihaqqil ali wal asyroh * Tasyaffa' fina wahmina"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Kemarilah Bernyanyi Wahai Pemandu Kami",
+            "translator": "Gemini",
+            "text": {
+                "1": "Kemarilah bernyanyi wahai pemandu (perjalanan) kami * Nyanyikanlah untuk kami tentang dia yang aku cintai",
+                "2": "Tentang dia yang aku cintai, wahai pemandu * Ulangilah pujianmu dengan senandungku",
+                "3": "Dan seandainya bukan karena para penghuni lembah (Madinah) * Niscaya kami tidak akan pergi dan tidak pula datang",
+                "4": "Dan seandainya bukan karena mereka, kami tidak akan berjalan * Menuju Thoybah (Madinah), dengan ruh kami terbang",
+                "5": "Betapa bahagianya ketika kami terbang * Ke tempat perlindungan mereka bersama para pecinta",
+                "6": "Kami berjalan di malam hari dan para pengendara terus bergerak * Menuju Thoybah, dan orang yang dimabuk rindu menjadi terkesima",
+                "7": "Kami mencium aromanya yang semerbak * Di taman surga (Raudhah) dan kami memetik buahnya",
+                "8": "Aku berlindung (memohon padamu) wahai ayah Fatimah Az-Zahra * Karena engkau lebih tahu tentang keadaan kami",
+                "9": "Demi hak keluarga dan sepuluh sahabat (yang dijamin surga) * Berikanlah syafaat kepada kami dan lindungilah kami"
+            }
         },
-        "10": {
-            "arabic": "بِحْمَاهُم مَعْ مُحِبّينا",
-            "latin": "Bihmahum ma' muhibbina"
-        },
-        "11": {
-            "arabic": "سَرَيْنَا وَالرَّاكِبْ سَائِرْ",
-            "latin": "Saraoina war rokib sair"
-        },
-        "12": {
-            "arabic": "لِطَيْبَةْ وَالشَّجِيْ حَائِرْ",
-            "latin": "Li tibah wasyaji hair"
-        },
-        "13": {
-            "arabic": "شَمِمْنَا رِيحَهَا العَاطِر",
-            "latin": "Syamimna rihahal atir"
-        },
-        "14": {
-            "arabic": "بِرَوضَة جَنَّةْ وَاجْنَيْنَا",
-            "latin": "Bi roudloh jannah waj niana"
-        },
-        "15": {
-            "arabic": "دَخِيْلٌ يَا اَبَا الزَّهْرَا",
-            "latin": "Dakhilun ya abaz zahro"
-        },
-        "16": {
-            "arabic": "فَأَنْتَ بِحَالنَا اَدْرَى",
-            "latin": "Fa anta bihalina adro"
-        },
-        "17": {
-            "arabic": "بِحَقِّ الآلِ وَالعَشْرَة",
-            "latin": "Bihaqqil ali wal asyroh"
-        },
-        "18": {
-            "arabic": "تَشَفَّع فِينَا وَاحْمِينَا",
-            "latin": "Taysaffa' fina wahmina"
+        "en": {
+            "name": "Come Sing, O Our Guide",
+            "translator": "Gemini",
+            "text": {
+                "1": "Come sing, O our guide * Sing to us about the one I love",
+                "2": "About the one I love, O guide * Repeat your praise through chanting",
+                "3": "And were it not for the neighbors of the valley (Medina) * We would neither have gone nor come",
+                "4": "And were it not for them, we would not have journeyed * To Taybah (Medina), we flew with our souls",
+                "5": "How joyous it is when we fly * To their sanctuary alongside those who love them",
+                "6": "We traveled by night while the riders kept moving * Towards Taybah, while the passionate lover is bewildered",
+                "7": "We smelled its fragrant breeze * In the garden (Rawdah) of Paradise, and we gathered its fruits",
+                "8": "I am seeking refuge, O Father of Zahra * For you are most aware of our condition",
+                "9": "By the right of your family and the ten (companions promised Paradise) * Intercede for us and protect us"
+            }
         }
     },
     "last_updated": "2025-11-21"
