@@ -158,6 +158,7 @@
         "path_files": "sholawat/suluk/",
         "files": [
           "adimishsholata-alal-habib.json",
+          "anal-faqiru-ilaika-ya-robb.json",
           "dzaka-qubabun.json",
           "fa-yaa-ayyuhar-rojuna.json",
           "fahamdan-lirobbi.json",
@@ -201,7 +202,6 @@
           "amsaktu-nafsi-an-hawaha.json",
           "ana-dhoifak-ya-rasulullah.json",
           "ana-muslimun-lan-astakina.json",
-          "anal-faqiru-ilaika-ya-robb.json",
           "annafsu-tabki-alad-dunya.json",
           "antal-hana-li-qolbi.json",
           "antum-furudi-wa-nafli.json",
@@ -324,6 +324,7 @@
           "ya-sayyidar-rusli-ya-tahir.json",
           "ya-sayyidas-sadati.json",
           "ya-sayyidi-ya-rasulallahi-khudz-biyadi.json",
+          "ya-sayyidi-ya-rasulullah.json",
           "ya-thoir-win-murawwah.json",
           "ya-toybah-ya-dawal-ayyana.json",
           "yaa-khoiro-hadi.json",
