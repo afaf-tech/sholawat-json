@@ -52,7 +52,7 @@ coverage/
 
 # Optional npm cache directory
 .npm
-
+CLAUDE.md
 # Optional eslint cache
 .eslintcache
 
@@ -109,7 +109,6 @@ public
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
 
 
 .github/instructions/

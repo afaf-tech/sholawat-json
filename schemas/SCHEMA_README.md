@@ -21,11 +21,9 @@ Each JSON Schema file should follow this pattern:
 - **`<version>`**: Schema version in the format `vX`, where `X` is the version (e.g., `v1`, `v2`).
 
 Examples
-- initial version`burdah_fasl_v1.schema.json`
-
-- subsequent versions:`burdah_fasl_v2.schema.json`
-
-- semantic versioning (optional):`burdah_fasl_v1.1.schemajson`
+- initial version: `burdah_fasl_v1.schema.json`
+- subsequent versions: `burdah_fasl_v2.schema.json`
+- semantic versioning (optional): `burdah_fasl_v1.1.schema.json`
 
 ## Versioning
 

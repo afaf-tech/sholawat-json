@@ -3,7 +3,7 @@
     "name": "burdah",
     "sources": [
       {
-        "source_name": "nu online",
+        "source_name": "nu-online",
         "description": "burdah-fasl",
         "path_files": "sholawat/burdah/nu_online/fasl/",
         "files": [
@@ -21,7 +21,7 @@
         "schema": "burdah_fasl_v1.0.schema.json"
       },
       {
-        "source_name": "minhaj ul quran",
+        "source_name": "minhaj-ul-quran",
         "description": "burdah-fasl",
         "path_files": "sholawat/burdah/minhaj_ul_quran/fasl/",
         "files": [
@@ -39,7 +39,7 @@
         "schema": "burdah_fasl_v1.1.schema.json"
       },
       {
-        "source_name": "dalail al khairat",
+        "source_name": "dalail-al-khairat",
         "description": "burdah-fasl",
         "path_files": "sholawat/burdah/dalail_khairat/fasl/",
         "files": [
@@ -57,7 +57,7 @@
         "schema": "burdah_fasl_v1.0.schema.json"
       },
       {
-        "source_name": "maktabah al mihrab",
+        "source_name": "maktabah-al-mihrab",
         "description": "burdah-fasl",
         "path_files": "sholawat/burdah/maktabah-al-mihrab/fasl/",
         "files": [
@@ -81,7 +81,7 @@
     "name": "simtudduror",
     "sources": [
       {
-        "source_name": "nu online",
+        "source_name": "nu-online",
         "description": "simtudduror-fasl",
         "path_files": "sholawat/simtudduror/nu_online/fasl/",
         "files": [
@@ -111,7 +111,7 @@
     "name": "diba",
     "sources": [
       {
-        "source_name": "nu online",
+        "source_name": "nu-online",
         "description": "diba-fasl",
         "path_files": "sholawat/diba/nu_online/fasl/",
         "files": [
@@ -229,6 +229,7 @@
           "bimaulidil-hadi.json",
           "bulbulul-afroh.json",
           "dauni-dauni-unaji-habibi.json",
+          "sholatullah-ala-tohal-yamani.json",
           "dawini-ya-nurol-aini.json",
           "dilluni.json",
           "dunya-la-tarham.json",

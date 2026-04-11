@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"strings"
 	"sync"
 
 	"github.com/kaptinlin/jsonschema"
@@ -41,6 +42,27 @@ func main() {
 
 	baseDir := "./../"
 
+	// Collect registered files from registry
+	registeredFiles := make(map[string]bool)
+	for _, sholawat := range sources {
+		for _, source := range sholawat.Sources {
+			for _, file := range source.Files {
+				fullPath := filepath.Join(source.PathFiles, file)
+				registeredFiles[fullPath] = true
+			}
+		}
+	}
+
+	// Find orphan files (exist on disk but not in registry)
+	orphanFiles := findOrphanFiles(baseDir, registeredFiles)
+	if len(orphanFiles) > 0 {
+		log.Printf("\n=== ORPHAN FILES (not in registry) ===")
+		for _, f := range orphanFiles {
+			log.Printf("Orphan file: %s\n", f)
+		}
+		log.Printf("Total orphan files: %d\n", len(orphanFiles))
+	}
+
 	var wg sync.WaitGroup
 
 	for _, sholawat := range sources {
@@ -70,6 +92,45 @@ func main() {
 	}
 
 	wg.Wait()
+}
+
+func findOrphanFiles(baseDir string, registeredFiles map[string]bool) []string {
+	var orphans []string
+	sholawatDir := filepath.Join(baseDir, "sholawat")
+
+	err := filepath.Walk(sholawatDir, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+
+		// Only check JSON files, skip the registry file itself
+		if info.IsDir() || !strings.HasSuffix(path, ".json") || path == filepath.Join(sholawatDir, "sholawat.json") {
+			return nil
+		}
+
+		// Get relative path from sholawat directory
+		relPath, err := filepath.Rel(sholawatDir, path)
+		if err != nil {
+			return nil
+		}
+
+		// Normalize path separators
+		relPath = filepath.ToSlash(relPath)
+
+		// Also check with "sholawat/" prefix (registry format)
+		regPath := "sholawat/" + relPath
+
+		if !registeredFiles[relPath] && !registeredFiles[regPath] {
+			orphans = append(orphans, relPath)
+		}
+		return nil
+	})
+
+	if err != nil {
+		log.Printf("Error walking sholawat directory: %v", err)
+	}
+
+	return orphans
 }
 
 func validateSourceFile(schema *jsonschema.Schema, baseDir string, source Source) {
