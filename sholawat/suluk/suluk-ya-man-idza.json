@@ -1,0 +1,42 @@
+{
+    "source": "calon-maha-santri",
+    "author": null,
+    "transmitter": null,
+    "name": "سلوك يَامَنْ إِذَا",
+    "latin": "Suluk Ya Man Idza",
+    "text": {
+        "1": {
+            "arabic": "يَامَنْ إِذَا قُلْتُ يَامَوْلاَيَ يَالَبَّانِ ۞ يَاوَاحِدًا... مَالَهُ فِي مُلْكِهِ ثَانِى",
+            "latin": "Yā man idzā qultu yā mawlāya yā labbāni ۞ Yā wāḥidan... mā lahu fī mulkihi tsānī"
+        },
+        "2": {
+            "arabic": "يَا... مَنْ أَمْرُهُ بَيْنَ كَافٍ وَالنُّوْنِ ۞ أَعْصِيْكَ تَسْتُرُنِى أَنْسَاكَ تَذْكُرُنِى",
+            "latin": "Yā... man amruhu bayna kāfin wa an-nūni ۞ A‘ṣīka tasturunī ansāka tadzkurunī"
+        },
+        "3": {
+            "arabic": "فَكَيْفَ أَنْسَاكَ يَامَنْ لَسْتَ تَنْسَانِى",
+            "latin": "Fa kayfa ansāka yā man lasta tansānī"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Suluk Wahai Dzat yang Apabila Aku Menyeru",
+            "translator": "Gemini",
+            "text": {
+                "1": "Wahai Dzat yang apabila aku menyeru, 'Wahai Tuhanku, wahai yang Maha Mengabulkan', Wahai Yang Maha Esa... tidak ada sekutu dalam kerajaan-Nya.",
+                "2": "Wahai... Dzat yang urusan-Nya berada di antara huruf Kaf dan Nun (Kun/Jadilah), aku bermaksiat kepada-Mu namun Engkau menutupiku, aku melupakan-Mu namun Engkau mengingatku.",
+                "3": "Lantas bagaimana mungkin aku melupakan-Mu, wahai Dzat yang tidak pernah melupakanku."
+            }
+        },
+        "en": {
+            "name": "Suluk O He Who When I Call",
+            "translator": "Gemini",
+            "text": {
+                "1": "O He who, when I say 'O my Lord, O Answerer', O One... who has no second in His kingdom.",
+                "2": "O... He whose command is between Kaf and Nun (Be), I disobey You yet You conceal my faults, I forget You yet You remember me.",
+                "3": "So how could I forget You, o He who never forgets me."
+            }
+        }
+    },
+    "last_updated": "2026-04-12"
+}
