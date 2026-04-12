@@ -1,0 +1,52 @@
+{
+  "source": "duta-islam",
+  "name": "وُلِدَ الْمُشَرَّفْ",
+  "latin": "Wulidal Musyarraf",
+  "text": {
+    "1": {
+      "arabic": "وُلِدَ الْمُشَرَّفْ فِي رَبِيْعِ الْأَوَّلِ ۞ وَالْقَلْبُ يَخْفِقُ وَالْكَوَاكِبُ تَنْجَلِي",
+      "latin": "Wulidal musyarraf fī rabī'il-awwali ۞ Wal-qalbu yakhfiqu wal-kawākibu tanjalī"
+    },
+    "2": {
+      "arabic": "يَا نَفْسُ نِلْتِ الْمُنَى فَاسْتَبْشِرِي وَتَلَا ۞ هٰذَا الْحَبِيْبُ وَهٰذَا خَاتَمُ الرُّسُلِ",
+      "latin": "Yā nafsu niltil-munā fastabsyirī wa talā ۞ Hādzal-ḥabību wa hādzā khātamur-rusuli"
+    },
+    "3": {
+      "arabic": "وَتَقُوْلُ آمِنَةُ رَأَيْتُ جَمَالَهُ ۞ كَالْبَدْرِ فِي لَيْلَةٍ يَلُوْحُ وَيَنْجَلِي",
+      "latin": "Wa taqūlu Āminatu ra'aitu jamālahū ۞ Kal-badri fī lailatin yalūḥu wa yanjalī"
+    },
+    "4": {
+      "arabic": "هٰذَا الَّذِي جَاءَ لِلْأَبْحَارِ مَالِحَةً ۞ فَمَجَّ فِيْهِ فَصَارَ الْمَاءُ كَالْعَسَلِ",
+      "latin": "Hādzal-ladzī jā'a lil-abḥāri māliḥatan ۞ Famajja fīhi faṣāral-mā'u kal-'asali"
+    },
+    "5": {
+      "arabic": "صَلَّى عَلَيْهِ اللهُ رَبُّنَا دَائِمًا ۞ مَا لَاحَتِ الْأَطْيَارُ فِي صَوْتٍ عَالِ",
+      "latin": "Ṣhallā 'alaihillāhu rabbunā dā'imān ۞ Mā lāḥatil-aṭyāru fī ṣhautin 'āli"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Telah Lahir Manusia Mulia",
+      "translator": "Gemini 3.1 Pro",
+      "text": {
+        "1": "Telah lahir manusia mulia di bulan Rabiul Awal ۞ Dan hati berdebar, bintang-bintang pun bersinar terang.",
+        "2": "Wahai jiwa, kau telah mencapai harapan, maka bergembiralah dan bacalah ۞ Inilah kekasih, dan inilah penutup para utusan.",
+        "3": "Dan Aminah berkata, aku melihat ketampanannya ۞ Bagaikan bulan purnama di malam hari yang bersinar dan terang benderang.",
+        "4": "Inilah dia yang datang ke lautan yang asin ۞ Lalu meludah di dalamnya, maka airnya menjadi manis seperti madu.",
+        "5": "Semoga Allah, Tuhan kita, selalu bersholawat kepadanya ۞ Selama burung-burung tampak bernyanyi dengan suara yang lantang."
+      }
+    },
+    "en": {
+      "name": "The Honored One Was Born",
+      "translator": "Gemini 3.1 Pro",
+      "text": {
+        "1": "The honored one was born in Rabi' al-Awwal ۞ And the heart beats, and the stars shine brightly.",
+        "2": "O soul, you have attained your desire, so rejoice and recite ۞ This is the beloved, and this is the seal of the messengers.",
+        "3": "And Aminah said, I saw his beauty ۞ Like the full moon in the night, shining and illuminating.",
+        "4": "This is the one who came to the salty seas ۞ And he spat in it, and the water became like honey.",
+        "5": "May Allah, our Lord, always send blessings upon him ۞ As long as the birds appear singing with a loud voice."
+      }
+    }
+  },
+  "last_updated": "2026-04-12"
+}
