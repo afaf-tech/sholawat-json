@@ -1,0 +1,58 @@
+{
+  "source": "youtube",
+  "name": "بِذِكْرِ مُحَمَّدٍ دَامَتْ لَنَا الْأَفْرَاحُ",
+  "latin": "Bi Dzikri Muhammadin",
+  "text": {
+    "1": {
+      "arabic": "بِذِكْرِ مُحَمَّدٍ دَامَتْ لَنَا الْأَفْرَاحُ ۩ وَقُلُوْبُنَا فِي ذِكْرِهِ تَرْتَاحُ",
+      "latin": "Bi dzikri Muḥammadin dāmat lanā al-afrāḥu ۩ Wa qulūbunā fī dzikrihi tartāḥu"
+    },
+    "2": {
+      "arabic": "فَإِذَا تَلَوْنَا ذِكْرَهُ وَحَدِيْثَهُ ۩ دَارَتْ لَنَا بِشَرَابِهِ الْأَقْدَاحُ",
+      "latin": "Fa idzā talawnā dzikrahu wa ḥadītsahu ۩ Dārat lanā bisyarābihi al-aqdāḥu"
+    },
+    "3": {
+      "arabic": "بِجَبِيْنِهِ نُوْرٌ كَمِصْبَاحٍ بَدَا ۩ لِلْعَالَمِيْنَ جَبِيْنُهُ الْمِصْبَاحُ",
+      "latin": "Bi jabīnihi nūrun kamiṣbāḥin badā ۩ Lil 'ālamīna jabīnuhu al-miṣbāḥu"
+    },
+    "4": {
+      "arabic": "حَازَ الْجَمَالَ وَنَالَ يُوْسُفُ بَعْضَهُ ۩ مُلِئَتْ بِمَدْحِ صِفَاتِهِ الْأَلْوَاحُ",
+      "latin": "Ḥāza al-jamāla wa nāla Yūsufu ba'ḍahu ۩ Muli'at bimadḥi ṣifātihi al-alwāḥu"
+    },
+    "5": {
+      "arabic": "نَارُ الْغَرَامِ بِقَلْبِ عَاشِقِ حُسْنِهِ ۩ إِنْ مَاتَ وَاجِدًا مَا عَلَيْهِ جُنَاحُ",
+      "latin": "Nāru al-gharāmi biqalbi 'āshiqi ḥusnihi ۩ In māta wājidā mā 'alayhi junāḥu"
+    },
+    "6": {
+      "arabic": "هِمْنَا بِهِ لَمَّا تَلَوْنَا وَصْفَهُ ۩ وَلَنَا بِمَدْحِ صِفَاتِهِ الْأَرْبَاحُ",
+      "latin": "Himnā bihi lammā talawnā waṣfahu ۩ Wa lanā bimadḥi ṣifātihi al-arbāḥu"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Dengan Mengingat Muhammad Kebahagiaan Kami Abadi",
+      "translator": "Gemini",
+      "text": {
+        "1": "Dengan menyebut (mengingat) Muhammad, kebahagiaan kami abadi, dan hati kami menjadi tenang saat mengingatnya.",
+        "2": "Maka apabila kami membaca kisah dan hadisnya, piala-piala minumannya beredar mengelilingi kami.",
+        "3": "Di keningnya tampak cahaya bagaikan pelita, bagi seluruh alam keningnya adalah pelita penunjuk jalan.",
+        "4": "Dia merengkuh seluruh ketampanan, dan Nabi Yusuf hanya mendapatkan sebagian darinya, lembaran-lembaran dipenuhi dengan pujian atas sifat-sifatnya.",
+        "5": "Api cinta membara di hati orang yang merindukan keelokannya, jika ia mati dalam kerinduan, tidak ada dosa baginya.",
+        "6": "Kami tergila-gila padanya ketika kami membaca sifat-sifatnya, dan bagi kami dengan memuji sifat-sifatnya adalah suatu keuntungan."
+      }
+    },
+    "en": {
+      "name": "By Remembering Muhammad Our Joys Endure",
+      "translator": "Gemini",
+      "text": {
+        "1": "By remembering Muhammad, our joys endure, and our hearts find comfort in his remembrance.",
+        "2": "So when we recite his remembrance and his hadith, the cups of his drink circulate for us.",
+        "3": "On his forehead a light like a lamp appeared, for the worlds, his forehead is the guiding lamp.",
+        "4": "He possessed all beauty, and Joseph only attained a portion of it, the tablets are filled with praise for his attributes.",
+        "5": "The fire of passion is in the heart of the one enamored with his beauty; if he dies out of longing, there is no blame upon him.",
+        "6": "We became deeply enamored with him when we recited his description, and in praising his attributes we gain profit."
+      }
+    }
+  },
+  "last_updated": "2026-04-12"
+}
