@@ -1,0 +1,54 @@
+{
+    "source": null,
+    "author": null,
+    "transmitter": "Cak Nun & Kiai Kanjeng",
+    "name": "كَانَ النَّبِيُّ",
+    "latin": "Kāna an-Nabiyyu",
+    "text": {
+        "1": {
+            "arabic": "كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَطُوْفُ فِي الْكَعْبَةِ فَرَأَى أَعْرَابِيًّا يَطُوْفُ بِهَا وَيَقُوْلُ يَا كَرِيْمُ",
+            "latin": "Kāna an-nabiyyu ṣallallāhu 'alayhi wa sallam yaṭūfu fī al-ka'bati fa-ra'ā a'rābiyyan yaṭūfu bihā wa yaqūlu yā karīmu."
+        },
+        "2": {
+            "arabic": "فَقَالَ النَّبِيُّ وَرَاءَهُ يَا كَرِيْمُ فَانْتَقَلَ الْأَعْرَابِيُّ إِلَى الرُّكْنِ الثَّانِيْ وَقَالَ يَا كَرِيْمُ",
+            "latin": "Fa-qāla an-nabiyyu warā'ahu yā karīmu fa-intaqala al-a'rābiyyu ilā ar-rukni ath-thānī wa qāla yā karīmu."
+        },
+        "3": {
+            "arabic": "فَقَالَ الْحَبِيْبُ وَرَاءَهُ يَا كَرِيْمُ فَانْتَقَلَ الْأَعْرَابِيُّ إِلَى الْحَجَرِ الْأَسْوَدِ وَقَالَ يَا كَرِيْمُ",
+            "latin": "Fa-qāla al-ḥabību warā'ahu yā karīmu fa-intaqala al-a'rābiyyu ilā al-ḥajari al-aswadi wa qāla yā karīmu."
+        },
+        "4": {
+            "arabic": "فَقَالَ النَّبِيُّ وَرَاءَهُ يَا كَرِيْمُ فَانْتَفَضَ الْأَعْرَابِيُّ إِلَى النَّبِيِّ فَقَالَ لَهُ",
+            "latin": "Fa-qāla an-nabiyyu warā'ahu yā karīmu fa-intafaḍa al-a'rābiyyu ilā an-nabiyyi fa-qāla lahu."
+        },
+        "5": {
+            "arabic": "أَتَهْزَأُ بِيْ يَا أَخَا الْعَرَبِ وَاللَّهِ لَوْلَا صَبَاحَةُ وَجْهِكَ",
+            "latin": "Atahza'u bī yā akhā al-'arabi wallāhi lawlā ṣabāḥatu wajhika."
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Kisah Nabi dan Badui saat Thawaf",
+            "translator": "Gemini AI",
+            "text": {
+                "1": "Nabi shallallahu 'alaihi wa sallam sedang thawaf di Ka'bah, kemudian beliau melihat seorang Badui yang juga sedang thawaf di sana sambil mengucapkan, 'Wahai Yang Maha Pemurah.'",
+                "2": "Maka Nabi di belakangnya pun mengucapkan, 'Wahai Yang Maha Pemurah.' Orang Badui itu kemudian berpindah ke rukun (sudut) kedua dan mengucapkan, 'Wahai Yang Maha Pemurah.'",
+                "3": "Sang Kekasih (Nabi) di belakangnya kembali mengucapkan, 'Wahai Yang Maha Pemurah.' Orang Badui itu berpindah ke Hajar Aswad dan mengucapkan, 'Wahai Yang Maha Pemurah.'",
+                "4": "Nabi di belakangnya mengucapkan lagi, 'Wahai Yang Maha Pemurah.' Orang Badui itu pun berbalik dengan kaget ke arah Nabi dan berkata kepadanya,",
+                "5": "'Apakah engkau mengejekku, wahai saudara Arab? Demi Allah, seandainya bukan karena wajahmu yang berseri-seri...'"
+            }
+        },
+        "en": {
+            "name": "The Story of the Prophet and the Bedouin",
+            "translator": "Gemini AI",
+            "text": {
+                "1": "The Prophet, peace and blessings be upon him, was circumambulating the Kaaba when he saw a Bedouin circumambulating it and saying, 'O Generous One.'",
+                "2": "So the Prophet behind him said, 'O Generous One.' The Bedouin then moved to the second corner and said, 'O Generous One.'",
+                "3": "Then the Beloved (Prophet) behind him said, 'O Generous One.' The Bedouin moved to the Black Stone and said, 'O Generous One.'",
+                "4": "The Prophet behind him said, 'O Generous One.' At this, the Bedouin turned abruptly towards the Prophet and said to him,",
+                "5": "'Are you mocking me, O brother of the Arabs? By Allah, were it not for the brightness of your face...'"
+            }
+        }
+    },
+    "last_updated": "2026-04-12"
+}

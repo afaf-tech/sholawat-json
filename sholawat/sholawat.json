@@ -170,7 +170,8 @@
           "ya-khoiro-man-jaa-a.json",
           "ya-robbi-ya-alimal-hal.json",
           "suluk-ya-man-idza.json",
-          "bi-dzikri-muhammadin.json"
+          "bi-dzikri-muhammadin.json",
+          "kana-an-nabiyyu.json"
         ],
         "schema": "suluk_v1.1.schema.json"
       }
