@@ -169,7 +169,8 @@
           "ya-hujrotan.json",
           "ya-khoiro-man-jaa-a.json",
           "ya-robbi-ya-alimal-hal.json",
-          "suluk-ya-man-idza.json"
+          "suluk-ya-man-idza.json",
+          "bi-dzikri-muhammadin.json"
         ],
         "schema": "suluk_v1.1.schema.json"
       }
@@ -224,7 +225,6 @@
           "baina-katifaihi-alamah.json",
           "bi-islami-wa-imani.json",
           "bil-muhaiminil-abadil-maula.json",
-          "bi-dzikri-muhammadin.json",
           "billaahi-gorrid.json",
           "billahi-ghorrid-ya-hamam.json",
           "bimadihika-tobi-lilal-kalimu.json",
