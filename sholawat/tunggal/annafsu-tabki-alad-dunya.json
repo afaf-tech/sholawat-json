@@ -4,90 +4,50 @@
   "latin": "Annafsu Tabkî 'Alâd-Dunyâ",
   "text": {
     "1": {
-      "arabic": "اَلنَّفْسُ تَبْكِي عَلَى الدُّنْيَا وَقَدْ عَلِمَتْ",
-      "latin": "Annafsu tabkî 'alâd-dunyâ wa qod 'alimat"
+      "arabic": "اَلنَّفْسُ تَبْكِي عَلَى الدُّنْيَا وَقَدْ عَلِمَتْ ۞ أَنَّ السَّلَامَةَ فِيْهَا تَرْكُ مَا فِيْهَا",
+      "latin": "Annafsu tabkî 'alâd-dunyâ wa qod 'alimat ۞ Annas-salâmata fîhâ tarku mâ fîhâ"
     },
     "2": {
-      "arabic": "أَنَّ السَّلَامَةَ فِيْهَا تَرْكُ مَا فِيْهَا",
-      "latin": "Annas-salâmata fîhâ tarku mâ fîhâ"
+      "arabic": "لَا دَارَ لِلْمَرْءِ بَعْدَ الْمَوْتِ يَسْكُنُهَا ۞ إِلَّا الَّتِي كَانَ قَبْلَ الْمَوْتِ بَانِيْهَا",
+      "latin": "Lâ dârun lil mar-i ba'dal mauti yaskunuhâ ۞ Illâl-latî kâna qoblal mauti bânîhâ"
     },
     "3": {
-      "arabic": "لَا دَارَ لِلْمَرْءِ بَعْدَ الْمَوْتِ يَسْكُنُهَا",
-      "latin": "Lâ dârun lil mar-i ba'dal mauti yaskunuhâ"
+      "arabic": "فَإِنْ بَنَاهَا بِخَيْرٍ طَابَ مَسْكَنُهَا ۞ وَإِنْ بَنَاهَا بِشَرٍّ خَابَ بَانِيْهَا",
+      "latin": "Fa-in banâhâ bikhoirin thôba maskanuhâ ۞ Wa in banâhâ bisyarrin khôbâ bânîhâ"
     },
     "4": {
-      "arabic": "إِلَّا الَّتِي كَانَ قَبْلَ الْمَوْتِ بَانِيْهَا",
-      "latin": "Illâl-latî kâna qoblal mauti bânîhâ"
+      "arabic": "أَيْنَ الْمُلُوْكُ الَّتِي كَانَتْ مُسَلْطَنَةً ۞ حَتَّى سَقَاهَا بِكَأْسِ الْمَوْتِ سَاقِيْهَا",
+      "latin": "Ainal mulûkul-latî kânat musalthonatan ۞ Hattâ saqôhâ bika,sil mauti sâqîhâ"
     },
     "5": {
-      "arabic": "فَإِنْ بَنَاهَا بِخَيْرٍ طَابَ مَسْكَنُهَا",
-      "latin": "Fa-in banâhâ bikhoirin thôba maskanuhâ"
+      "arabic": "أَمْوَالُنَا لِذَوِي الْمِيْرَاثِ نَجْمَعُهَا ۞ وَدُوْرُنَا لِخَرَابِ الدَّهْرِ نَبْنِيْهَا",
+      "latin": "Amwâlunâ lidzawîl mîrôtsi najma'uhâ ۞ Wa dûrunâ likhorôbid-dahri nabnîhâ"
     },
     "6": {
-      "arabic": "وَإِنْ بَنَاهَا بِشَرٍّ خَابَ بَانِيْهَا",
-      "latin": "Wa in banâhâ bisyarrin khôbâ bânîhâ"
+      "arabic": "كَمْ مِنْ مَدَائِنَ فِي الْآفَاقِ قَدْ بُنِيَتْ ۞ أَمْسَتْ خَرَابًا وَذَانُ الْمَوْتِ دَانِيْهَا",
+      "latin": "Kam min madâ-ini fîl afâqi qod buniyat ۞ Amsat khorôban wadzânul mauti dânîhâ"
     },
     "7": {
-      "arabic": "أَيْنَ الْمُلُوْكُ الَّتِي كَانَتْ مُسَلْطَنَةً",
-      "latin": "Ainal mulûkul-latî kânat musalthonatan"
+      "arabic": "لِكُلِّ نَفْسٍ وَإِنْ كَانَتْ عَلَى وَجَلٍ ۞ مِنَ الْمَنِيَّةِ آمَالٌ تُقَوِّيْهَا",
+      "latin": "Likulli nafsin wa in kânat 'alâ wajlin ۞ Minal maniyyati ãmâlun tuqowwîhâ"
     },
     "8": {
-      "arabic": "حَتَّى سَقَاهَا بِكَأْسِ الْمَوْتِ سَاقِيْهَا",
-      "latin": "Hattâ saqôhâ bika,sil mauti sâqîhâ"
-    },
-    "9": {
-      "arabic": "أَمْوَالُنَا لِذَوِي الْمِيْرَاثِ نَجْمَعُهَا",
-      "latin": "Amwâlunâ lidzawîl mîrôtsi najma'uhâ"
-    },
-    "10": {
-      "arabic": "وَدُوْرُنَا لِخَرَابِ الدَّهْرِ نَبْنِيْهَا",
-      "latin": "Wa dûrunâ likhorôbid-dahri nabnîhâ"
-    },
-    "11": {
-      "arabic": "كَمْ مِنْ مَدَائِنَ فِي الْآفَاقِ قَدْ بُنِيَتْ",
-      "latin": "Kam min madâ-ini fîl afâqi qod buniyat"
-    },
-    "12": {
-      "arabic": "أَمْسَتْ خَرَابًا وَذَانُ الْمَوْتِ دَانِيْهَا",
-      "latin": "Amsat khorôban wadzânul mauti dânîhâ"
-    },
-    "13": {
-      "arabic": "لِكُلِّ نَفْسٍ وَإِنْ كَانَتْ عَلَى وَجَلٍ",
-      "latin": "Likulli nafsin wa in kânat 'alâ wajlin"
-    },
-    "14": {
-      "arabic": "مِنَ الْمَنِيَّةِ آمَالٌ تُقَوِّيْهَا",
-      "latin": "Minal maniyyati ãmâlun tuqowwîhâ"
-    },
-    "15": {
-      "arabic": "فَالْمَرْءُ يَبْسُطُهَا وَالدَّهْرُ يَقْبِضُهَا",
-      "latin": "Fal mar-u yabsithuhâ waddahru yaqbidluhâ"
-    },
-    "16": {
-      "arabic": "وَالنَّفْسُ تَنْشُرُهَا وَالْمَوْتُ يَطْوِيْهَا",
-      "latin": "Wannafsu tansyuruhâ wal mautu yathwîhâ"
+      "arabic": "فَالْمَرْءُ يَبْسُطُهَا وَالدَّهْرُ يَقْبِضُهَا ۞ وَالنَّفْسُ تَنْشُرُهَا وَالْمَوْتُ يَطْوِيْهَا",
+      "latin": "Fal mar-u yabsithuhâ waddahru yaqbidluhâ ۞ Wannafsu tansyuruhâ wal mautu yathwîhâ"
     }
   },
   "translations": {
     "id": {
       "name": "Jiwa Menangis Karena Dunia",
       "text": {
-        "1": "Jiwaku menangis karena dunia, padahal ia telah mengetahui",
-        "2": "bahwa keselamatan adalah dengan meninggalkan apa yang ada di dalamnya",
-        "3": "Tidak ada rumah bagi seseorang setelah kematian yang ia tinggali,",
-        "4": "Kecuali rumah yang telah ia bangun sebelum kematian",
-        "5": "Jika ia membangunnya dengan kebaikan, maka baiklah tempat tinggalnya,",
-        "6": "tetapi jika ia membangunnya dengan keburukan, maka buruklah bangunannya",
-        "7": "Di mana raja-raja yang dulu berkuasa,",
-        "8": "Hingga diberikan kepadanya minuman dengan cangkir kematian",
-        "9": "Harta kita kumpulkan untuk ahli waris",
-        "10": "dan rumah yang kita bangun akan hancur seiring berjalannya waktu",
-        "11": "Betapa banyak kota-kota yang telah dibangun di penjuru dunia,",
-        "12": "Kini menjadi reruntuhan, karena maut telah mendekatinya",
-        "13": "Setiap jiwa, meskipun dalam kekhawatiran terhadap kematian,",
-        "14": "memiliki harapan yang memperkuatnya",
-        "15": "Manusia yang membentangkannya, namun waktu yang menariknya,",
-        "16": "Jiwa yang menyebarkannya, namun maut yang melipatnya"
+        "1": "Jiwaku menangis karena dunia, padahal ia telah mengetahui ۞ bahwa keselamatan adalah dengan meninggalkan apa yang ada di dalamnya",
+        "2": "Tidak ada rumah bagi seseorang setelah kematian yang ia tinggali, ۞ Kecuali rumah yang telah ia bangun sebelum kematian",
+        "3": "Jika ia membangunnya dengan kebaikan, maka baiklah tempat tinggalnya, ۞ tetapi jika ia membangunnya dengan keburukan, maka buruklah bangunannya",
+        "4": "Di mana raja-raja yang dulu berkuasa, ۞ Hingga diberikan kepadanya minuman dengan cangkir kematian",
+        "5": "Harta kita kumpulkan untuk ahli waris ۞ dan rumah yang kita bangun akan hancur seiring berjalannya waktu",
+        "6": "Betapa banyak kota-kota yang telah dibangun di penjuru dunia, ۞ Kini menjadi reruntuhan, karena maut telah mendekatinya",
+        "7": "Setiap jiwa, meskipun dalam kekhawatiran terhadap kematian, ۞ memiliki harapan yang memperkuatnya",
+        "8": "Manusia yang membentangkannya, namun waktu yang menariknya, ۞ Jiwa yang menyebarkannya, namun maut yang melipatnya"
       }
     }
   },
