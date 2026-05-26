@@ -4,6 +4,11 @@ on:
   release:
     types: [published]
   workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish (without v prefix, e.g. 0.4.20)'
+        required: true
+        type: string
 
 jobs:
   publish:
@@ -34,9 +39,12 @@ jobs:
         
     - name: Update package version
       run: |
-        # Extract version from release tag (removes 'v' prefix if present)
-        VERSION=${GITHUB_REF#refs/tags/v}
+        VERSION="${{ inputs.version || '' }}"
+        if [ -z "$VERSION" ]; then
+          VERSION=${GITHUB_REF#refs/tags/v}
+        fi
         echo "Publishing version: $VERSION"
+        echo "VERSION=$VERSION" >> $GITHUB_ENV
         npm version $VERSION --no-git-tag-version
         
     - name: Publish to npm
