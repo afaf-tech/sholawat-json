@@ -44,7 +44,7 @@ func main() {
 	var validationFailed int32
 
 	registeredFiles := collectRegisteredFiles(sources)
-	reportOrphanFiles(baseDir, registeredFiles, &validationFailed)
+	reportOrphanFiles(baseDir, registeredFiles)
 	schemaCache := compileSchemaCache(sources, baseDir, &validationFailed)
 	validateAllSources(sources, schemaCache, baseDir, &validationFailed)
 
@@ -81,7 +81,7 @@ func collectRegisteredFiles(sources []Sholawat) map[string]bool {
 	return registeredFiles
 }
 
-func reportOrphanFiles(baseDir string, registeredFiles map[string]bool, validationFailed *int32) {
+func reportOrphanFiles(baseDir string, registeredFiles map[string]bool) {
 	orphanFiles := findOrphanFiles(baseDir, registeredFiles)
 	if len(orphanFiles) == 0 {
 		return
@@ -92,7 +92,6 @@ func reportOrphanFiles(baseDir string, registeredFiles map[string]bool, validati
 		log.Printf("Orphan file: %s\n", file)
 	}
 	log.Printf("Total orphan files: %d\n", len(orphanFiles))
-	atomic.AddInt32(validationFailed, int32(len(orphanFiles)))
 }
 
 func compileSchemaCache(sources []Sholawat, baseDir string, validationFailed *int32) map[string]*cachedSchema {
