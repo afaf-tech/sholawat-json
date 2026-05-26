@@ -1,0 +1,102 @@
+{
+  "source": null,
+  "author": null,
+  "transmitter": null,
+  "name": "صَلَاةُ اللَّهِ وَسَلَامُ",
+  "latin": "Shalātullāhi wa salām",
+  "text": {
+    "1": {
+      "arabic": "صَلَاةُ اللَّهِ وَسَلَامُ * عَلَى مَنْ أُوْحِيَ الْقُرْآنْ",
+      "latin": "Shalātullāhi wa salām * 'alā man ūḥiyal-qur'ān"
+    },
+    "2": {
+      "arabic": "وَآلِ بَيْتِهِ الْكِرَامْ * وَصَحْبِهِ ذَوِي الْقُرْآنْ",
+      "latin": "Wa āli baytihil-kirām * wa ṣaḥbihi dhawil-qur'ān"
+    },
+    "3": {
+      "arabic": "يَا مَنْ يَرَى وَلَا يُرَى * وَفَضْلُهُ عَمَّ الْأَنَامْ",
+      "latin": "Yā man yarā wa lā yurā * wa faḍluhu 'ammal-anām"
+    },
+    "4": {
+      "arabic": "يَسِّرْ لَنَا أُمُورَنَا * بِجَاهِ صَاحِبِ الْقُرْآنْ",
+      "latin": "Yassir lanā umūranā * bi jāhi ṣāḥibil-qur'ān"
+    },
+    "5": {
+      "arabic": "وَزِدْنَا عِلْمًا نَافِعًا * بِمَا حَوَى بِهِ الْقُرْآنْ",
+      "latin": "Wa zidnā 'ilman nāfi'ān * bimā ḥawā bihil-qur'ān"
+    },
+    "6": {
+      "arabic": "وَوَسِّعْ مَا رَزَقْتَنَا * بِجَاهِ مُنْزِلِ الْقُرْآنْ",
+      "latin": "Wa wassi' mā razaqtanā * bi jāhi munzilil-qur'ān"
+    },
+    "7": {
+      "arabic": "وَاجْمَعْ آرَاءَ الزُّعَمَا * مُطَابِقًا مَا فِي الْقُرْآنْ",
+      "latin": "Wajma' ārā'az-zu'amā * muṭābiqan mā fil-qur'ān"
+    },
+    "8": {
+      "arabic": "رَخَا أَمَانًا مُوَحَّدًا * بَرَاءَةً مِنَ الظُّلْمَانْ",
+      "latin": "Rakhā amānan muwaḥḥadān * barā'atan minaż-ẓulmān"
+    },
+    "9": {
+      "arabic": "وَارْفَعْ شُئُوْنَ الرَّعَايَا * مِنَ الْجَهَالَةِ وَالْخِذْلَانْ",
+      "latin": "Warfa' syu'ūnar-ra'āyā * minal-jahālati wal-khiżlān"
+    },
+    "10": {
+      "arabic": "مُسَاوِيًا بَلْ اعْتَلَى * بَيْنَ الْبُلْدَانِ فِي الْعَالَمْ",
+      "latin": "Musāwiyan bal i'talā * baynal-buldāni fil-'ālam"
+    },
+    "11": {
+      "arabic": "آمِيْن آمِيْن آمِيْن آمِيْن * آمِيْن يَارَبَّ الْعَالَمِيْن",
+      "latin": "Āmīn āmīn āmīn āmīn * āmīn yā rabbal-'ālamīn"
+    },
+    "12": {
+      "arabic": "قَبُوْل قَبُوْل * قَبُوْل دُعَائَنَا مَقْبُوْل",
+      "latin": "Qabūl qabūl * qabūl du'ā'anā maqbūl"
+    },
+    "13": {
+      "arabic": "دَعَوْتُكَ الله يَا رَبَّنَا * وَأَنْتَ مُجِيْبُ السَّائِلِيْن",
+      "latin": "Da'awtukallāh yā rabbanā * wa anta mujībus-sā'ilīn"
+    }
+  },
+  "translations": {
+    "en": {
+      "name": "The Blessings and Peace of Allah",
+      "translator": "Gemini 3.1 Pro",
+      "text": {
+        "1": "The blessings and peace of Allah * upon him to whom the Quran was revealed.",
+        "2": "And his noble family * and his companions, the people of the Quran.",
+        "3": "O He who sees and is not seen * and His bounty encompasses all mankind.",
+        "4": "Ease our affairs for us * by the rank of the companion of the Quran.",
+        "5": "And increase us in beneficial knowledge * by what the Quran contains.",
+        "6": "And expand what You have provided us * by the rank of the Revealer of the Quran.",
+        "7": "And unite the opinions of the leaders * in accordance with what is in the Quran.",
+        "8": "In prosperity and unified safety * free from oppression.",
+        "9": "And elevate the affairs of the citizens * from ignorance and failure.",
+        "10": "Equally, nay, highly elevated * among the countries in the world.",
+        "11": "Amen Amen Amen Amen * Amen O Lord of the worlds.",
+        "12": "Accepted, accepted * accepted, our prayer is accepted.",
+        "13": "I invoke You, O Allah, O our Lord * and You are the Answerer of those who ask."
+      }
+    },
+    "id": {
+      "name": "Rahmat dan Keselamatan Allah",
+      "translator": "Gemini 3.1 Pro",
+      "text": {
+        "1": "Rahmat dan keselamatan Allah * atas dia yang diwahyukan Al-Quran kepadanya.",
+        "2": "Dan keluarganya yang mulia * serta sahabatnya, para ahli Al-Quran.",
+        "3": "Wahai Dzat yang melihat dan tidak terlihat * dan karunia-Nya meliputi seluruh manusia.",
+        "4": "Mudahkanlah urusan-urusan kami * dengan kedudukan penyampai Al-Quran.",
+        "5": "Dan tambahkanlah kepada kami ilmu yang bermanfaat * dengan apa yang dikandung dalam Al-Quran.",
+        "6": "Dan luaskanlah rezeki yang Engkau karuniakan kepada kami * dengan kedudukan Dzat yang menurunkan Al-Quran.",
+        "7": "Dan satukanlah pendapat para pemimpin * agar sesuai dengan apa yang ada di dalam Al-Quran.",
+        "8": "Dalam kemakmuran dan keamanan yang bersatu * terbebas dari kezaliman.",
+        "9": "Dan angkatlah keadaan rakyat * dari kebodohan dan keterpurukan.",
+        "10": "Setara, bahkan lebih tinggi * di antara negara-negara di dunia.",
+        "11": "Amin Amin Amin Amin * Amin Wahai Tuhan semesta alam.",
+        "12": "Terkabul, terkabul * terkabul, doa kami dikabulkan.",
+        "13": "Aku berdoa kepada-Mu, Ya Allah, Wahai Tuhan kami * dan Engkaulah yang mengabulkan para peminta."
+      }
+    }
+  },
+  "last_updated": "2026-05-26"
+}

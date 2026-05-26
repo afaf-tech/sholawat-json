@@ -7,6 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 	"sync"
+	"sync/atomic"
 
 	"github.com/kaptinlin/jsonschema"
 )
@@ -28,21 +29,45 @@ type Sources struct {
 	Sholawats []Sholawat `json:"sholawat"`
 }
 
-func main() {
-	data, err := os.ReadFile("./../sholawat/sholawat.json")
-	if err != nil {
-		log.Fatalf("Error reading the file: %v", err)
-	}
+type cachedSchema struct {
+	schema *jsonschema.Schema
+	mu     sync.Mutex
+}
 
-	var sources []Sholawat
-	err = json.Unmarshal(data, &sources)
+func main() {
+	sources, err := loadSources("./../sholawat/sholawat.json")
 	if err != nil {
-		log.Fatalf("Error unmarshalling JSON: %v", err)
+		log.Fatalf("Error loading sources: %v", err)
 	}
 
 	baseDir := "./../"
+	var validationFailed int32
 
-	// Collect registered files from registry
+	registeredFiles := collectRegisteredFiles(sources)
+	reportOrphanFiles(baseDir, registeredFiles)
+	schemaCache := compileSchemaCache(sources, baseDir, &validationFailed)
+	validateAllSources(sources, schemaCache, baseDir, &validationFailed)
+
+	if atomic.LoadInt32(&validationFailed) > 0 {
+		os.Exit(1)
+	}
+}
+
+func loadSources(registryPath string) ([]Sholawat, error) {
+	data, err := os.ReadFile(registryPath)
+	if err != nil {
+		return nil, err
+	}
+
+	var sources []Sholawat
+	if err := json.Unmarshal(data, &sources); err != nil {
+		return nil, err
+	}
+
+	return sources, nil
+}
+
+func collectRegisteredFiles(sources []Sholawat) map[string]bool {
 	registeredFiles := make(map[string]bool)
 	for _, sholawat := range sources {
 		for _, source := range sholawat.Sources {
@@ -53,41 +78,69 @@ func main() {
 		}
 	}
 
-	// Find orphan files (exist on disk but not in registry)
+	return registeredFiles
+}
+
+func reportOrphanFiles(baseDir string, registeredFiles map[string]bool) {
 	orphanFiles := findOrphanFiles(baseDir, registeredFiles)
-	if len(orphanFiles) > 0 {
-		log.Printf("\n=== ORPHAN FILES (not in registry) ===")
-		for _, f := range orphanFiles {
-			log.Printf("Orphan file: %s\n", f)
-		}
-		log.Printf("Total orphan files: %d\n", len(orphanFiles))
+	if len(orphanFiles) == 0 {
+		return
 	}
 
+	log.Printf("\n=== ORPHAN FILES (not in registry) ===")
+	for _, file := range orphanFiles {
+		log.Printf("Orphan file: %s\n", file)
+	}
+	log.Printf("Total orphan files: %d\n", len(orphanFiles))
+}
+
+func compileSchemaCache(sources []Sholawat, baseDir string, validationFailed *int32) map[string]*cachedSchema {
+	schemaCache := make(map[string]*cachedSchema)
+	for _, sholawat := range sources {
+		for _, source := range sholawat.Sources {
+			if _, ok := schemaCache[source.Schema]; ok {
+				continue
+			}
+
+			schemaPath := filepath.Join(baseDir, "schemas", source.Schema)
+			schemaData, err := os.ReadFile(schemaPath)
+			if err != nil {
+				log.Printf("Error reading schema %s: %v", source.Schema, err)
+				atomic.AddInt32(validationFailed, 1)
+				continue
+			}
+
+			compiler := jsonschema.NewCompiler()
+			compiled, err := compiler.Compile(schemaData)
+			if err != nil {
+				log.Printf("Error compiling schema %s: %v", source.Schema, err)
+				atomic.AddInt32(validationFailed, 1)
+				continue
+			}
+
+			schemaCache[source.Schema] = &cachedSchema{schema: compiled}
+		}
+	}
+
+	return schemaCache
+}
+
+func validateAllSources(sources []Sholawat, schemaCache map[string]*cachedSchema, baseDir string, validationFailed *int32) {
 	var wg sync.WaitGroup
 
 	for _, sholawat := range sources {
 		for _, source := range sholawat.Sources {
+			schema, ok := schemaCache[source.Schema]
+			if !ok {
+				log.Printf("Skipping source %s: schema %s failed to compile", source.SourceName, source.Schema)
+				continue
+			}
+
 			wg.Add(1)
-
-			go func(source Source) {
+			go func(source Source, schema *cachedSchema) {
 				defer wg.Done()
-
-				schemaPath := filepath.Join(baseDir, "schemas", source.Schema)
-				schemaData, err := os.ReadFile(schemaPath)
-				if err != nil {
-					log.Printf("Error reading schema for source %s: %v", source.SourceName, err)
-					return
-				}
-
-				compiler := jsonschema.NewCompiler()
-				schema, err := compiler.Compile(schemaData)
-				if err != nil {
-					log.Printf("Error compiling schema for  %s-%s: %v", sholawat.Name, source.SourceName, err)
-					return
-				}
-
-				validateSourceFile(schema, baseDir, source)
-			}(source)
+				validateSourceFile(schema, baseDir, source, validationFailed)
+			}(source, schema)
 		}
 	}
 
@@ -133,24 +186,29 @@ func findOrphanFiles(baseDir string, registeredFiles map[string]bool) []string {
 	return orphans
 }
 
-func validateSourceFile(schema *jsonschema.Schema, baseDir string, source Source) {
+func validateSourceFile(schema *cachedSchema, baseDir string, source Source, validationFailed *int32) {
 	for _, file := range source.Files {
 		filePath := filepath.Join(baseDir, source.PathFiles, file)
 		jsonData, err := os.ReadFile(filePath)
 		if err != nil {
 			log.Printf("Error reading file %s: %v", filePath, err)
+			atomic.AddInt32(validationFailed, 1)
 			continue
 		}
 
-		var instance map[string]interface{}
+		var instance map[string]any
 		err = json.Unmarshal(jsonData, &instance)
 		if err != nil {
 			log.Printf("Error unmarshaling JSON: %v", err)
-			return
+			atomic.AddInt32(validationFailed, 1)
+			continue
 		}
 
-		result := schema.Validate(instance)
+		schema.mu.Lock()
+		result := schema.schema.Validate(instance)
+		schema.mu.Unlock()
 		if !result.IsValid() {
+			atomic.AddInt32(validationFailed, 1)
 			log.Printf("Validation failed for: %s, file: %s \n", source.SourceName, filePath)
 			for _, detail := range result.ToList().Details {
 				if !detail.Valid {
