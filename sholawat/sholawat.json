@@ -163,7 +163,7 @@
           "dzaka-qubabun.json",
           "fa-yaa-ayyuhar-rojuna.json",
           "fahamdan-lirobbi.json",
-          "hubbun-nabi.json",
+          "hubbun-nabi-alal-insani-muftarodun.json",
           "man-mitslukum.json",
           "robbi-inni-lil-fadli.json",
           "ya-hujrotan.json",
@@ -171,7 +171,8 @@
           "ya-robbi-ya-alimal-hal.json",
           "suluk-ya-man-idza.json",
           "bi-dzikri-muhammadin.json",
-          "kana-an-nabiyyu.json"
+          "kana-an-nabiyyu.json",
+          "kullul-quluub.json"
         ],
         "schema": "suluk_v1.1.schema.json"
       }
@@ -244,7 +245,6 @@
           "halumman-syud-ya-hadina.json",
           "hama-qalbi.json",
           "hubbu-ahmadi-qolbi-sakan.json",
-          "hubbun-nabi-alal-insani-muftarodun.json",
           "huwa-inda-ahwaju-lannur.json",
           "huwan-nuuru-yahdiil-haairiin.json",
           "idza-roduni-ahlul-wisoli.json",
@@ -256,7 +256,6 @@
           "jina-dunya.json",
           "khairal-bariyyah.json",
           "khobbiri.json",
-          "kullul-quluub.json",
           "kun-maa-allah-taro-allah-maak.json",
           "lailan-saro-wa-amma.json",
           "lil-alami-jaa-muhammad.json",
@@ -287,6 +286,7 @@
           "robbi-kholaq-thoha.json",
           "robbi-qod-aurostani.json",
           "sallimu-alaiha-ajmala-salam.json",
+          "shalatullahi-wa-salam.json",
           "sholatullahi-dzil-karomi.json",
           "sholawat-jibril.json",
           "sholawat-munjiyat.json",

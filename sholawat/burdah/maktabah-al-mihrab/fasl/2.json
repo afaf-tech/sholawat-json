@@ -1,121 +1,121 @@
 {
     "number": 2,
-    "source": "مكتبة المحراب",
-    "name": "الْفَصْلُ الثَّانِي : فِي التَّحْذِيرِ مِنْ هَوَى النَّفْسِ",
-    "latin": "Al-Fashluts Tsani: Fit Tahdziri min Hawan Nafsi",
-    "last_updated": "2025-11-23",
+    "source": "maktabah-al-mihrab",
+    "name": "الفصل الثاني : في التحذير من هوى النفس",
+    "latin": "Al-Fashl ats-Tsani: fi at-Tahdzir min Hawa an-Nafs",
     "text": {
         "1": {
-            "arabic": "فَإِنَّ أَمَّارَتِي بِالسُّوْءِ مَا اتَّعَظَتْ ۞ مِنْ جَهْلِهَا بِنَذِيْرِ الشَّيْبِ وَالْهَرَمِ",
-            "latin": "Fa inna ammāratī bis-sū'i māt-ta'aẓhat ۞ Min jahlihā binadziīrisy-syaibi wal-harami"
+            "arabic": "فَإِنَّ أَمَّارَتِي بِالسُّوءِ مَا اتَّعَظَتْ ۞ مِنْ جَهْلِهَا بِنَذِيرِ الشَّيْبِ وَالْهَرَمِ",
+            "latin": "Fa inna ammāratī bis-sū'i māt-ta‘azhat ۞ min jahlihā binadzīrisy-syaibi wal-harami"
         },
         "2": {
-            "arabic": "وَلَا أَعَدَّتْ مِنَ الْفِعْلِ الْجَمِيْلِ قِرَى ۞ ضَيْفٍ أَلَمَّ بِرَأْسِي غَيْرَ مُحْتَشِمِ",
-            "latin": "Wa lā a'addat minal-fi'lil-jamīli qirā ۞ Dhaifin alamma bira'sī ghaira muḥtasyimi"
+            "arabic": "وَلَا أَعَدَّتْ مِنَ الْفِعْلِ الْجَمِيلِ قِرَى ۞ ضَيْفٍ أَلَمَّ بِرَأْسِي غَيْرَ مُحْتَشِمِ",
+            "latin": "Wa lā a‘addat minal-fi‘lil-jamīli qirā ۞ dhlaifin alamma bira'sī ghaira muhtasyimi"
         },
         "3": {
             "arabic": "لَوْ كُنْتُ أَعْلَمُ أَنِّي مَا أُوَقِّرُهُ ۞ كَتَمْتُ سِرًّا بَدَا لِي مِنْهُ بِالْكَتَمِ",
-            "latin": "Lau kuntu a'lamu annī mā uwaqqiruhū ۞ Katamtu sirran badā lī minhu bil-katami"
+            "latin": "Lau kuntu a‘lamu annī mā uwaqqiruhū ۞ katamtu sirran badā lī minhu bil-katami"
         },
         "4": {
             "arabic": "مَنْ لِي بِرَدِّ جِمَاحٍ مِنْ غَوَايَتِهَا ۞ كَمَا يُرَدُّ جِمَاحُ الْخَيْلِ بِاللُّجُمِ",
-            "latin": "Man lī biraddi jimāḥin min ghawāyatihā ۞ Kamā yuraddu jimāḥul-khaili bil-lujumi"
+            "latin": "Man lī biraddi jimāhin min ghawāyatihā ۞ kamā yuraddu jimāhul-khaili bil-lujumi"
         },
         "5": {
-            "arabic": "فَلَا تَرُمُ بِالْمَعَاصِي كَسْرَ شَهْوَتِهَا ۞ إِنَّ الطَّعَامَ يُقَوِّي شَهْوَةَ النَّهِمِ",
-            "latin": "Falā tarumu bil-ma'āṣī kasra syahwatihā ۞ Innaṭ-ṭa'āma yuqawwī syahwatan-nahimi"
+            "arabic": "فَلَا تَرُمْ بِالْمَعَاصِي كَسْرَ شَهْوَتِهَا ۞ إِنَّ الطَّعَامَ يُقَوِّي شَهْوَةَ النَّهِمِ",
+            "latin": "Falā tarum bil-ma‘āshī kasra syahwatihā ۞ innath-tha‘āma yuqawwī syahwatan-nahimi"
         },
         "6": {
             "arabic": "وَالنَّفْسُ كَالطِّفْلِ إِنْ تُهْمِلْهُ شَبَّ عَلَى ۞ حُبِّ الرَّضَاعِ وَإِنْ تَفْطِمْهُ يَنْفَطِمِ",
-            "latin": "Wan-nafsu kaṭ-ṭifli in tuhmilhu syabba 'alā ۞ Ḥubbir-raḍhā'i wa in tafṭimhu yanfaṭimi"
+            "latin": "Wan-nafsu kath-thifli in tuhmilhu syabba ‘alā ۞ hubbir-radhā‘i wa in tafthimhu yanfathimi"
         },
         "7": {
             "arabic": "فَاصْرِفْ هَوَاهَا وَحَاذِرْ أَنْ تُوَلِّيَهُ ۞ إِنَّ الْهَوَى مَا تَوَلَّى يُصْمِ أَوْ يَصِمِ",
-            "latin": "Faṣrif hawāhā wa ḥādzir an tuwalliyahū ۞ Innal-hawā mā tawallā yuṣmi au yaṣimi"
+            "latin": "Fashrif hawāhā wa hādzir an tuwalliyahū ۞ innal-hawā mā tawallā yushmi au yashimi"
         },
         "8": {
             "arabic": "وَرَاعِهَا وَهْيَ فِي الْأَعْمَالِ سَائِمَةٌ ۞ وَإِنْ هِيَ اسْتَحْلَتِ الْمَرْعَى فَلَا تُسِمِ",
-            "latin": "Wa rā'ihā wa hiya fil-a'māli sā'imatun ۞ Wa in hiyas-taḥlatil-mar'ā falā tusimi"
+            "latin": "Wa rā‘ihā wa hiya fil-a‘māli sā'imatun ۞ wa in hiyastahlatil-mar‘ā falā tusimi"
         },
         "9": {
-            "arabic": "كَمْ حَسَّنَتْ لَذَّةً لِلْمَرْءِ قَاتِلَةً ۞ مِنْ حَيْثُ لَمْ يَدْرِ أَنَّ السُّمَّ فِي الدَّسَمِ",
-            "latin": "Kam ḥassanat ladzdzatan lil-mar'i qātilatan ۞ Min ḥaitsu lam yadri annas-summa fid-dasami"
+            "arabic": "كَمْ حَسَّنَتْ لَذَّةً لِلْمَرْءِ قَاتِلَةً ۞ مِنْ حَيْثُ لَمْ يَدْرِ أَنَّ السَّمَّ فِي الدَّسَمِ",
+            "latin": "Kam hassanat ladzdzatan lil-mar'i qātilatan ۞ min haitsu lam yadri annas-samma fid-dasami"
         },
         "10": {
-            "arabic": "وَاخْشَ الدَّسَائِسَ مِنْ جُوْعٍ وَمِنْ شِبَعٍ ۞ فَرُبَّ مَخْمَصَةٍ شَرٌّ مِنَ التُّخَمِ",
-            "latin": "Wakhsyad-dasā'isa min jū'in wa min syiba'in ۞ Farubba makhmaṣhatin syarrun minat-tukhami"
+            "arabic": "وَاخْشَ الدَّسَائِسَ مِنْ جُوعٍ وَمِنْ شِبَعِ ۞ فَرُبَّ مَخْمَصَةٍ شَرٌّ مِنَ التُّخَمِ",
+            "latin": "Wakhsyad-dasā'isa min jū‘in wa min syiba‘i ۞ farubba makhmaṣhatin syarrun minat-tukhami"
         },
         "11": {
             "arabic": "وَاسْتَفْرِغِ الدَّمْعَ مِنْ عَيْنٍ قَدِ امْتَلَأَتْ ۞ مِنَ الْمَحَارِمِ وَالْزَمْ حِمْيَةَ النَّدَمِ",
-            "latin": "Was-tafrighid-dam'a min 'ainin qadimtala'at ۞ Minal-maḥārimi walzam ḥimyatan-nadami"
+            "latin": "Wastafriqhid-dam‘a min ‘ainin qadimtala'at ۞ minal-mahārimi walzam himyatan-nadami"
         },
         "12": {
-            "arabic": "وَخَالِفِ النَّفْسَ وَالشَّيْطَانَ وَاعْصِهِمَا ۞ وَإِنْ هُمَا مَحَضَاكَ النُّصْحَ فَاتَّهِمِ",
-            "latin": "Wa khālifin-nafsa wasy-syaiṭāna wa'ṣihimā ۞ Wa in humā maḥaḍhākan-nuṣḥa fattahimi"
+            "arabic": "وَخَالِفِ النَّفْسَ وَالشَّيْطَانَ وَاعْصِهِمَا ۞ وَإِنْ هُمَا مَحَّضَاكَ النُّصْحَ فَاتَّهِمِ",
+            "latin": "Wa khālifin-nafsa wasy-syaiṭhāna wa‘shihimā ۞ wa in humā mahhadzhākan-nuṣhḥa fattahimi"
         },
         "13": {
             "arabic": "وَلَا تُطِعْ مِنْهُمَا خَصْمًا وَلَا حَكَمًا ۞ فَأَنْتَ تَعْرِفُ كَيْدَ الْخَصْمِ وَالْحَكَمِ",
-            "latin": "Wa lā tuṭi' minhumā khaṣman wa lā ḥakaman ۞ Fa anta ta'rifu kaidal-khaṣmi wal-ḥakami"
+            "latin": "Wa lā tuthi‘ minhumā khaṣhman wa lā ḥakaman ۞ fa'anta ta‘rifu kaidal-khaṣhmi wal-ḥakami"
         },
         "14": {
-            "arabic": "أَسْتَغْفِرُ اللهَ مِنْ قَوْلٍ بِلَا عَمَلٍ ۞ لَقَدْ نَسَبْتُ بِهِ نَسْلًا لِذِي عُقُمِ",
-            "latin": "Astaghfirullāha min qaulin bilā 'amalin ۞ Laqad nasabtu bihi naslan lidzī 'uqumi"
+            "arabic": "أَسْتَغْفِرُ اللَّهَ مِنْ قَوْلٍ بِلَا عَمَلٍ ۞ لَقَدْ نَسَبْتُ بِهِ نَسْلًا لِذِي عُقُمِ",
+            "latin": "Astaghfirullāha min qaulin bilā ‘amalin ۞ laqad nasabtu bihi naslan lidzī ‘uqumi"
         },
         "15": {
             "arabic": "أَمَرْتُكَ الْخَيْرَ لَكِنْ مَا ائْتَمَرْتُ بِهِ ۞ وَمَا اسْتَقَمْتُ فَمَا قَوْلِي لَكَ اسْتَقِمِ",
-            "latin": "Amartukal-khaira lākin mā'tamartu bihi ۞ Wa mastaqamtu famā qaulī lakas-taqimi"
+            "latin": "Amartukal-khaira lakin mā'tamartu bihi ۞ wa māstaqamtu famā qaulī laka istaqimi"
         },
         "16": {
             "arabic": "وَلَا تَزَوَّدْتُ قَبْلَ الْمَوْتِ نَافِلَةً ۞ وَلَمْ أُصَلِّ سِوَى فَرْضٍ وَلَمْ أَصُمِ",
-            "latin": "Wa lā tazawwadtu qablal-mauti nāfilatan ۞ Wa lam uṣalli siwā farḍhin wa lam aṣumi"
+            "latin": "Wa lā tazawwadtu qablal-mauti nāfilatan ۞ wa lam uṣhalli siwā fardhin wa lam aṣhumi"
         }
     },
     "translations": {
-        "id": {
-            "name": "Pasal Kedua: Peringatan terhadap Hawa Nafsu",
-            "translator": "gemini-3.0-pro",
-            "muqaddimah": "Pasal ini berisi peringatan tentang bahaya hawa nafsu dan cara mengendalikannya.",
-            "text": {
-                "1": "Sesungguhnya nafsuku yang selalu menyuruh kepada keburukan tidak mengambil pelajaran ۞ Karena kebodohannya, dari peringatan berupa uban dan kerentaan.",
-                "2": "Dan ia tidak mempersiapkan dari perbuatan baik sebagai hidangan ۞ Bagi tamu (uban) yang singgah di kepalaku tanpa rasa malu.",
-                "3": "Seandainya aku tahu bahwa aku tidak dapat menghormatinya ۞ Niscaya aku sembunyikan rahasia yang tampak darinya dengan semir.",
-                "4": "Siapakah yang bisa mengembalikan keliaran dari kesesatannya ۞ Sebagaimana keliaran kuda dikendalikan dengan tali kekang.",
-                "5": "Maka janganlah kamu berharap mematahkan syahwatnya dengan maksiat ۞ Sesungguhnya makanan itu justru menguatkan syahwat orang yang rakus.",
-                "6": "Dan nafsu itu seperti anak kecil, jika kamu biarkan ia akan tumbuh besar dengan ۞ Mencintai susuan, dan jika kamu menyapihnya maka ia akan terlepas.",
-                "7": "Maka palingkanlah hawa nafsunya dan berhati-hatilah jangan sampai menguasainya ۞ Sesungguhnya hawa nafsu itu apabila telah menguasai, ia akan membunuh atau membuat cacat.",
-                "8": "Dan gembalakanlah ia (nafsu), padahal ia dalam beramal bagaikan binatang ternak ۞ Dan jika ia menganggap lezat padang rumputnya, maka jangan biarkan ia menggembala bebas.",
-                "9": "Betapa sering ia menghiasi kelezatan yang mematikan bagi seseorang ۞ Dari arah yang ia tidak menyadari bahwa racun itu berada di dalam lemak yang lezat.",
-                "10": "Dan takutlah akan tipu daya dari rasa lapar dan kenyang ۞ Karena terkadang kelaparan itu lebih buruk daripada kekenyangan.",
-                "11": "Dan kuraslah air mata dari mata yang telah penuh ۞ Dengan melihat hal-hal yang diharamkan, dan lazimilah diet penyesalan.",
-                "12": "Dan selisihilah nafsu dan setan, serta durhakailah keduanya ۞ Dan jika keduanya memberimu nasihat yang tulus, maka curigailah.",
-                "13": "Dan janganlah kamu menaati mereka berdua, baik sebagai musuh maupun sebagai hakim ۞ Karena kamu telah mengetahui tipu daya dari musuh dan hakim tersebut.",
-                "14": "Aku memohon ampun kepada Allah dari perkataan tanpa perbuatan ۞ Sungguh dengan itu, aku telah menisbatkan keturunan kepada orang yang mandul.",
-                "15": "Aku memerintahkan kebaikan kepadamu, akan tetapi aku sendiri tidak melaksanakannya ۞ Dan aku tidak istiqamah, maka apalah artinya perkataanku padamu 'Istiqamahlah!'.",
-                "16": "Dan aku tidak membekali diriku sebelum kematian dengan ibadah sunnah ۞ Dan aku tidak salat kecuali yang fardu, dan aku pun tidak berpuasa (sunnah)."
-            }
-        },
         "en": {
             "name": "Chapter Two: Warning Against the Desires of the Self",
-            "translator": "gemini-3.0-pro",
-            "muqaddimah": "This chapter warns about the dangers of the self's desires and how to control them.",
+            "muqaddimah": "This chapter focuses on the struggle against the lower self (nafs) and the deceptions of worldly desires.",
+            "translator": "General Interpretation",
             "text": {
-                "1": "For indeed, my soul, which enjoins evil, did not take heed ۞ Due to its ignorance, of the warning of gray hair and old age.",
-                "2": "Nor has it prepared, from good deeds, a feast ۞ For a guest that has lodged on my head without bashfulness.",
-                "3": "Had I known that I would not honor it ۞ I would have concealed a secret that appeared to me from it with dye.",
-                "4": "Who can restrain for me the stubbornness of its delusion ۞ Just as the stubbornness of horses is restrained with reins.",
-                "5": "Do not attempt to break its desire by means of sins ۞ Indeed, food only strengthens the craving of the gluttonous.",
-                "6": "And the soul is like an infant: if you neglect it, it grows up with ۞ A love for nursing, but if you wean it, it will be weaned.",
-                "7": "So turn away its desires and beware of letting it take charge ۞ Verily, desire, whenever it takes charge, either kills or causes a flaw.",
-                "8": "And guard it while it is grazing in the field of actions ۞ And if it finds the pasture sweet, do not let it roam freely.",
-                "9": "How often has it beautified a lethal pleasure for a man ۞ From where he did not know that the poison was in the fat.",
-                "10": "And fear the hidden traps of both hunger and satiety ۞ For sometimes, starvation is worse than overeating.",
-                "11": "And empty the tears from an eye that has filled ۞ With forbidden sights, and stick to the diet of remorse.",
-                "12": "And oppose the self and Satan, and disobey them both ۞ And even if they offer you sincere advice, suspect it.",
-                "13": "And do not obey either of them as an adversary or as a judge ۞ For you know the deceit of both the adversary and the judge.",
-                "14": "I ask Allah's forgiveness for speaking without doing ۞ Indeed, by doing so, I have attributed offspring to a barren man.",
-                "15": "I enjoined good upon you, but I did not follow my own command ۞ And I was not upright, so what does it mean when I tell you, 'Be upright'?",
-                "16": "And I did not provision myself before death with voluntary acts of worship ۞ And I did not pray anything other than the obligatory, nor did I fast."
+                "1": "For truly, my soul which enjoins evil, did not heed the advice ۞ due to its ignorance, of the warning of gray hair and old age.",
+                "2": "Nor did it prepare, from good deeds, a feast ۞ for a guest (gray hair) that lodged on my head without bashfulness.",
+                "3": "Had I known that I would not honor him (the guest of old age) ۞ I would have concealed my secret, which became apparent, with dye.",
+                "4": "Who can help me hold back the stubbornness of its (the soul's) delusions ۞ just as the stubbornness of horses is held back by reins?",
+                "5": "So do not attempt to break its desires by committing sins ۞ for indeed, food only strengthens the craving of a glutton.",
+                "6": "And the soul is like an infant; if you neglect it, it will grow up ۞ loving to suckle, but if you wean it, it will be weaned.",
+                "7": "So turn away its desires and beware of giving it authority ۞ for indeed, desires, whenever they take control, will kill or bring disgrace.",
+                "8": "And guard it while it grazes in the field of deeds ۞ and even if it finds the pasture sweet, do not let it roam free.",
+                "9": "How often has it made a deadly pleasure seem beautiful to a person ۞ from where he did not know that there is poison in the fat.",
+                "10": "And fear the hidden plots of both hunger and satiety ۞ for sometimes starvation is worse than overeating.",
+                "11": "And empty the tears from an eye that has become filled ۞ with forbidden things, and adhere to the diet of regret.",
+                "12": "And oppose the self and Satan, and disobey them both ۞ and even if they offer you sincere-seeming advice, suspect it.",
+                "13": "And do not obey either of them, whether as an adversary or a judge ۞ for you know well the deceit of both the adversary and the judge.",
+                "14": "I ask forgiveness of Allah from speech without action ۞ for indeed, by it I have attributed offspring to one who is barren.",
+                "15": "I commanded you to do good, but I did not command myself to do it ۞ and I did not stand straight, so what good is my saying to you: 'Stand straight'?",
+                "16": "And I did not gather provision of voluntary deeds before death ۞ and I did not pray nor fast except what is obligatory."
+            }
+        },
+        "id": {
+            "name": "Pasal Kedua: Peringatan Terhadap Hawa Nafsu",
+            "muqaddimah": "Pasal ini berisi peringatan tentang bahaya mengikuti hawa nafsu dan pentingnya menundukkan keinginan duniawi.",
+            "translator": "Interpretasi Umum",
+            "text": {
+                "1": "Sesungguhnya nafsuku yang selalu menyuruh kepada keburukan tidak mau menerima nasihat ۞ karena kebodohannya, dari peringatan berupa uban dan masa tua.",
+                "2": "Dan ia tidak mempersiapkan amal perbuatan yang baik sebagai jamuan ۞ bagi tamu (uban) yang singgah di kepalaku tanpa rasa malu.",
+                "3": "Seandainya aku tahu bahwa aku tidak akan memuliakannya ۞ niscaya kusembunyikan rahasia (uban) yang tampak dariku itu dengan pewarna rambut.",
+                "4": "Siapakah yang dapat menahan keliaran dari kesesatannya (nafsu) ۞ sebagaimana keliaran kuda ditahan dengan tali kekang?",
+                "5": "Maka janganlah engkau berharap dapat mematahkan syahwatnya dengan maksiat ۞ karena sesungguhnya makanan itu justru menguatkan nafsu orang yang rakus.",
+                "6": "Nafsu itu bagaikan bayi, jika engkau biarkan ia akan tumbuh ۞ dengan kecintaan menyusu, dan jika engkau menyapihnya, ia pun akan tersapih.",
+                "7": "Maka palingkanlah hawa nafsunya dan berhati-hatilah jangan sampai memberinya kekuasaan ۞ sesungguhnya hawa nafsu itu bila berkuasa akan membinasakan atau mempermalukan.",
+                "8": "Gembalakanlah ia (nafsu) sementara ia bebas merumput dalam amal perbuatan ۞ dan jika ia merasa padang rumputnya manis, janganlah biarkan ia terus merumput.",
+                "9": "Betapa sering ia memperindah kesenangan yang mematikan bagi seseorang ۞ dari arah di mana ia tidak menyadari bahwa ada racun di dalam lemak.",
+                "10": "Dan takutilah tipu daya dari rasa lapar dan rasa kenyang ۞ karena terkadang kelaparan itu lebih buruk daripada kekenyangan.",
+                "11": "Dan curahkanlah air mata dari mata yang telah penuh ۞ melihat hal-hal yang diharamkan, dan lazimkanlah diet berupa penyesalan.",
+                "12": "Dan selisihilah nafsu dan setan, serta durhakailah keduanya ۞ dan jika keduanya memberimu nasihat yang tampaknya tulus, maka curigailah.",
+                "13": "Dan janganlah engkau menaati keduanya, baik sebagai musuh maupun sebagai hakim ۞ karena engkau tahu tipu daya musuh dan hakim tersebut.",
+                "14": "Aku memohon ampun kepada Allah dari ucapan tanpa perbuatan ۞ sungguh, dengannya aku telah menisbatkan keturunan kepada orang yang mandul.",
+                "15": "Aku menyuruhmu berbuat baik, tetapi aku sendiri tidak melaksanakannya ۞ dan aku tidak istiqamah, lantas apa gunanya ucapanku kepadamu: 'Istiqamahlah'?",
+                "16": "Dan aku tidak membekali diri dengan ibadah sunnah sebelum mati ۞ dan aku tidak shalat dan tidak pula puasa selain yang fardhu."
             }
         }
-    }
+    },
+    "last_updated": "2026-04-24"
 }

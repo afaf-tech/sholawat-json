@@ -2,7 +2,7 @@
     "number": 2,
     "source": "nu-online",
     "name": "الفصل الثاني: في التحذير من هوى النفس",
-    "latin": "",
+    "latin": null,
     "text": {
         "1": {
             "arabic": "فَإِنَّ أَمَّـــارَتِيْ بِالسُّـوْءِ مَــــا اتَّعَظَتْ ۞ مِنْ جَهْلِهَا بِنَذِيْرِ الشَّيْبِ وَالْهَرَمِ",
@@ -90,7 +90,6 @@
                 "15": "Aku perintahkan engkau lakukan amal kebaikan, namun aku sendiri enggan mengerjakan. Maka tiada berguna ucapanku agar engkau berlaku benar, sedangkan diriku sendiri dalam kelalaian.",
                 "16": "Dan diriku tiada menambah amal kebaikan dalam kesunahan, sebelum kematian datang. Dan tiada aku shalat dan puasa, kecuali hanya ibadah yang wajibkan."
             }
-            
         }
     },
     "last_updated": "2024-11-10"

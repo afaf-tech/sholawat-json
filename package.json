@@ -2,7 +2,7 @@
   "name": "sholawat-json",
   "version": "0.3.8",
   "description": "All praise is due to Allah SWT for His countless blessings. May blessings and peace always be upon our beloved Prophet Muhammad SAW.",
-  "main": "index.js",
+  "main": "sholawat/sholawat.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
