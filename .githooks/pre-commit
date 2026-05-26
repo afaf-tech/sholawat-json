@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Pre-commit hook: run validator when sholawat/ or schemas/ files are staged.
+
+STAGED=$(git diff --cached --name-only -- 'sholawat/' 'schemas/')
+if [ -z "$STAGED" ]; then
+    exit 0
+fi
+
+echo "=> Validating staged changes..."
+cd "$(git rev-parse --show-toplevel)/validator" || exit 1
+go run main.go
