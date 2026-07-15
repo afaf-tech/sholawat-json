@@ -1,0 +1,107 @@
+{
+  "source": "jabar.nu.or.id",
+  "transmitter": "NU Online Jabar",
+  "name": "بِحِبَّكْ وَبَرِيدَكْ",
+  "latin": "Bahibbak Wabaridak",
+  "text": {
+    "1": {
+      "arabic": "بِحِبَّكْ وَبَرِيدَكْ — وَأَتْمَنَّى أَبُوسْ إِيدَكْ",
+      "latin": "Bahibbak wa barīdak — wa atamannā abūs īdak"
+    },
+    "2": {
+      "arabic": "خَدَّامَكْ وَمُرِيدَكْ — يَا جَدَّ الْحَسَنَيْن",
+      "latin": "Khaddāmak wa murīdak — yā jaddal-Ḥasanayn"
+    },
+    "3": {
+      "arabic": "حَبِيبِي مُحَمَّد — مَفِيشْ زَيُّه اتْنَيْن",
+      "latin": "Ḥabībī Muḥammad — mafīsy zayyuh itnain"
+    },
+    "4": {
+      "arabic": "حُبُّه سَاكِنْ قَلْبِي — يَزِيدْ كُلِّ اتْنَيْن",
+      "latin": "Ḥubbuh sākin qalbī — yazīd kulli itnain"
+    },
+    "5": {
+      "arabic": "جَمَالُه وَدَلَالُه — مِتْغَطِّي بِجَلَالُه",
+      "latin": "Jamāluh wa dalāluh — mitghaṭṭī bi jalāluh"
+    },
+    "6": {
+      "arabic": "وِتِقْعُدْ بِقُبَالُه — تِشُوفْهُمُ الِاتْنَيْن",
+      "latin": "Witquʿud biqubāluh — tisyūfhumul itnain"
+    },
+    "7": {
+      "arabic": "يَا أَجْمَلْ هَدِيَّة — مِنْ رَبِّ الْبَرِيَّة",
+      "latin": "Yā ajmal hadiyyah — min rabbil-bariyyah"
+    },
+    "8": {
+      "arabic": "لِكُلِّ الدُّنْيَا دِيَّة — يَا جَدَّ الْحَسَنَيْن",
+      "latin": "Likullid dunyā diyyah — yā jaddal-Ḥasanayn"
+    },
+    "9": {
+      "arabic": "مَاهْوِنْتَ قَمَرْهَا — وَاَنْتَ اللِي مْنَوِّرْهَا",
+      "latin": "Mahwinta qomarhaa — wa anta lim nawirhaa"
+    },
+    "10": {
+      "arabic": "وَمْفَتَاح اسَرَارْهَا — يَا جَدَّ الْحَسَنَيْن",
+      "latin": "Wamfatah sarorhaa — ya jaddal hasanain"
+    },
+    "11": {
+      "arabic": "حَبِيْبِي عَيْنَيَّا — اَحمَد نُوْرُ عَيْنَا",
+      "latin": "Habiibii 'aynayyaa — ahmad nuuru 'aynaa"
+    },
+    "12": {
+      "arabic": "اَنْتَ الْغَالِی عَلَيَّ — يَا جَدَّ الْحَسنَيْن",
+      "latin": "Antal ghaalii 'alayya — yaa jaddal hasanain"
+    },
+    "13": {
+      "arabic": "وَبِنْتَكِ الْبَتُوْل — بَعْيُوْنَك يَا رَسُول",
+      "latin": "Wabintakil batuul — ba'yuunak yaa rasuul"
+    },
+    "14": {
+      "arabic": "نَرْجُو مِنْكُم قَبُوْل — يَا جَدَّ الْحَسَنَيْن",
+      "latin": "Narjuu minkum qabuul — yaa jaddal hasanain"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Aku Mencintaimu dan Menginginkanmu",
+      "translator": "jabar.nu.or.id",
+      "text": {
+        "1": "Aku mencintaimu dan menginginkanmu — dan berharap bisa mencium tanganmu",
+        "2": "Aku adalah pelayan dan pengikutmu — wahai kakek Hasan dan Husein",
+        "3": "Kekasihku Muhammad — tidak ada yang sepertinya (tiada duanya)",
+        "4": "Cintanya menetap di hatiku — terus bertambah setiap saat",
+        "5": "Ketampanan dan kelembutannya — diselimuti oleh keagungannya",
+        "6": "Dan jika engkau duduk di hadapannya — engkau akan melihat keduanya",
+        "7": "Wahai hadiah yang paling indah — dari Tuhan semesta alam",
+        "8": "Untuk seluruh dunia ini — wahai kakek Hasan dan Husein",
+        "9": "Engkau bukanlah bulannya — bahkan engkaulah yang menyinarinya",
+        "10": "Engkaulah kunci rahasianya — wahai kakek Hasan Husein",
+        "11": "Wahai kekasihku sang Ahmad — engkaulah cahaya penglihatan mataku",
+        "12": "Engkau sungguh berharga di sisiku — wahai kakek Hasan Husein",
+        "13": "Demi kemuliaan putrimu Al Batul — yang menjadi penyejuk pandanganmu wahai Rasul",
+        "14": "Kami berharap dengan perantaramu terkabul permohonan kami — wahai kakek Hasan Husein"
+      }
+    },
+    "en": {
+      "name": "I Love You and Desire You",
+      "translator": "Gemini",
+      "text": {
+        "1": "I love you and desire you — and I hope to kiss your hand",
+        "2": "I am your servant and follower — O grandfather of Hasan and Husayn",
+        "3": "My beloved Muhammad — there is no one like him (second to none)",
+        "4": "His love dwells in my heart — increasing every moment",
+        "5": "His beauty and gentleness — are wrapped in his majesty",
+        "6": "And if you sit before him — you will see them both",
+        "7": "O most beautiful gift — from the Lord of all creation",
+        "8": "For this entire world — O grandfather of Hasan and Husayn",
+        "9": "You are not just its moon — rather you are the one who illuminates it",
+        "10": "You are the key to its secrets — O grandfather of Hasan and Husayn",
+        "11": "O my beloved Ahmad — you are the light of my eyes",
+        "12": "You are truly precious to me — O grandfather of Hasan and Husayn",
+        "13": "By the honor of your daughter Al-Batul — who cools your eyes, O Messenger",
+        "14": "We hope for acceptance through you — O grandfather of Hasan and Husayn"
+      }
+    }
+  },
+  "last_updated": "2026-07-15"
+}
