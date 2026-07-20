@@ -1,62 +1,95 @@
 {
-  "source": "kitabkuning.id",
-  "transmitter": null,
-  "name": "أَحْمَدْ يَا حَبِيْبِي",
-  "latin": "Ahmad yaa habibi",
+  "source": "santripos.com",
+  "transmitter": "Santri Pos Media",
+  "name": "أَحْمَدْ يَاحَبِيْبِي",
+  "latin": "Aḥmad Yā Ḥabībī",
   "text": {
     "1": {
-      "arabic": "أَحْمَدْ يَا حَبِيْبِي × 3 — يَا حَبِيْبِي سَلَامْ عَلَيْكَ",
-      "latin": "Ahmad yaa habibi 3x — yaa habibi salaam 'alaika"
+      "arabic": "أَحْمَدْ يَاحَبِيْبِي — سَلَامْ عَلَيْكَ",
+      "latin": "Aḥmad yā ḥabībī — salām ʿalaik"
     },
     "2": {
-      "arabic": "يَاعَوْنَ الْغَرِيْبِ — سَلَام عَلَيْكَ",
-      "latin": "Yaa 'aunal-ghariibi — salaam 'alaika"
+      "arabic": "يَاعَوْنَ الْغَرِيْبِ — سَلَامْ عَلَيْكَ",
+      "latin": "Yā ʿaunal-gharībi — salām ʿalaik"
     },
     "3": {
-      "arabic": "أَنْتُمْ وَسَلَامٌ — سَلَام عَلَيْكَ",
-      "latin": "Antum wa salaamun — salaam 'alaika"
+      "arabic": "أَمْنٌ وَسَلَامٌ — سَلَامْ عَلَيْكَ",
+      "latin": "Amnun wa salāmun — salām ʿalaik"
     },
     "4": {
-      "arabic": "جِئْتَ بالتَّوْحِيْدِ — سَلَام عَلَيْكَ",
-      "latin": "Ji'ta bit-tauhiidi — salaam 'alaika"
+      "arabic": "دِيْنُكَ الْإِسْلَامُ — سَلَامْ عَلَيْكَ",
+      "latin": "Dīnukal-islāmu — salām ʿalaik"
     },
     "5": {
-      "arabic": "جِئْتَ بالتَّمْجِيْدِ — سَلَامْ عَلَيْكَ",
-      "latin": "Ji'ta bit-tamjidi — salaam 'alaika"
+      "arabic": "جِئْتَ بِالْقُرْآنِ — سَلَامْ عَلَيْكَ",
+      "latin": "Jiʾta bil-qurʾāni — salām ʿalaik"
     },
     "6": {
-      "arabic": "جئْتَ بِالْقُرْآنِ — سَلَامْ عَلَيْكَ",
-      "latin": "Ji'ta bil-qur'aan — salaam 'alaika"
+      "arabic": "مِنْ عِنْدِ الرَّحْمٰنِ — سَلَامْ عَلَيْكَ",
+      "latin": "Min ʿindir-raḥmāni — salām ʿalaik"
     },
     "7": {
-      "arabic": "مِنْ عِنْدَ الرَّحْمَنِ — سَلَامْ عَلَيْكَ",
-      "latin": "Min 'indar-rahmani — salaam 'alaika"
+      "arabic": "جِئْتَ بِالتَّوْحِيْدِ — سَلَامْ عَلَيْكَ",
+      "latin": "Jiʾta bit-tauḥīdi — salām ʿalaik"
     },
     "8": {
-      "arabic": "دِيْنُكَ الْإِسْلَامِ — سَلامْ عَلَيْكَ",
-      "latin": "Diinukal-islaami — salaam 'alaika"
+      "arabic": "فُزْتَ بِالتَّمْجِيْدِ — سَلَامْ عَلَيْكَ",
+      "latin": "Fuzta bit-tamjīdi — salām ʿalaik"
     },
     "9": {
-      "arabic": "مِنْ رَبِّ رَحِيْمِ — سَلَامْ عَلَيْكَ",
-      "latin": "Min rabbi rahiim — salaam 'alaika"
+      "arabic": "وَنِلْنَا الْخَيْرَاتِ — سَلَامْ عَلَيْكَ",
+      "latin": "Wa nilnal-khairāti — salām ʿalaik"
+    },
+    "10": {
+      "arabic": "فِيْ مِنًى وَعَرَفَاتِ — سَلَامْ عَلَيْكَ",
+      "latin": "Fī minā wa ʿarafāti — salām ʿalaik"
+    },
+    "11": {
+      "arabic": "وَمَحَوْنَا السَّيِّئَاتِ — سَلَامْ عَلَيْكَ",
+      "latin": "Wa maḥaunas-sayyiʾāti — salām ʿalaik"
+    },
+    "12": {
+      "arabic": "بِرَجْمِ الْجَمَرَاتِ — سَلَامْ عَلَيْكَ",
+      "latin": "Birajmil-jamarāti — salām ʿalaik"
     }
   },
   "translations": {
     "id": {
       "name": "Ahmad Wahai Kekasihku",
-      "translator": "kitabkuning.id",
+      "translator": "Gemini",
       "text": {
-        "1": "Ahmad wahai kekasihku 3x — wahai kekasihku salam sejahtera atasmu",
-        "2": "Wahai penolong orang yang lemah — salam sejahtera atasmu",
-        "3": "Kamu dan keselamatan — salam sejahtera atasmu",
-        "4": "Kamu datang dengan tauhid — salam sejahtera atasmu",
-        "5": "Kamu datang dengan pemuliaan — salam sejahtera atasmu",
-        "6": "Kamu datang dengan Al-Qur'an — salam sejahtera atasmu",
-        "7": "Dari sisi Allah Yang Maha Pengasih — salam sejahtera atasmu",
-        "8": "Agamamu adalah Islam — salam sejahtera atasmu",
-        "9": "Dari Tuhan Yang Maha Penyayang — salam sejahtera atasmu"
+        "1": "Ahmad wahai kekasihku — salam sejahtera bagimu",
+        "2": "Wahai penolong orang yang terasing — salam sejahtera bagimu",
+        "3": "Keamanan dan keselamatan — salam sejahtera bagimu",
+        "4": "Agamamu adalah Islam — salam sejahtera bagimu",
+        "5": "Engkau datang membawa Al-Qur'an — salam sejahtera bagimu",
+        "6": "Dari sisi (Allah) Yang Maha Pengasih — salam sejahtera bagimu",
+        "7": "Engkau datang membawa Tauhid — salam sejahtera bagimu",
+        "8": "Engkau beruntung dengan kemuliaan — salam sejahtera bagimu",
+        "9": "Dan kami memperoleh kebaikan-kebaikan — salam sejahtera bagimu",
+        "10": "Di Mina dan Arafah — salam sejahtera bagimu",
+        "11": "Dan kami menghapus keburukan-keburukan (dosa) — salam sejahtera bagimu",
+        "12": "Dengan melempar jumrah — salam sejahtera bagimu"
+      }
+    },
+    "en": {
+      "name": "Ahmad O My Beloved",
+      "translator": "Gemini",
+      "text": {
+        "1": "Ahmad, O my beloved — peace be upon you",
+        "2": "O helper of the stranger — peace be upon you",
+        "3": "Security and peace — peace be upon you",
+        "4": "Your religion is Islam — peace be upon you",
+        "5": "You came with the Quran — peace be upon you",
+        "6": "From the Most Merciful — peace be upon you",
+        "7": "You came with Monotheism (Tawhid) — peace be upon you",
+        "8": "You triumphed with glory — peace be upon you",
+        "9": "And we attained blessings — peace be upon you",
+        "10": "In Mina and Arafat — peace be upon you",
+        "11": "And we erased our sins — peace be upon you",
+        "12": "By stoning the Jamarat — peace be upon you"
       }
     }
   },
-  "last_updated": "2025-11-21"
+  "last_updated": "2026-07-20"
 }
