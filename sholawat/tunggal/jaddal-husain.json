@@ -1,0 +1,60 @@
+{
+  "source": "https://kitabkuning.id/qasidah-dan-shalawat/jaddal-husain-جَدَّ-الْحُسَيْن/",
+  "author": null,
+  "transmitter": null,
+  "name": "جَدَّ الْحُسَيْن",
+  "latin": "Jaddal Husain",
+  "text": {
+    "1": {
+      "arabic": "جَدَّ الْحُسَيْن يَانُوْرَ الْعَيْن",
+      "latin": "Jaddal-Ḥusayn yā nūral-ʿayn"
+    },
+    "2": {
+      "arabic": "كُنْ لِى شَفِيْعًا يٰا يٰا ضِيَاءَ الْمُقْلَتَيْن",
+      "latin": "Kun lī syafīʿan yā yā ḍhiyāʾl-muqlatayn"
+    },
+    "3": {
+      "arabic": "يَآ إمَامَ الْأَنْبِيَاءِ يَا فَخْرَ الْاَمَاجِدْ",
+      "latin": "Yā ʾimāmal-ʾanbiyāʾ yā fakhral-amājid"
+    },
+    "4": {
+      "arabic": "اِنِّي بِالْأَمَالْ دَاخِلْ حِمَاكْ",
+      "latin": "Innī bil-amāl dākḫil ḥimāk"
+    },
+    "5": {
+      "arabic": "اَرْجُو رِضَاكْ يَا اِمَامَ الْقِبْلَتَيْن",
+      "latin": "Arjū riḍhāk yā ʾimāmal-qiblatayn"
+    },
+    "6": {
+      "arabic": "اَنْتَ اَقَمْتَ الْعَدَالَةْ وَالْقَضِيَّةْ وَاللهُ صَلَّى عَلَيْك",
+      "latin": "Anta aqamtal-ʿadālah wal-qaḍhīyyah wallāhu ṣhallā ʿalaik"
+    }
+  },
+  "translations": {
+    "id": {
+      "name": "Jaddal Husain",
+      "translator": "Kitab Kuning Digital",
+      "text": {
+        "1": "Bersungguh-sungguhlah wahai Husayn, cahaya mata",
+        "2": "Jadilah syafa'atku wahai cahaya kedua mata",
+        "3": "Wahai Imam para nabi, wahai kebanggaan orang-orang mulia",
+        "4": "Sesungguhnya aku dengan harapan-harapan masuk ke dalam perlindunganmu",
+        "5": "Aku berharap keridhaanmu wahai Imam dua kiblat",
+        "6": "Engkau menegakkan keadilan dan kebenaran, dan semoga Allah SWT memberkahi engkau"
+      }
+    },
+    "en": {
+      "name": "The Grandfather of Husayn",
+      "translator": "AI Translation",
+      "text": {
+        "1": "O Grandfather of Husayn, O light of the eyes",
+        "2": "Be an intercessor for me, O light of the two eyes",
+        "3": "O Imam of the Prophets, O pride of the glorious ones",
+        "4": "Indeed, with hopes, I enter your protection",
+        "5": "I seek your pleasure, O Imam of the two Qiblas",
+        "6": "You have established justice and truth, and may Allah bless you"
+      }
+    }
+  },
+  "last_updated": "2026-08-05"
+}
