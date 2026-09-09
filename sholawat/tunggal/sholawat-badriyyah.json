@@ -1,0 +1,84 @@
+{
+    "source": "https://x.com/NU_bersatu/status/794536327119110144",
+    "author": "KH. Ali Manshur Shiddiq",
+    "transmitter": null,
+    "name": "الصَّلَوَاتُ الْبَدْرِيَّةُ",
+    "latin": "Sholawat Badriyyah (Sholawat Badar)",
+    "text": {
+        "1": {
+            "arabic": "صَـلَاةُ اللهِ سَـلَامُ اللهِ ۞ عَلَى طـهَ رَسُـوْلِ اللهِ",
+            "latin": "Shalaatullaah Salaamullaah, 'Alaa Thaaha Rasuulillaah"
+        },
+        "2": {
+            "arabic": "صَـلَاةُ اللهِ سَـلَامُ اللهِ ۞ عَلَى يـس حَبِيْـبِ اللهِ",
+            "latin": "Shalaatullaah Salaamullaah, 'Alaa Yaasiin Habiibillaah"
+        },
+        "3": {
+            "arabic": "تَوَسَّلْنَا بِـبِـسْـمِ اللهِ ۞ وَبِالْهَادِي رَسُـوْلِ اللهِ",
+            "latin": "Tawassalnaa Bibismillaah, Wabil Haadi Rasuulillaah"
+        },
+        "4": {
+            "arabic": "وَكُلِّ مُجَـاهِـدٍ لِلّهِ ۞ بِاَهْـلِ الْبَـدْرِ يَـا اَللهُ",
+            "latin": "Wakulli Mujaahidin Lillaah, Bi Ahlil Badri Yaa Allaah"
+        },
+        "5": {
+            "arabic": "اِلهِـي سَـلِّـمِ الْاُمَّـة ۞ مِنَ الْافَـاتِ وَالنِّـقْمَة",
+            "latin": "Ilaahii Sallimil Ummah, Minal Aafaati Wanniqmah"
+        },
+        "6": {
+            "arabic": "وَمِنْ هَـمٍّ وَمِنْ غُـمَّـةٍ ۞ بِاَهْـلِ الْبَـدْرِ يَـا اَللهُ",
+            "latin": "Wamin Hammin Wamin Ghummah, Bi Ahlil Badri Yaa Allaah"
+        },
+        "7": {
+            "arabic": "اِلهِي نَجِّنَا وَاكْـشِـفْ ۞ جَمِيْعَ اَذِيَّـةٍ وَاصْرِفْ",
+            "latin": "Ilaahii Najjinaa Wakasyif, Jamii'a Adziyyatin Washrif"
+        },
+        "8": {
+            "arabic": "مَكَائِدَ الْعِدَا وَالْطُـفْ ۞ بِاَهْـلِ الْبَـدْرِ يَـا اَللهُ",
+            "latin": "Makaa'idal 'idaa Walthuf, Bi Ahlil Badri Yaa Allaah"
+        },
+        "9": {
+            "arabic": "اِلهِـي نَـفِّـسِ الْـكُـرَبَا ۞ مِنَ الْعَـاصِيْـنَ وَالْعَطَبَا",
+            "latin": "Ilaahii Naffisil Kurabaa, Minal 'Aashiina Wal'athabaa"
+        },
+        "10": {
+            "arabic": "وَكُـلِّ بَـلِـيَّـةٍ وَوَبَا ۞ بِاَهْـلِ الْبَـدْرِ يَـا اَللهُ",
+            "latin": "Wakulli Baliyyatin Wawabaa, Bi Ahlil Badri Yaa Allaah"
+        }
+    },
+    "translations": {
+        "en": {
+            "name": "The Badr Prayer",
+            "translator": "AI Translation",
+            "text": {
+                "1": "Blessings of Allah, peace of Allah, upon Taha (Muhammad), the Messenger of Allah.",
+                "2": "Blessings of Allah, peace of Allah, upon Yasin (Muhammad), the Beloved of Allah.",
+                "3": "We seek intercession through the Name of Allah, and by the Guide, the Messenger of Allah.",
+                "4": "And every striver for the sake of Allah, by the people of Badr, O Allah.",
+                "5": "O my Lord, save the Ummah, from calamities and vengeance.",
+                "6": "And from sorrow and from distress, by the people of Badr, O Allah.",
+                "7": "O my Lord, deliver us and remove, all harm and avert.",
+                "8": "The plots of the enemies, and be gentle, by the people of Badr, O Allah.",
+                "9": "O my Lord, relieve the agonies, from the rebellious and the destruction.",
+                "10": "And every affliction and epidemic, by the people of Badr, O Allah."
+            }
+        },
+        "id": {
+            "name": "Sholawat Badar",
+            "translator": "AI Translation",
+            "text": {
+                "1": "Rahmat Allah dan keselamatan Allah, semoga tercurah kepada Taha, utusan Allah.",
+                "2": "Rahmat Allah dan keselamatan Allah, semoga tercurah kepada Yasin, kekasih Allah.",
+                "3": "Kami bertawassul dengan bismillah, dan dengan sang pemberi petunjuk, utusan Allah.",
+                "4": "Dan setiap orang yang berjuang di jalan Allah, berkat para ahli Badr, ya Allah.",
+                "5": "Ya Tuhanku, selamatkanlah umat, dari bencana dan azab.",
+                "6": "Dan dari kesusahan dan dari kesedihan, berkat para ahli Badr, ya Allah.",
+                "7": "Ya Tuhanku, selamatkanlah kami dan singkapkanlah, semua penderitaan dan singkirkanlah.",
+                "8": "Tipu daya musuh dan berlemah lembutlah, berkat para ahli Badr, ya Allah.",
+                "9": "Ya Tuhanku, hilangkanlah kesusahan-kesusahan, dari orang-orang yang bermaksiat dan kebinasaan.",
+                "10": "Dan dari semua cobaan dan wabah, berkat para ahli Badr, ya Allah."
+            }
+        }
+    },
+    "last_updated": "2026-09-09"
+}
