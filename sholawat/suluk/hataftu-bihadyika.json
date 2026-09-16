@@ -1,0 +1,66 @@
+{
+    "source": "Unknown",
+    "author": null,
+    "transmitter": null,
+    "name": "هَتَفْتُ بِهَدْيِكَ",
+    "latin": "Hataftu Bihadyika",
+    "text": {
+        "1": {
+            "arabic": "هَتَفْتُ بِهَدْيِكَ الْحَانِيْ",
+            "latin": "Hataftu bihadyikal haanii"
+        },
+        "2": {
+            "arabic": "عَلَى الْأَكْوَانِ كَالدَّهْرِ",
+            "latin": "'Alal akwaani kaddahri"
+        },
+        "3": {
+            "arabic": "هَتَفْتُ بِنُوْرِكَ السَّامِيْ",
+            "latin": "Hataftu binuurikas saamii"
+        },
+        "4": {
+            "arabic": "يُنِيْرُ الدَّهْرَ كَالْبَدْرِ",
+            "latin": "Yuniirud dahra kalbadri"
+        },
+        "5": {
+            "arabic": "أَرَحْتُ أَطُوْفُ بَيْنَ الْخَلْقِ أَهْتِفُ بِاسْمِكَ النَّظِرِ",
+            "latin": "Arahtu athuufu bainal khalqi ahtifu bismikan nadhiri"
+        },
+        "6": {
+            "arabic": "وَأُعْلِنُ فِي جُمُوْعِ النَّاسِ",
+            "latin": "Wa u'linu fii jumuu'in naasi"
+        },
+        "7": {
+            "arabic": "أَنَّكَ مَنْبَعُ الْخَيْرِ",
+            "latin": "Annaka manba'ul khairi"
+        }
+    },
+    "translations": {
+        "en": {
+            "name": "I Called Out With Your Guidance",
+            "translator": "Gemini",
+            "text": {
+                "1": "I called out with your gentle guidance,",
+                "2": "Upon the universes for all time,",
+                "3": "I called out with your exalted light,",
+                "4": "Illuminating time like the full moon,",
+                "5": "I went wandering among creation, calling out your radiant name,",
+                "6": "And I declare among the multitudes of people,",
+                "7": "That you are the source of goodness."
+            }
+        },
+        "id": {
+            "name": "Aku Berseru Dengan Petunjukmu",
+            "translator": "Gemini",
+            "text": {
+                "1": "Aku berseru dengan petunjukmu yang lembut,",
+                "2": "Di atas seluruh alam semesta sepanjang masa,",
+                "3": "Aku berseru dengan cahayamu yang agung,",
+                "4": "Menerangi masa bagaikan bulan purnama,",
+                "5": "Aku berkeliling di antara makhluk, menyerukan namamu yang berseri,",
+                "6": "Dan aku umumkan di tengah kerumunan manusia,",
+                "7": "Bahwa engkau adalah sumber kebaikan."
+            }
+        }
+    },
+    "last_updated": "2026-09-16"
+}
