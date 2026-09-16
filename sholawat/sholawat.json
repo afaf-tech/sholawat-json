@@ -172,7 +172,8 @@
                     "suluk-ya-man-idza.json",
                     "bi-dzikri-muhammadin.json",
                     "kana-an-nabiyyu.json",
-                    "kullul-quluub.json"
+                    "kullul-quluub.json",
+                    "hataftu-bihadyika.json"
                 ],
                 "schema": "suluk_v1.1.schema.json"
             }
