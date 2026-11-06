@@ -1,0 +1,96 @@
+{
+    "source": null,
+    "author": null,
+    "transmitter": null,
+    "name": "رَايَةُ الْحُبِّ",
+    "latin": "Rayatul Hubbi",
+    "text": {
+        "1": {
+            "arabic": "رَسُوْلَ اللهِ لَا يُرْضِيْكَ هَذَا الْحَالُ لِلْعُرْبِ",
+            "latin": "Rasūlallāhi lā yurḍīka haḏāl ḥālu lil'urbi"
+        },
+        "2": {
+            "arabic": "وَلَا يُرْضِيْكَ مَا يَبْدُو مِنَ الْإِعْلَامِ فِي الْغَرْبِ",
+            "latin": "Wa lā yurḍīka mā yabdū minal i'lāmi fīl gharbi"
+        },
+        "3": {
+            "arabic": "وَلَكِنْ حَسْبُنَا يُرْضِيْكَ عَوْدَتُنَا إِلَى الدَّرْبِ",
+            "latin": "Wa lakin ḥasbunā yurḍīka 'audatunā ilad darbi"
+        },
+        "4": {
+            "arabic": "بِعَوْدَتِنَا إِلَى الْإِسْلَامِ تَعْلُوْ رَايَةُ الْحُبِّ",
+            "latin": "Bi'audatinā ilal islāmi ta'lū rāyatul ḥubbi"
+        },
+        "5": {
+            "arabic": "مِنَ الْعَزَمَاتِ يَعْمُرُنِيْ شُعُوْرٌ أَنَّنِي السَّبَبُ",
+            "latin": "Minal 'azamāti ya'murunī shu'ūrun annanis sababu"
+        },
+        "6": {
+            "arabic": "فَلَوْ أَنِّي إِلَى الْإِسْلَامِ حَقًّا كُنْتُ أَنْتَسِبُ",
+            "latin": "Falaw annī ilal islāmi ḥaqqan kuntu antasibu"
+        },
+        "7": {
+            "arabic": "لَمَّا قَالَتْ مُحَمَّدَنَا رُسُوْمٌ صَاغَهَا الْكَذِبُ",
+            "latin": "Lammā qālat muḥammadanā rusūmun ṣāghahāl kaḏibu"
+        },
+        "8": {
+            "arabic": "وَلَوْ عَمَّتْ مَحَافِلَنَا دَعَاوَى عَافَهَا الْأَدَبُ",
+            "latin": "Wa law 'ammat maḥāfilanā da'āwā 'āfahāl adabu"
+        },
+        "9": {
+            "arabic": "إِلَى الْإِسْلَامِ يَادُنْيَا لَقَدْ أَعْدَدْتُ أَوْلَادِي",
+            "latin": "Ilal islāmi yā dunyā laqad a'dadtu aulādī"
+        },
+        "10": {
+            "arabic": "لَئِنْ قَصَّرْتُ فِي دِيْنِي فَقَدْ هَيَّأْتُ لِلْهَادِي",
+            "latin": "La'in qaṣṣartu fī dīnī faqad hayya'tu lilhādī"
+        },
+        "11": {
+            "arabic": "شَبَابًا أُوْلِعُوْا حُبًّا بِهِ إِذْ نُوْرُهُمْ بَادِي",
+            "latin": "Shabāban ūli'ū ḥubban bihi iḏ nūruhum bādī"
+        },
+        "12": {
+            "arabic": "لِكُلِّ النَّاسِ مُذْ صَاغُوْا مِنَ الْقُرْآنِ أَحْفَادِي",
+            "latin": "Likullin nāsi muḏ ṣāghū minal qur'āni aḥfādī"
+        }
+    },
+    "translations": {
+        "en": {
+            "name": "The Banner of Love",
+            "translator": "Gemini.Pro",
+            "text": {
+                "1": "O Messenger of Allah, this condition of the Arabs does not please you,",
+                "2": "Nor does what appears from the media in the West please you,",
+                "3": "But it is enough for us that our return to the path pleases you,",
+                "4": "With our return to Islam, the banner of love will rise.",
+                "5": "From the determinations, a feeling fills me that I am the cause,",
+                "6": "For if I truly belonged to Islam,",
+                "7": "When drawings forged by lies spoke of our Muhammad,",
+                "8": "And claims rejected by good manners would not have pervaded our gatherings.",
+                "9": "For Islam, O world, I have prepared my children,",
+                "10": "If I have fallen short in my religion, I have prepared for the Guide,",
+                "11": "Youths deeply enamored with love for him, as their light is apparent,",
+                "12": "To all people, since my descendants were shaped by the Quran."
+            }
+        },
+        "id": {
+            "name": "Panji Cinta",
+            "translator": "Gemini.Pro",
+            "text": {
+                "1": "Wahai Utusan Allah, keadaan orang-orang Arab ini tidak menyenangkanmu,",
+                "2": "Dan apa yang tampak dari media di Barat juga tidak menyenangkanmu,",
+                "3": "Namun cukuplah bagi kami bahwa kembalinya kami ke jalan ini menyenangkanmu,",
+                "4": "Dengan kembalinya kami kepada Islam, panji cinta akan meninggi.",
+                "5": "Dari segala tekad, sebuah perasaan memenuhi diriku bahwa akulah penyebabnya,",
+                "6": "Karena seandainya aku benar-benar bagian dari Islam,",
+                "7": "Ketika gambar-gambar yang dibuat oleh kebohongan berbicara tentang Muhammad kami,",
+                "8": "Dan klaim-klaim yang ditolak oleh adab tidak akan menyebar di perkumpulan kami.",
+                "9": "Untuk Islam, wahai dunia, sungguh aku telah mempersiapkan anak-anakku,",
+                "10": "Jika aku kurang dalam agamaku, maka aku telah bersiap untuk Sang Pemberi Petunjuk,",
+                "11": "Para pemuda yang sangat mencintainya, karena cahaya mereka tampak,",
+                "12": "Bagi semua manusia, sejak keturunanku dibentuk dari Al-Qur'an."
+            }
+        }
+    },
+    "last_updated": "2026-11-06"
+}

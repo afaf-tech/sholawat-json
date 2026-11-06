@@ -1,0 +1,56 @@
+{
+    "source": "nu-online-jabar",
+    "name": "حَيُّو الْهَادِي",
+    "latin": "Hayyul Hadi",
+    "text": {
+        "1": {
+            "arabic": "حيوا الهادی بأجمل ذکری * صلوا معانا ياحضار",
+            "latin": "Hayyûl hâdî bi ajmal dzikrô, Shollû ma’ânâ yâ hudldlôr"
+        },
+        "2": {
+            "arabic": "فهو عمادی يوم المعاد * نبينا طه المختار",
+            "latin": "Fahuwa ‘imâdî yawmal ma’âdi, Nabiyyunâ Thôhal mukhtâr"
+        },
+        "3": {
+            "arabic": "هذا الذی سری ليلا * ثم دنا فتدلی",
+            "latin": "Hâdzâl-ladzî sarô laylân, Tsumma danâ fatadallâ"
+        },
+        "4": {
+            "arabic": "فهو عمادی يوم المعاد * نبينا طه المختار",
+            "latin": "Fahuwa ‘imâdî yawmal ma’âdi, Nabiyyunâ Thôhal mukhtâr"
+        },
+        "5": {
+            "arabic": "عَلَى الْعَـرْشِ رَقَّى الْجَمِيْلْ ، وَكَلَّمَهُ الْمَوْلَى الْجَلِيْلْ",
+            "latin": "‘Alâl ‘arsyi roqôl jamîl, wa kallamahu maulal jaliil"
+        },
+        "6": {
+            "arabic": "فهو عمادی يوم المعاد * نبينا طه المختار",
+            "latin": "Fahuwa ‘imâdî yawmal ma’âdi, Nabiyyunâ Thôhal mukhtâr"
+        },
+        "7": {
+            "arabic": "حيوا الهادی بأجمل ذکری * صلوا معانا ياحضار",
+            "latin": "Hayyûl hâdî bi ajmal dzikrô, Shollû ma’ânâ yâ hudldlôr"
+        },
+        "8": {
+            "arabic": "فهو عمادی يوم المعاد * نبينا طه المختار",
+            "latin": "Fahuwa ‘imâdî yawmal ma’âdi, Nabiyyunâ Thôhal mukhtâr"
+        }
+    },
+    "translations": {
+        "id": {
+            "name": "Penghormatan kepada Sang Pemberi Petunjuk dengan Sebaik-baik Dzikir",
+            "translator": "NU Online Jabar",
+            "text": {
+                "1": "Berilah penghormatan kepada al-Haadi (sayyidina Muhammad Saw) dengan sebaik-baik ungkapan. Mari bersholawat bersama kami wahai hadirin",
+                "2": "Dialah sandaranku pada hari kembali (kiamat). Yaitu Nabi kami sayyidina Toha al-mukhtaar (yang terpilih)",
+                "3": "Yang berjalan (isra) pada suatu malam, Kemudian beliau mendekat",
+                "4": "Dialah sandaranku pada hari kembali (kiamat). Yaitu Nabi kami sayyidina Toha al-mukhtaar (yang terpilih)",
+                "5": "Nabi kita yang elok rupawan menaiki Arsnya Allah, Dan Alloh Maha Mulia mengajaknya bicara",
+                "6": "Dialah sandaranku pada hari kembali (kiamat). Yaitu Nabi kami sayyidina Toha al-mukhtaar (yang terpilih)",
+                "7": "Berilah penghormatan kepada al-Haadi (sayyidina Muhammad Saw) dengan sebaik-baik ungkapan. Mari bersholawat bersama kami wahai hadirin",
+                "8": "Dialah sandaranku pada hari kembali (kiamat). Yaitu Nabi kami sayyidina Toha al-mukhtaar (yang terpilih)"
+            }
+        }
+    },
+    "last_updated": "2026-11-06"
+}
